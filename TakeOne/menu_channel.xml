@@ -2,8 +2,8 @@
 <channels>
 <channel>
 <name>[B]    ==== NEO TV ====   [/B]</name>
-<thumbnail>https://ia601507.us.archive.org/4/items/two-addons-bm-vindos/two%20addons%20BM%20VINDOS.jpg</thumbnail>
-<fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
+<thumbnail>https://i.postimg.cc/L86Xt3Zc/21-Vuj-N9n-GL.jpg</thumbnail>
+<fanart>https://i.postimg.cc/SKHxp0t4/fanart.jpg</fanart>
 <info>[COLOR blue]* [COLOR blue] Bem vindo ao addon NEO TV. [/COLOR]</info>
 <externallink>https://0.0.0</externallink>
 </channel>
@@ -12,7 +12,7 @@
   <channel>
 <name>[B][COLOR lime]NEO TV[/COLOR] - [COLOR white] TV AO VIVO  [/COLOR][/B]</name>
 <thumbnail>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</thumbnail>
-<fanart>https://ia600505.us.archive.org/15/items/screenshot-20230413-154347-whats-app-business/Screenshot_20230413-154347_WhatsAppBusiness.jpg</fanart>
+<fanart>https://i.postimg.cc/SKHxp0t4/fanart.jpg</fanart>
 <info>[COLOR blue]*[COLOR [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Canais.xml</externallink>
 </channel>
@@ -20,7 +20,7 @@
 <channel>
 <name>[B][COLOR lime]NEO TV[/COLOR] - [COLOR white]FILMES [/COLOR][/B]</name>
 <thumbnail>https://ia601501.us.archive.org/9/items/two-addons-filmes/two%20addonsFILMES.jpg</thumbnail>
-<fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
+<fanart>https://i.postimg.cc/SKHxp0t4/fanart.jpg</fanart>
 <info>[COLOR blue]*[COLOR blue]FILMES LANÇAMENTOS E MT MAIS [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/twoaddons/twoaddons/main/filmes.xml</externallink>
 </channel>
@@ -28,7 +28,7 @@
 <channel>
 <name>[B][COLOR lime]NEO TV[/COLOR] - [COLOR white] SÉRIES [/COLOR][/B]</name>
 <thumbnail>https://ia601402.us.archive.org/12/items/two-addons-series/two%20addons%20SERIES.jpg</thumbnail>
-<fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
+<fanart>https://i.postimg.cc/SKHxp0t4/fanart.jpg</fanart>
 <info>[COLOR blue]*[COLOR blue]Bem vindo ao addon TWOADDONS BR [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/twoaddons/twoaddons/main/series.xml</externallink>
 </channel>
@@ -37,7 +37,7 @@
 <channel>
 <name>[B][COLOR lime]NEO TV[/COLOR] - [COLOR white] PEDIDOS DE FILMES E SÉRIES  [/COLOR][/B]</name>
 <thumbnail>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</thumbnail>
-<fanart>https://cohabld.londrina.pr.gov.br/images/Imagem_do_WhatsApp_de_2023-02-24_%C3%A0s_11.08.46.jpg</fanart>
+<fanart>https://i.postimg.cc/SKHxp0t4/fanart.jpg</fanart>
 <info>[COLOR blue]*[COLOR white] VARIADAS [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/twoaddons/REPO-TWO-ADDON/main/PEDIDOS.xml</externallink>
 </channel>
