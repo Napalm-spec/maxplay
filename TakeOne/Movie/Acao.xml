@@ -20,6 +20,13 @@
     <genre>Ação | Suspense</genre>
 </item>
 
-
+<item>
+    <title>A Confissão</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1d9f5652c925177840fc575a4f862d30135424f0</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//ukz0YDElcpxC2O6678vw49zRJzl.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//7lzr8z6xMVwmlv7LFMbhbB1Pi2q.jpg</fanart>
+    <info>Um homem baleado invade uma igreja e faz o padre de refém. Com uma arma apontada para sua cabeça, o padre é obrigado a ouvir a confissão do invasor e se lembrar de um passado que ele acreditava ter esquecido.</info>
+    <genre>Ação | Suspense</genre>
+</item>
 
 </items>
