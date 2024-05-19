@@ -21,4 +21,38 @@
     <genre>Animação | Aventura | Comédia | Família</genre>
 </item>
 
+<item>
+    <title>Kung Fu Panda 4</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:01d9a5c0e38709e8c56e6e6c30b0c25cbdd118df</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//aNK6MA5EApIo0UJE7ZWSYcZBJKy.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//kYgQzzjNis5jJalYtIHgrom0gOx.jpg</fanart>
+    <info>Po está prestes a se tornar o novo líder espiritual do Vale da Paz, mas antes que possa fazer isso, ele deve encontrar um sucessor para se tornar o novo Dragão Guerreiro.  Ele parece encontrar uma em Zhen, uma raposa com muitas habilidades promissoras, mas que não gosta muito da ideia de Po treiná-la.</info>
+    <genre>Animação | Ação | Aventura</genre>
+</item>
+<item>
+    <title>Pica-Pau: As Férias no Acampamento</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62f8300b28f57b3a6c9af20ae7635de35f09270e</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//dtZcntP9YCOi04iga6tR6UnZqAO.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//cIztAxDn3H8JylRaJwiHHpkGe53.jpg</fanart>
+    <info>Após ser expulso da floresta, o Pica-Pau acha que encontrou seu novo lar no Acampamento Woo Hoo. Até que um inspetor ameaça fechar tudo!</info>
+    <genre>Animação | Família | Comédia</genre>
+</item>
+<item>
+    <title>Metalocalypse: Army of the Doomstar</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b56fc755ce52007539e40a322d6fd829a45362f</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//fGc9HKeGKebC1RD7WPt0NYDONTo.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//qIZ0MS67mJPvEXFgUymBJiU22mc.jpg</fanart>
+    <info>Após o heroico resgate de Toki Wartooth, o líder da DETHKLOK, Nathan Explosion, sofre um trauma brutal no trabalho e no amor enquanto é encarregado de cumprir uma profecia e enfrentar o maior desafio de composição de todos: escrever a CANÇÃO DA SALVAÇÃO e salvar o planeta. Será que Nathan Explosion conseguirá superar seu ego extremamente machucado para salvar sua banda, impedir o Metalocalipse e finalmente enfrentar o mal supremo: Salacia?</info>
+    <genre>Animação | Ação | Comédia</genre>
+</item>
+<item>
+    <title>Perlimps</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4cab7eedb7104c4d650e00ea2d0895b38c7866cc</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//x0bOWJeJhnIqch1OrhEQPEaZXcy.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//cLvqmozY9pJX46rVDQWjhUndGed.jpg</fanart>
+    <info>A jornada de aventura e fantasia de Claé e Bruô, agente-secretos de reinos rivais. Eles precisam superar suas diferenças e unir forças para encontrar os Perlimps, criaturas misteriosas capazes de encontrar um caminho para a paz em tempos de guerra.</info>
+    <genre>Animação | Aventura | Família</genre>
+</item>
+
+    
 </items>
