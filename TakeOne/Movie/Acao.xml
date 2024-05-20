@@ -2,6 +2,15 @@
 <items>
 
 
+
+<item>
+    <title>Colateral</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cdbcaeaf7a48af25a9e13dadef2a2af77983e060&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//fbtkwCWA0hk2zTZLuj6Jf99yvVE.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//rSRA1p4e3laAAJflzdgtqNlx27Y.jpg</fanart>
+    <info>Russell Hatch é um ex-agente da Interpol que prometeu proteger o filho de um informante morto anos antes em uma operação que deu errado. Quando gangues de rua impiedosas iniciam uma guerra territorial e o garoto é pego no fogo cruzado, Hatch não vai parar até mantê-lo seguro e lutar contra qualquer um que estiver em seu caminho.</info>
+    <genre>Ação | Suspense</genre>
+</item>    
 <item>
     <title>Ghostbusters: Apocalipse de Gelo</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b84ed94d2f78e6ed7206a166fc7c5ebd93d1ec40&dn</link>
