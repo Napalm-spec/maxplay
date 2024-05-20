@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Jogo Bonito</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b53c788d7c9aca849662a64ff1e3fdedcbeca772&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//lYR7Ob8qmtwxjNzrfGaPNjvbIln.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//1tDMeyxEMa2zNMWL8BXvXydKxTX.jpg</fanart>
+    <info>A caminho de Roma para a Copa do Mundo dos Sem-Teto, um jogador talentoso de um time de futebol inglês precisa deixar o passado de lado e aprender a trabalhar em equipe.</info>
+    <genre>Drama | Esporte</genre>
+</item>
 <item>
     <title>Descanse em Paz</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f2873d0159f664410f0c113550a72e5b6c191f48&dn</link>
