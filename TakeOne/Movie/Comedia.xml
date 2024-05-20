@@ -1,6 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+<item>
+    <title>Todos Menos Você</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:869956a25fbd6e064ddd4710b04eec98f7359dc8</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//tPx1HEiS5zd9mLvtb52YY66dkEO.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//j9eOeLlTGoHoM8BNUJVNyWmIvCi.jpg</fanart>
+    <info>Bea e Ben parecem o casal perfeito, mas depois de um primeiro encontro incrível, algo acontece que transforma sua atração ardente em gelo - até que eles se encontram inesperadamente juntos em um casamento na Austrália.  Então eles fazem o que dois adultos maduros fariam: fingem ser um casal.</info>
+    <genre>Comédia | Romance</genre>
+</item>
+<item>
+    <title>Assassinato de Elite</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d84bd07ff67bf0c1a14bdeddf0655ecdba9f07ed</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//wmFJKTkwNBEcz5R099ELCVLfFKb.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//y1VDwUT1cZNOOgrCHHwnsIdUhWe.jpg</fanart>
+    <info>Ao investigar o assassinato de um professor de ginástica em um clube de elite em Nova Deli, um detetive descobre os segredos sórdidos dos sócios ricaços.</info>
+    <genre>Comédia | Crime | Suspense</genre>
+</item>
+<item>
+    <title>Pedido Irlandês</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd11d89c7db5d1fb81f60cd0c8369beddefbf9c8</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//qmTxQvHnsLpiZQiIZu2hsmZSqR8.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//qz2QzkYzesbbL94rdUpZrFPhlRe.jpg</fanart>
+    <info>O homem dos sonhos de Maddie e a melhor amiga dela estão prestes a se casar. Mas tudo muda magicamente quando ela deseja o amor verdadeiro a uma antiga pedra na Irlanda.</info>
+    <genre>Comédia | Drama</genre>
+</item>    
 <item>
     <title>Diário da Minha Vagina</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d31e89e848454e540ccb623c745c9784fb221127</link>
