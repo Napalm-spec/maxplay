@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>One More Shot</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a1489d21acdbd800e61e964a559554b31ed066b4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//jhQRrJSZv7OtMfn5kxeedeISgh9.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/None</fanart>
+    <info>Sit down with Basketball Player and Coach, Jack Fairey, as he explains his experience with his beloved sport.</info>
+    <genre>Ação | Suspense</genre>
+</item>
 
 <item>
     <title>Escalada Sem Limites</title>
