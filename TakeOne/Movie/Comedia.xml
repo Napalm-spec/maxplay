@@ -2,7 +2,14 @@
 <items>
 
 
-
+<item>
+    <title>A Mãe da Noiva</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:396ecdc4c61f446bdda8b60399413e77ffbf449b&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//6gnzZDWfxizydSnjjRX36pW88nw.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//m0XCtFisSD0O6P55G1pUHdFccuL.jpg</fanart>
+    <info>Uma mãe amorosa vai a um resort tropical para o casamento da filha e descobre que o pai do noivo é o ex que ela não via há décadas.</info>
+    <genre>Comédia | Drama | Romance</genre>
+</item>
 <item>
     <title>O Que Me Traz Até Você</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d6fc297e0695b471bb589d99613a87f12602dfb6&dn</link>
