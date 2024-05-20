@@ -2,7 +2,22 @@
 <items>
 
 
-
+<item>
+    <title>Ghostbusters: Apocalipse de Gelo</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b84ed94d2f78e6ed7206a166fc7c5ebd93d1ec40&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//boObGdocQS07Nu7IrettgA5oRTp.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//wODqakS0jinTUECNS6n4VomQbew.jpg</fanart>
+    <info>Nesta sequência da franquia Ghostbusters, a família Spengler retorna para onde tudo começou: a famosa estação de bombeiros em Nova York. Eles pretendem se unir com os caça-fantasmas originais que desenvolveram um laboratório ultra secreto de pesquisa para levar a caça aos fantasmas a outro nível, mas quando a descoberta de um artefato antigo libera uma grande força do mal, os Ghostbusters das duas gerações precisam juntar as forças para proteger suas casas e salvar o mundo de uma segunda Era do Gelo.</info>
+    <genre>Ação | Aventura | Comédia</genre>
+</item>
+<item>
+    <title>Jade: Guerreira Solitária</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fb33c0fb935256ebff3ef7e34ef472cc063841f0&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//hTjVhegRP6fruQHWuC0sL9zsqQz.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//xThuEoirx0vXismkVbnMQqkMkHK.jpg</fanart>
+    <info>Jade terá que enfrentar seu passado quando, sem querer, se vê responsável por proteger um HD com segredos da Interpol. Sua habilidades extraordinárias de luta serão colocadas à prova por uma gangue que ameaça o futuro de sua família.</info>
+    <genre>Ação | Suspense</genre>
+</item>
 <item>
     <title>Sayen: A Caçadora</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3fc112e8af0f04f5dbdaf4ea556cf9c0c32387ca&dn</link>
