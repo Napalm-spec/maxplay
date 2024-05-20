@@ -2,7 +2,14 @@
 <items>
 
 
-
+<item>
+    <title>Shayda</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bc49b64dfcf58980abd97b10f1014eeb14abe8f8&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//71uGrqjqI4uyN2M9VpoOVqOoukC.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//mx3YyWpm7lTUxGQcHQC42s3xuVJ.jpg</fanart>
+    <info>Uma jovem mãe iraniana e a sua filha de seis anos encontram refúgio num abrigo para mulheres na Austrália durante as duas semanas do Nowruz, o Ano Novo iraniano.</info>
+    <genre>Drama</genre>
+</item>
 <item>
     <title>Tartarugas Até Lá Embaixo</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e695b0b54d5d1f4835b0f439943d0b88cab83bd8&dn</link>
