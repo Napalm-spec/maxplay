@@ -2,7 +2,14 @@
 <items>
 
 
-
+<item>
+    <title>Instinto Materno</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f323cda7759edc2f8a0bb60a0bf2065534662a3</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//1tIPZI7UP2Zg5ThqJU3Pvl0W0az.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//2ak94bJfXxHR5vBxwrpkycwOKv3.jpg</fanart>
+    <info>As donas de casa Alice e Celine são melhores amigas e vizinhas que parecem ter tudo. No entanto, quando um trágico acidente destrói a harmonia de suas vidas, a culpa, a suspeita e a paranoia começam a desfazer seu vínculo.</info>
+    <genre>Drama | Suspense</genre>
+</item>
 <item>
     <title>O Guardião das Borboletas</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4b03530ea14308b8df42e0f63a4e3a9d5f2c7abd</link>
