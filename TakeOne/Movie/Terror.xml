@@ -2,7 +2,14 @@
 <items>
 
 
-
+<item>
+    <title>Imaginário: Brinquedo Diabólico</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d428017780dad3e1ec3baf4474b4f40637e15258&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//cWmBAbqUIgn2Ysy513rqSYE0fYk.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//TGsfNWkASegCfAn6ED1b08a9O6.jpg</fanart>
+    <info>Uma mulher retorna com a família para a casa em que cresceu. Sua filha mais jovem logo fica apegada a um ursinho de pelúcia que ela encontra no porão. Apesar da interação parecer divertida, a situação não demora para se tornar sinistra.</info>
+    <genre>Terror | Mistério | Suspense</genre>
+</item>
 <item>
     <title>O Senhor do Caos</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b4e5b4f671fd5c07771da210ef1f7579371cada</link>
