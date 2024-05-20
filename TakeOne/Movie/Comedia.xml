@@ -2,6 +2,41 @@
 <items>
 
 
+
+
+    
+<item>
+    <title>Fazendo Meu Filme</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:49e0ffc4f130b83017674868fcd037b3ac84fcb7</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//x57IrM7mxk8iAmvDYWUqhZCkEFm.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//vWyXzPHbIwWFO8cE5xVpgoDRPwn.jpg</fanart>
+    <info>Tudo muda na vida de Estefânia (ou melhor, Fani!) quando ela é aprovada em 1º lugar para um intercâmbio internacional. Agora ela precisa decidir se fica no Brasil e continua com sua rotina ou se aventura em outro país e fica longe do seu crush Léo.</info>
+    <genre>Comédia | Romance</genre>
+</item>
+<item>
+    <title>Me Mate, Querido</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0bfb8168ab89722758c579fa4424029190e81a8f</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//2bHicVzkma4q022cxQeNq2zTwbo.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//wQotaner8FU5SBnYvyFJADPGlzS.jpg</fanart>
+    <info>Sorte ou azar? Um bilhete de loteria premiado abala a relação de um casal, que planeja eliminar um ao outro para ficar com o dinheiro.</info>
+    <genre>Comédia | Romance</genre>
+</item>
+<item>
+    <title>Jogos de Amor</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:82b1b969d1d2541d94336204059bd1c40132ff39</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//r43jx9Km2ONGa8sFuzXFWM3iDhp.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//4XgQ3Uxu2XbZbs2dZ2TQu6Uju3s.jpg</fanart>
+    <info>Uma jornalista esportiva cheia de estratégias de sedução acaba se apaixonando por um de seus alvos. Será que agora ela vai levar o jogo do amor a sério?</info>
+    <genre>Comédia | Romance</genre>
+</item>
+<item>
+    <title>Amor em Soweto</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4f6b9d2b7abea3025caff014fcaf50a1dc77d23e</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//1XYiQqxCPzYTomOUg0otKYKAo8b.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//2T2NU30YsXwk0Ir4Vi0IDTaGYGC.jpg</fanart>
+    <info>Para conseguir que seus três filhos se casem logo, uma mãe promete a própria casa para quem for o primeiro da fila, dando início a uma corrida rumo ao altar.</info>
+    <genre>Comédia | Romance</genre>
+</item>
 <item>
     <title>Agência do Amor</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4f6b9d2b7abea3025caff014fcaf50a1dc77d23e</link>
