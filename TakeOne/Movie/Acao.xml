@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+<item>
+    <title>O Jogo do Disfarce</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ce281bc95cbabd8c2456bda4256d82959b992da7</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//d9O2dIxU1X8Qc8s8kf9RFiiDMMB.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//yl2GfeCaPoxChcGyM5p7vYp1CKS.jpg</fanart>
+    <info>Emma e Dave apimentam seu aniversário de casamento com uma noite disfarçados em Nova York. Mas as coisas se tornam perigosas quando a vida secreta de Emma como assassina de aluguel, que Dave desconhece, é exposta por Bob, colocando sua família em risco. Emma terá que contar com suas habilidades letais e determinação para proteger a família a todo custo.</info>
+    <genre>Ação | Crime | Romance</genre>
+</item>
+<item>
+    <title>Lift: Roubo nas Alturas</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:827dd228f27158f30916b5e288692de4c934e390</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//ca74jjIYRVDdsnlWk8JzyVY49dE.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//rz8GGX5Id2hCW1KzAIY4xwbQw1w.jpg</fanart>
+    <info>Um ladrão profissional e sua equipe tentam fazer um grande assalto: roubar 500 milhões de dólares em barras de ouro de um avião a 40 mil pés de altitude.</info>
+    <genre>Ação | Crime | Comédia</genre>
+</item>
+<item>
+    <title>60 Minutos</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e1801375f7b391230fbcd021c1301e16d81a5143</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//n5wjsuYh954HLagCnqrLpPT8xi7.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//adNMDatnEnIEo4LUo1KyhouP6VA.jpg</fanart>
+    <info>Desesperado para não perder a guarda da filha, um lutador de MMA abandona uma luta importante e corre por Berlim para chegar à festa de aniversário da menina.</info>
+    <genre>Ação | Drama</genre>
+</item>
+    
 <item>
     <title>One More Shot</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a1489d21acdbd800e61e964a559554b31ed066b4</link>
