@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Shaitaan</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bf061ed75d528bf219a9f590decebb0229ba8378&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//nCK46DFCOMInVfSLraWDEOhMciE.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//bsG7mUCLL66lP3rq70lkKtivewz.jpg</fanart>
+    <info>Uma história atemporal de batalha entre o bem e o mal, com uma família que personifica as forças da justiça, enquanto um homem simboliza a malevolência.</info>
+    <genre>Terror | Suspense</genre>
+</item>
 <item>
     <title>Possessões</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0da989b01165dd8d8b712818d1a4c02f473083d6&dn</link>
