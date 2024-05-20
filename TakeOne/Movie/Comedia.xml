@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+<item>
+    <title>Ricky Stanicky</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2d63e6afd0db45642810b8505cbb3756e6a60bc0</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//8Y7jmf24lH9Ha1iMtqvVq5SzgXt.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//wfdHCilp8cNPK7tK4jLgdUT7703.jpg</fanart>
+    <info>Três amigos de infância pregam uma peça que dá errado e inventam o imaginário Ricky Stanicky para não serem pegos! Vinte anos depois, eles ainda usam o inexistente Ricky como um álibi para seus comportamentos imaturos. Quando as famílias desconfiam e pedem para conhecer o famoso senhor Stanicky, o trio culpado decide contratar um ator decadente que imita celebridades para dar vida ao personagem.</info>
+    <genre>Comédia</genre>
+</item>    
 <item>
     <title>Pobres Criaturas</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cb7cde6629b06392f3ee63f0226d9a3707803470</link>
