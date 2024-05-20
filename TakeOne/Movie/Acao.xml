@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>O Retorno dos Thundermans</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fe9c307c86fde687feb7a9e3f8cb9699a663e7bb</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//wEquopFw43QCKsBp1fpIabmGlYc.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//6SLyu9ygASsrOqkCpjAwtyG9PWW.jpg</fanart>
+    <info>Os Thundermans estão de volta, mas tiveram que retornar a Hiddenville depois que um acidente os tira de seus cargos no combate ao crime.</info>
+    <genre>Ação | Ficção | Comédia</genre>
+</item>
 <item>
     <title>Madame Teia</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bdd5f9aee4dcb7ed92bc4bc234e8b4c2e28ce0f6</link>
