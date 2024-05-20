@@ -2,6 +2,14 @@
 <items>
 
 
+ <item>
+    <title>Alma de Caçador</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7929cbefb0caf44c20140f1f10e7034e1bddb032&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//vFcKla48r8OUTKiSMXnSwKNSTsn.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//wUp0bUXaveR40ikBhDgWwNTijuD.jpg</fanart>
+    <info>Um assassino aposentado volta à ativa quando descobre uma conspiração perigosa dentro do governo sul-africano.</info>
+    <genre>Ação | Suspense</genre>
+</item>   
 <item>
     <title>Matador de Aluguel</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ce792730279c594c6a3a7c7640c6b3bae9291e4d&dn</link>
