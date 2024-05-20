@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+
+<item>
+    <title>Agente X: A Última Missão</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:477b4b3fd806dcb5ec7f87ededfcf3bb12280159&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//aXbHAgNxlb8KfWDbpj1O4TNatkH.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//fJUgT4F6z3ED1K1mGAxnAKk43SB.jpg</fanart>
+    <info>Em The Bricklayer, alguém está chantageando a CIA - assassinando jornalistas estrangeiros e fazendo parecer que a agência é a responsável. À medida que o mundo começa a se unir contra os EUA, a CIA deve atrair seu agente mais brilhante - e rebelde - para fora da aposentadoria, forçando-o a confrontar seu passado duvidoso enquanto desvenda uma conspiração internacional.</info>
+    <genre>Ação | Suspense</genre>
+</item>    
 <item>
     <title>O Salário do Medo</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d9f7de36e3ac6ad28ede5c2668c9838c445fac6&dn</link>
