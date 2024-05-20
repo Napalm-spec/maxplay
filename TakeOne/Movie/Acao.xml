@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Em Ruínas</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:64c9dafdce4135d2c249a14040ec05e9277be551</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//vT3xahepzP796ei0NiZIZ6t8vsl.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//pWsD91G2R1Da3AKM3ymr3UoIfRb.jpg</fanart>
+    <info>Após um terremoto transformar Seul em uma terra sem lei, um caçador decide resgatar uma adolescente sequestrada por um médico insano.</info>
+    <genre>Ação | Aventura | Ficção-Científica</genre>
+</item>
 <item>
     <title>O Jogo do Disfarce</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ce281bc95cbabd8c2456bda4256d82959b992da7</link>
