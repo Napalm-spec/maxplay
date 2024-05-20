@@ -2,7 +2,22 @@
 <items>
 
 
-
+<item>
+    <title>Zona de Risco</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae8c71b9b13e700296518cf27f14197ff25fb3b4&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//cCRAMT530bTcZ4xs6E6pTUoAalE.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//oBIQDKcqNxKckjugtmzpIIOgoc4.jpg</fanart>
+    <info>Uma missão das forças especiais vira um grande desastre e, cercados pelo inimigo em um território remoto nas Filipinas, a única chance de resgate está nas mãos de Reaper (Russel Crowe), um piloto de drone, e Kinney (Liam Hemsworth), um jovem oficial da aeronáutica. Eles têm 48 horas para resgatar os soldados antes que vire um banho de sangue.</info>
+    <genre>Ação | Suspense | Guerra</genre>
+</item>
+<item>
+    <title>Duna: Parte Dois</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2d5ff0915bd4bc99d4b957ddd86b78c021677089&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//e8pI4XkYgUMuSJ8cEFbJE18wc4e.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//xOMo8BRK7PfcJv9JCnx7s5hj0PX.jpg</fanart>
+    <info>A jornada de Paul Atreides continua. Ele está determinado a buscar vingança contra aqueles que destruíram sua família e seu lar. Com a ajuda de Chani e dos Fremen, ele embarca em uma jornada espiritual, mística e marcial. Se torna Muad'Dib, o líder messiânico dos Fremen, enquanto luta para evitar um futuro sombrio que ele testemunhou em visões. No entanto, suas ações inadvertidamente desencadeiam uma Guerra Santa em seu nome, que se espalha pelo universo conhecido. Enquanto enfrenta escolhas difíceis entre o amor por Chani e o destino de seu povo, Paul precisa usar suas habilidades e conhecimentos para evitar o terrível futuro que previu.</info>
+    <genre>Ação | Aventura | Ficção</genre>
+</item>
 <item>
     <title>Agente X: A Última Missão</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:477b4b3fd806dcb5ec7f87ededfcf3bb12280159&dn</link>
