@@ -2,7 +2,14 @@
 <items>
 
 
-
+<item>
+    <title>Estritamente Confidencial</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0c163b397b5b1cd591c7356d876b61912edaf114&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//hyGrwPQNKcfkxKWp9ChO1YCgR6y.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//1Zje8rct7lTDDXCuLJlRAEetHmk.jpg</fanart>
+    <info>No aniversário da morte de Rebecca, Mia retorna ao paraíso caribenho onde ela e sua melhor amiga compartilharam seus últimos dias. À medida que Mia se propõe a desvendar os misteriosos acontecimentos da sua morte, velhas paixões surgem, novos segredos são descobertos e Mia é puxada para um mundo sedutor de sexo, traição e assassinato.</info>
+    <genre>Comédia | Mistério</genre>
+</item>
 <item>
     <title>O Reencontro da Turma</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7bfafa0744607ec9d2075fc46b94055d0adc9705&dn</link>
