@@ -2,7 +2,22 @@
 <items>
 
 
-
+<item>
+    <title>Wanted Man: Marcado Para Morrer</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:475eec6fea646b6ad23851239af13d3bd451c271&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//6zgG1eNiQ4DrbYDIgEwNmDYRdrg.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//ahYDVW0ReOTKI6sbI6du9SoXdX9.jpg</fanart>
+    <info>Um policial precisa resgatar uma testemunha e escoltá-la depois que um tiroteio deixa vários agentes da DEA mortos, mas precisa decidir em quem confiar quando descobre que o ataque foi executado pelas forças dos EUA.</info>
+    <genre>Ação | Suspense</genre>
+</item>
+<item>
+    <title>Garotas em Fuga</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:616608398f0ed28c094db99a192a8691919755f8&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//kWJXbCDnbZ3dptB1jibZBraqmRL.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//zVMdsmRUH2U1bZSYr8GLZkfs3mi.jpg</fanart>
+    <info>Jamie, um espírito livre desinibido lamentando mais um término com uma namorada, e sua amiga recatada Marian precisam desesperadamente se soltar. Em busca de um novo começo, os dois embarcam em uma viagem improvisada para Tallahassee, mas as coisas rapidamente dão errado quando eles se cruzam com um grupo de criminosos ineptos ao longo do caminho.</info>
+    <genre>Ação | Comédia | Suspense</genre>
+</item>
 <item>
     <title>Colateral</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cdbcaeaf7a48af25a9e13dadef2a2af77983e060&dn</link>
