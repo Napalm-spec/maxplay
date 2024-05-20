@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+
+<item>
+    <title>O Homem dos Sonhos</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RMDCSEHW7WW2XKYIBFOB2MNFHX3DNQQ7&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//pI6bCgmnvodCSUNfYMDg4QWiJmK.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//okXIAgFc2U6jf4uZrivhwEu7vbW.jpg</fanart>
+    <info>O infeliz homem de família Paul Matthews vê sua vida virada de cabeça para baixo quando milhões de estranhos de repente começam a vê-lo em seus sonhos.  Mas quando suas aparições noturnas tomam um rumo de pesadelo, Paul é forçado a navegar em seu novo estrelato.</info>
+    <genre>Comédia | Fantasia | Terror</genre>
+</item>
+<item>
+    <title>Close</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LNEVV5LJ63MY4NAGQMBA4Z4H6ZM7GR76&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//69XVEdWiZabElUsuvyPla74Re3P.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/None</fanart>
+    <info>Jost roams through the streets of Berlin. He opposes the world enraged, aggressively and furiously in a self-destructive way. He continuously provokes situations proving to himself that everybody hates him. He is convinced he does not need anybody and does not let anyone get close to him.  Anna is walled in by her fear and unable to leave her apartment. She manages to keep this situation from all the others in a system of lies. Her reserves draw to a close. She heads for a catastrophe.  One day, Jost shows up at her door.</info>
+    <genre>Drama</genre>
+</item>    
 <item>
     <title>Golden Kamuy</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d405499a3113697b7cfd82dd49b3dcb603bdaff8</link>
