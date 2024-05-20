@@ -3,7 +3,14 @@
 
 
 
-
+<item>
+    <title>Sem Pressão</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab9aba3a3b3d6edb5db038f6acb9fccac5a53ed2&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//f69k8OpsxZIXUFrQ2OE56fSVZ9N.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//giLoSoPXYTB4vtB5jOiRhhltL8H.jpg</fanart>
+    <info>Manipulada para abandonar a vida na cidade grande e tentar salvar a fazenda da avó, a chef Oliwia se apaixona por um fazendeiro bonitão que esconde um grande segredo.</info>
+    <genre>Comédia | Romance</genre>
+</item>
  <item>
     <title>Cinco Chances Para Ser Feliz</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8acaf2f6814e9a7adb052d580b342112efd8f387</link>
