@@ -2,7 +2,14 @@
 <items>
 
 
-
+<item>
+    <title>Como conquistar o Billy Walsh</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c8a59e67c9d2bb12cd5bd67f18388f9146aab8e6&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//qBMCWy4CdXC8T17h3sceZPpzH7y.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//w4I5CX8pbVX4lixASIQGZaVcuNn.jpg</fanart>
+    <info>Melhores amigos desde a infância, Archie e Amelia, estão apaixonados. Infelizmente, não um com o outro. Archie ama Amelia, mas ela só tem olhos para o novo aluno estadunidense, Billy Walsh. Em vez de declarar o seu amor por ela, Archie decide ajudá-la a conquistar o rapaz dos seus sonhos: Billy Walsh!</info>
+    <genre>Drama | Romance</genre>
+</item>
 <item>
     <title>O Fabricante de Lágrimas</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3335705d47ebd3e7253bb3aba022e02538ba3c3d&dn</link>
