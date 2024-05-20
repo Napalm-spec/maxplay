@@ -3,7 +3,22 @@
 
 
 
-
+<item>
+    <title>Nocaute</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e0b83d2ccd25e732e2a2a5e09f717aa8ad6ee094</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//4zSuF9MUHOAFia7tvNUMFjVoctu.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//cIHFTyIf0LjRzjSnwtCAGzwTOKK.jpg</fanart>
+    <info>Um ex-soldado à deriva se torna um lutador clandestino com a ajuda de um ex-presidiário recém-libertado, colocando os dois contra policiais corruptos e assassinos de aluguel que estão atrás deles e de todos aqueles com quem se importam.</info>
+    <genre>Ação | Suspense</genre>
+</item>
+<item>
+    <title>Xeque-Mate</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e76c34d6c8c8edf9dd4afded64979845781e8779</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//h0cp9DMcP9MFvt3FQlrr4RAwzIX.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//l6w0qCPRJ2ANAv9pEBMk8WBN1vD.jpg</fanart>
+    <info>Duque, um agente secreto internacional que se aposentou anos atrás após um evento traumático, é forçado a voltar à ação quando um agente de comando sequestra sua sobrinha e o força a roubar uma preciosa fórmula científica como parte do resgate.</info>
+    <genre>Ação | Comédia</genre>
+</item>
 <item>
     <title>Beekeeper: Rede de Vingança</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9f5d1c3e91e3e4a9aaec5b8595c4bca1aa060635</link>
