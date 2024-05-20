@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Uma Jornada Entre Amigos</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1d3406aa6f4a35f671814d8018139783420f9fa7&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//hE9ToZRWcEd3jh96gbhKjWlUOQa.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//5P9b4Ehb1rYqyGCoykFDEjEdBX2.jpg</fanart>
+    <info>Recusando o tratamento para o câncer, uma mulher faz uma viagem pela Tasmânia para marcar itens de sua lista de desejos com o marido e melhor amigo.</info>
+    <genre>Drama</genre>
+</item>
 <item>
     <title>Herança Roubada</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d518e8ef1217b718c7e8f5acdd5822b80009fe64&dn</link>
