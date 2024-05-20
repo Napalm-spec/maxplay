@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+
+
+<item>
+    <title>Garra de Ferro</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:68acc023948ee67a59ff75dc60623573299b9549&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//wzYxCgCsllrLwhMR4gbTk2gfFm6.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//s9uNBc8DTBydKoVa1OzJUjVgVek.jpg</fanart>
+    <info>A história real dos inseparáveis ​​irmãos Von Erich, que fizeram história no mundo extremamente competitivo do wrestling profissional no início dos anos 1980.</info>
+    <genre>Drama | Esporte</genre>
+</item>    
 <item>
     <title>Uma Jornada Entre Amigos</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1d3406aa6f4a35f671814d8018139783420f9fa7&dn</link>
