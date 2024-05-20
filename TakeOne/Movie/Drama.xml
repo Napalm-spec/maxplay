@@ -3,6 +3,22 @@
 
 
 <item>
+    <title>Suncoast</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:20279951e181915897c1a19204841a73789cee01</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//nmPLUp5lVMiGomkN3db1WPeNrz3.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//s0PHMO7pSeOwzGl11Wc1Qg356Hw.jpg</fanart>
+    <info>Uma história semiautobiográfica sobre a passagem para a vida adulta de uma jovem que lida com a doença grave do irmão.</info>
+    <genre>Drama</genre>
+</item>
+<item>
+    <title>Cinzas</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:01dc059ad5e5c363a32d9c411c0337a9ecfc6208</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//44BquVRWlRN3B3Xh6yZxNxFdTER.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//fTsDaTNpWwbFIm4bVnLVHu9HNsm.jpg</fanart>
+    <info>De uma fantasia empolgante a um caso perigoso, uma mulher casada e rica vê sua vida desmoronar após começar a ler um livro não publicado.</info>
+    <genre>Drama | Fantasia | Romance</genre>
+</item>    
+<item>
     <title>Através da Minha Janela 3: Olhos nos Olhos</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bcac115c40339da727f67b2a7704811e517dfd9d</link>
     <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//73YnjztnaK2T1jsEHfVTRZMrZK8.jpg</thumbnail>
