@@ -2,6 +2,39 @@
 <items>
 
 
+
+<item>
+    <title>O Guardião das Borboletas</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4b03530ea14308b8df42e0f63a4e3a9d5f2c7abd</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//l2uAsduoQFpb6ues8T1LLrpyd4k.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//2nROao4sDi4wE0hBtq4Ab4C39Ss.jpg</fanart>
+    <info>As florestas de Michoacán abrigam milhões de borboletas-monarca. O ativista Homero Gómez defendeu a espécie com unhas e dentes – e desapareceu.</info>
+    <genre>Drama | Suspense</genre>
+</item>
+<item>
+    <title>A Vida dos Leopardos</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a8d8993c5d0a559b00b8a9c22484eae185bf6c88</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//g7peos8n3HHv7mhDvI5ySntzC6n.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//dUfRICbbBih2C9uO3z2ZOVOlv0q.jpg</fanart>
+    <info>Uma equipe de filmagem acompanha de perto dois filhotes de leopardo em sua jornada fascinante desde a infância até a vida adulta neste documentário.</info>
+    <genre>Drama | Suspense</genre>
+</item>
+<item>
+    <title>O Entregador</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:598d4f26fa201a24b2befa8f9f767832c4e11d95&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//d5Z8cj0dyKzT7PrVvneknsm0X41.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//nmXlpuXJhOv9yKJVhWPaLgpUChl.jpg</fanart>
+    <info>Este entregador não vacilou diante da chance de participar de um esquema de lavagem de dinheiro, e agora vai conhecer o mundo do dinheiro fácil (e das quedas rápidas).</info>
+    <genre>Drama | Suspense</genre>
+</item>
+<item>
+    <title>Meninas Não Choram</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5cd03d793f7413a176aefd1a302e4d7565490d89&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//gdX8St8uRIeTtwvRQMI3wQCpknb.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//e9Y5QcrE5pKucc33tpJdw6GOftC.jpg</fanart>
+    <info>Diagnosticada com leucemia, uma adolescente alegre e fã de futebol é internada, encontrando motivação na amizade e inspirando as pessoas à sua volta.</info>
+    <genre>Drama</genre>
+</item>    
 <item>
     <title>Shayda</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bc49b64dfcf58980abd97b10f1014eeb14abe8f8&dn</link>
