@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>O Salário do Medo</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d9f7de36e3ac6ad28ede5c2668c9838c445fac6&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//wQpmQV4asLYTAmw4BwgmtfGx0Os.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//qekky2LbtT1wtbD5MDgQvjfZQ24.jpg</fanart>
+    <info>Quando uma explosão em um poço de petróleo ameaça centenas de vidas, uma equipe de salvamento é chamada para cruzar o deserto com um carregamento de nitroglicerina.</info>
+    <genre>Ação | Aventura | Suspense</genre>
+</item>
  <item>
     <title>Alma de Caçador</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7929cbefb0caf44c20140f1f10e7034e1bddb032&dn</link>
