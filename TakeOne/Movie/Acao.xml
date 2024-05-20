@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Golden Kamuy</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d405499a3113697b7cfd82dd49b3dcb603bdaff8</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//sLcRGIJqlJeoGGk88CtA8Ida5aq.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//jaRoloTuVFYYvBH5VlRBQnf2egx.jpg</fanart>
+    <info>No início do século XX, o veterano da Guerra Russo-Japonesa Saichi "Immortal" Sugimoto consegue uma existência miserável durante a corrida do ouro do pós-guerra no deserto de Hokkaido.</info>
+    <genre>Ação | Aventura | História</genre>
+</item>
 <item>
     <title>Godzilla e Kong: O Novo Império</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8013b5acacae620107ef36ea00ebb6987a5ab6c2</link>
