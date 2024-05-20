@@ -2,7 +2,14 @@
 <items>
 
 
-
+<item>
+    <title>Partiu América</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:344ea5e1c3316b570d5a4681f7372d5a89ba4e42</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//eLckMzlleotgKEm04IIc0CplBZC.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//p4G9MWjrhNR0pv3Jd7FEJKgNVCa.jpg</fanart>
+    <info>Matheus, Maria Caranguejo, Flórida e Stevenspilbi são uma família, cujo pai, Matheus, é dono de um simples parque de diversões no interior do Ceará e sonha em conhecer os parques de diversões dos Estados Unidos. E a oportunidade finalmente aparece para essa família, eles só não contavam com as aventuras e desventuras no trajeto.</info>
+    <genre>Comédia</genre>
+</item>
 <item>
     <title>Mexida</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c928d7f183497de646aef1294edf16dda54380d9</link>
