@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Diário da Minha Vagina</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d31e89e848454e540ccb623c745c9784fb221127</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//aIVu5nMOCNZvOYs3Uhv8TnLvcYk.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//ac7h66AuSyrKhD1xBU6YrmZbOLf.jpg</fanart>
+    <info>Lindy tem de 16 anos e está descobrindo o mundo do namoro e sexo. Prestes a perder a virgindade, ela descobre que possui uma síndrome rara que complica suas relações sexuais. Assim, ela embarca em uma jornada de autoconhecimento e feminilidade.</info>
+    <genre>Comédia | Drama</genre>
+</item>
 <item>
     <title>Upgrade: As Cores do Amor</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:11679ec1ed07c3c90ba5848dbfd79e15260f9348</link>
