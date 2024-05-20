@@ -2,7 +2,14 @@
 <items>
 
 
-
+<item>
+    <title>Através da Minha Janela 3: Olhos nos Olhos</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bcac115c40339da727f67b2a7704811e517dfd9d</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//73YnjztnaK2T1jsEHfVTRZMrZK8.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//9xvBGz7wYjK5faoeXDIaBB9EYDx.jpg</fanart>
+    <info>Raquel e Ares não se esquecem um do outro, mesmo estando com pessoas novas. Será que eles vão superar a pressão familiar e ficar juntos no capítulo final da trilogia?</info>
+    <genre>Drama | Comédia | Romance</genre>
+</item>
 <item>
     <title>A Saudade Que Fica</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:211ede7d1c15758805505adb2168644293e90b45</link>
