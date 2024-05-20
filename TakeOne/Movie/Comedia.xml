@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Lua de Mel Inusitada</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6613b5892841e9524c97ab16b5517014267e55e9&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//jLjZ3QBL5nrDyaSg5T8vmYjb2RR.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//vymiAnbaDBXkwHiDMqDqmTgp5Zj.jpg</fanart>
+    <info>Um casal em lua de mel descobre que tem muitas diferenças. E agora? Será que esses opostos conseguem manter a atração?</info>
+    <genre>Comédia | Romance</genre>
+</item>
 <item>
     <title>Estritamente Confidencial</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0c163b397b5b1cd591c7356d876b61912edaf114&dn</link>
