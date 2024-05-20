@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+
+<item>
+    <title>Pilotos de Combate</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3fa0adf46431402a22d1c1810554a480b553997c</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//eKML6xBIWCAlDsOCltxqEcZsgnY.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//keVfqCMKmJ55nHzmqR2Q5K7LwJt.jpg</fanart>
+    <info>Um líder de esquadrão brilhante, mas imprudente, e sua equipe de pilotos de elite enfrentam perigos e demônios internos ao se unirem para uma missão mortal.</info>
+    <genre>Ação | Suspense</genre>
+</item>    
 <item>
     <title>Em Ruínas</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:64c9dafdce4135d2c249a14040ec05e9277be551</link>
