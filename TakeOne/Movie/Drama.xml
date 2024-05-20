@@ -2,6 +2,23 @@
 <items>
 
 <item>
+    <title>Meu Nome é Loh Kiwan</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4b41c4a2f951b97a1df7998317489d6dbf1c26bd</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//CsqXfzKFwlZmL6Beq5tIIutLnP.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//vWVmlnQnTjqB2MpGD9CtRitep0a.jpg</fanart>
+    <info>Após fugir da Coreia do Norte, Loh Kiwan sofre tentando obter o status de refugiado na Bélgica. Lá, ele conhece uma mulher que já perdeu todas as esperanças.</info>
+    <genre>Drama | Romance</genre>
+</item>
+
+ <item>
+    <title>O Astronauta</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79a7a5b1d7d4ff23d3a35746c53eb440dd634deb</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//nzSJcUFe9a6lF6nxAyqP2cGgYjt.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//9ZFNRs58TTnvf3utagd0uSJluXa.jpg</fanart>
+    <info>Há seis meses em uma missão solitária, um astronauta analisa os problemas do seu casamento com a ajuda de uma criatura misteriosa que se esconde em sua nave.</info>
+    <genre>Drama | Ficção</genre>
+</item>   
+<item>
     <title>Bob Marley: One Love</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7eae12207df29b8892da082a0ff9086d0b8f009f</link>
     <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//bcNgQwdmtXJYPInqwIn8uIt35fH.jpg</thumbnail>
