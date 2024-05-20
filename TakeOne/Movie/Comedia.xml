@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+<item>
+    <title>O Homem dos Sonhos</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RMDCSEHW7WW2XKYIBFOB2MNFHX3DNQQ7&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//pI6bCgmnvodCSUNfYMDg4QWiJmK.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//okXIAgFc2U6jf4uZrivhwEu7vbW.jpg</fanart>
+    <info>O infeliz homem de família Paul Matthews vê sua vida virada de cabeça para baixo quando milhões de estranhos de repente começam a vê-lo em seus sonhos.  Mas quando suas aparições noturnas tomam um rumo de pesadelo, Paul é forçado a navegar em seu novo estrelato.</info>
+    <genre>Comédia | Fantasia | Terror</genre>
+</item>    
 <item>
     <title>Todas Menos Ela</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OANWX6O5MGYBXH4DLUOIDOS5IXO4MPMG</link>
