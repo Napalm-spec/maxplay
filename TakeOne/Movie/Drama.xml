@@ -2,6 +2,14 @@
 <items>
 
 
+<item>
+    <title>Herança Roubada</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d518e8ef1217b718c7e8f5acdd5822b80009fe64&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//bZLo7tbOfbZWiSBsWz2tKWdSKmj.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//9XpzE6GyGq9lz8W1bc0iIjKlHf9.jpg</fanart>
+    <info>Neste drama emocionante inspirado em uma história real, uma jovem de uma comunidade indígena da Suécia busca vingança contra um assassino.</info>
+    <genre>Drama | Crime</genre>
+</item> 
  <item>
     <title>Our Son</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e9d0176e7382fd0cf78f7ab5ead5a3b1aabada1&dn</link>
