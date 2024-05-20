@@ -2,6 +2,23 @@
 <items>
 
 
+
+<item>
+    <title>O Reencontro da Turma</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7bfafa0744607ec9d2075fc46b94055d0adc9705&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//hERAMeQsYvIBVieP72luNnNrZwz.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//eeMkI40MHHDIjjqMvhznRCjGAn2.jpg</fanart>
+    <info>Um assassinato e uma nevasca em uma festa de reunião de colégio deixam os convidados presos em uma mansão isolada para uma abordagem cômica do clássico "quem é o culpado?".</info>
+    <genre>Comédia | Mistério</genre>
+</item>
+<item>
+    <title>SDL - A Batalha Musical</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bdc1a46448021d1c46bcb6310c0295dffb466e4e&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//iiYroOiA7PCwjmxRnMst6jfxXFY.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//roBGfjilWTTiy4V0zJLfi2G9QC5.jpg</fanart>
+    <info>Maia e suas amigas enfrentam desafios inesperados ao participar de um reallity musical em busca de sucesso como cantoras.</info>
+    <genre>Comédia</genre>
+</item>    
 <item>
     <title>Uma Parede entre Nós</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:293715f8e35972a356c1262af31cf373309bdb9a&dn</link>
