@@ -2,7 +2,22 @@
 <items>
 
 
-
+<item>
+    <title>Patos!</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:25d168e07dda69b25a2864d05a370a7cd4f1a2fc</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//wXWnUhdnSuADRp9w7aAZNHx682v.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//2KGxQFV9Wp1MshPBf8BuqWUgVAz.jpg</fanart>
+    <info>A família Mallard está um pouco refém da rotina. Enquanto Mack, o pai, se contenta em manter sua família segura nos arredores de um lago da Nova Inglaterra para sempre, Pam, a mãe, está ansiosa para agitar as coisas e mostrar a seus filhos – o adolescente Dax e a patinha Gwen – o mundo inteiro. Quando uma família de patos migratórios aterrissa em seu lago com histórias emocionantes de lugares distantes, Pam convence Mack a embarcar em uma viagem em família, via Nova York, para a Jamaica tropical.</info>
+    <genre>Animação | Ação | Aventura</genre>
+</item>
+<item>
+    <title>O Aprendiz do Tigre</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7d721fad768754978631a0c64b79c84e995b3d3d</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//dJOIVQoyjoK0hPlmh0nDFsFROvW.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//acpFrSmVLnTNAIuHxnZArkC3dwU.jpg</fanart>
+    <info>Conta a história de Tom, um menino que se torna aprendiz de feiticeiro ao conhecer o tigre falante Mr. Hu. O animal muda de forma e leva o garoto a um mundo mágico com outros seres mitológicos, como a fênix e o dragão.</info>
+    <genre>Animação | Ação | Aventura</genre>
+</item>
 <item>
     <title>Thelma, O Unicórnio</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:939158ee2f61820117cfc2e21e9c88def96ef7d3</link>
