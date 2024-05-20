@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+
+<item>
+    <title>A Saudade Que Fica</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:211ede7d1c15758805505adb2168644293e90b45</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//vPxtPgWMB6jCazp3TYWAMp3ThZw.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//vi4MKklJgeAGC0vcFFse9hxdvCS.jpg</fanart>
+    <info>Após uma calamidade devastadora, uma mãe procura pelo filho desaparecido. Até descobrir que ela está morta e presa em um reino de espíritos perturbados.</info>
+    <genre>Drama</genre>
+</item>    
 <item>
     <title>Meu Nome é Loh Kiwan</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4b41c4a2f951b97a1df7998317489d6dbf1c26bd</link>
