@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+
+<item>
+    <title>O Concerto Maldito, Sinfonia do Mal</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:25c7b5c62c0a050750f4f5151b08828bfc32d602</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//28B3s9T3ZqmIeaZdooZgh2CK3rX.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//4DTAYsk9ZzJPQJDHieRjYwHzU8q.jpg</fanart>
+    <info>Baseado em O Flautista de Hamelin, o filme se concentra em uma jovem compositora ( Charlotte Hope) que se propõe a terminar a partitura que seu falecido mentor deixou inacabada quando morreu repentinamente. Ela logo descobre que o som dessas notas tem repercussões mortais, levando-a a desmascarar as origens perturbadoras da melodia e a força maligna que é despertada naqueles que a ouvem.</info>
+    <genre>Terror | Suspense</genre>
+</item>    
 <item>
     <title>Shaitaan</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bf061ed75d528bf219a9f590decebb0229ba8378&dn</link>
