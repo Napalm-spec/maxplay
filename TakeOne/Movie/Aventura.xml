@@ -2,7 +2,14 @@
 <items>
 
 
-
+<item>
+    <title>Eu, Capitão</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:956af5e018dc72bcb5b5188047082e16222f62d2&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//glY7KE3sLWrVUTKbRS9kGlnz0or.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//A3BnHM8a56lsHwn4o7ogiq1KHGh.jpg</fanart>
+    <info>Ansiando por um futuro melhor, dois adolescentes senegaleses embarcam numa viagem da África Ocidental para Itália.  No entanto, entre os seus sonhos e a realidade existe um labirinto de postos de controlo, o Deserto do Saara e as vastas águas do Mediterrâneo.</info>
+    <genre>Aventura | Drama</genre>
+</item>
 <item>
     <title>Príncipe Lu e a Lenda do Dragão</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b15e69cd1e7f0e0137d0bf6ec1b6774985a12b2e&dn</link>
