@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+ <item>
+    <title>Donzela</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:75ca4e6e03a0e3ed82a76a4d3774d453eb8616ef</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//ub4EHdVBVm3nHJiamU0gGcKS4ae.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//deLWkOLZmBNkm8p16igfapQyqeq.jpg</fanart>
+    <info>O casamento de uma jovem com um príncipe encantado se transforma em uma luta por sobrevivência quando ela é oferecida em sacrifício a um dragão que cospe fogo.</info>
+    <genre>Ação | Aventura | Fantasia</genre>
+</item>   
 <item>
     <title>O Retorno dos Thundermans</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fe9c307c86fde687feb7a9e3f8cb9699a663e7bb</link>
