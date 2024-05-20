@@ -2,6 +2,22 @@
 <items>
 
 
+ <item>
+    <title>Our Son</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e9d0176e7382fd0cf78f7ab5ead5a3b1aabada1&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//hy14e2I7GCiQJpVDa7MRXdtK5nz.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//4Iqepu4ZvMqpJerV8zCmCpoy7Bx.jpg</fanart>
+    <info>Quando seu marido Gabriel pede o divórcio, Nicky luta pela custódia de seu filho Owen, de 8 anos, enquanto ele luta para chegar a um acordo sobre o que significa amar alguém e o que significa ser pai.</info>
+    <genre>Drama</genre>
+</item>
+<item>
+    <title>Ferrari</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c2499c3e36a95afa30a2daf49dd7b09fbb0d975c&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//gwvIirDw4fKy491PpjSMda28SoN.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//du11oPPbEoDnUpiREO5tUg47rJd.jpg</fanart>
+    <info>O ex-piloto de corrida, Enzo Ferrari está em crise. A falência assombra a empresa que ele e sua mulher, Laura, construíram do nada 10 anos atrás. O casamento tempestuoso dos dois sofre com o luto pela morte de um filho e a dificuldade de reconhecer outro. Ele decide contrapor essas perdas apostando tudo em uma corrida - a icônica Mille Miglia, na Itália.</info>
+    <genre>Drama | História</genre>
+</item>   
 <item>
     <title>Como conquistar o Billy Walsh</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c8a59e67c9d2bb12cd5bd67f18388f9146aab8e6&dn</link>
