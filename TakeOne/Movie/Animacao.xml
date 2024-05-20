@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+
+
+<item>
+    <title>Pica-Pau: As Férias no Acampamento</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62f8300b28f57b3a6c9af20ae7635de35f09270e&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//dtZcntP9YCOi04iga6tR6UnZqAO.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//cIztAxDn3H8JylRaJwiHHpkGe53.jpg</fanart>
+    <info>Após ser expulso da floresta, o Pica-Pau acha que encontrou seu novo lar no Acampamento Woo Hoo. Até que um inspetor ameaça fechar tudo!</info>
+    <genre>Animação | Família | Comédia</genre>
+</item>    
 <item>
     <title>Metalocalypse: Army of the Doomstar</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b56fc755ce52007539e40a322d6fd829a45362f&dn</link>
