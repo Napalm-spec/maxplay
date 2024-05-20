@@ -3,7 +3,14 @@
 
 
 
-    
+ <item>
+    <title>Mea Culpa</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9cc6ca5f7b9ddd56b3e0be0867aba9859d0149e0</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//roxD9VCTTXYfPjVj9HiSC5IMtc7.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//nqywbJGJ4yfUGzumvd5gmGxchjn.jpg</fanart>
+    <info>Uma advogada criminalista aceita o caso de um artista acusado de assassinato, mas agora ela precisa escolher entre família, dever e seus próprios desejos.</info>
+    <genre>Suspense</genre>
+</item>   
 <item>
     <title>Mergulho Noturno</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:862134cc8ebb4b03e252576059a9e6b8f7aae2bb</link>
