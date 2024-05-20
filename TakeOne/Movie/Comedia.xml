@@ -2,6 +2,15 @@
 <items>
 
 
+
+<item>
+    <title>Mexida</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c928d7f183497de646aef1294edf16dda54380d9</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//xScOAzPLbF1e6ATjuhK3EtuMToV.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//y8tGiPJv37nD2bffKTuxZWKjfm9.jpg</fanart>
+    <info>Uma eterna dama de honra de trinta e poucos anos embarca em uma jornada de autodescoberta empoderadora e, muitas vezes, hilária.</info>
+    <genre>Comédia</genre>
+</item>    
 <item>
     <title>A Mãe da Noiva</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:396ecdc4c61f446bdda8b60399413e77ffbf449b&dn</link>
