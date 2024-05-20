@@ -2,7 +2,14 @@
 <items>
 
 
-
+<item>
+    <title>Matador de Aluguel</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ce792730279c594c6a3a7c7640c6b3bae9291e4d&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//h2xDLj6CtzItwQEFyBjIXh5z3QD.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//oe7mWkvYhK4PLRNAVSvonzyUXNy.jpg</fanart>
+    <info>Um ex-lutador do UFC consegue um emprego como segurança em um estabelecimento na Flórida Keys, apenas para descobrir que este paraíso não é tudo o que parece.</info>
+    <genre>Ação | Suspense</genre>
+</item>
 <item>
     <title>Nocaute</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e0b83d2ccd25e732e2a2a5e09f717aa8ad6ee094</link>
