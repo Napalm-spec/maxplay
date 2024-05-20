@@ -2,6 +2,31 @@
 <items>
 
 
+
+<item>
+    <title>Sayen: A Caçadora</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3fc112e8af0f04f5dbdaf4ea556cf9c0c32387ca&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//5mF6zKM7LUnEVYTLAlwoZlskdbQ.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//AuTfo1lbE8s2Y8RVTmlbJAeLWPK.jpg</fanart>
+    <info>Percebendo que não consegue derrotar o Fisk sozinha, Sayen se junta a um grupo de resistência clandestino com um plano pra expor e dar um fim aos roubos descarados do Fisk de uma vez por todas.</info>
+    <genre>Ação | Suspense</genre>
+</item>
+<item>
+    <title>City Hunter</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e788d90d1ce66fb0a945cdad600fb85a15942c89&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//cjQzJ9xFdaN9KAwu7HUImIgbc2Y.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//7ViwIWGGrRs8TTwyMH8tz6cXyOw.jpg</fanart>
+    <info>Atirador excepcional e playboy inveterado, o detetive particular Ryo Saeba forma uma aliança com a irmã de seu antigo parceiro para investigar a morte dele.</info>
+    <genre>Ação | Comédia | Mistério | Romance</genre>
+</item>
+<item>
+    <title>Desespero Profundo</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:af018f8d6c425e2630e220f8a390c1a0b909876c&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//ktxq0LYgl41I2DUn49TYIaS9dZR.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//4woSOUD0equAYzvwhWBHIJDCM88.jpg</fanart>
+    <info>Um grupo de desconhecidos acabam no meio do Oceano Pacífico depois de um acidente aéreo. Presos em uma bolsa de ar, eles devem trabalhar juntos para enfrentar os perigos que os cercam antes que o oxigênio acabe.</info>
+    <genre>Ação | Aventura | Terror | Suspense</genre>
+</item>    
 <item>
     <title>Zona de Risco</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae8c71b9b13e700296518cf27f14197ff25fb3b4&dn</link>
