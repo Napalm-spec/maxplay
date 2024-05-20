@@ -2,7 +2,14 @@
 <items>
 
 
-
+<item>
+    <title>Agência do Amor</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4f6b9d2b7abea3025caff014fcaf50a1dc77d23e</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//3GsgIMVv9pnp3hUayihXEgCSEog.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//nhhsKLA46CUa7kXwXgamaDYZ1mA.jpg</fanart>
+    <info>Um jornalista cético aceita participar de uma terapia para corações partidos em prol de uma reportagem, mas acaba abrindo o coração para a terapeuta.</info>
+    <genre>Comédia | Romance</genre>
+</item>
 <item>
     <title>Meninas Malvadas</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f28cd8d4167ee517db6127747f652381699367a4</link>
