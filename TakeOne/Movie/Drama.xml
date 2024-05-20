@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+
+<item>
+    <title>O Fabricante de Lágrimas</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3335705d47ebd3e7253bb3aba022e02538ba3c3d&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//xOM6dZZa9kfHcyDCIP7Vtg7mQyz.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//e3gVl1gnxEFKLTF6pn6KRqUPi9K.jpg</fanart>
+    <info>Criados em um orfanato e adotados pela mesma família, Nica e Rigel percebem que têm sentimentos inesperados e irresistíveis um pelo outro.</info>
+    <genre>Drama | Romance</genre>
+</item>    
 <item>
     <title>Jogo Bonito</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b53c788d7c9aca849662a64ff1e3fdedcbeca772&dn</link>
