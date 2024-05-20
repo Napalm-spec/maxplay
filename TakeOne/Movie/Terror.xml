@@ -2,7 +2,14 @@
 <items>
 
 
-
+<item>
+    <title>Possessões</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0da989b01165dd8d8b712818d1a4c02f473083d6&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//wbf1LkidorzXo2yI9pbjH23YJRr.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//4uEVhE07sSEg3t9MdudCjXWt9fG.jpg</fanart>
+    <info>Um grupo de colonos cristãos é assombrado e perseguido após construir uma igreja no solo sagrado de um antigo povo indígena europeu.</info>
+    <genre>Terror</genre>
+</item>
  <item>
     <title>A Bruxa dos Mortos: Baghead</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7fd204e81117d58268e2619b918963b49ffffff7&dn</link>
