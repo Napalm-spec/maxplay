@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+
+<item>
+    <title>O Que Me Traz Até Você</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d6fc297e0695b471bb589d99613a87f12602dfb6&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//d6HeM5HLnjQb6WlBgXiQ8M7LtXg.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//dSSj6p3sUvc997V5zPJjfrVyFt0.jpg</fanart>
+    <info>Baseado no livro best-seller, Which Brings Me To You é uma comédia romântica de aquecer o coração, estrelando Lucy Hale e Nat Wolff. Jane, uma jornalista freelancer, e Will, um fotógrafo, são imediatamente atraídos um para o outro num casamento de amigos em comum. Depois que os dois saem de fininho para se pegarem no guarda volumes, tudo indica que será apenas um rolo de uma noite só.</info>
+    <genre>Comédia | Drama | Romance</genre>
+</item>
+<item>
+    <title>A Batalha do Biscoito Pop-Tart</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ff580064b7370ab3cddde69f513ef1b9ca280f5d&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//gzlOgNUz6qaBPFRSb9ixsg5b3yN.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//jB2wCtVlhv2BVWhRQRONlIhtnrg.jpg</fanart>
+    <info>Ambientada numa época em que leite e cereal dominavam o café da manhã, esta comédia de Jerry Seinfeld mostra a batalha por trás da criação de um docinho revolucionário.</info>
+    <genre>Comédia | História</genre>
+</item>
+<item>
+    <title>Uma Ideia de Você</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2dfbec791e34bb4fa1aa469c2979e2290124303e&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//5rIKVegF7XMPB02RaFaxtFwTPR0.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//6Xfj8wD7GoEysgcFayRKd6QLqai.jpg</fanart>
+    <info>Solène, leva a filha, para assistir ao show de seu grupo favorito, August Moon. Lá, Solène se relaciona com um dos membros do grupo. Hayes Campbell é inteligente, atraente e confiante. A atração é imediata. O problema? É porque ele é vinte anos mais novo que Solène.</info>
+    <genre>Comédia | Drama | Romance</genre>
+</item>    
 <item>
     <title>Lua de Mel Inusitada</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6613b5892841e9524c97ab16b5517014267e55e9&dn</link>
