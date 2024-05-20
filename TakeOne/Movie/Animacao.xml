@@ -53,6 +53,13 @@
     <info>A jornada de aventura e fantasia de Claé e Bruô, agente-secretos de reinos rivais. Eles precisam superar suas diferenças e unir forças para encontrar os Perlimps, criaturas misteriosas capazes de encontrar um caminho para a paz em tempos de guerra.</info>
     <genre>Animação | Aventura | Família</genre>
 </item>
-
+<item>
+    <title>Orion e o Escuro</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fe897e54afd47410a6a0ff203d24d2dc41defeaa</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//ulUmkLFtT1Y0YGtmO6lBkMwLsBR.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//zLj0peaxy5y2SlC6wNIQ4V0pfqg.jpg</fanart>
+    <info>Com uma imaginação fértil, um garoto encara seus medos em uma jornada inesquecível pela noite ao lado do novo amigo Escuro, uma criatura gigante e sorridente.</info>
+    <genre>Animação | Comédia | Fantasia</genre>
+</item>
     
 </items>
