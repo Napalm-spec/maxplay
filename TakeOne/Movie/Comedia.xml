@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Todas Menos Ela</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OANWX6O5MGYBXH4DLUOIDOS5IXO4MPMG</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//f37agqbrKeU2MMJWsmpOsxIC1We.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//rMjEhhLCJPN0iBTMoHaxr70DZET.jpg</fanart>
+    <info>Um grupo de amigos encontra o pretexto perfeito para se livrar da noiva insuportável de um deles quando descobrem que a mulher não é o que parece.</info>
+    <genre>Comédia | Romance</genre>
+</item>
 <item>
     <title>Partiu América</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:344ea5e1c3316b570d5a4681f7372d5a89ba4e42</link>
