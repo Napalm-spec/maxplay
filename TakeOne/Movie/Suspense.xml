@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Pânico na Montanha</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4bc4745a37cea999f3c2aaf92ad1a9f9fb7dabbf&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//zsATKx7B970yqPNri093CE7DUBW.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//zdh7hs80rgbuTEuXDqWO8aPvt4v.jpg</fanart>
+    <info>Para conseguir terminar de escrever seu livro, Blake Sinclair decide passar o fim de semana em uma cabana isolada nas montanhas, sem saber que um assassino sedento por sangue se encontra à solta nesse mesmo local.</info>
+    <genre>Suspense | Terror</genre>
+</item>
 <item>
     <title>Visões</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:14fae86594afa7635b062e009cadf1b72adac19c</link>
