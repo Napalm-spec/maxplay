@@ -817,12 +817,6 @@ http://dns.maxptv.net:2052/jessicaaline/1020304060/113074
 http://dns.maxptv.net:2052/jessicaaline/1020304060/113080
 #EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Pinky Felícia e o Cérebro" tvg-logo="https://painelsbo.painel.life/logosiptv/desenhos24/pinkfeliciaecerebro.png" group-title="24H ::: INFANTIL",Pinky Felícia e o Cérebro
 http://dns.maxptv.net:2052/jessicaaline/1020304060/113081
-#EXTINF:-1 tvg-id="PlayboyTV.br" tvg-name="Playboy FHD" tvg-logo="https://www.nicepng.com/png/detail/890-8902129_playboy-graphic-design.png" group-title="Canais :: [XXX] ADULTO",Playboy FHD
-http://dns.maxptv.net:2052/jessicaaline/1020304060/20315
-#EXTINF:-1 tvg-id="PlayboyTV.br" tvg-name="Playboy HD" tvg-logo="https://www.nicepng.com/png/detail/890-8902129_playboy-graphic-design.png" group-title="Canais :: [XXX] ADULTO",Playboy HD
-http://dns.maxptv.net:2052/jessicaaline/1020304060/88
-#EXTINF:-1 tvg-id="PlayboyTV.br" tvg-name="Playboy SD" tvg-logo="https://www.nicepng.com/png/detail/890-8902129_playboy-graphic-design.png" group-title="Canais :: [XXX] ADULTO",Playboy SD
-http://dns.maxptv.net:2052/jessicaaline/1020304060/87
 #EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Pocoyo 24H" tvg-logo="https://painelsbo.painel.life/logosnovos/Infantil24h/204.png" group-title="24H ::: INFANTIL",Pocoyo 24H
 http://dns.maxptv.net:2052/jessicaaline/1020304060/561
 #EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Pokemon 24H" tvg-logo="https://painelsbo.painel.life/logosnovos/Infantil24h/205.png" group-title="24H ::: INFANTIL",Pokemon 24H
@@ -973,14 +967,6 @@ http://dns.maxptv.net:2052/jessicaaline/1020304060/113072
 http://dns.maxptv.net:2052/jessicaaline/1020304060/113071
 #EXTINF:-1 tvg-id="Scooby Doo 24H" tvg-name="Scooby-Doo: O Que Há de Novo?" tvg-logo="https://painelsbo.painel.life/logosiptv/desenhos24/scooboqueha.png" group-title="24H ::: INFANTIL",Scooby-Doo: O Que Há de Novo?
 http://dns.maxptv.net:2052/jessicaaline/1020304060/113070
-#EXTINF:-1 tvg-id="Sextreme.br" tvg-name="Sextreme HD" tvg-logo="https://painelsbo.painel.life/logo2/sextreme.png" group-title="Canais :: [XXX] ADULTO",Sextreme HD
-http://dns.maxptv.net:2052/jessicaaline/1020304060/57
-#EXTINF:-1 tvg-id="Sextreme.br" tvg-name="Sextreme SD" tvg-logo="https://3.bp.blogspot.com/-X0DcNLI45_0/VgsCHTBetKI/AAAAAAAAldA/7hLYfIyR5Zc/s1600/Sextreme.png" group-title="Canais :: [XXX] ADULTO",Sextreme SD
-http://dns.maxptv.net:2052/jessicaaline/1020304060/56
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="Sexy Hot HD" tvg-logo="https://painelsbo.painel.life/logo2/sexyhot.png" group-title="Canais :: [XXX] ADULTO",Sexy Hot HD
-http://dns.maxptv.net:2052/jessicaaline/1020304060/55
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="Sexy Hot SD" tvg-logo="https://painelsbo.painel.life/logo2/sexyhot.png" group-title="Canais :: [XXX] ADULTO",Sexy Hot SD
-http://dns.maxptv.net:2052/jessicaaline/1020304060/54
 #EXTINF:-1 tvg-id="SonyChannel.br" tvg-name="Sony Channel FHD" tvg-logo="https://painelsbo.painel.life/logo/canais/canalsony.png" group-title="Canais :: FILMES E SÉRIES ",Sony Channel FHD
 http://dns.maxptv.net:2052/jessicaaline/1020304060/20233
 #EXTINF:-1 tvg-id="SonyChannel.br" tvg-name="Sony Channel HD" tvg-logo="https://painelsbo.painel.life/logo/canais/canalsony.png" group-title="Canais :: FILMES E SÉRIES ",Sony Channel HD
@@ -1205,10 +1191,6 @@ http://dns.maxptv.net:2052/jessicaaline/1020304060/20255
 http://dns.maxptv.net:2052/jessicaaline/1020304060/41
 #EXTINF:-1 tvg-id="Syfy.br" tvg-name="USA Network SD" tvg-logo="https://painelsbo.painel.life/newlogos/usa.png" group-title="Canais :: FILMES E SÉRIES ",USA Network SD
 http://dns.maxptv.net:2052/jessicaaline/1020304060/40
-#EXTINF:-1 tvg-id="Venus HD" tvg-name="Venus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1200px-Canal_Venus_logo.svg.png" group-title="Canais :: [XXX] ADULTO",Venus HD
-http://dns.maxptv.net:2052/jessicaaline/1020304060/10
-#EXTINF:-1 tvg-id="Venus SD" tvg-name="Venus SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1200px-Canal_Venus_logo.svg.png" group-title="Canais :: [XXX] ADULTO",Venus SD
-http://dns.maxptv.net:2052/jessicaaline/1020304060/9
 #EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Vikings (2013)" tvg-logo="https://painelsbo.painel.life/logosiptv/24horas/vikins.png" group-title="24H ::: SÉRIES",Vikings (2013)
 http://dns.maxptv.net:2052/jessicaaline/1020304060/112840
 #EXTINF:-1 tvg-id="viva.br" tvg-name="Viva HD" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/viva.png" group-title="Canais :: VARIEDADES",Viva HD
