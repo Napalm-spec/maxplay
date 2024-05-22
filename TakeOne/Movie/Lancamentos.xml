@@ -2,14 +2,7 @@
 <items>
 
 
-<item>
-    <title>O Homem dos Sonhos</title>
-    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RMDCSEHW7WW2XKYIBFOB2MNFHX3DNQQ7&dn</link>
-    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//pI6bCgmnvodCSUNfYMDg4QWiJmK.jpg</thumbnail>
-    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//okXIAgFc2U6jf4uZrivhwEu7vbW.jpg</fanart>
-    <info>O infeliz homem de família Paul Matthews vê sua vida virada de cabeça para baixo quando milhões de estranhos de repente começam a vê-lo em seus sonhos.  Mas quando suas aparições noturnas tomam um rumo de pesadelo, Paul é forçado a navegar em seu novo estrelato.</info>
-    <genre>Comédia | Fantasia | Terror</genre>
-</item>
+
 <item>
     <title>Close</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LNEVV5LJ63MY4NAGQMBA4Z4H6ZM7GR76&dn</link>
@@ -114,6 +107,15 @@
     <info>O poderoso Kong e o temível Godzilla se unem contra uma colossal ameaça mortal escondida no mundo dos humanos, que ameaça a existência de sua espécie e da nossa. Mergulhando profundamente nos mistérios da Ilha da Caveira e nas origens da Terra Oca, o filme irá explorar a antiga batalha de Titãs que ajudou a forjar esses seres extraordinários e os ligou à humanidade para sempre.</info>
     <genre>Ação | Aventura | Ficção</genre>
 </item>
+ <item>
+    <title>Rebel Moon - Parte 2: A Marcadora de Cicatrizes</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a26ae91e850cb4b49e94c0f224edfa4eff9c6dc&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//kkP50MUDBqt4JqDEwxk32wUHePk.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//tpiqEVTLRz2Mq7eLq5DT8jSrp71.jpg</fanart>
+    <info>Conforme os rebeldes se preparam para a batalha contra as forças implacáveis do Mundo-Mãe, laços são forjados, heróis emergem e lendas nascem.</info>
+    <genre>Ação, Aventura, Ficção</genre>
+</item>
+   
 <item>
     <title>O Guardião das Borboletas</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4b03530ea14308b8df42e0f63a4e3a9d5f2c7abd</link>
