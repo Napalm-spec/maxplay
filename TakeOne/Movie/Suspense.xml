@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+
+<item>
+    <title>Abigail</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SBSKGDIGKCPNLHJ42XWOK74ULI5TPEOZ&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//pQFoHRmJLAlv5b2DNLGBISyxEuc.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//ySgY4jBvZ6qchrxKnBg4M8tZp8V.jpg</fanart>
+    <info>Depois de um grupo de aspirantes a criminosos raptar a filha bailarina de 12 anos de uma poderosa figura do submundo, tudo o que têm de fazer para receber um resgate de 50 milhões de dólares é vigiar a rapariga durante a noite. Numa mansão isolada, os captores começam a diminuir, um a um, e descobrem, para seu horror crescente, que estão trancados lá dentro com uma menina nada normal.</info>
+    <genre>Suspense | Terror</genre>
+</item>    
 <item>
     <title>Pânico na Montanha</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4bc4745a37cea999f3c2aaf92ad1a9f9fb7dabbf&dn</link>
