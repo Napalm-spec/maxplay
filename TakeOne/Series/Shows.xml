@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Dom 3ª Temporada</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IYSCEX2OYPF7RYRZPVILWTQJULJCZH6H&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/4YKR0jdklhxaeMGTt9ADumZV7gt.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/cbad3iMpYVozS5NfCHlIFdIgvIX.jpg</fanart>
+    <info>A jornada de pai e filho que seguiram caminhos totalmente opostos, frequentemente espelhando e complementando um ao outro, enquanto ambos lidam com situações que deixam a linha entre certo e errado cada vez mais tênue.</info>
+    <genre>Ação | Crime | Drama</genre>
+</item>
 <item>
     <title>Knuckles (2024) 1ª Temporada</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WYQFN243OJQ6DDY5C4PR7SESE7ECRMXQ&dn</link>
