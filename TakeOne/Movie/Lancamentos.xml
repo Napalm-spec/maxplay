@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Atlas</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XK7A2G5KJENDI2OYLSZNOIQ4C3BKSHJM&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//bcM2Tl5HlsvPBnL8DKP9Ie6vU4r.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//3TNSoa0UHGEzEz5ndXGjJVKo8RJ.jpg</fanart>
+    <info>Uma brilhante analista em contraterrorismo não confia em inteligência artificial, mas precisa usá-la quando a missão para capturar um robô rebelde dá errado.</info>
+    <genre>Ação | Drama | Ficção</genre>
+</item>
 <item>
     <title>Uma Prova de Coragem</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:P57CSFWASDWNUR7Z5Z26C5DIKNT5OCYO&dn</link>
