@@ -70,7 +70,26 @@
     <genre>Animação | Ação | Aventura</genre>
 </item>	
 
-
+<item>
+    <title>Star Trek – Discovery 3ª Temporada</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KYUF6YWT2NCSX5MOM34UPQBYQO7EK6ES&dn$$lsname= 01º EPISÓDIOS</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:S7JRLWR7VQWGEAGMJ7YRAUFLPYJ66SEA&dn$$lsname= 02º EPISÓDIO</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JXALIN7ML54YCJWLV5CDO3FD344PMD5Z&dn$$lsname= 03º EPISÓDIO</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:K6D5IUYIIPAWMZKHEHNDMUYJUWBUA3JA&dn$$lsname= 04º EPISÓDIO</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TOIKIWBWCYNVKWOR2DAOTWKAC3MJ3HG3&dn$$lsname= 05º EPISÓDIO</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7WRE74YWMPZER3RZWVUMXLF7FDSI7AGU&dn$$lsname= 06º EPISÓDIO</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Q6NGF3425DI34RNUVASFT4JZ4B7HIA7Z&dn$$lsname= 07º EPISÓDIO</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:P25NHQTKLSBGRPQYOM65ZDDR3GMXR4R7&dn$$lsname= 08º EPISÓDIO</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WMEAYZMXT2EQ4VMVEY6A3I7QF6QR2TEK&dn$$lsname= 09º EPISÓDIO</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NVAM4LM4376J4LYBH7XE57BCUJHLXAUN&dn$$lsname= 10º EPISÓDIO</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5UL42MT3SA5RWRTV5L3TOFEHCNTAFKKJ&dn$$lsname= 11º EPISÓDIO</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fa411c0f2ec7a35c0619f25feb77632e5a9fccc9&dn$$lsname= 12º EPISÓDIO</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12fe1a5daf5b47ccffe94e41bc30e0550d438fe1&dn$$lsname= 13º EPISÓDIO</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/98RYSYsRNKWgrAAFBn0WfploUG7.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/bSlYHSM9m2OuzPX73xU2KWWY1yk.jpg</fanart>
+    <info>Nesta temporada, a tripulação da Discovery vai aonde ninguém nunca foi: 930 anos no futuro. Lá, a Federação é bem diferente.</info>
+    <genre>Ação | Aventura | Ficção</genre>
+</item>
 <item>
     <title>Star Trek – Discovery 2ª Temporada</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E62JF7QUQTLSUW6KJFNARCSTXG5YPJAG&dn</link>
