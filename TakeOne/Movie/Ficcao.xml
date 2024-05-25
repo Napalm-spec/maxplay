@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Quatro Cavaleiros do Apocalipse</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5329ccbe8f8a8659ea1e929de4b2a13a93b4c453&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//AoB4ZIHY16GThNDObQPmOWPJTPu.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//b93N6Mb08NhFhobB8KrR5GBaPP5.jpg</fanart>
+    <info>Uma equipe de cientistas precisa correr contra o tempo para impedir uma série de desastres ao redor do planeta, anunciando que o apocalipse está próximo.</info>
+    <genre>Ficção</genre>
+</item>
+<item>
+    <title>Projeto Fantasma</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZIE57TYKRAYZNDXUON45HWTNWOVN2MQ6&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//5OnTlcjY4e0WhWqTOuGFYXmkFKJ.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//loeggqqCjQFFEVEixbO3UJ7df9v.jpg</fanart>
+    <info>Três jovens programadores encontram uma tecnologia que havia sido criada para detectar presenças sobrenaturais, porém, o projeto estava abandonado. Juntos, eles usam a tecnologia para criar um aplicativo para o smartphone. Só que, ao usar o app, o trio acaba mexendo com o que não deveriam.</info>
+    <genre>Ficção | Terror</genre>
+</item>
 <item>
     <title>Dentro de Nós</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4020c00581ac55e16d064b888097e05e17754914&dn</link>
