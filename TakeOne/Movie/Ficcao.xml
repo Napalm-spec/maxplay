@@ -2,7 +2,14 @@
 <items>
 
 
-
+<item>
+    <title>Dentro de Nós</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4020c00581ac55e16d064b888097e05e17754914&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//a9noXlmJhZCNvuAQmfH4FEjgsPz.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//pTvUNpkbLe8yirKCwQIZgFA7ZP7.jpg</fanart>
+    <info>Daniel e Shelly perderam tudo para a pandemia de LV que atualmente engolfou o mundo. A maioria não apresenta sintomas da doença, mas Daniel mal sobreviveu à infecção. Shelly parece bem, exceto por um estranho caso de sonambulismo. Os médicos não podem ajudá-la, então Daniel decide documentar a doença de sua esposa como evidência. O que ele encontra pode destruir não apenas seu relacionamento, mas o próprio mundo.</info>
+    <genre>Ficção | Terror | Suspense</genre>
+</item>
 <item>
     <title>Dentro de Nós</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4020c00581ac55e16d064b888097e05e17754914&dn</link>
