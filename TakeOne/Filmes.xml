@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
-https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Log/Netflix.png
+
 <channel>
 <name>[B][COLOR white]LANÇAMENTOS 24 [/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/2yQJtL3s/neotv.jpg</thumbnail>
@@ -13,6 +13,14 @@ https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Log/Netflix
 <channel>
 <name>[B][COLOR red] Netflix [/COLOR][/B]</name>
 <thumbnail>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Log/Netflix.png</thumbnail>
+<fanart>https://i.postimg.cc/mZFb4wMh/flag.jpg</fanart>
+<info></info>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Movie/Acao.xml</externallink>
+</channel>
+
+ <channel>
+<name>[B][COLOR red] Disney+ star+ [/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Log/Disney%20Plus.fw.png</thumbnail>
 <fanart>https://i.postimg.cc/mZFb4wMh/flag.jpg</fanart>
 <info></info>
 <externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Movie/Acao.xml</externallink>
