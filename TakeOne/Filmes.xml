@@ -25,6 +25,14 @@
 <info></info>
 <externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Movie/Acao.xml</externallink>
 </channel>
+
+<channel>
+<name>[B][COLOR blue] Amazon Prime Video [/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Log/AmazonPrimeVideo.png</thumbnail>
+<fanart>https://i.postimg.cc/mZFb4wMh/flag.jpg</fanart>
+<info></info>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Movie/Acao.xml</externallink>
+</channel>
  
 <channel>
 <name>[B][COLOR white]AÇÃO [/COLOR][/B]</name>
