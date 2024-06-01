@@ -70,7 +70,7 @@
 <thumbnail>https://i.postimg.cc/qMNXC4fx/NEOTVPT2-fw.png</thumbnail>
 <fanart>https://i.postimg.cc/mZFb4wMh/flag.jpg</fanart>
 <info> SERVIDOR 9[COLOR lime]  PORTUBAL[/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Tvs/PT-11.xml</externallink>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Tvs/PT-10.xml</externallink>
 </channel> 
 
 <channel>
@@ -78,7 +78,7 @@
 <thumbnail>https://i.postimg.cc/qMNXC4fx/NEOTVPT2-fw.png</thumbnail>
 <fanart>https://i.postimg.cc/mZFb4wMh/flag.jpg</fanart>
 <info> SERVIDOR 10[COLOR lime]  PORTUGAL[/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Tvs/PT-12.xml</externallink>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Tvs/PT-11.xml</externallink>
 </channel>  
 
 <channel>
@@ -86,7 +86,7 @@
 <thumbnail>https://i.postimg.cc/qMNXC4fx/NEOTVPT2-fw.png</thumbnail>
 <fanart>https://i.postimg.cc/mZFb4wMh/flag.jpg</fanart>
 <info> SERVIDOR 11[COLOR lime]  PORTUGAL[/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Tvs/PT-13.xml</externallink>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Tvs/PT-12.xml</externallink>
 </channel>
 
  <channel>
@@ -94,7 +94,16 @@
 <thumbnail>https://i.postimg.cc/qMNXC4fx/NEOTVPT2-fw.png</thumbnail>
 <fanart>https://i.postimg.cc/mZFb4wMh/flag.jpg</fanart>
 <info> SERVIDOR 12[COLOR lime]  PORTUGAL[/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Tvs/PT-14.xml</externallink>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Tvs/PT-13.xml</externallink>
 </channel> 
+
+ <channel>
+<name>[B][COLOR white]SERVIDOR-13[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/qMNXC4fx/NEOTVPT2-fw.png</thumbnail>
+<fanart>https://i.postimg.cc/mZFb4wMh/flag.jpg</fanart>
+<info> SERVIDOR 12[COLOR lime]  PORTUGAL[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Tvs/PT-14.xml</externallink>
+</channel>
+
   
 </channels>
