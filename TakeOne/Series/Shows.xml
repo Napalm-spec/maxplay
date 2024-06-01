@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-<item>
-    <title>Star Wars: Histórias do Império 1ª Temporada</title>
-    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:651e2e10ffa0331ce621309f3da5adc95c645156&dn</link>
-    <thumbnail>https://image.tmdb.org/t/p/original/vEe6PWm8xUuz8Xa0YitShR6p7LP.jpg</thumbnail>
-    <fanart>https://image.tmdb.org/t/p/original/3Ra70c1iHCfnTmE5y0Yosbkd0oV.jpg</fanart>
-    <info>Uma viagem ao temível Império Galáctico através dos olhos de dois guerreiros em caminhos divergentes, ambientados em épocas diferentes. Depois de perder tudo, a jovem Morgan Elsbeth navega pelo mundo imperial em expansão em direção a um caminho de vingança, enquanto a ex-Jedi Barriss Offee faz o que precisa para sobreviver em uma galáxia em rápida mudança. As escolhas que eles fizerem definirão seus destinos.</info>
-    <genre>Animação | Ação | Aventura</genre>
-</item>	
+
 <item>
     <title>Dom 3ª Temporada</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IYSCEX2OYPF7RYRZPVILWTQJULJCZH6H&dn</link>
