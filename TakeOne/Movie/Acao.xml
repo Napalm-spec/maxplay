@@ -49,7 +49,17 @@
     <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//fUC5VsQcU3m6zmYMD96R7RqPuMn.jpg</fanart>
     <info>Dan Lawson, um detetive de Chicago, viaja para a Escócia para se juntar ao detetive escocês Boyd, acompanhando o ressurgimento de um serial killer cujos crimes coincidem com um caso não solucionado que ele investigou cinco anos antes.</info>
     <genre>Ação | Drama | Suspense</genre>
-</item>    
+</item> 
+
+<item>
+    <title>Godzilla Minus One</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7cc39ca331321fa0e8b81cc525eeed7fd0f6a465&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/9XSOyim1pivuSHQqlrDj5gj2J5w.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/fY3lD0jM5AoHJMunjGWqJ0hRteI.jpg</fanart>
+    <info>Em um Japão social e economicamente devastado após o término da Segunda Guerra Mundial, a situação chega a um nível ainda mais crítico quando uma gigantesca e misteriosa criatura surge do mar para assolar o país.</info>
+    <genre>Ação, Ficção científica</genre>
+</item>
+    
 <item>
     <title>Napoleão</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:928eae3da784e22a129ea620c27c41baf3af2814&dn</link>
