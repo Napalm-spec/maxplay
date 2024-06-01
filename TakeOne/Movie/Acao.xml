@@ -1,8 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
-    
+<item>
+    <title>Kali Anjo Vingador</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33d5a7f2254b6d1f9dc41567799bfdf42f0d179c&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//npYnwimjiKqWfg4Y9A1OoiBhmoU.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//9az3E8loGzTYazvLvoEWI7Flu3M.jpg</fanart>
+    <info>Um funcionário da alfândega francesa, Eric, que investiga um grande tráfico de medicamentos falsificados de uma fábrica no Brasil, é assassinado diante da Embaixada da França no Rio de Janeiro. Lisa, sua esposa, também ex-agente da alfândega, vai até lá para esclarecer o assassinato. Numa perseguição pela cidade e pela selva, a presa se transforma em caçadora.</info>
+    <genre>Ação, Aventura</genre>
+</item>
+<item>
+    <title>Um Dia de Crime</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:707c768782bff17baaa1705231ebbb92a5de02ca&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//kEPvwX3lBNENDYpJjNJ3l0BwXvl.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//ahjfjrRiWVK8ErZBd5o4AVs6mp.jpg</fanart>
+    <info>Este thriller cheio de ação segue os esforços incansáveis que um homem está disposto a fazer para salvar as pessoas que ama. Sem sorte, Jackie Powers não vai parar até impedir seu filho de seguir seus passos no mundo do crime. Com o chefe criminoso na sua cola, um encontro ao acaso numa lanchonete de beira de estrada traça um novo caminho.</info>
+    <genre>Ação, Crime</genre>
+</item>    
 <item>
     <title>Contra o Mundo</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:204926d09e42a57cd17a05f747c02e02cdca4613&dn</link>
