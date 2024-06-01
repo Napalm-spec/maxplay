@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Rivais</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a3ed547755f7ffdb81606e02c6e30a9c0ca1c31f&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//w1j3evHiwrGiQ6e9h1l9r66uo29.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//4CcUgdiGe83MeqJW1NyJVmZqRrF.jpg</fanart>
+    <info>Tashi Duncan, atleta prodígio do tênis que se tornou treinadora, é uma força da natureza que não pede desculpas por seu jogo dentro e fora da quadra. Casada com um campeão que tem acumulado apenas derrotas nos últimos jogos, a estratégia de Tashi para a redenção de seu marido toma um rumo surpreendente quando ele deve enfrentar o fracassado Patrick nas quadras. Patrick foi o melhor amigo de seu marido, e é ex-namorado de Tashi. Quando o passado e o presente entram em colisão, e as tensões aumentam, Tashi deve se perguntar qual será o custo dessa vitória.</info>
+    <genre>Romance</genre>
+</item>
 <item>
     <title>Close</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LNEVV5LJ63MY4NAGQMBA4Z4H6ZM7GR76&dn</link>
