@@ -2,6 +2,15 @@
 <items>
 
 <item>
+    <title>Biônicos</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d77c4082661091b251ec890fd44252c6883506e4&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//ns9Tr9fda1YuPK2k6BqwqmEOkgl.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//k9X79JC2dDTcSpxuKJ3p2Teq3oZ.jpg</fanart>
+    <info>Em um futuro distópico em que as próteses robóticas dominam os esportes, duas irmãs competem no salto em distância. Só que essa rivalidade leva a um caminho sinistro.</info>
+    <genre>Ação, Aventura, Ficção científica</genre>
+</item>
+    
+<item>
     <title>Atlas</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XK7A2G5KJENDI2OYLSZNOIQ4C3BKSHJM&dn</link>
     <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//bcM2Tl5HlsvPBnL8DKP9Ie6vU4r.jpg</thumbnail>
