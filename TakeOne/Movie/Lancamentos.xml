@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+<item>
+    <title>Turno Maldito</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:40d48f8a91ab156366bfcbc618c8252d62ffdee2&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//qpqwzvqD0VwwAQ31egAkWOBEl2m.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//3JVNLc6zIy6oZyqJrbvuzwO2RB4.jpg</fanart>
+    <info>Em uma madrugada monótona no trabalho, Bola e Geleia, dois funcionários de um posto de gasolina no meio do nada, começam a presenciar acontecimentos cada vez mais amedrontadores. Ao chamar seu chefe para ajudá-los, descobrirão que gerenciar um posto pode ser mais perigoso do que imaginavam.</info>
+    <genre>Terror, Thriller</genre>
+</item>
 
 <item>
     <title>The Dry 2: Força da Natureza</title>
