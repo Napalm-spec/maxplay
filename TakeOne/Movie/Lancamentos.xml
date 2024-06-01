@@ -2,15 +2,25 @@
 <items>
 
 
-    
+ <item>
+    <title>Kali Anjo Vingador</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33d5a7f2254b6d1f9dc41567799bfdf42f0d179c&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//npYnwimjiKqWfg4Y9A1OoiBhmoU.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//9az3E8loGzTYazvLvoEWI7Flu3M.jpg</fanart>
+    <info>Um funcionário da alfândega francesa, Eric, que investiga um grande tráfico de medicamentos falsificados de uma fábrica no Brasil, é assassinado diante da Embaixada da França no Rio de Janeiro. Lisa, sua esposa, também ex-agente da alfândega, vai até lá para esclarecer o assassinato. Numa perseguição pela cidade e pela selva, a presa se transforma em caçadora.</info>
+    <genre>Ação, Aventura</genre>
+</item>
+
 <item>
-    <title>Die Hart 2: Die Harter</title>
-    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3bfc321935fc70812e0498025d22c43e3229de7e&dn</link>
-    <thumbnail>https://image.tmdb.org/t/p/original/mheNQGAzXqB2EFsNGAvZ4PINWJX.jpg/thumbnail>
-    <fanart>https://image.tmdb.org/t/p/original/1qfrRxIVgtHlIUowq6kxsNZv5KB.jpg</fanart>
-    <info>Hart plans an innovative action film with unscripted, unexpected scenes to cement his legacy as the greatest. However, a blind spot leads him to fall victim to a vengeful plot from his past.</info>
-    <genre>Comédia, Ação, Thriller</genre>
-</item>    
+    <title>Uma Parte de Você</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0c774eddbf41e43eaf62aa11d78942b4f3ea52f5&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//19txmVPYCpE5SA3Pdz4y5YRxzHF.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//gGW1Je4CaAc1m5QEre6WjA97VKP.jpg</fanart>
+    <info>Uma adolescente luta para reconstruir seu mundo despedaçado neste drama de amadurecimento emocionante sobre quem fica para trás.</info>
+    <genre>Drama</genre>
+</item>
+   
+   
 <item>
     <title>Gaga Chromatica Ball</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QZBHBKDCZUSUYM2G4A7TY54NL2HKQX7W&dn</link>
