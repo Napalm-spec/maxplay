@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>O Tarô da Morte</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ee1b2a1218693ac282d3df0ed6b17668b3f9eb22&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//fGamTFPbJAAUnC2fbJbApTgi9EE.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//oavbmL3iddJUmC8nQjL6bLHwAP4.jpg</fanart>
+    <info>Quando um grupo de amigos irresponsavelmente viola a regra sagrada da leitura de tarô, a de nunca usar o deque de outra pessoa, eles libertam um mal inominável que estava preso nas cartas. Um por um, eles encaram seu destino e acabam em uma corrida contra a morte para escapar do futuro previsto para eles nas cartas.</info>
+    <genre>Terror, Thriller</genre>
 
 <item>
     <title>O Concerto Maldito, Sinfonia do Mal</title>
