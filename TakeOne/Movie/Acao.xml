@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+    
+<item>
+    <title>Contra o Mundo</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:204926d09e42a57cd17a05f747c02e02cdca4613&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//eBfLxyzwCCACTieZ2NH41m0jilk.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//1m1rXopfNDVL3UMiv6kriYaJ3yE.jpg</fanart>
+    <info>Garoto jura vingança depois que sua família é assassinada por Hilda Van Der Koy, a matriarca impiedosa de uma dinastia pós-apocalíptica corrupta que deixou o órfão, surdo e sem voz. Impulsionado por sua voz interior, baseada em seu videogame favorito de infância, Garoto treina com um misterioso xamã para se tornar um instrumento de morte e é solto na véspera do abate anual de dissidentes. A confusão começa quando ele comete um caos sangrento nas artes marciais, incitando uma ira de carnificina e derramamento de sangue. Enquanto tenta se orientar neste reino delirante, Garoto logo se junta a um grupo de resistência desesperado, enquanto briga com o aparente fantasma de sua irmã mais nova rebelde.</info>
+    <genre>Ação, Thriller, Crime, Ficção científica</genre>
+</item>
 <item>
     <title>Biônicos</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d77c4082661091b251ec890fd44252c6883506e4&dn</link>
