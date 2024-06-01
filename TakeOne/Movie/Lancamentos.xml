@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Godzilla Minus One</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7cc39ca331321fa0e8b81cc525eeed7fd0f6a465&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/9XSOyim1pivuSHQqlrDj5gj2J5w.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/fY3lD0jM5AoHJMunjGWqJ0hRteI.jpg</fanart>
+    <info>Em um Japão social e economicamente devastado após o término da Segunda Guerra Mundial, a situação chega a um nível ainda mais crítico quando uma gigantesca e misteriosa criatura surge do mar para assolar o país.</info>
+    <genre>Ação, Ficção científica</genre>
+</item>
 <item>
     <title>Turno Maldito</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:40d48f8a91ab156366bfcbc618c8252d62ffdee2&dn</link>
