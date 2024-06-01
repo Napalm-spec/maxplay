@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+<item>
+    <title>A Primeira Profecia</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d5b43f8350f1f1e06b715259c1126c08a79cbd7f&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//ybAcizMKEdeVreFj2R9effkF5Ii.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//tkHQ7tnYYUEnqlrKuhufIsSVToU.jpg</fanart>
+    <info>Uma mulher começa a questionar a sua própria fé quando descobre uma terrível conspiração para provocar o nascimento do mal encarnado em Roma.</info>
+    <genre>Terror</genre>
+</item>    
 <item>
     <title>O Tarô da Morte</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ee1b2a1218693ac282d3df0ed6b17668b3f9eb22&dn</link>
