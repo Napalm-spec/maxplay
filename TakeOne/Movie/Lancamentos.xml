@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+<item>
+    <title>Gaga Chromatica Ball</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QZBHBKDCZUSUYM2G4A7TY54NL2HKQX7W&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//8uWhPiEcMDI8XelSmfTobTmPyA1.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//o44P2W9ga6rISAVyOrChHqXjN42.jpg</fanart>
+    <info>Nesse show imersivo gravado ao vivo, Lady Gaga apresenta suas músicas icônicas diante de mais de 50.000 fãs.</info>
+    <genre>Música</genre>
+</item>
+
+<item>
+    <title>O Tarô da Morte</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ee1b2a1218693ac282d3df0ed6b17668b3f9eb22&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//fGamTFPbJAAUnC2fbJbApTgi9EE.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//oavbmL3iddJUmC8nQjL6bLHwAP4.jpg</fanart>
+    <info>Quando um grupo de amigos irresponsavelmente viola a regra sagrada da leitura de tarô, a de nunca usar o deque de outra pessoa, eles libertam um mal inominável que estava preso nas cartas. Um por um, eles encaram seu destino e acabam em uma corrida contra a morte para escapar do futuro previsto para eles nas cartas.</info>
+    <genre>Terror, Thriller</genre>
+</item>
 
 <item>
     <title>Rivais</title>
