@@ -2,14 +2,6 @@
 <items>
 
 <item>
-    <title>Quatro Cavaleiros do Apocalipse</title>
-    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5329ccbe8f8a8659ea1e929de4b2a13a93b4c453&dn</link>
-    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//AoB4ZIHY16GThNDObQPmOWPJTPu.jpg</thumbnail>
-    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//b93N6Mb08NhFhobB8KrR5GBaPP5.jpg</fanart>
-    <info>Uma equipe de cientistas precisa correr contra o tempo para impedir uma série de desastres ao redor do planeta, anunciando que o apocalipse está próximo.</info>
-    <genre>Ficção</genre>
-</item>
-<item>
     <title>Projeto Fantasma</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZIE57TYKRAYZNDXUON45HWTNWOVN2MQ6&dn</link>
     <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//5OnTlcjY4e0WhWqTOuGFYXmkFKJ.jpg</thumbnail>
@@ -34,6 +26,13 @@
     <genre>Ficção | Suspense | Terror</genre>
 </item>
 
-
+<item>
+    <title>Quarteto Fantástico</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AA22E35E89F00A5810E5D1F539B687AC7512844D&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//XJ8jZ4hGyusnN41NnxR0vv5ghS.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//gzhVcfC5j0sTnS4WJzBrCS0Vkr0.jpg</fanart>
+    <info>Quatro jovens astronautas ganham superpoderes ao serem transportados a um universo alternativo e ficarem expostos à radiação cósmica. Eles precisam usar suas novas habilidades para proteger o planeta contra o Doutor Destino.</info>
+    <genre>Ficção | Ação | Aventura</genre>
+</item>
 
 </items>
