@@ -1,5 +1,5 @@
-subtitle="https://raw.githubusercontent.com/zoreu/legenda-facil-para-kodi/master/legendas/filmes/parasita2019/Parasite%20(2019)%20(2160p%20BluRay%20x265%2010bit%20HDR%20Bandi).srt"
-language="Portuguese (Brasil)"
+subtitle="https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Legend/Die.Hart.2.Die.Harter.2024.720p.AMZN.WEBRip.800MB.x264-GalaxyRG.srt"
+language="Portuguese (Portugal)"
 flag="pb"
 rating="5"
 
