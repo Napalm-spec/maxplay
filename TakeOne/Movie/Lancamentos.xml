@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+<item>
+    <title>Jorge da Capadócia</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JBTRV677UQP3TXOC52KGVDV7LKXMTYA2&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//ynDiIH3bfEfAoAX5MOno3BcIiZs.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//7GBK2U3jZbePUMQzP7Fr0aeN2u4.jpg</fanart>
+    <info>Em 303 D. C., após ter vencido mais uma grande batalha, Jorge é condecorado como novo capitão do exército, quando o Imperador Diocleciano inicia sua última grande perseguição aos cristãos no império romano. Diante das cruéis ordenações impostas ao povo e a pressão para que se rendam aos deuses cultuados no império, Jorge, um homem acima de tudo, agora se vê diante de seu maior desafio ser fiel à sua fé e as suas convicções ou sucumbir às ordens do imperador Diocleciano.</info>
+    <genre>Ação | Drama | História</genre>
+</item>
+<item>
+    <title>Autoconfiança</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:75HSQF3ZG6EOBIK5ZVABEI5DLMFP7H5F&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//soLaiiEGZoLUfEUglw4bhOfQryn.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//jsp420JTZ7EK5LhpwzunE1Pu43d.jpg</fanart>
+    <info>Nesta hilária comédia de suspense com Jake Johnson e Anna Kendrick, a vida mundana de um homem de meia-idade se transforma quando ele tem a chance de ganhar um milhão de dólares se escapar de assassinos por 30 dias num reality show da dark web.</info>
+    <genre>Comédia | Suspense</genre>
+</item>    
 <item>
     <title>Guerra Civil</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CDCB907870530674A313BF58C619962076D3F5C4&dn</link>
