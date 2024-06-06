@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Sob as Águas do Sena</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f94a0876f65abe94078b44c78cfdf1a6a720af1&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//njsyAXtUcPjLCjOfGvtNLH4DHL2.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//xQkotnzv12fm9FF29if1cBLsyU3.jpg</fanart>
+    <info>Um tubarão gigante apareceu no rio Sena, em Paris. Para evitar a catástrofe, uma cientista vai ter que encarar as tragédias do próprio passado.</info>
+    <genre>Ação | Suspense | Terror</genre>
+</item>
 <item>
     <title>Jorge da Capadócia</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JBTRV677UQP3TXOC52KGVDV7LKXMTYA2&dn</link>
