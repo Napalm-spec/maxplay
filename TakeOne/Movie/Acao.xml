@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+<item>
+    <title>O Dublê</title>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8933affd9a29dd10bda0c77bd76de12aba3c9a1b&dn$$lsname=WEB-DL 1080p Dual Áudio 5.1 (2.50 GB)</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c59911361dbb197682e519f329adfb13083c08d4&dn$$lsname=WEB-DL 1080p FULL HD Dual Áudio 5.1 (6.62 GB)</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f1e0bd4c18f1da0d0b1db45dffd50f4eebf472f2&dn$$lsname=WEB-DL 2160p 4K COMPACTO Dual Áudio 5.1 (4.12 GB)</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//7AkiDy6DVlfhJusglf6tvifX6dB.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//H5HjE7Xb9N09rbWn1zBfxgI8uz.jpg</fanart>
+    <info>Colt é um dublê que tem uma tremenda queda pela diretora do filme que está filmando. As coisas começam a dar errado quando o ator principal do filme desaparece.</info>
+    <genre>Ação | Drama | Comédia</genre>
+</item>    
 <item>
     <title>Sob as Águas do Sena</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f94a0876f65abe94078b44c78cfdf1a6a720af1&dn</link>
