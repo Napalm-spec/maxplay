@@ -1278,7 +1278,7 @@ http://7vnx.xyz:8080/emersonquirino/mrtv04xx/22538
 #EXTINF:-1 tvg-id="foxsports2.br" tvg-name="ESPN 5 SD²" tvg-logo="http://7vnx.xyz/logos/espn5sd.png" group-title="CANAIS | ESPN",ESPN 5 SD²
 http://7vnx.xyz:8080/emersonquirino/mrtv04xx/22343
 #EXTINF:-1 tvg-id="historychannel.br" tvg-name="HISTORY FHD¹" tvg-logo="https://i.pinimg.com/originals/25/83/ba/2583ba30a62f0f6b8f1d799844d2b04e.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY FHD¹
-http://7vnx.xyz:8080/emersonquirino/mrtv04xx/45217
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://7vnx.xyz:8080/emersonquirino/mrtv04xx/45217
 #EXTINF:-1 tvg-id="historychannel.br" tvg-name="HISTORY FHD²" tvg-logo="https://i.pinimg.com/originals/25/83/ba/2583ba30a62f0f6b8f1d799844d2b04e.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY FHD²
 http://7vnx.xyz:8080/emersonquirino/mrtv04xx/22688
 #EXTINF:-1 tvg-id="historychannel.br" tvg-name="HISTORY HD¹" tvg-logo="https://i.pinimg.com/originals/25/83/ba/2583ba30a62f0f6b8f1d799844d2b04e.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY HD¹
