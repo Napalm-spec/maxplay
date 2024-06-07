@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+<item>
+    <title>Baki Hanma x Kengan Ashura</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d61074cad53fc1a63630413288536024a7fa4ff5&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//sXybjRq6BsCkWcDBfNphSH9biqn.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//kti9ufHhCKaOLjg2to4RKfrlkmh.jpg</fanart>
+    <info>É o confronto final. Os lutadores mais fortes de “Baki Hanma” e “Kengan Ashura” se enfrentam neste crossover inédito de artes marciais.</info>
+    <genre>Animação | Ação</genre>
+</item>	
 <item>
     <title>Rafa Márquez: O Capitão</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a6576d7e69b2dc478efefaa71eb8f71858c2b85a&dn</link>
