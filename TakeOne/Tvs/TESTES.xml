@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="PT:) RTP 1 ᴴᴰ" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/RTP_1_HD.png" group-title="teste 3",PT:) RTP 1 ᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://admin.newstarttv.cf:8080/live/jorgeteixeira/969296016/35066.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: 24 Kitchen FHD" tvg-logo="http://xplatinmedia.com:8080/images/012e3b4e674062a69790b7e7a334e4b6.png" group-title="PORTUGUESE 11",PT: 24 Kitchen FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://defaultgen.com:3050/rickybrown177@gmail.com/BAkz968nkP/603919
