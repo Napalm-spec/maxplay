@@ -1,4 +1,1 @@
 #EXTM3U
-#EXTINF:-1 xui-id="4" tvg-id="RTPD1" tvg-name="RTP ① ᴴᴰ" tvg-logo="http://top-logos.xyz/pt/1rtp.png" group-title="PORTUGAL test2",RTP ① ᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/rTEO7IR5el/fULomd1wS5/3.m3u8
-
