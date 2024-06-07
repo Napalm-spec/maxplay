@@ -84,7 +84,21 @@
     <genre>Animação | Ação | Aventura</genre>
 </item>	
 
-
+<item>
+    <title>Star Trek – Discovery 1ª Temporada</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:82ada2ec5f80251783016881fd9df5b60f33de69&dn$$lsname= 01º E 02º EPISÓDIOS</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1f7b58474060545b4dec0dc17bebb502b62a7872&dn$$lsname= 03º EPISÓDIO</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8f8c32ede5e8dccab6fdab908a9be6204e76f998&dn$$lsname= 04º EPISÓDIO</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02af219275b818853ad99cad32c44c33591cea0a&dn$$lsname= 05º EPISÓDIO</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:826e375d9e35bde11eacfaffba0cb70cb7e38ddd&dn$$lsname= 06º EPISÓDIO</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36e6d30f7a18820194b4870f93bec0c328f93e8b&dn$$lsname= 07º EPISÓDIO</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:af21ff992cc547b595ae9d93e40ffa36da7af5a0&dn$$lsname= 08º EPISÓDIO</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f3934544f361ca6755aee74abddd31594758e34c&dn$$lsname= 09º E 10º EPISÓDIOS</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/3tWqJe8ojQtxTgYrSyXnsZBqHLn.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/bSlYHSM9m2OuzPX73xU2KWWY1yk.jpg</fanart>
+    <info>A quinta e última temporada leva a Capitã Burnham e a tripulação do U.S.S. Discovery a desvendar um mistério que os enviará numa aventura épica pela galáxia para encontrar um poder antigo cuja existência foi deliberadamente escondida durante séculos. Mas há outros na caça também... inimigos perigosos que estão desesperados para reivindicar o prêmio para si e não vão parar diante de nada para consegui-lo.</info>
+    <genre>Ação | Aventura | Drama</genre>
+</item>
 <item>
     <title>Star Trek – Discovery 4ª Temporada</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:70f62cbda2aebaffef86e5a0afb9bc4dee224062&dn$$lsname= 01º E 02º EPISÓDIOS</link>
