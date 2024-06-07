@@ -102,7 +102,7 @@ http://51.79.39.236:80/clenio5339966/99663344/6132
 #EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL HD²" tvg-logo="https://prostore.app/logos/discoverychannel.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL HD²
 http://51.79.39.236:80/clenio5339966/99663344/97173
 #EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL FHD¹" tvg-logo="https://prostore.app/logos/discoverychannel.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL FHD¹
-http://51.79.39.236:80/clenio5339966/99663344/69150
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/clenio5339966/99663344/69150
 #EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL FHD²" tvg-logo="https://prostore.app/logos/discoverychannel.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL FHD²
 http://51.79.39.236:80/clenio5339966/99663344/97172
 #EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL FHD H265¹" tvg-logo="https://prostore.app/logos/discoverychannel.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL FHD H265¹
