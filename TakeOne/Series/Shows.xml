@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Percy Jackson e os Olimpianos 1ª Temporada</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3b9227bdccf55eba85e0d1bf7c33aa769011f549&dn$$lsname= 01º E 02º EPISÓDIOS</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:41df6136e96919b0fdef65e107a0519a86a6c906&dn$$lsname= 03º EPISÓDIO</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95df1184fcf52cfbc66bdcd3f75711bfe9a5556a&dn$$lsname= 04º EPISÓDIO</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D6RSYT45Y5O3LXFSTL6RE4R4PFXDDLCX&dn$$lsname= 05º EPISÓDIO</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:16767a39fbb8cfab8d1984c4af2ba3d14b18a66b&dn$$lsname= 06º EPISÓDIO</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a7f5d9f2e6157f0e2526825e4ddaf158be24fa91&dn$$lsname= 07º EPISÓDIO</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:998b9da11102e56175a5bee67c85cc8da04acfd3&dn$$lsname= 08º EPISÓDIO</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/qVDvVdAjCwlQ9t301tPg11Ksq4o.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/h5jlI68Dutp5dq5dbFXRBXN79yE.jpg</fanart>
+    <info>Percy Jackson terá uma missão perigosa. Enquanto enfrenta monstros e engana deuses!</info>
+    <genre>Ação | FIcção | Drama</genre>
+</item>
 <item>
     <title>Dom 3ª Temporada</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IYSCEX2OYPF7RYRZPVILWTQJULJCZH6H&dn</link>
