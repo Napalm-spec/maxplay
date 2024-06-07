@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Rafa Márquez: O Capitão</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a6576d7e69b2dc478efefaa71eb8f71858c2b85a&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//A1BNL3BLzrUkm7MN9VlkTyR2DCa.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//raPQk4br4gEr6JYc2naQswRI1H6.jpg</fanart>
+    <info>O zagueiro mexicano conta sobre suas vitórias e derrotas dentro e fora do campo, revelando um olhar intimista sobre seus sonhos, suas jornadas e sua determinação.</info>
+    <genre>Documentário</genre>
+</item>
 <item>
     <title>O Dublê</title>
 	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8933affd9a29dd10bda0c77bd76de12aba3c9a1b&dn$$lsname=WEB-DL 1080p Dual Áudio 5.1 (2.50 GB)</link>
