@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Na Terra de Santos e Pecadores</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e46d5d5f862f7c5a88ef24b15b2460eef4216a9&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//phZWaMnHK1YfWY7WyUAsU61Fj8s.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//hd95kH9RgN3W78UaFU6Sdpy9Mfl.jpg</fanart>
+    <info>Em um remoto vilarejo irlandês, Finbar é forçado a lutar pela redenção após uma vida inteira de pecados, mas que preço ele está disposto a pagar? Na terra de santos e pecadores, alguns pecados não podem ser enterrados.</info>
+    <genre>Ação | Crime | Suspense</genre>
+</item>
 <item>
     <title>Baki Hanma x Kengan Ashura</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d61074cad53fc1a63630413288536024a7fa4ff5&dn</link>
