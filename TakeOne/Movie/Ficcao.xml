@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+ <item>
+    <title>Cora: O Último Suspiro</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:104e4637f7e5422d8fc5c764ea9d10856d215185&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//odyyYypYCrNjO7z57oSemdFbgaE.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//5i4go3D075xhHR0RIyPfzBbOd3u.jpg</fanart>
+    <info>Cora se passa décadas no futuro, depois que uma névoa mortal cobriu a Terra, efetivamente eliminando a maior parte da humanidade. Agora, seguimos Cora, uma mulher que trabalha para uma organização que tenta reverter os efeitos do apocalipse.</info>
+    <genre>Ficção | Suspense | Terror</genre>
+</item>   
 <item>
     <title>Projeto Fantasma</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZIE57TYKRAYZNDXUON45HWTNWOVN2MQ6&dn</link>
