@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+ <item>
+    <title>Uma Vida de Esperança</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:417c57c7a1d1a388bb3b29a02f8164f395302eb2&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//cjodugwpEy2CRf7xUp1YxIy0MbF.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//rBo0yYQTruIYEuXdyCAyVVlNb2H.jpg</fanart>
+    <info>Inspirado na incrível história real de uma cabeleireira de Louisville, Kentucky, que sozinha, reuniu  uma comunidade inteira para ajudar um pai viúvo a salvar a vida de sua filha de 5 anos gravemente doente, após sua cidade ter sido atingida por uma grande nevasca causada pela onda de frio norte-americana de 1994.</info>
+    <genre>Drama</genre>
+</item>   
 <item>
     <title>Basma</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ac4ec83f187fc6e1af50789e9deb5261baeed3cd&dn</link>
