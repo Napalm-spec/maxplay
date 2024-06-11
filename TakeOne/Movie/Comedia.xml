@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>A Sociedade Norte-Americana dos Negros Mágicos</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38cfe96eea9dc147ddc8de313a8b0ad7cd72da4f&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//kGc9SKYuRg63H4IJw0HDUor0SU8.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//Epiti6QUVuEwmNPVHgmUMaIClH.jpg</fanart>
+    <info>A Sociedade Norte-Americana dos Negros Mágicos é uma comédia satírica renovadora sobre um jovem, Aren, que é recrutado por uma sociedade secreta de negros mágicos que dedicam suas vidas a uma causa da maior importância: facilitar a vida dos brancos.</info>
+    <genre>Comédia | Fantasia</genre>
+</item>
  <item>
     <title>Os Farofeiros 2</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:befc88ff0585382474dd725fa315fc17ef39dba4&dn</link>
