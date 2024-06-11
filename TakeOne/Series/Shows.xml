@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+<item>
+    <title>The Walking Dead: Daryl Dixon 1ª Temporada</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73b546cd6d147e82e30cc2b7cd61b5e8d5da4167&dn$$lsname= 01º E 04º EPISÓDIOS</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:58d1620013b57ce2b2c564256b7a782334936ebe&dn$$lsname= 05º EPISÓDIO</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f356f5adba85cecc142927081dd1050244af7170&dn$$lsname= 06º EPISÓDIO</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/kdM24KINoAVK9wjCtDJCkdffEpc.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/uh74RN8lCY2JyZnbjoCoxzJo6a1.jpg</fanart>
+    <info>Daryl Dixon chega à costa da França e luta para entender como chegou lá e por quê. A série acompanha a sua jornada por uma França quebrada, mas resiliente, enquanto ele tenta encontrar um caminho de volta para casa. As conexões que ele forma no caminho, no entanto, complicam os seus planos.</info>
+    <genre>Terror</genre>
+</item>	
 <item>
     <title>Percy Jackson e os Olimpianos 1ª Temporada</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3b9227bdccf55eba85e0d1bf7c33aa769011f549&dn$$lsname= 01º E 02º EPISÓDIOS</link>
