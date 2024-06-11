@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+<item>
+    <title>MR-9: Missão Mortal</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:22c18bb77f5557951f6178bae11ca7643ccfc553</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//8Js658DZ6zaY135wpRnINGuTPOL.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//fZv4EldEPurSz0d2uVIoL4Sng8x.jpg</fanart>
+    <info>Com Frank Grillo. Um espião de elite de Bangladesh e um agente da CIA formam uma aliança improvável para deter um império do crime implacável liderado por um magnata inescrupuloso.</info>
+    <genre>Ação | Drama | Suspense</genre>
+</item>	
 <item>
     <title>Na Terra de Santos e Pecadores</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e46d5d5f862f7c5a88ef24b15b2460eef4216a9&dn</link>
