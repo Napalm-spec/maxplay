@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Vampiras: As Noivas de Drácula</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HIWPUSXWDEARV2RJBXFNQ5SEBH3TRTB5&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//pi4tozVXTwlV6N0ubFWVjMtPtBr.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//4OwkbRacTGBkHRehVbmtsLoV84u.jpg</fanart>
+    <info>Depois de mais de 300 anos escondidas, as noivas de Drácula, Luna, Adriana e sua nova aprendiz Katya, devem se unir mais uma vez para deter a ameaça mais diabólica de seu passado, sua irmã Mina.</info>
+    <genre>Ação | Ficção | Suspense</genre>
+</item>
 <item>
     <title>MR-9: Missão Mortal</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:22c18bb77f5557951f6178bae11ca7643ccfc553</link>
