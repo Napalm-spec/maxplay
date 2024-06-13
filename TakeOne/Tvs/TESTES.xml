@@ -1,1 +1,3 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="Globo SP HD" tvg-logo="http://prinplay.com.br/server/Globo%20S%C3%A3o%20Paulo.png" group-title="Globo ",Globo SP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://dns.hibrido.club:8080/live/Amanda31730/Cetv50829571/1948.m3u8
