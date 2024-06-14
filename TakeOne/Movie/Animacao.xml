@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+<item>
+    <title>Ultraman: A Ascensão</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:O5BNOYRCOKEMJKQJ4NRT26LHZZXLCPID&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//rvRqCFjREq3u6C8LNAyMEp1WQCO.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//SI22DaQXIfDvLrNBHGpSVShrsC.jpg</fanart>
+    <info>Um atleta de sucesso volta à sua terra natal para assumir o papel do pai e se tornar o lendário Ultraman, protegendo Tóquio de monstros gigantes.</info>
+    <genre>Animação | Ação | Ficção</genre>
+</item>    
 <item>
     <title>Baki Hanma x Kengan Ashura</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d61074cad53fc1a63630413288536024a7fa4ff5&dn</link>
