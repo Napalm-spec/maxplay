@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 1 HD¹" tvg-logo="https://i.postimg.cc/SQ5BbSWC/primevideoHD.png" group-title="PRIME VIDEO / PARAMOUNT+",PRIME VIDEO 1 HD¹
+http://174.138.183.214:80/live/3058668877/9727154006/205502.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 1 HD²" tvg-logo="https://i.postimg.cc/dtyzqbBX/primevideoHD².png" group-title="PRIME VIDEO / PARAMOUNT+",PRIME VIDEO 1 HD²
+http://174.138.183.214:80/live/3058668877/9727154006/205503.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 2 HD¹" tvg-logo="https://i.postimg.cc/SQ5BbSWC/primevideoHD.png" group-title="PRIME VIDEO / PARAMOUNT+",PRIME VIDEO 2 HD¹
+http://174.138.183.214:80/live/3058668877/9727154006/205504.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 2 HD²" tvg-logo="https://i.postimg.cc/dtyzqbBX/primevideoHD².png" group-title="PRIME VIDEO / PARAMOUNT+",PRIME VIDEO 2 HD²
+http://174.138.183.214:80/live/3058668877/9727154006/205505.m3u8
