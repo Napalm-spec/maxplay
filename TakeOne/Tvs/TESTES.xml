@@ -1,1 +1,3 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="DISCOVERY CHANNEL FHD¹" tvg-logo="http://i.imgur.com/dxIZENC.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://7go.xyz:8080/3496540745/useplay3496/22658
