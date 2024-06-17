@@ -9,5 +9,62 @@
 <externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Tvs/BR-01.xml</externallink>
 </channel> 
   
+<channel>
+<name>[B][COLOR white]SERVIDOR-2[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/MKg07Nq2/NEOTVBR2-fw.png</thumbnail>
+<fanart>https://i.postimg.cc/mZFb4wMh/flag.jpg</fanart>
+<info> SERVIDOR 2[COLOR lime]  BRASIL[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Tvs/BR-02.xml</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR white]SERVIDOR-3[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/MKg07Nq2/NEOTVBR2-fw.png</thumbnail>
+<fanart>https://i.postimg.cc/mZFb4wMh/flag.jpg</fanart>
+<info> SERVIDOR 3[COLOR lime]  BRASIL[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Tvs/BR-03.xml</externallink>
+</channel>  
+
+<channel>
+<name>[B][COLOR white]SERVIDOR-4[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/MKg07Nq2/NEOTVBR2-fw.png</thumbnail>
+<fanart>https://i.postimg.cc/mZFb4wMh/flag.jpg</fanart>
+<info> SERVIDOR 4[COLOR lime]  BRASIL[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Tvs/BR-04.xml</externallink>
+</channel> 
+
+<channel>
+<name>[B][COLOR white]SERVIDOR-5[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/MKg07Nq2/NEOTVBR2-fw.png</thumbnail>
+<fanart>https://i.postimg.cc/mZFb4wMh/flag.jpg</fanart>
+<info> SERVIDOR 5[COLOR lime]  BRASIL[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Tvs/BR-05.xml</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR white]SERVIDOR-6[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/MKg07Nq2/NEOTVBR2-fw.png</thumbnail>
+<fanart>https://i.postimg.cc/mZFb4wMh/flag.jpg</fanart>
+<info> SERVIDOR 6[COLOR lime]  BRASIL[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Tvs/BR-06.xml</externallink>
+</channel>  
+
+<channel>
+<name>[B][COLOR white]SERVIDOR-7[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/MKg07Nq2/NEOTVBR2-fw.png</thumbnail>
+<fanart>https://i.postimg.cc/mZFb4wMh/flag.jpg</fanart>
+<info> SERVIDOR 7[COLOR lime]  BRASIL[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Tvs/BR-07.xml</externallink>
+</channel> 
+
+<channel>
+<name>[B][COLOR white]SERVIDOR-8[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/MKg07Nq2/NEOTVBR2-fw.png</thumbnail>
+<fanart>https://i.postimg.cc/mZFb4wMh/flag.jpg</fanart>
+<info> SERVIDOR 8[COLOR lime]  BRASIL[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Tvs/BR-08.xml</externallink>
+</channel>
+
+  
   
 </channels>
