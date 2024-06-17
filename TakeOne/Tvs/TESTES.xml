@@ -1,3 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="http://dns.panela.online:80/images/e1dffa9e96103f8bfbaee94365d88cf9.jpg" group-title="PORTUGAL",DISCOVERY CHANNEL FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR springgreen]@Neo.TV[/COLOR]&amp;url=http://pt.panela.online:80/live/luiz202290/8162486620IP/220829.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://pt.panela.online:80/live/luiz202290/8162486620IP/220829.m3u8
