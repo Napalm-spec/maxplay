@@ -1,13 +1,56 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
 
+
 <channel>
 <name>[B][COLOR white]SERVIDOR-1[/COLOR][/B]</name>
-<thumbnail>https://i.postimg.cc/MKg07Nq2/NEOTVBR2-fw.png</thumbnail>
+<thumbnail>https://i.postimg.cc/qMNXC4fx/NEOTVPT2-fw.png</thumbnail>
 <fanart>https://i.postimg.cc/mZFb4wMh/flag.jpg</fanart>
-<info> SERVIDOR 1[COLOR lime] BRASIL[/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Tvs/BR-01.xml</externallink>
+<info> SERVIDOR 1[COLOR lime]  PORTUBAL[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Tvs-PT/SERVER-01.xml</externallink>
+</channel>
+ 
+<channel>
+<name>[B][COLOR white]SERVIDOR-2[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/qMNXC4fx/NEOTVPT2-fw.png</thumbnail>
+<fanart>https://i.postimg.cc/mZFb4wMh/flag.jpg</fanart>
+<info> SERVIDOR 2[COLOR lime]  PORTUBAL[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Tvs-PT/SERVER-02.xml</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR white]SERVIDOR-3[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/qMNXC4fx/NEOTVPT2-fw.png</thumbnail>
+<fanart>https://i.postimg.cc/mZFb4wMh/flag.jpg</fanart>
+<info> SERVIDOR 3[COLOR lime]  PORTUBAL[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Tvs-PT/SERVER-03.xml</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR white]SERVIDOR-4[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/qMNXC4fx/NEOTVPT2-fw.png</thumbnail>
+<fanart>https://i.postimg.cc/mZFb4wMh/flag.jpg</fanart>
+<info> SERVIDOR 4[COLOR lime]  PORTUBAL[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Tvs-PT/SERVER-04.xml</externallink>
 </channel> 
   
+<channel>
+<name>[B][COLOR white]SERVIDOR-5[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/qMNXC4fx/NEOTVPT2-fw.png</thumbnail>
+<fanart>https://i.postimg.cc/mZFb4wMh/flag.jpg</fanart>
+<info> SERVIDOR 5[COLOR lime]  PORTUBAL[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Tvs-PT/SERVER-05.xml</externallink>
+</channel>   
+
+<channel>
+<name>[B][COLOR white]SERVIDOR-6[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/qMNXC4fx/NEOTVPT2-fw.png</thumbnail>
+<fanart>https://i.postimg.cc/mZFb4wMh/flag.jpg</fanart>
+<info> SERVIDOR 6[COLOR lime]  PORTUBAL[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Tvs-PT/SERVER-06.xml</externallink>
+</channel> 
+
+
+
   
 </channels>
