@@ -18,11 +18,19 @@
 </channel>   
   
 
- <channel>
+<channel>
+<name>[B][COLOR white]PLUTO TV[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/G25bJK9y/PLUNTO.jpg</thumbnail>
+<fanart>https://i.postimg.cc/mZFb4wMh/flag.jpg</fanart>
+<info> PLUTO TV[COLOR lime]  BRASIL[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Tvs-BR/PLUNTO.TV.BR.xml</externallink>
+</channel> 
+  
+<channel>
 <name>[B][COLOR white]SERVIDOR-TESTE[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/g00YKPVL/teste.png</thumbnail>
 <fanart>https://i.postimg.cc/mZFb4wMh/flag.jpg</fanart>
-<info> SERVIDOR PARA TESTE[COLOR lime]  PORTUGAL[/COLOR]</info>
+<info> SERVIDOR PARA [COLOR lime]  TESTE[/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Tvs/TESTES.xml</externallink>
 </channel>  
   
