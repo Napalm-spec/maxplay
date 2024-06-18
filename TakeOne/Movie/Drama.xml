@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>A  Teia</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:N3RRJC7NE2GSSAXOXWCCCTSG2UJMN4KA&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//f4pxgFHotbm8rzIPxW1zVvugYOb.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//mYPsDej53aibXId6BSxb3Q5fAHg.jpg</fanart>
+    <info>O ex-detetive de homicídios Roy Freeman (Russell Crowe) passa por um tratamento revolucionário para Alzheimer quando é chamado para reexaminar um brutal caso de seu passado.  Intrigado e lutando para recuperar sua memória, Roy pede a ajuda de seu ex-parceiro (Tommy Flanagan) para retomar a investigação envolvendo um condenado no corredor da morte, que ele prendeu dez anos atrás e que alega inocência. À medida que novos elementos surgem, uma complexa teia de mentiras se revela, forçando Roy a enfrentar uma terrível realidade que muda o seu mundo para sempre.</info>
+    <genre>Drama | Mistério | Suspense</genre>
+</item>
  <item>
     <title>Uma Vida de Esperança</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:417c57c7a1d1a388bb3b29a02f8164f395302eb2&dn</link>
