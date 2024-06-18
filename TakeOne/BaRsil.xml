@@ -64,7 +64,14 @@
 <info> SERVIDOR 8[COLOR lime]  BRASIL[/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Tvs-BR/SERVER-08.xml</externallink>
 </channel>
-
+  
+<channel>
+<name>[B][COLOR white]SERVIDOR-9[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/MKg07Nq2/NEOTVBR2-fw.png</thumbnail>
+<fanart>https://i.postimg.cc/mZFb4wMh/flag.jpg</fanart>
+<info> SERVIDOR 9[COLOR lime]  BRASIL[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Tvs-BR/SERVER-09.xml</externallink>
+</channel>
   
   
 </channels>
