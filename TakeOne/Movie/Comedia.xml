@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+ <item>
+    <title>Uma Herança Inusitada</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F365VBU5IT4ULM7T5F4BO6ESRNRIXDAS&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//A4UklDW0DYytzK5aydQIM3vw4dL.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//dYGJ9cI3pUjCUITfxxsO5kEGKTF.jpg</fanart>
+    <info>Um tio podre de rico morreu. Agora, os integrantes da família dele precisam resolver vários enigmas para garantir parte da grana.</info>
+    <genre>Comédia</genre>
+</item>   
 <item>
     <title>A Sociedade Norte-Americana dos Negros Mágicos</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38cfe96eea9dc147ddc8de313a8b0ad7cd72da4f&dn</link>
