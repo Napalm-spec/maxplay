@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>A Academia do Sr. Kleks</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SBZXX2HH5MADOEVN6XMQIRF5XUUZTOR4&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//vipIN5pcVIO8QpooANSaUQnAJH7.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//w2zsNG7WKBMH35QqcFYILEAdYDU.jpg</fanart>
+    <info>Em busca do pai desaparecido, uma garota comum aceita estudar em uma universidade mágica, comandada por um professor muito excêntrico.</info>
+    <genre>Aventura | Fantasia</genre>
+</item>
  <item>
     <title>Nelly Rapp e o Espelho da Morte</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4W3NSCA5WYI7N3FUDDMA6BMJPCNRICJS&dn</link>
