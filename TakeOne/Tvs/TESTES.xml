@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/A&E.png" group-title="Canais | Filmes & Series",A&E FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplay.link:80/806425345/Sje37Keuj/666
+#EXTINF:-1 channel-id="pluto-5f120e94a5714d00074576a1" tvg-id="5f120e94a5714d00074576a1" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" tvg-chno="18" group-title="Filmes" , Pluto TV Cine Sucessos
+#KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
+https://r.mjh.nz/PlutoTV/5f120e94a5714d00074576a1-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=177.47.27.205
