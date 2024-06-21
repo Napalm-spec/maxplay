@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+<item>
+    <title>Alerta de Risco</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55URZCZKCQKWIPGSJAFPMUQTP4J5ETL2&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/cQLJT6hTXio0md94oBsSWADOECf.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/aATi2PtaOQCVAquCym6OU0Z4FjY.jpg</fanart>
+    <info>Uma militar de elite descobre uma perigosa conspiração ao retornar à cidade natal em busca de respostas para a morte do pai.</info>
+    <genre>Ação | Suspense</genre>
+</item>	
 <item>
     <title>Os Infalíveis</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UV53FNNQVHEEVUJKOGSQ6YVNUVQKIVHO&dn</link>
