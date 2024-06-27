@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>O Ritual do Livro Vermelho</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:418be03771b53874e23ed52b6d3f6c4228a14dfd&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//hrelSJo0YlMYyRiJuvkdVvgooxb.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//eW5VFfqn6IHHpGAZQGrH8bFSfXh.jpg</fanart>
+    <info>Três amigos decidem conhecer o "Jogo do Livro Vermelho" para tentar se conectar com espíritos. O que eles não sabem é que uma bruxa morreu no mesmo local, durante um ritual satânico. A cada pergunta que fazem, eles se aproximam cada vez mais dela, que está pronta para ser libertada.</info>
+    <genre>Suspense | Terror</genre>
+</item>
+<item>
+    <title>Um Gato de Sorte</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5GEH4MIXPRTFG6F5W5NAAA5AWXZGPUW5&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//nn7raMhfVvhyvLIUdYg2ObQgowX.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//FzntbxhtPGp5gVmie16ry3k7Ow.jpg</fanart>
+    <info>Beckett é um gato mimado e egoísta que dá como certa a sorte que recebeu. Tudo isso está prestes a mudar, porém, quando ele perde descuidadamente sua nona vida.</info>
+    <genre>Animação | Comédia | Fantasia</genre>
+</item>
+<item>
+    <title>O Rei do Povo</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E5XLAZK4BJQR52KKO5UH7JKTQPNKTFKP&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//c2BYYGAslVxE7AukTLJKUhmh5pc.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//9RdDCAdZ8PL2qo6pJGRU1vY0UYj.jpg</fanart>
+    <info>Um jornalista corajoso questiona o controle que um poderoso líder religioso exerce sobre seus seguidores. Baseado em um processo judicial real.</info>
+    <genre>Biografia | Crime | Drama</genre>
+</item>
 <item>
     <title>Nosso Lar 2: Os Mensageiros</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:GHN3NPIFZDFW2LR2H76HJ3YTDRNL7ACT&dn</link>
