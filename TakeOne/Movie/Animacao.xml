@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
-
+<item>
+    <title>Um Gato de Sorte</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5GEH4MIXPRTFG6F5W5NAAA5AWXZGPUW5&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//nn7raMhfVvhyvLIUdYg2ObQgowX.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//FzntbxhtPGp5gVmie16ry3k7Ow.jpg</fanart>
+    <info>Beckett é um gato mimado e egoísta que dá como certa a sorte que recebeu. Tudo isso está prestes a mudar, porém, quando ele perde descuidadamente sua nona vida.</info>
+    <genre>Animação | Comédia | Fantasia</genre>
+</item>
 <item>
     <title>Amigos Imaginários</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33TLQAJRJ7HTHWA5EROJRLEEPYIJPF7G&dn</link>
