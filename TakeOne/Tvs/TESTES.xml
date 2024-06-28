@@ -3,3 +3,5 @@
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://zeusplay.life:80/live/6616293366/5563046765/234476.m3u8
 #EXTINF:-1 tvg-id="ef4396b49d49eab23a4a265bfc51ec03" tvg-name="2" tvg-logo="" group-title="TV ABERTA",2
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://zeusplay.life:80/6616293366/5563046765/234476
+#EXTINF:-1 tvg-id="ef4396b49d49eab23a4a265bfc51ec03" tvg-name="3" tvg-logo="" group-title="TV ABERTA",3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://zeusplay.life:80/6616293366/5563046765/234476
