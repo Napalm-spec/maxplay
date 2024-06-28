@@ -35,12 +35,5 @@
 <externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Series.xml</externallink>
 </channel>
 
- <channel>
-<name>[B][COLOR lime]NEO TV[/COLOR] - [COLOR white]REDECANAIS TESTE[/COLOR][/B]</name>
-<thumbnail>https://i.postimg.cc/N07sNDqP/REDECANAIS.jpg</thumbnail>
-<fanart>https://i.postimg.cc/SKHxp0t4/fanart.jpg</fanart>
-<info>FILMES EM TESTE</info>
-<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/RdCnis/Varios.xml</externallink>
-</channel>
   
 </channels>
