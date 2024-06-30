@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+<item>
+    <title>Minhas Aventuras com o Superman 1ª Temporada</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XEK6HRXHBJ4L5ZVOTYJ4YJLB4LTEKOYR&dn$$lsname= 01º E 02º EPISÓDIOS</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:GK2STBRM42YMR2N26B7KLTA4RM533R3Z&dn$$lsname= 03º EPISÓDIO</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:U2BI3BFQTZGRLYDYRZT7RITRT5QPHQ5Q&dn$$lsname= 04º EPISÓDIO</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EZSMZGEZXNR32BBAJBSSH3SIYWKWMMNO&dn$$lsname= 05º EPISÓDIO</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JKKUAZKUU74LATQOZFX7JOZZYXORLLJ3&dn$$lsname= 06º EPISÓDIO</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SHNMHI6LWPNXILJN5XTGJPXHG6A62666&dn$$lsname= 07º EPISÓDIO</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7ETYASFTAQKESS6TTE76SZN557YQQIHY&dn$$lsname= 08º EPISÓDIO</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:GHX4X4ZX2RYI2OKJWHHBBDJVQAJWZM4P&dn$$lsname= 09º EPISÓDIO</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UZKQ7JWXR5SJKD3CLBKNIDLWNS5453M6&dn$$lsname= 10º EPISÓDIO</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/3pO7UsHqDRqv7FGAzh5pFsZhNtX.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/apkBrSycLXCQTIj5VfdwTCHp5U2.jpg</fanart>
+    <info>Acompanha Clark Kent, Lois Lane e Jimmy Olsen no processo de descobrir quem eles são e o que conseguem fazer enquanto salvam sua cidade de forças que conspiram para destruí-la!</info>
+    <genre>Animação | Ação | Aventura</genre>
+</item>	
 <item>
     <title>Delicious in Dungeon 1ª Temporada</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JJJFBHPRKK65BV5P6J5DTNITJFMTVG3B&dn$$lsname= 01º E 08º EPISÓDIOS</link>
