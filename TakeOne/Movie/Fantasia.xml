@@ -2,7 +2,14 @@
 <items>
 
 
-
+<item>
+    <title>Os Observadores</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3AAD1E582A9B433197E017DBDEE3E13E9BB5E69B&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//jFpsKOCppRvwP0Igwp0F0Xu1RBJ.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//oZDRuGHhe5uY8wBqFJcJZT9kdvJ.jpg</fanart>
+    <info>Mina, uma artista de 28 anos, que se perde em uma imensa e assustadora floresta natural no oeste da Irlanda. Quando Mina finalmente encontra abrigo, ela acaba presa ao lado de três estranhos que são vigiados e perseguidos por criaturas misteriosas todas as noites.</info>
+    <genre>Fantasia | Suspense | Terror</genre>
+</item>
 <item>
     <title>Gato Galáctico e o Feitiço do Tempo</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1210ba71939efd382318277cc7a2e2fdced99406</link>
