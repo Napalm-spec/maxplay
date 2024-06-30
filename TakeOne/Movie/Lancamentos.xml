@@ -1,6 +1,56 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+<item>
+    <title>Até que as Cores Acabem</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HVHI7VP7LP222VINDMC733TS3RKR3SZ5&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//sd6RRPaGkNYpfRlYiWLCjoXahko.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//24r8W0t5ZR9FYF5MvtzFeUa2gmL.jpg</fanart>
+    <info>Akito só tem mais um ano de vida, mas acaba encontrando um novo propósito ao conhecer uma garota que também enfrenta uma doença terminal.</info>
+    <genre>Drama | Romance</genre>
+</item>
+<item>
+    <title>O Rito da Dança</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PVK4FDD73TPBO4CPKYJL7CQOZRMEYIX5&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//lPosiinUryRPZxC5ZI6CX0ILoaV.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//2oTqxCe7EGMqMpJx5we2xcBT6Lx.jpg</fanart>
+    <info>Após o desaparecimento de sua irmã, Jax e sua sobrinha Roki devem ficar juntas. Desesperadas para manter intacto o que resta de sua família, Jax e Roki desafiam a lei e caem na estrada em uma jornada para o Powwow em Oklahoma City.</info>
+    <genre>Drama</genre>
+</item>
+<item>
+    <title>Tudo em Família</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Q3ZDEVGZFFYGITKGAR7QDINI5ESQ5J7O&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//fU7caVYjSHYEgZQrrFDr3rAJx8o.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//ngLxW9WqQAkTCBTcjOSt2Pnz5qZ.jpg</fanart>
+    <info>Tem algo pior do que trabalhar para um astro do cinema todo mimado que não leva você a sério? Sim: descobrir que ele está a fim da sua mãe.</info>
+    <genre>Comédia | Romance</genre>
+</item>
+<item>
+    <title>Rota Sem Saída</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77S3DN7T6Y66HTRT7JTCJO7IQIKBNP2A&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//zJuVfZVP7Tdpy9kOBQCuzNeGsDz.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//vGyWFIyTN3U7SvbnT0BWQvXXzM5.jpg</fanart>
+    <info>Um thriller Noir, ambientado em uma cidade difícil e turbulenta do Mississippi, onde uma mulher e sua filha são apanhadas no fogo cruzado quando uísque, armas e o desejo de vingança se cruzam violentamente.</info>
+    <genre>Ação | Suspense</genre>
+</item>
+<item>
+    <title>Os Observadores</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3AAD1E582A9B433197E017DBDEE3E13E9BB5E69B&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//jFpsKOCppRvwP0Igwp0F0Xu1RBJ.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//oZDRuGHhe5uY8wBqFJcJZT9kdvJ.jpg</fanart>
+    <info>Mina, uma artista de 28 anos, que se perde em uma imensa e assustadora floresta natural no oeste da Irlanda. Quando Mina finalmente encontra abrigo, ela acaba presa ao lado de três estranhos que são vigiados e perseguidos por criaturas misteriosas todas as noites.</info>
+    <genre>Fantasia | Suspense | Terror</genre>
+</item>
+<item>
+    <title>Dois é Demais em Orlando</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FTITHAQBZ2JQM2PYMHYQ5BJITWVTZJBX&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//2PdiazIelg7pwx9lj1KXCyeSbCP.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//ukpik1acCs3i5N4ky1WlJUrlS6n.jpg</fanart>
+    <info>João é um adulto apaixonado por filmes e super-heróis que está prestes a realizar seu sonho de infância: passar as férias em Orlando e conhecer os parques da Universal. Às vésperas da viagem sua chefe lhe pede um pequeno favor: levar seu filho Cacá, um menino de dez anos que se comporta como um executivo de meia idade, no mesmo voo e entregá-lo para o pai. O que era pra ser apenas uma carona até Orlando vira uma roubada quando o pai de Cacá não aparece para buscá-lo. Agora, João terá que bancar o baby-sitter e aprender a conviver com as diferenças para salvar seu emprego e de quebra superar seu grande trauma de infância: a montanha-russa.</info>
+    <genre>Comédia</genre>
+</item>
+	
 <item>
     <title>O Ritual do Livro Vermelho</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:418be03771b53874e23ed52b6d3f6c4228a14dfd&dn</link>
