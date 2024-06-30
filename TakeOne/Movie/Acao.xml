@@ -2,6 +2,14 @@
 <items>
 
 <item>
+    <title>Rota Sem Saída</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77S3DN7T6Y66HTRT7JTCJO7IQIKBNP2A&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//zJuVfZVP7Tdpy9kOBQCuzNeGsDz.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//vGyWFIyTN3U7SvbnT0BWQvXXzM5.jpg</fanart>
+    <info>Um thriller Noir, ambientado em uma cidade difícil e turbulenta do Mississippi, onde uma mulher e sua filha são apanhadas no fogo cruzado quando uísque, armas e o desejo de vingança se cruzam violentamente.</info>
+    <genre>Ação | Suspense</genre>
+</item>	
+<item>
     <title>Furiosa: Uma Saga Mad Max</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6CMHVC2HRE46ML72FSZRPRNO5WMJNMVF&dn</link>
     <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//j4KUED5qQCpmyz1Mr77coJCrndq.jpg</thumbnail>
