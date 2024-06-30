@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Minhas Aventuras com o Superman 2ª Temporada</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4NJKOXA3UAFPJ3J6C7NML3CR7LAZAYSD&dn$$lsname= 01º E 02º EPISÓDIOS</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:POAKQS4KE23WTHSK2Q3U7YVB5I2ZQ7P2&dn$$lsname= 03º EPISÓDIO</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XRUW7GY4YOHYF2EV3E3EU57KZNTE3QUA&dn$$lsname= 04º EPISÓDIO</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MEWO3WND6FRQZIPEO3XETXFB2IT7MAF7&dn$$lsname= 05º EPISÓDIO</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:O42NOV4OBM6CT7LC4X573O7LZUHAIZW4&dn$$lsname= 06º EPISÓDIO</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VA3GDS6VATFU6I3QF2NNFTZBLBAM75DG&dn$$lsname= 07º EPISÓDIO</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/a3n4IhEVfNoz1dcCcDGAwDPlJNC.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/9Jn88789lEUIw41nbA2ikjJPiMP.jpg</fanart>
+    <info>Acompanha Clark Kent, Lois Lane e Jimmy Olsen no processo de descobrir quem eles são e o que conseguem fazer enquanto salvam sua cidade de forças que conspiram para destruí-la!</info>
+    <genre>Animação | Ação | Aventura</genre>
+</item>
 <item>
     <title>Minhas Aventuras com o Superman 1ª Temporada</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XEK6HRXHBJ4L5ZVOTYJ4YJLB4LTEKOYR&dn$$lsname= 01º E 02º EPISÓDIOS</link>
