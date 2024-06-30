@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY FHD" tvg-logo="http://dns.panela.online:80/images/9e20b117190321733854ae8c252252f6.png" group-title="DOCUMENTÁRIOS",HISTORY FHD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://dns.panela.online:80/live/mrito34214u/mrito34214s/194164.m3u8
 #EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY FHD [ALT]" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://dns.panela.online:80/images/9e20b117190321733854ae8c252252f6.png" group-title="DOCUMENTÁRIOS",HISTORY FHD [ALT]
