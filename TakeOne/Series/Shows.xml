@@ -1,6 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+<item>
+    <title>La Brea: A Terra Perdida 3ª Temporada</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:O3FEXK2NSPJIAY3QQDDVPHRG5G62SNLY&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/mw3ZFC8xj5mZDS3htyUHn2UzcsZ.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/aqmUXHukjlXJIQ8tzbuIHPo3ypb.jpg</fanart>
+    <info>Quando um buraco gigante se abre misteriosamente em Los Angeles, uma família é dividida, separando mãe e filho do pai e filha. Uma metade desta família é transportada inexplicavelmente a um mundo primitivo junto com um grupo de estranhos. Juntos, eles precisam sobreviver, enquanto acham uma forma de voltar para casa.</info>
+    <genre>Drama | Ficção | Mistério</genre>
+</item>
+<item>
+    <title>La Brea: A Terra Perdida 2ª Temporada</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1206e4b9d8367b6255d3d370392dbd74b7cd1d9b&dn$$lsname= 01º E 02º EPISÓDIO</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3B3EWEMTESF3JZMSF36QJJIVCFZAGJEQ&dn$$lsname= 03º 04º EPISÓDIO</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OWHKUR5YRIAUI6OHYMQNKU4JYE7OTYIE&dn$$lsname= 05º 06º EPISÓDIO</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TRMMMK5KHFCCLL7ZEH5SKMFJ7IDWG6FB&dn$$lsname= 07º 08º EPISÓDIO</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZPHKW7L34F7OSTJCVQUSJD2GZZLRP43J&dn$$lsname= 09º 10º EPISÓDIO</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A6NH7ZRNBZR2LRU6XEU7JPW73EWZ4RKE&dn$$lsname= 11º 12º EPISÓDIO</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77FEQDQLKFIVPCC4HVWREIUMUSM7OY27&dn$$lsname= 13º 14º EPISÓDIO</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/wEo5pzSZ3MF4EzNvY2R1OZNX266.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/qhaPuyznsxb13wSQbpqSDqtNuX8.jpg</fanart>
+    <info>Quando um buraco gigante se abre misteriosamente em Los Angeles, uma família é dividida, separando mãe e filho do pai e filha. Uma metade desta família é transportada inexplicavelmente a um mundo primitivo junto com um grupo de estranhos. Juntos, eles precisam sobreviver, enquanto acham uma forma de voltar para casa.</info>
+    <genre>Drama | Ficção | Mistério</genre>
+</item>
+<item>
+    <title>La Brea: A Terra Perdida 1ª Temporada</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZIMBKSXEQELEIPWHQM2L355QPRVZC7NF&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/nsoRsiUEakEO7VMIoa6Jkw4cPHs.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/1HiLMi66dO8Ia7EsPT2D9FwK5tL.jpg</fanart>
+    <info>Quando um buraco gigante se abre misteriosamente em Los Angeles, uma família é dividida, separando mãe e filho do pai e filha. Uma metade desta família é transportada inexplicavelmente a um mundo primitivo junto com um grupo de estranhos. Juntos, eles precisam sobreviver, enquanto acham uma forma de voltar para casa.</info>
+    <genre>Aventura | Drama | Ficção</genre>
+</item>	
 <item>
     <title>The Acolyte 1ª Temporada EPISÓDIOS 01 AO 05</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2DFMA2JFAF6TAV62TUYIQ2COEK57A2JF&dn$$lsname= 01º E 02º EPISÓDIOS</link>
