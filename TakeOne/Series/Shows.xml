@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>The Acolyte 1ª Temporada EPISÓDIOS 01 AO 05</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2DFMA2JFAF6TAV62TUYIQ2COEK57A2JF&dn$$lsname= 01º E 02º EPISÓDIOS</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5J2RGH57CGTOWY6EATUDYUGDKPEO667O&dn$$lsname= 03º EPISÓDIO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EFY7H5UD6XPNBMARAMX4BC4V4RCHI45P&dn$$lsname= 04º EPISÓDIO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5OXLLNYNQBKTMYTBYLRJHUZSOGUZVDK4&dn$$lsname= 05º EPISÓDIO</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/mztdt3y6GBsJR69zHtszFezTCLT.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/kwronSXO1ogMqHHFvY2eBxfFLdn.jpg</fanart>
+    <info>Cem anos antes da ascensão do Império, a Ordem Jedi e a República Galáctica prosperaram sem guerras durante séculos. Durante esse tempo, uma investigação sobre uma terrível onda de crimes coloca uma Mestra Jedi contra uma perigosa guerreira de seu passado.</info>
+    <genre>Ação | Ficção | Mistério</genre>
+</item>
 <item>
     <title>O Véu 1ª Temporada</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5cb7eeed5b625918d9cadd6568fffaa63c0980c6&dn$$lsname= 01º EPISÓDIOS</link>
@@ -24,7 +34,7 @@
     <genre>Fantasia | Mistério | Suspense</genre>
 </item>
 <item>
-    <title>The Boys 4ª Temporada EPISÓDIOS 01 AO 04</title>
+    <title>The Boys 4ª Temporada EPISÓDIOS 01 AO 05</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PZ3RX3IMBMX6IXH45ESUKHE3QVLMK6E5&dn$$lsname= 01º E 03º EPISÓDIOS</link>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EFY7H5UD6XPNBMARAMX4BC4V4RCHI45P&dn$$lsname= 04º EPISÓDIO</link>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YKAL4Z3MPDN6JEIJ74ELOCBV5QYIVEJK&dn$$lsname= 05º EPISÓDIO</link>
