@@ -2,6 +2,14 @@
 <items>
 
 <item>
+    <title>Tudo em Família</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Q3ZDEVGZFFYGITKGAR7QDINI5ESQ5J7O&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//fU7caVYjSHYEgZQrrFDr3rAJx8o.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//ngLxW9WqQAkTCBTcjOSt2Pnz5qZ.jpg</fanart>
+    <info>Tem algo pior do que trabalhar para um astro do cinema todo mimado que não leva você a sério? Sim: descobrir que ele está a fim da sua mãe.</info>
+    <genre>Comédia | Romance</genre>
+</item>    
+<item>
     <title>Clube Zero</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ba21ef425f030c9434aac67d626501593c9a691&dn</link>
     <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//mIxtsljvoHxGkC84Hf0k20fhyWf.jpg</thumbnail>
