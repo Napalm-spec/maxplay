@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+ <item>
+    <title>In Bloom</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2GJM5AX37UKXNRGONWRFMTDR4JKD2GZ7&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//zB4gG8oFZAzaY3iRS6DvLFOExJ8.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//xvwtpuCisWpQGwx7Lo1gY8xv0Fd.jpg</fanart>
+    <info>Explores characters at life-defining moments regarding gender issues like period poverty, child marriage, HIV stigma, family planning, and women's empowerment.</info>
+    <genre>Drama</genre>
+</item>   
 <item>
     <title>Até que as Cores Acabem</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HVHI7VP7LP222VINDMC733TS3RKR3SZ5&dn</link>
