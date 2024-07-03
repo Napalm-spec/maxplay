@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+<item>
+    <title>Pra Lá de Bagdá 2</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ALQ2TOQAXPEECRJQCAFV6EI6CV7O2IPP&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//6HklSpkZt9oTbJ548xw0v4mUIZ.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//bUDJwVHp5WDqTXvgP4g5ztP1nrk.jpg</fanart>
+    <info>Três maconheiros vendem uma variedade de erva mágica para arrecadar fundos para o funeral de seu amigo.</info>
+    <genre>Aventura | Comédia</genre>
+</item>    
 <item>
     <title>A Academia do Sr. Kleks</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SBZXX2HH5MADOEVN6XMQIRF5XUUZTOR4&dn</link>
