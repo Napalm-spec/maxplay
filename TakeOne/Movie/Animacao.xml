@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
+
+
+
+
+<item>
+    <title>A Pequena Sereia - Um Oceano de Aventuras</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6MRUKI4HCCJYJEHFEEJQIZHADTVG6MIG&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//nla5BEXPoZOmxeIlyntZqEL9HcM.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//u0kXMYa1h6TxNSJAcz26ntrkQmB.jpg</fanart>
+    <info>Uma princesa sereia faz um acordo para se tornar humana. Em terra firme, ela descobre o quanto ama o mundo da superfície, mas precisa decidir o que está disposta a sacrificar para permanecer ali.</info>
+    <genre>Animação | Comédia</genre>
+</item>    
 <item>
     <title>Um Gato de Sorte</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5GEH4MIXPRTFG6F5W5NAAA5AWXZGPUW5&dn</link>
