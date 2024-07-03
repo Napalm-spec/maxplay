@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+<item>
+    <title>Politicamente Incorretos</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NJPX7ACFQP6FRY772A23BXNFPDUWPUVL&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//omGPftboLGhbHU3kqp1DyewQ65V.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//jlElnurAe4aGedAuy4zDQGMEff3.jpg</fanart>
+    <info>Em Politicamente Incorretos, Laura Vázquez (Adriana Torrebejano), é a filha de um ex-líder político. Uma garota sonhadora, nutre as esperanças de ser uma figura importante na Nueva Izquierda, um partido político de esquerda liderado por Alfonso Bravo (Gonzalo de Castro), um político fervoroso que quer vences as próximas eleições. No lado oposto dessa disputa partidária, está Pablo Merino (Juanlu González), um jovem conservador que espera espera um partido de direita no governo da Espanha, desejo compartilhado pela líder do partido, Victoria Silvela (Elena Irureta), que esperava vencer para um segundo mandato. Todos os quatro se encontram para a inauguração desastrosa no meio da natureza, no entanto, Laura e Pablo são deixados pelos outros sozinhos no meio do nada. Forçados a ficar juntos na floresta para sobreviver, eles se sentem atraídos um pelo outro, apesar de serem inimigos políticos.</info>
+    <genre>Comédia | Romance</genre>
+</item>	
 <item>
     <title>Pra Lá de Bagdá 2</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ALQ2TOQAXPEECRJQCAFV6EI6CV7O2IPP&dn</link>
