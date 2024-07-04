@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+<item>
+    <title>Uma Astronauta Quase Perfeita</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OWQOGIIUZX3MY4G3WYKXM2NM4RCKSV75&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//b9LiHsg0RFOD7ZtJ6n3Kpgppkaw.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//9kPkuHqN5WqRdKtTjdyfHjF9hHu.jpg</fanart>
+    <info>Tiffany “Rex” Simpson sempre sonhou em ir para o espaço, mas a vida não está indo como planejado. Determinada a dar a volta por cima e com uma ajudinha de sua melhor amiga Nadine, sua inscrição “adulterada” a coloca no programa de treinamento de astronautas super competitivo da NASA. Rex confia em sua inteligência e determinação para ser a melhor de sua turma. Os diretores do programa da NASA, Pam e Logan, certamente percebem como Rex se empenha, mas será que essa garota da Flórida conseguirá passar pelo treinamento e chegar ao cosmos antes de estragar seu disfarce?</info>
+    <genre>Comédia | Romance</genre>
+</item>    
 <item>
     <title>Politicamente Incorretos</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NJPX7ACFQP6FRY772A23BXNFPDUWPUVL&dn</link>
