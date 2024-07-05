@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+<item>
+    <title>O Imaginário</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MLHNUEZ4C2YUYZHSX666ZM5XQH6Z3PME&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//qVCKWi6n39sM8UyWqwHe9NoteTw.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//r488XPGouCdLA4HSU4L8pVfmQke.jpg</fanart>
+    <info>Amanda e Rudger, seu amigo imaginário, vivem altas aventuras. Mas eles acabam se separando e Rudger precisa enfrentar sozinho uma ameaça misteriosa.</info>
+    <genre>Animação | Aventura | Drama</genre>
+</item>
+<item>
+    <title>Goyo</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VP5RBBACYDJM4MSEZYPTZ6YHGPOERLJL&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//fCjC1RRbEJUpDjM55RNUMXQen0b.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//adAJDB2Au3x5ve2YyWaEYy4EUw.jpg</fanart>
+    <info>Um jovem guia de museu com transtorno do espectro autista se apaixona por uma colega de trabalho e tenta descobrir como lidar com novas emoções intensas.</info>
+    <genre>Drama | Romance</genre>
+</item>	
 <item>
     <title>Alice no País das Trevas</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VNBZC4JHNDI63HFC4HDPMAJXB3C5Z7CV&dn</link>
