@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Alice no País das Trevas</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VNBZC4JHNDI63HFC4HDPMAJXB3C5Z7CV&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//uVIMSSGdcBJZaaBbJaYuql9CH5x.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//xKJTWGvheOMMlTHgrjN18KaD9Ra.jpg</fanart>
+    <info>Após a morte de seus pais, a jovem Alice vai morar com a avó em uma casa isolada na floresta, sem saber que forças sinistras se escondem por lá.</info>
+    <genre>Fantasia | Suspense | Terror</genre>
+</item>
 <item>
     <title>Os Observadores</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3AAD1E582A9B433197E017DBDEE3E13E9BB5E69B&dn</link>
