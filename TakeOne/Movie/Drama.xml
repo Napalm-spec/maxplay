@@ -2,6 +2,14 @@
 <items>
 
  <item>
+    <title>Goyo</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VP5RBBACYDJM4MSEZYPTZ6YHGPOERLJL&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//fCjC1RRbEJUpDjM55RNUMXQen0b.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//adAJDB2Au3x5ve2YyWaEYy4EUw.jpg</fanart>
+    <info>Um jovem guia de museu com transtorno do espectro autista se apaixona por uma colega de trabalho e tenta descobrir como lidar com novas emoções intensas.</info>
+    <genre>Drama | Romance</genre>
+</item>
+ <item>
     <title>In Bloom</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2GJM5AX37UKXNRGONWRFMTDR4JKD2GZ7&dn</link>
     <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//zB4gG8oFZAzaY3iRS6DvLFOExJ8.jpg</thumbnail>
