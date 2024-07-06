@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Matéria Escura 1ª Temporada</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CCYMS24B3LLQG4SRGLUS5ASNYSEMYSQG&dn$$lsname= 01º E 02º EPISÓDIOS</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VIRUZPYAUQVMTRGFAHD6EYCQFATLM4XH&dn$$lsname= 03º EPISÓDIO</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JL4BK6KRLATICIJIKI5RJZAGRIXSN5OH&dn$$lsname= 04º EPISÓDIO</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VOIKQ7W4PE4IJ6XTNA5HBK4FCW3SE5EA&dn$$lsname= 05º EPISÓDIO</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KJKHTNPXJWPVCGPWCVVAR4HEHA2GHHG4&dn$$lsname= 06º EPISÓDIO</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WGUJNM6VV3Y3XNAEWYSQ2XJ4526XEAZ4&dn$$lsname= 07º EPISÓDIO</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IAZIW2S3REFBVKLPER26UBS6RCKQBOEV&dn$$lsname= 08º EPISÓDIO</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QXHM3CD7QMSGX4JTOPN6ZVKJYJDFT6BQ&dn$$lsname= 09º EPISÓDIO</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/c6MRUtPk0nEPQ9FBD9RdRKt2rIm.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/nbY7k4L6xNFXakjJf0uwEnPh2S.jpg</fanart>
+    <info>Jason Dessen é sequestrado para uma versão alternativa de sua vida. Em busca de voltar para sua verdadeira família, ele embarca em uma jornada angustiante para salvá-los do inimigo mais terrível que se possa imaginar: ele mesmo.</info>
+    <genre>Drama | Ficção | Suspense</genre>
+</item>
 <item>
     <title>La Brea: A Terra Perdida 3ª Temporada</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:O3FEXK2NSPJIAY3QQDDVPHRG5G62SNLY&dn</link>
