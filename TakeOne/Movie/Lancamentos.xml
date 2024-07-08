@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Morando com o Crush</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D6GKIFOP4BLKOOAWNTDEK6URXNAWWU4J&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//eZA7H3FN20qX5ppoCsdUsMSvYk4.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//PMu7kiBY9OcdXlebOvtYS7E0m9.jpg</fanart>
+    <info>Luana e Hugo são colegas de escola e apaixonados um pelo outro. Mas quando a mãe de Hugo e o pai de Luana decidem namorar e mudar de cidade com todos, a situação complica para os pretendentes.</info>
+    <genre>Comédia | Romance</genre>
+</item>
+<item>
+    <title>Os Observadores</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VIJUTTPXBTUBJHCGERSEMGAJVD2YPIBZ&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//jFpsKOCppRvwP0Igwp0F0Xu1RBJ.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//5Aks5cCqHG8xFLoUSLsfGdVfIC.jpg</fanart>
+    <info>Mina, uma artista de 28 anos, se perde em uma imensa e assustadora floresta natural no oeste da Irlanda. Quando Mina finalmente encontra abrigo, ela acaba presa ao lado de três estranhos que são vigiados e perseguidos por criaturas misteriosas todas as noites.</info>
+    <genre>Fantasia | Suspense | Terror</genre>
+</item>
 <item>
     <title>O Imaginário</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MLHNUEZ4C2YUYZHSX666ZM5XQH6Z3PME&dn</link>
