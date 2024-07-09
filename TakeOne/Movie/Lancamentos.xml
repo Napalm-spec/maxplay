@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+<item>
+    <title>Garfield - Fora de Casa</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:L57VNWLMWD33OTHMSGHHQ5FU5ZP3X2EB&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//rC5RqXtFoTkBhNWE1dczwi4dZrX.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//7CZxmKqNyct1GpYI9LfZfXa0WBm.jpg</fanart>
+    <info>Garfield, o mundialmente famoso gato de interior que odeia segundas-feiras e adora lasanha, está prestes a ter uma aventura selvagem ao ar livre! Depois de um reencontro inesperado com seu pai há muito perdido – o desalinhado gato de rua Vic – Garfield e seu amigo canino Odie são forçados a deixar sua vida perfeitamente mimada para se juntarem a Vic em um assalto hilariante e de alto risco.</info>
+    <genre>Animação | Aventura | Comédia</genre>
+</item>	
 <item>
     <title>Morando com o Crush</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D6GKIFOP4BLKOOAWNTDEK6URXNAWWU4J&dn</link>
