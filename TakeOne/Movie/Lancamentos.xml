@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Loucas Aventuras em Punjab</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2CEDA5G24BVXP5WK65DG4NMUFBQIA2QM&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//roGgIw4W7C5lTGwLctnPSlqrLWm.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//zldmp4sCWa8A54aQKOjOiidLJud.jpg</fanart>
+    <info>Uma turma de amigos viaja por Punjab para ajudar um deles a superar o término com a ex, mas a viagem se transforma em um grande fiasco.</info>
+    <genre>Comédia, Romance</genre>
+</item>
 <item>
     <title>Garfield - Fora de Casa</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:L57VNWLMWD33OTHMSGHHQ5FU5ZP3X2EB&dn</link>
