@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Vikings: Valhalla 3ª Temporada Completa</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8950c6eb914b37ad7dc235ecbb83e7252ae05cd9&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/uCr7Ov7Rpzx0c0EPqbPcoEruTYl.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/k47JEUTQsSMN532HRg6RCzZKBdB.jpg</fanart>
+    <info>Nesta sequência de Vikings, cem anos se passaram. Uma nova geração de heróis lendários cria seu destino e faz história.</info>
+    <genre>Ação | Aventura</genre>
+</item>
 <item>
     <title>Sunny 1ª Temporada 01º E 02º EPISÓDIOS</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Q5FLPC5DVZPKY4G24YLCSIRF4HJS5FX6&dn</link>
