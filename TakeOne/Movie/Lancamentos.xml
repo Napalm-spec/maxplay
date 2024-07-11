@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+<item>
+    <title>Desaparecidos na Noite</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ad255478428b3c7057ce77f9650fa4a53b2ed9bd&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//7csTXU1sIyvrKeN5NICdu76M87Z.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//c8KlUfYC5442nkG1Zyaygfui5Q9.jpg</fanart>
+    <info>Um homem que está vivendo um divórcio complicado precisa embarcar em uma missão perigosa depois que os filhos desaparecem em uma área remota.</info>
+    <genre>Drama, Mistério, Suspense</genre>
+</item>
+<item>
+    <title>Divórcio em Família</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ecf342cf1cc459b848e0949c393a785c18cdae5&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//d5X03SA51Ezd02iF9BCjWXC9X9F.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//3Mm2KDkOoQV8u0O5wKUkN1EOhgo.jpg</fanart>
+    <info>Ava, uma jovem bancária, fica arrasada quando seu marido, Dallas, abandona um casamento pelo qual ela estava determinada a lutar. Porém, o destino intervém, revelando os atos perversos de Dallas que destruíram o casamento e sabotaram o sonho de Ava de ser amada por sua verdadeira alma gêmea.</info>
+    <genre> Drama, Suspense</genre>
+</item>	
 <item>
     <title>Loucas Aventuras em Punjab</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2CEDA5G24BVXP5WK65DG4NMUFBQIA2QM&dn</link>
