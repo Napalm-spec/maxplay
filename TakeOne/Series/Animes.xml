@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+<item>
+    <title>Festa da Salsicha: Comilândia 1ª Temporada</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:57f753518d135a2f1ac8a73a9ae0241d9e6d7605&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/u8NwlaCFd3oNJxNjqvMwRj4LiBZ.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/rZEAjnN7sH7gmCKvFirwL18Zdhc.jpg</fanart>
+    <info>Depois de matar toda a huminadade, as comidas buscam criar sua própria utopia.</info>
+    <genre>Animação | Comédia</genre>
+</item>	
 <item>
     <title>Minhas Aventuras com o Superman 2ª Temporada</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4NJKOXA3UAFPJ3J6C7NML3CR7LAZAYSD&dn$$lsname= 01º E 02º EPISÓDIOS</link>
