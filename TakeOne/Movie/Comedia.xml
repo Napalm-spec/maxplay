@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+  <item>
+    <title>O Cara da Piscina</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KCTJALCJMSDH2BHBJ2FPV63HUNUYBX2C&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//yGn6SxUOnU5dvUNeSjw79ks2EfS.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//81mBCIvDLNzIxTNWg1nG1OXufJe.jpg</fanart>
+    <info>Darren Barrenman, um homem que passa seus dias cuidando da piscina de um condomínio em Los Angeles. Quando descobre um grande esquema criminoso na cidade, ele se une aos vizinhos em uma jornada para desvendar quem está por trás do roubo de água na cidade. Darren fará o impossível para salvar sua preciosa Los Angeles.</info>
+    <genre>Comédia | Mistério</genre>
+</item>  
 <item>
     <title>Noite de Jogos</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:be06b27323ff81e69cc0f17631bd36711b14fe13&dn</link>
