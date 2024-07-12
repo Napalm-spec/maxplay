@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Descendentes: A Ascensão de Copas</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BZU6OBBI52OZVBJMTKQUPLTGXOMPWWBE&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//pOb3V9j4pt546e93CLMYudp9uZq.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//ospRJ7zm1nsYEPJDwqbkBkb22Zp.jpg</fanart>
+    <info>Depois da Rainha de Copas incitar um golpe em Auradon, sua filha rebelde, Red, e a filha perfeccionista da Cinderela, Chloe, unem forças e voltam no tempo para tentar desfazer o evento traumático que levou a mãe de Red para o caminho da vilania.</info>
+    <genre>Aventura | Comédia | Fantasia</genre>
+</item>
 <item>
     <title>Pra Lá de Bagdá 2</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ALQ2TOQAXPEECRJQCAFV6EI6CV7O2IPP&dn</link>
