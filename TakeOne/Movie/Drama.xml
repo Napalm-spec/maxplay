@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>O Campeão</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76d9da6110a29a35cbbfac9572b173cce12bdb92&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//38EGrIgnC8zDx5B3MNHbr80xJ77.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//sRuoaYjWLLngZo2XYKPwyL9SYxY.jpg</fanart>
+    <info>Um astro do futebol estava no auge até virar reserva por causa de uma briga. Agora, ele vai precisar da ajuda de um professor para aprender a encarar os próprios medos.</info>
+    <genre>Drama | Esporte</genre>
+</item>
  <item>
     <title>Desaparecidos na Noite</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ad255478428b3c7057ce77f9650fa4a53b2ed9bd&dn</link>
