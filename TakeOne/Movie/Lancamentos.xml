@@ -1,7 +1,46 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>O Cara da Piscina</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KCTJALCJMSDH2BHBJ2FPV63HUNUYBX2C&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//yGn6SxUOnU5dvUNeSjw79ks2EfS.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//81mBCIvDLNzIxTNWg1nG1OXufJe.jpg</fanart>
+    <info>Darren Barrenman, um homem que passa seus dias cuidando da piscina de um condomínio em Los Angeles. Quando descobre um grande esquema criminoso na cidade, ele se une aos vizinhos em uma jornada para desvendar quem está por trás do roubo de água na cidade. Darren fará o impossível para salvar sua preciosa Los Angeles.</info>
+    <genre>Comédia | Mistério</genre>
+</item>
+<item>
+    <title>Descendentes: A Ascensão de Copas</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BZU6OBBI52OZVBJMTKQUPLTGXOMPWWBE&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//pOb3V9j4pt546e93CLMYudp9uZq.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//ospRJ7zm1nsYEPJDwqbkBkb22Zp.jpg</fanart>
+    <info>Depois da Rainha de Copas incitar um golpe em Auradon, sua filha rebelde, Red, e a filha perfeccionista da Cinderela, Chloe, unem forças e voltam no tempo para tentar desfazer o evento traumático que levou a mãe de Red para o caminho da vilania.</info>
+    <genre>Aventura | Comédia | Fantasia</genre>
+</item>
+<item>
+    <title>O Campeão</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76d9da6110a29a35cbbfac9572b173cce12bdb92&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//38EGrIgnC8zDx5B3MNHbr80xJ77.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//sRuoaYjWLLngZo2XYKPwyL9SYxY.jpg</fanart>
+    <info>Um astro do futebol estava no auge até virar reserva por causa de uma briga. Agora, ele vai precisar da ajuda de um professor para aprender a encarar os próprios medos.</info>
+    <genre>Drama | Esporte</genre>
+</item>
+<item>
+    <title>Noite de Jogos</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:be06b27323ff81e69cc0f17631bd36711b14fe13&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//AjRV3LC1Edi3HfVnwxnMgJKTWQn.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//rShMNq8ElzAxgO2BfwBzPO9NnLU.jpg</fanart>
+    <info>Pia convida seu novo namorado Jan para a tradicional noite de jogos. Só que a chegada surpresa do ex vai aumentar o nível da competição.</info>
+    <genre>Comédia</genre>
+</item>
+<item>
+    <title>O Preço da Noiva</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4a632a0a86abaefd81d1a3608894fe3ad422e350&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//A70tnH9pY9TO9QFYOLP3Fisk8zf.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//s4u5WD9KHHOquos7onVeipnmcCH.jpg</fanart>
+    <info>O negociador de casamentos Ace Ngubeni precisa garantir uma noiva para um cliente muito tímido. Mas as consequências dessa negociação vão muito além do dinheiro.</info>
+    <genre>Comédia | Romance</genre>
+</item>
 <item>
     <title>Desaparecidos na Noite</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ad255478428b3c7057ce77f9650fa4a53b2ed9bd&dn</link>
