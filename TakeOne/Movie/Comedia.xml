@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Noite de Jogos</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:be06b27323ff81e69cc0f17631bd36711b14fe13&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//AjRV3LC1Edi3HfVnwxnMgJKTWQn.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//rShMNq8ElzAxgO2BfwBzPO9NnLU.jpg</fanart>
+    <info>Pia convida seu novo namorado Jan para a tradicional noite de jogos. Só que a chegada surpresa do ex vai aumentar o nível da competição.</info>
+    <genre>Comédia</genre>
+</item>
+<item>
+    <title>O Preço da Noiva</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4a632a0a86abaefd81d1a3608894fe3ad422e350&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//A70tnH9pY9TO9QFYOLP3Fisk8zf.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//s4u5WD9KHHOquos7onVeipnmcCH.jpg</fanart>
+    <info>O negociador de casamentos Ace Ngubeni precisa garantir uma noiva para um cliente muito tímido. Mas as consequências dessa negociação vão muito além do dinheiro.</info>
+    <genre>Comédia | Romance</genre>
+</item>
 <item>
     <title>Loucas Aventuras em Punjab</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2CEDA5G24BVXP5WK65DG4NMUFBQIA2QM&dn</link>
