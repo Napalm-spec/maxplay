@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+<item>
+    <title>O Jogo que Mudou a História 1ª Temporada</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VBQKA3EYYFC5ETZXCKDRSAH5O4RU5LVV&dn$$lsname= 01º E 02º EPISÓDIOS</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:T4AAQNFORJH3W77M2HLGMFOZ2IKU6UFC&dn$$lsname= 03º E 04º EPISÓDIOS</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2YKDDPMVLR3E2Q7H27NCCZAH4A7JZREA&dn$$lsname= 05º E 06º EPISÓDIOS</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:POT4CZOSX5YJ7T5DGFEXJOHZ3JIXBMKR&dn$$lsname= 07º E 08º EPISÓDIOS</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CMR6ICJYTB7RZAFESFTSCVF2WQNFSP7V&dn$$lsname= 09º E 10º EPISÓDIOS</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/xOAqvWlH1lDNfJYFIfEYQqC1gte.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/hlcGRp66VDvqNOB4MS7sw6BakHS.jpg</fanart>
+    <info>O Jogo que Mudou a História acompanha a ascensão no narcotráfico no Rio de Janeiro. Ambientada durante as década de 1970 e 1980, a trama da série explora o crescente comércio de entopercentes, o surgimento de grandes líderes do crime organizado, o fortalecimento das facções e a intensa guerra às drogas que surgiu logo em seguida. O que começou com um simples jogo de futebol acarretou uma guerra de 25 anos no Rio de Janeiro, que é contada a partir de diferentes pontos de vista ao longo dos episódios.</info>
+    <genre>Ação | Crime | Drama</genre>
+</item>	
 <item>
     <title>Vikings: Valhalla 3ª Temporada Completa</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8950c6eb914b37ad7dc235ecbb83e7252ae05cd9&dn</link>
