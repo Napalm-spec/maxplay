@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
-
 <item>
-    <title>A Noite Em Que Voltaram Para Casa</title>
-    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d66cc160b28f81565292ca2f0085fc263be28084&dn</link>
-    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//bgvmGUwUH4Iyoz0LpihR1y8eqlQ.jpg</thumbnail>
-    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//v8RgWCgabyym0eVOuQJaxL4GS8p.jpg</fanart>
-    <info>Danny Trejo estrela este faroeste repleto de ação; baseado na onda selvagem de crimes da Gangue Rufus Buck; foras-da-lei nativos americanos com sede de vingança.</info>
-    <genre>Faroeste | Suspense</genre>
+    <title>A Máscara do Zorro</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3b0f01c8a070c82d120e8be505f847561e7a4cb8&dn</link>
+    <subtitle></subtitle>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//XJ9sq8CAxGcHjxpsLWu9fBGZsB.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//dOqqnfLq1LFs7UlC9ZzMIgqbicu.jpg</fanart>
+    <info>Depois de vinte anos, o lendário Zorro escapa da prisão para vingar o assassinato de sua mulher e o rapto de sua filha Elena, ambos realizados pelas mãos de seu inimigo Don Rafael Montero. Mas primeiro ele deve transformar o jovem ladrão arrogante Alejandro Murrieta no temido herói e lutar pelo povo do qual fez parte um dia.</info>
+    <genre>Ação, Aventura</genre>
 </item>
 
 
