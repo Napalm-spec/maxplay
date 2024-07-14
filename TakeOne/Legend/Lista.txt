@@ -3,7 +3,7 @@ language="Portuguese (Portugal)"
 flag="pb"
 rating="5"
 
-subtitle="https://raw.githubusercontent.com/zoreu/legenda-facil-para-kodi/master/legendas/filmes/parasita2019/Parasite.2019.KORAEN.1080p.BluRay.H264.AAC-VXT.srt"
+subtitle="https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Legend/the.mask.of.zorro-lchd.vtt"
 language="Portuguese (Brasil)"
 flag="pb"
 rating="2"
