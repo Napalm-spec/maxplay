@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Depois do Apocalipse</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a30eafb41f88fded4176c31b7d58bae73ca1703</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//yrmjuloMIfSLKnyUnxvq0jORJ3M.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//9s9o9RT9Yj6nDuRJjnJm78WFoFl.jpg</fanart>
+    <info>Um pai e seus filhos gêmeos adolescentes lutam para sobreviver em uma casa de fazenda remota no fim do mundo.</info>
+    <genre>Ficção | Suspense | Terror</genre>
+</item>
  <item>
     <title>Cora: O Último Suspiro</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:104e4637f7e5422d8fc5c764ea9d10856d215185&dn</link>
