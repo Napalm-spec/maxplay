@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Fúria Assassina</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:862baa500773c1acf207accf840d40343745905e&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//xy7l2WWzy5Q6C1e0EUhfLFHWnpJ.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//xgotqsHt0x23gs6pC6wM0IGQjYR.jpg</fanart>
+    <info>Miranda, uma jovem que sofre de ansiedade devido a uma tragédia passada, vira o novo alvo de um serial killer. Agora, ela precisa reunir forças para sobreviver a uma caçada angustiante pela floresta.</info>
+    <genre>Ação | Suspense</genre>
+</item>
 <item>
     <title>Um Tira da Pesada 4: Axel Foley</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KZUA3JADRI6QPMRPNGEAYZPKR7QIC7NF&dn</link>
