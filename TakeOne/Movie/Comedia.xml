@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+<item>
+    <title>Imaculada</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cba643d0040367f99e7df3d7b2b87ff6dbe3a258&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//tsV19P8J4NMP54cC8QCg1IkLLks.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//5Eip60UDiPLASyKjmHPMruggTc4.jpg</fanart>
+    <info>Cecilia, uma jovem religiosa, se torna freira em um convento isolado na região rural italiana. Após uma gravidez misteriosa, Cecilia é atormentada por forças perversas, enquanto confronta segredos sombrios e horrores do convento.</info>
+    <genre>Comédia</genre>
+</item>    
 <item>
     <title>Mergulhando no Amor</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e4464ace069baffd5a44769af7b5dd1662e9ceae&dn</link>
