@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Mergulhando no Amor</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e4464ace069baffd5a44769af7b5dd1662e9ceae&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//edjoeHi2S4H3Fm0NlsudsYgbgvl.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//peE1ax04MnTQ9ChDryoDNF95r5.jpg</fanart>
+    <info>Após o fracasso de seu novo álbum, um astro do rock vai morar na ilha de Chipre. Mas alguns visitantes e uma antiga paixão podem atrapalhar essa vida nova.</info>
+    <genre>Comédia | Romance | Musical</genre>
+</item>
   <item>
     <title>O Cara da Piscina</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KCTJALCJMSDH2BHBJ2FPV63HUNUYBX2C&dn</link>
