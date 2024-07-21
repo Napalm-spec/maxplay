@@ -33,3 +33,41 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Ne
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/614358.m3u8
 #EXTINF:-1 tvg-id="tv.sergipe.br" tvg-name="GLOBO TV SERGIPE FHD" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV SERGIPE FHD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/614359.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZAPPING SERIE C 01" tvg-logo="http://www.fontedoscanais.com/logos/canais/zappingsports.png" group-title="CANAIS | ESPORTES PPV",ZAPPING SERIE C 01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608549.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZAPPING SERIE C 01¹" tvg-logo="http://www.fontedoscanais.com/logos/canais/zappingsports.png" group-title="CANAIS | ESPORTES PPV",ZAPPING SERIE C 01¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/609784.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZAPPING SERIE C 01³" tvg-logo="http://www.fontedoscanais.com/logos/canais/zappingsports.png" group-title="CANAIS | ESPORTES PPV",ZAPPING SERIE C 01³
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/609785.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZAPPING SERIE C 02³" tvg-logo="http://www.fontedoscanais.com/logos/canais/zappingsports.png" group-title="CANAIS | ESPORTES PPV",ZAPPING SERIE C 02³
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/609786.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZAPPING SERIE C 02" tvg-logo="http://www.fontedoscanais.com/logos/canais/zappingsports.png" group-title="CANAIS | ESPORTES PPV",ZAPPING SERIE C 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608550.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZAPPING SERIE C 03³" tvg-logo="http://www.fontedoscanais.com/logos/canais/zappingsports.png" group-title="CANAIS | ESPORTES PPV",ZAPPING SERIE C 03³
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/609787.m3u8
+#EXTINF:-1 tvg-id="baby.br" tvg-name="BABY TV SD" tvg-logo="https://prostore.app/logos/babytv.png" group-title="CANAIS | INFANTIS",BABY TV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/100245.m3u8
+#EXTINF:-1 tvg-id="baby.br" tvg-name="BABY TV HD" tvg-logo="https://prostore.app/logos/babytv.png" group-title="CANAIS | INFANTIS",BABY TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/100246.m3u8
+#EXTINF:-1 tvg-id="baby.br" tvg-name="BABY TV FHD" tvg-logo="https://prostore.app/logos/babytv.png" group-title="CANAIS | INFANTIS",BABY TV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/100247.m3u8
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="CARTOONITO SD" tvg-logo="https://prostore.app/logos/cartonito.png" group-title="CANAIS | INFANTIS",CARTOONITO SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/100248.m3u8
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="CARTOONITO HD" tvg-logo="https://prostore.app/logos/cartonito.png" group-title="CANAIS | INFANTIS",CARTOONITO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/100250.m3u8
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="CARTOONITO FHD" tvg-logo="https://prostore.app/logos/cartonito.png" group-title="CANAIS | INFANTIS",CARTOONITO FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/100253.m3u8
+#EXTINF:-1 tvg-id="nick.br" tvg-name="NICKELODEON SD¹" tvg-logo="https://prostore.app/logos/nickelaeon.png" group-title="CANAIS | INFANTIS",NICKELODEON SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608506.m3u8
+#EXTINF:-1 tvg-id="nick.br" tvg-name="NICKELODEON SD²" tvg-logo="https://prostore.app/logos/nickelaeon.png" group-title="CANAIS | INFANTIS",NICKELODEON SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/100282.m3u8
+#EXTINF:-1 tvg-id="nick.br" tvg-name="NICKELODEON HD¹" tvg-logo="https://prostore.app/logos/nickelaeon.png" group-title="CANAIS | INFANTIS",NICKELODEON HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608509.m3u8
+#EXTINF:-1 tvg-id="nick.br" tvg-name="NICKELODEON HD²" tvg-logo="https://prostore.app/logos/nickelaeon.png" group-title="CANAIS | INFANTIS",NICKELODEON HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/100284.m3u8
+#EXTINF:-1 tvg-id="nick.br" tvg-name="NICKELODEON FHD¹" tvg-logo="https://prostore.app/logos/nickelaeon.png" group-title="CANAIS | INFANTIS",NICKELODEON FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608507.m3u8
+#EXTINF:-1 tvg-id="nick.br" tvg-name="NICKELODEON FHD²" tvg-logo="https://prostore.app/logos/nickelaeon.png" group-title="CANAIS | INFANTIS",NICKELODEON FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/100286.m3u8
+#EXTINF:-1 tvg-id="nick.br" tvg-name="NICKELODEON FHD H265¹" tvg-logo="https://prostore.app/logos/nickelaeon.png" group-title="CANAIS | INFANTIS",NICKELODEON FHD H265¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608508.m3u8
