@@ -119,3 +119,59 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Ne
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/604947.m3u8
 #EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT FHD H265¹" tvg-logo="https://prostore.app/logos/gnt.png" group-title="CANAIS | VARIEDADES",GNT FHD H265¹
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608502.m3u8
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL SD¹" tvg-logo="https://prostore.app/logos/discoverychannel.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/61074.m3u8
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL SD²" tvg-logo="https://prostore.app/logos/discoverychannel.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97174.m3u8
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL HD¹" tvg-logo="https://prostore.app/logos/discoverychannel.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/6132.m3u8
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL HD²" tvg-logo="https://prostore.app/logos/discoverychannel.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97173.m3u8
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL FHD¹" tvg-logo="https://prostore.app/logos/discoverychannel.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/69150.m3u8
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL FHD²" tvg-logo="https://prostore.app/logos/discoverychannel.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97172.m3u8
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL FHD H265¹" tvg-logo="https://prostore.app/logos/discoverychannel.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL FHD H265¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608498.m3u8
+#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="DISCOVERY THEATHER SD¹" tvg-logo="https://prostore.app/logos/theater.png" group-title="CANAIS | DISCOVERY",DISCOVERY THEATHER SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/61233.m3u8
+#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="DISCOVERY THEATHER SD²" tvg-logo="https://prostore.app/logos/theater.png" group-title="CANAIS | DISCOVERY",DISCOVERY THEATHER SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97189.m3u8
+#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="DISCOVERY THEATHER HD¹" tvg-logo="https://prostore.app/logos/theater.png" group-title="CANAIS | DISCOVERY",DISCOVERY THEATHER HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/6130.m3u8
+#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="DISCOVERY THEATHER HD²" tvg-logo="https://prostore.app/logos/theater.png" group-title="CANAIS | DISCOVERY",DISCOVERY THEATHER HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97188.m3u8
+#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="DISCOVERY THEATHER FHD¹" tvg-logo="https://prostore.app/logos/theater.png" group-title="CANAIS | DISCOVERY",DISCOVERY THEATHER FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/11530.m3u8
+#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="DISCOVERY THEATHER FHD²" tvg-logo="https://prostore.app/logos/theater.png" group-title="CANAIS | DISCOVERY",DISCOVERY THEATHER FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97187.m3u8
+#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="DISCOVERY THEATHER FHD H265¹" tvg-logo="https://prostore.app/logos/theater.png" group-title="CANAIS | DISCOVERY",DISCOVERY THEATHER FHD H265¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608497.m3u8
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY H&H SD¹" tvg-logo="https://prostore.app/logos/discovery.png" group-title="CANAIS | DISCOVERY",DISCOVERY H&H SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608495.m3u8
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY H&H SD²" tvg-logo="https://prostore.app/logos/discovery.png" group-title="CANAIS | DISCOVERY",DISCOVERY H&H SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97177.m3u8
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY H&H HD¹" tvg-logo="https://prostore.app/logos/discovery.png" group-title="CANAIS | DISCOVERY",DISCOVERY H&H HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/6131.m3u8
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY H&H HD²" tvg-logo="https://prostore.app/logos/discovery.png" group-title="CANAIS | DISCOVERY",DISCOVERY H&H HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97176.m3u8
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY H&H FHD¹" tvg-logo="https://prostore.app/logos/discovery.png" group-title="CANAIS | DISCOVERY",DISCOVERY H&H FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/69151.m3u8
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY H&H FHD²" tvg-logo="https://prostore.app/logos/discovery.png" group-title="CANAIS | DISCOVERY",DISCOVERY H&H FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97175.m3u8
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY H&H FHD H265¹" tvg-logo="https://prostore.app/logos/discovery.png" group-title="CANAIS | DISCOVERY",DISCOVERY H&H FHD H265¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608496.m3u8
+#EXTINF:-1 tvg-id="discovery.science.br" tvg-name="DISCOVERY SCIENCE SD¹" tvg-logo="https://prostore.app/logos/discoveryscienc.png" group-title="CANAIS | DISCOVERY",DISCOVERY SCIENCE SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/13206.m3u8
+#EXTINF:-1 tvg-id="discovery.science.br" tvg-name="DISCOVERY SCIENCE SD²" tvg-logo="https://prostore.app/logos/discoveryscienc.png" group-title="CANAIS | DISCOVERY",DISCOVERY SCIENCE SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97186.m3u8
+#EXTINF:-1 tvg-id="discovery.science.br" tvg-name="DISCOVERY SCIENCE HD¹" tvg-logo="https://prostore.app/logos/discoveryscienc.png" group-title="CANAIS | DISCOVERY",DISCOVERY SCIENCE HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/7861.m3u8
+#EXTINF:-1 tvg-id="discovery.science.br" tvg-name="DISCOVERY SCIENCE HD²" tvg-logo="https://prostore.app/logos/discoveryscienc.png" group-title="CANAIS | DISCOVERY",DISCOVERY SCIENCE HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97185.m3u8
+#EXTINF:-1 tvg-id="discovery.science.br" tvg-name="DISCOVERY SCIENCE FHD¹" tvg-logo="https://prostore.app/logos/discoveryscienc.png" group-title="CANAIS | DISCOVERY",DISCOVERY SCIENCE FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/61232.m3u8
+#EXTINF:-1 tvg-id="discovery.science.br" tvg-name="DISCOVERY SCIENCE FHD²" tvg-logo="https://prostore.app/logos/discoveryscienc.png" group-title="CANAIS | DISCOVERY",DISCOVERY SCIENCE FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97184.m3u8
+#EXTINF:-1 tvg-id="discovery.science.br" tvg-name="DISCOVERY SCIENCE FHD H265¹" tvg-logo="https://prostore.app/logos/discoveryscienc.png" group-title="CANAIS | DISCOVERY",DISCOVERY SCIENCE FHD H265¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608494.m3u8
