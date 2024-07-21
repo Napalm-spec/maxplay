@@ -781,3 +781,19 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Ne
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/61200.m3u8
 #EXTINF:-1 tvg-id="star.life.br" tvg-name="STAR LIFE FHD²" tvg-logo="https://www.sky.com.br/documents/1407842/46756000/Star_LIFE_COLOR_360x330.png" group-title="CANAIS | FILMES E SERIES",STAR LIFE FHD²
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97581.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A vida moderna de Rocko" tvg-logo="https://images.pluto.tv/channels/5f6df6293a12e10007017396/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",A vida moderna de Rocko
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/111256.m3u8
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="AGRO BRASIL" tvg-logo="https://prostore.app/logos/agro.png" group-title="CANAIS | ABERTO",AGRO BRASIL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/81571.m3u8
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET 4K" tvg-logo="https://prostore.app/logos/animalplanet.png" group-title="CANAIS | 4K",ANIMAL PLANET 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97167.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APPLE TV 1" tvg-logo="https://prostore.app/logos/appletv.png" group-title="CANAIS | ESPORTES PPV",APPLE TV 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/466222.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APPLE TV 2" tvg-logo="https://prostore.app/logos/appletv.png" group-title="CANAIS | ESPORTES PPV",APPLE TV 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/466224.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APPLE TV 3" tvg-logo="https://prostore.app/logos/appletv.png" group-title="CANAIS | ESPORTES PPV",APPLE TV 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/466226.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APPLE TV 4" tvg-logo="https://prostore.app/logos/appletv.png" group-title="CANAIS | ESPORTES PPV",APPLE TV 4
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/466227.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="As  Pistas de Blue" tvg-logo="https://images.pluto.tv/channels/5f99aad4e82db50007fac4b2/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",As  Pistas de Blue
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/111258.m3u8
