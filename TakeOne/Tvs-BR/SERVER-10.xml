@@ -755,3 +755,29 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Ne
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/61210.m3u8
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV 4K " tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | 4K",SPORTV 4K 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/100330.m3u8
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL SD¹" tvg-logo="https://prostore.app/logos/Comedicentral.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/4391.m3u8
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL SD²" tvg-logo="https://prostore.app/logos/Comedicentral.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97509.m3u8
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL HD¹" tvg-logo="https://prostore.app/logos/Comedicentral.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/10292.m3u8
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL HD²" tvg-logo="https://prostore.app/logos/Comedicentral.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97508.m3u8
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL FHD¹" tvg-logo="https://prostore.app/logos/Comedicentral.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/61244.m3u8
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL FHD²" tvg-logo="https://prostore.app/logos/Comedicentral.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97507.m3u8
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL 4K" tvg-logo="https://prostore.app/logos/Comedicentral.png" group-title="CANAIS | 4K",COMEDY CENTRAL 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/110991.m3u8
+#EXTINF:-1 tvg-id="star.life.br" tvg-name="STAR LIFE SD¹" tvg-logo="https://www.sky.com.br/documents/1407842/46756000/Star_LIFE_COLOR_360x330.png" group-title="CANAIS | FILMES E SERIES",STAR LIFE SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/61164.m3u8
+#EXTINF:-1 tvg-id="star.life.br" tvg-name="STAR LIFE SD²" tvg-logo="https://www.sky.com.br/documents/1407842/46756000/Star_LIFE_COLOR_360x330.png" group-title="CANAIS | FILMES E SERIES",STAR LIFE SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97583.m3u8
+#EXTINF:-1 tvg-id="star.life.br" tvg-name="STAR LIFE HD¹" tvg-logo="https://www.sky.com.br/documents/1407842/46756000/Star_LIFE_COLOR_360x330.png" group-title="CANAIS | FILMES E SERIES",STAR LIFE HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/6876.m3u8
+#EXTINF:-1 tvg-id="star.life.br" tvg-name="STAR LIFE HD²" tvg-logo="https://www.sky.com.br/documents/1407842/46756000/Star_LIFE_COLOR_360x330.png" group-title="CANAIS | FILMES E SERIES",STAR LIFE HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97582.m3u8
+#EXTINF:-1 tvg-id="star.life.br" tvg-name="STAR LIFE FHD¹" tvg-logo="https://www.sky.com.br/documents/1407842/46756000/Star_LIFE_COLOR_360x330.png" group-title="CANAIS | FILMES E SERIES",STAR LIFE FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/61200.m3u8
+#EXTINF:-1 tvg-id="star.life.br" tvg-name="STAR LIFE FHD²" tvg-logo="https://www.sky.com.br/documents/1407842/46756000/Star_LIFE_COLOR_360x330.png" group-title="CANAIS | FILMES E SERIES",STAR LIFE FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97581.m3u8
