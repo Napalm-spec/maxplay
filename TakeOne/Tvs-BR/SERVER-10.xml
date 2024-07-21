@@ -615,3 +615,47 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Ne
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/602688.m3u8
 #EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 3 FHD H265¹" tvg-logo="https://images2.imgbox.com/5a/90/VuKcjdBl_o.png" group-title="CANAIS | ESPORTE",ESPN 3 FHD H265¹
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608174.m3u8
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 4  4K" tvg-logo="https://prostore.app/logos/espn_4.png" group-title="CANAIS | 4K",ESPN 4  4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/602675.m3u8
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 SD¹" tvg-logo="https://images2.imgbox.com/af/84/VMRDO4s8_o.png" group-title="CANAIS | ESPORTE",ESPN 4 SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/602689.m3u8
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 SD²" tvg-logo="https://images2.imgbox.com/af/84/VMRDO4s8_o.png" group-title="CANAIS | ESPORTE",ESPN 4 SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/602690.m3u8
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 HD¹" tvg-logo="https://images2.imgbox.com/af/84/VMRDO4s8_o.png" group-title="CANAIS | ESPORTE",ESPN 4 HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/602691.m3u8
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 HD²" tvg-logo="https://images2.imgbox.com/af/84/VMRDO4s8_o.png" group-title="CANAIS | ESPORTE",ESPN 4 HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/602692.m3u8
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 FHD¹" tvg-logo="https://images2.imgbox.com/af/84/VMRDO4s8_o.png" group-title="CANAIS | ESPORTE",ESPN 4 FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/602693.m3u8
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 FHD²" tvg-logo="https://images2.imgbox.com/af/84/VMRDO4s8_o.png" group-title="CANAIS | ESPORTE",ESPN 4 FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/602694.m3u8
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 FHD H265¹" tvg-logo="https://images2.imgbox.com/af/84/VMRDO4s8_o.png" group-title="CANAIS | ESPORTE",ESPN 4 FHD H265¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608175.m3u8
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="ESPN 5 SD¹" tvg-logo="https://static.b2pteam.com/logos/esportes/foxsports2.png" group-title="CANAIS | ESPORTE",ESPN 5 SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608158.m3u8
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="ESPN 5 SD²" tvg-logo="https://static.b2pteam.com/logos/esportes/foxsports2.png" group-title="CANAIS | ESPORTE",ESPN 5 SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608159.m3u8
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="ESPN 5 HD¹" tvg-logo="https://static.b2pteam.com/logos/esportes/foxsports2.png" group-title="CANAIS | ESPORTE",ESPN 5 HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608160.m3u8
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="ESPN 5 HD²" tvg-logo="https://static.b2pteam.com/logos/esportes/foxsports2.png" group-title="CANAIS | ESPORTE",ESPN 5 HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608161.m3u8
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="ESPN 5 FHD¹" tvg-logo="https://static.b2pteam.com/logos/esportes/foxsports2.png" group-title="CANAIS | ESPORTE",ESPN 5 FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608162.m3u8
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="ESPN 5 FHD²" tvg-logo="https://static.b2pteam.com/logos/esportes/foxsports2.png" group-title="CANAIS | ESPORTE",ESPN 5 FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608163.m3u8
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="ESPN 5 FHD H265" tvg-logo="https://static.b2pteam.com/logos/esportes/foxsports2.png" group-title="CANAIS | ESPORTE",ESPN 5 FHD H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608164.m3u8
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 6 SD¹" tvg-logo="https://static.b2pteam.com/logos/esportes/espnextra.png" group-title="CANAIS | ESPORTE",ESPN 6 SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608165.m3u8
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 6 SD²" tvg-logo="https://static.b2pteam.com/logos/esportes/espnextra.png" group-title="CANAIS | ESPORTE",ESPN 6 SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608166.m3u8
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 6 HD¹" tvg-logo="https://static.b2pteam.com/logos/esportes/espnextra.png" group-title="CANAIS | ESPORTE",ESPN 6 HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608167.m3u8
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 6 HD²" tvg-logo="https://static.b2pteam.com/logos/esportes/espnextra.png" group-title="CANAIS | ESPORTE",ESPN 6 HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608168.m3u8
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 6 FHD¹" tvg-logo="https://static.b2pteam.com/logos/esportes/espnextra.png" group-title="CANAIS | ESPORTE",ESPN 6 FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608169.m3u8
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 6 FHD²" tvg-logo="https://static.b2pteam.com/logos/esportes/espnextra.png" group-title="CANAIS | ESPORTE",ESPN 6 FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608170.m3u8
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 6 FHD H265¹" tvg-logo="https://static.b2pteam.com/logos/esportes/espnextra.png" group-title="CANAIS | ESPORTE",ESPN 6 FHD H265¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608171.m3u8
