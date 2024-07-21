@@ -2765,32 +2765,11 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Ne
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/624951.m3u8
 #EXTINF:-1 tvg-id="tv.boa.vista.br" tvg-name="GLOBO BOA VISTA" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO BOA VISTA
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/624952.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H MANNY MAOS A OBRA" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H MANNY MAOS A OBRA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/624957.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H O SOCIO" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H O SOCIO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/624958.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H MEGA MAN" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H MEGA MAN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/624960.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H OS SETE MONSTRINHOS" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H OS SETE MONSTRINHOS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/624961.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H PHINEAS E FERB" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H PHINEAS E FERB
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/624962.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H OS PINGUINS DE MADAGASCAR" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H OS PINGUINS DE MADAGASCAR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/624963.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H O COISA" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H O COISA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/624964.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H JAMBO E RUVIAO" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H JAMBO E RUVIAO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/624965.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H OLHA DO DESAFIOS" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H OLHA DO DESAFIOS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/624966.m3u8
 #EXTINF:-1 tvg-id="tv.mirante.sao.luis.br" tvg-name="GLOBO TV MIRANTE SAO LUIZ HD" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV MIRANTE SAO LUIZ HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/625115.m3u8
 #EXTINF:-1 tvg-id="tv.mirante.sao.luis.br" tvg-name="GLOBO TV MIRANTE SAO LUIZ FHD" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV MIRANTE SAO LUIZ FHD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/625116.m3u8
 #EXTINF:-1 tvg-id="tv.mirante.cocais.br" tvg-name="GLOBO TV MIRANTES COCAIS " tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV MIRANTES COCAIS 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/625117.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H BOB ESPONJA" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H BOB ESPONJA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/626495.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H MICKEY DOONALD E PATETA" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H MICKEY DOONALD E PATETA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/626496.m3u8
+
 
