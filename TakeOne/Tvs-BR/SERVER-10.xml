@@ -373,3 +373,139 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Ne
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97597.m3u8
 #EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL FHD H265¹" tvg-logo="https://images2.imgbox.com/5b/5e/iAN4sh8S_o.png" group-title="CANAIS | FILMES E SERIES",WARNER CHANNEL FHD H265¹
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608208.m3u8
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="DISCOVERY TURBO SD¹" tvg-logo="https://prostore.app/logos/discoverytudbo.png" group-title="CANAIS | DISCOVERY",DISCOVERY TURBO SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/61076.m3u8
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="DISCOVERY TURBO SD²" tvg-logo="https://prostore.app/logos/discoverytudbo.png" group-title="CANAIS | DISCOVERY",DISCOVERY TURBO SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97192.m3u8
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="DISCOVERY TURBO HD¹" tvg-logo="https://prostore.app/logos/discoverytudbo.png" group-title="CANAIS | DISCOVERY",DISCOVERY TURBO HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/6877.m3u8
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="DISCOVERY TURBO HD²" tvg-logo="https://prostore.app/logos/discoverytudbo.png" group-title="CANAIS | DISCOVERY",DISCOVERY TURBO HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97191.m3u8
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="DISCOVERY TURBO FHD¹" tvg-logo="https://prostore.app/logos/discoverytudbo.png" group-title="CANAIS | DISCOVERY",DISCOVERY TURBO FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/11531.m3u8
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="DISCOVERY TURBO FHD²" tvg-logo="https://prostore.app/logos/discoverytudbo.png" group-title="CANAIS | DISCOVERY",DISCOVERY TURBO FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97190.m3u8
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="DISCOVERY TURBO FHD H265¹" tvg-logo="https://prostore.app/logos/discoverytudbo.png" group-title="CANAIS | DISCOVERY",DISCOVERY TURBO FHD H265¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608207.m3u8
+#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="DISCOVERY WORLD SD¹" tvg-logo="https://images2.imgbox.com/00/c4/47GmQnDN_o.png" group-title="CANAIS | DISCOVERY",DISCOVERY WORLD SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608205.m3u8
+#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="DISCOVERY WORLD SD²" tvg-logo="https://images2.imgbox.com/00/c4/47GmQnDN_o.png" group-title="CANAIS | DISCOVERY",DISCOVERY WORLD SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97195.m3u8
+#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="DISCOVERY WORLD HD¹" tvg-logo="https://images2.imgbox.com/00/c4/47GmQnDN_o.png" group-title="CANAIS | DISCOVERY",DISCOVERY WORLD HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/6128.m3u8
+#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="DISCOVERY WORLD HD²" tvg-logo="https://images2.imgbox.com/00/c4/47GmQnDN_o.png" group-title="CANAIS | DISCOVERY",DISCOVERY WORLD HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97194.m3u8
+#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="DISCOVERY WORLD FHD¹" tvg-logo="https://images2.imgbox.com/00/c4/47GmQnDN_o.png" group-title="CANAIS | DISCOVERY",DISCOVERY WORLD FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/61235.m3u8
+#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="DISCOVERY WORLD FHD²" tvg-logo="https://images2.imgbox.com/00/c4/47GmQnDN_o.png" group-title="CANAIS | DISCOVERY",DISCOVERY WORLD FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97193.m3u8
+#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="DISCOVERY WORLD FHD H265¹" tvg-logo="https://images2.imgbox.com/00/c4/47GmQnDN_o.png" group-title="CANAIS | DISCOVERY",DISCOVERY WORLD FHD H265¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608206.m3u8
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC SD¹" tvg-logo="https://prostore.app/logos/tlc.png" group-title="CANAIS | DOCUMENTARIO",TLC SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608201.m3u8
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC SD²" tvg-logo="https://prostore.app/logos/tlc.png" group-title="CANAIS | DOCUMENTARIO",TLC SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/61178.m3u8
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC HD¹" tvg-logo="https://prostore.app/logos/tlc.png" group-title="CANAIS | DOCUMENTARIO",TLC HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608202.m3u8
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC HD²" tvg-logo="https://prostore.app/logos/tlc.png" group-title="CANAIS | DOCUMENTARIO",TLC HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/24786.m3u8
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC FHD¹" tvg-logo="https://prostore.app/logos/tlc.png" group-title="CANAIS | DOCUMENTARIO",TLC FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/69149.m3u8
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC FHD²" tvg-logo="https://prostore.app/logos/tlc.png" group-title="CANAIS | DOCUMENTARIO",TLC FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608203.m3u8
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC FHD H265¹" tvg-logo="https://prostore.app/logos/tlc.png" group-title="CANAIS | DOCUMENTARIO",TLC FHD H265¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608204.m3u8
+#EXTINF:-1 tvg-id="arte.1.br" tvg-name="ARTE 1 SD¹" tvg-logo="http://021stream.xyz/images/33b7c9115fb98c65418bd32aea7b828a.png" group-title="CANAIS | DOCUMENTARIO",ARTE 1 SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/75487.m3u8
+#EXTINF:-1 tvg-id="arte.1.br" tvg-name="ARTE 1 SD²" tvg-logo="http://021stream.xyz/images/33b7c9115fb98c65418bd32aea7b828a.png" group-title="CANAIS | DOCUMENTARIO",ARTE 1 SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608197.m3u8
+#EXTINF:-1 tvg-id="arte.1.br" tvg-name="ARTE 1 HD¹" tvg-logo="http://021stream.xyz/images/33b7c9115fb98c65418bd32aea7b828a.png" group-title="CANAIS | DOCUMENTARIO",ARTE 1 HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/94106.m3u8
+#EXTINF:-1 tvg-id="arte.1.br" tvg-name="ARTE 1 HD²" tvg-logo="http://021stream.xyz/images/33b7c9115fb98c65418bd32aea7b828a.png" group-title="CANAIS | DOCUMENTARIO",ARTE 1 HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608198.m3u8
+#EXTINF:-1 tvg-id="arte.1.br" tvg-name="ARTE 1 FHD¹" tvg-logo="http://021stream.xyz/images/33b7c9115fb98c65418bd32aea7b828a.png" group-title="CANAIS | DOCUMENTARIO",ARTE 1 FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/75488.m3u8
+#EXTINF:-1 tvg-id="arte.1.br" tvg-name="ARTE 1 FHD²" tvg-logo="http://021stream.xyz/images/33b7c9115fb98c65418bd32aea7b828a.png" group-title="CANAIS | DOCUMENTARIO",ARTE 1 FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608199.m3u8
+#EXTINF:-1 tvg-id="arte.1.br" tvg-name="ARTE 1 FHD H265¹" tvg-logo="http://021stream.xyz/images/33b7c9115fb98c65418bd32aea7b828a.png" group-title="CANAIS | DOCUMENTARIO",ARTE 1 FHD H265¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608200.m3u8
+#EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY SD¹" tvg-logo="https://prostore.app/logos/history.png" group-title="CANAIS | DOCUMENTARIO",HISTORY SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/4314.m3u8
+#EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY SD²" tvg-logo="https://prostore.app/logos/history.png" group-title="CANAIS | DOCUMENTARIO",HISTORY SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608190.m3u8
+#EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY HD¹" tvg-logo="https://prostore.app/logos/history.png" group-title="CANAIS | DOCUMENTARIO",HISTORY HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97247.m3u8
+#EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY HD²" tvg-logo="https://prostore.app/logos/history.png" group-title="CANAIS | DOCUMENTARIO",HISTORY HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608191.m3u8
+#EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY FHD¹" tvg-logo="https://prostore.app/logos/history.png" group-title="CANAIS | DOCUMENTARIO",HISTORY FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/13211.m3u8
+#EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY FHD²" tvg-logo="https://prostore.app/logos/history.png" group-title="CANAIS | DOCUMENTARIO",HISTORY FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97243.m3u8
+#EXTINF:-1 tvg-id="history.2.br" tvg-name="HISTORY 2 SD¹" tvg-logo="https://prostore.app/logos/history2.png" group-title="CANAIS | DOCUMENTARIO",HISTORY 2 SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608192.m3u8
+#EXTINF:-1 tvg-id="history.2.br" tvg-name="HISTORY 2 SD²" tvg-logo="https://prostore.app/logos/history2.png" group-title="CANAIS | DOCUMENTARIO",HISTORY 2 SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/4367.m3u8
+#EXTINF:-1 tvg-id="history.2.br" tvg-name="HISTORY 2 HD¹" tvg-logo="https://prostore.app/logos/history2.png" group-title="CANAIS | DOCUMENTARIO",HISTORY 2 HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/6111.m3u8
+#EXTINF:-1 tvg-id="history.2.br" tvg-name="HISTORY 2 HD²" tvg-logo="https://prostore.app/logos/history2.png" group-title="CANAIS | DOCUMENTARIO",HISTORY 2 HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608193.m3u8
+#EXTINF:-1 tvg-id="history.2.br" tvg-name="HISTORY 2 FHD¹" tvg-logo="https://prostore.app/logos/history2.png" group-title="CANAIS | DOCUMENTARIO",HISTORY 2 FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/69152.m3u8
+#EXTINF:-1 tvg-id="history.2.br" tvg-name="HISTORY 2 FHD²" tvg-logo="https://prostore.app/logos/history2.png" group-title="CANAIS | DOCUMENTARIO",HISTORY 2 FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608194.m3u8
+#EXTINF:-1 tvg-id="history.2.br" tvg-name="HISTORY 2 FHD H265¹" tvg-logo="https://prostore.app/logos/history2.png" group-title="CANAIS | DOCUMENTARIO",HISTORY 2 FHD H265¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608195.m3u8
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV SD¹" tvg-logo="https://prostore.app/logos/hgtv.png" group-title="CANAIS | DOCUMENTARIO",HGTV SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/10236.m3u8
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV SD²" tvg-logo="https://prostore.app/logos/hgtv.png" group-title="CANAIS | DOCUMENTARIO",HGTV SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97546.m3u8
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV HD¹" tvg-logo="https://prostore.app/logos/hgtv.png" group-title="CANAIS | DOCUMENTARIO",HGTV HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/7862.m3u8
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV HD²" tvg-logo="https://prostore.app/logos/hgtv.png" group-title="CANAIS | DOCUMENTARIO",HGTV HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97545.m3u8
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV FHD¹" tvg-logo="https://prostore.app/logos/hgtv.png" group-title="CANAIS | DOCUMENTARIO",HGTV FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/71200.m3u8
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV FHD²" tvg-logo="https://prostore.app/logos/hgtv.png" group-title="CANAIS | DOCUMENTARIO",HGTV FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97544.m3u8
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV FHD H265¹" tvg-logo="https://prostore.app/logos/hgtv.png" group-title="CANAIS | DOCUMENTARIO",HGTV FHD H265¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608189.m3u8
+#EXTINF:-1 tvg-id="fish.br" tvg-name="FISH TV SD¹" tvg-logo="https://prostore.app/logos/fishtv.png" group-title="CANAIS | DOCUMENTARIO",FISH TV SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/4377.m3u8
+#EXTINF:-1 tvg-id="fish.br" tvg-name="FISH TV SD²" tvg-logo="https://prostore.app/logos/fishtv.png" group-title="CANAIS | DOCUMENTARIO",FISH TV SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97614.m3u8
+#EXTINF:-1 tvg-id="fish.br" tvg-name="FISH TV HD¹ " tvg-logo="https://prostore.app/logos/fishtv.png" group-title="CANAIS | DOCUMENTARIO",FISH TV HD¹ 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/94117.m3u8
+#EXTINF:-1 tvg-id="fish.br" tvg-name="FISH TV HD²" tvg-logo="https://prostore.app/logos/fishtv.png" group-title="CANAIS | DOCUMENTARIO",FISH TV HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97613.m3u8
+#EXTINF:-1 tvg-id="fish.br" tvg-name="FISH TV FHD¹" tvg-logo="https://prostore.app/logos/fishtv.png" group-title="CANAIS | DOCUMENTARIO",FISH TV FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608188.m3u8
+#EXTINF:-1 tvg-id="fish.br" tvg-name="FISH TV FHD²" tvg-logo="https://prostore.app/logos/fishtv.png" group-title="CANAIS | DOCUMENTARIO",FISH TV FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97612.m3u8
+#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATGEO SD¹" tvg-logo="https://images2.imgbox.com/b0/4a/9W4iFel0_o.png" group-title="CANAIS | DOCUMENTARIO",NATGEO SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/113081.m3u8
+#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATGEO SD²" tvg-logo="https://images2.imgbox.com/b0/4a/9W4iFel0_o.png" group-title="CANAIS | DOCUMENTARIO",NATGEO SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/113082.m3u8
+#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATGEO HD¹" tvg-logo="https://images2.imgbox.com/b0/4a/9W4iFel0_o.png" group-title="CANAIS | DOCUMENTARIO",NATGEO HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/113083.m3u8
+#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATGEO HD²" tvg-logo="https://images2.imgbox.com/b0/4a/9W4iFel0_o.png" group-title="CANAIS | DOCUMENTARIO",NATGEO HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/113084.m3u8
+#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATGEO FHD¹" tvg-logo="https://images2.imgbox.com/b0/4a/9W4iFel0_o.png" group-title="CANAIS | DOCUMENTARIO",NATGEO FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/113085.m3u8
+#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATGEO FHD²" tvg-logo="https://images2.imgbox.com/b0/4a/9W4iFel0_o.png" group-title="CANAIS | DOCUMENTARIO",NATGEO FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/113087.m3u8
+#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATGEO FHD H265¹" tvg-logo="https://images2.imgbox.com/b0/4a/9W4iFel0_o.png" group-title="CANAIS | DOCUMENTARIO",NATGEO FHD H265¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608187.m3u8
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET SD¹" tvg-logo="https://prostore.app/logos/animalplanet.png" group-title="CANAIS | DOCUMENTARIO",ANIMAL PLANET SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/129376.m3u8
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET SD²" tvg-logo="https://prostore.app/logos/animalplanet.png" group-title="CANAIS | DOCUMENTARIO",ANIMAL PLANET SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/129377.m3u8
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET HD¹" tvg-logo="https://prostore.app/logos/animalplanet.png" group-title="CANAIS | DOCUMENTARIO",ANIMAL PLANET HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/129378.m3u8
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET HD²" tvg-logo="https://prostore.app/logos/animalplanet.png" group-title="CANAIS | DOCUMENTARIO",ANIMAL PLANET HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/129379.m3u8
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET FHD¹" tvg-logo="https://prostore.app/logos/animalplanet.png" group-title="CANAIS | DOCUMENTARIO",ANIMAL PLANET FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/129380.m3u8
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET FHD²" tvg-logo="https://prostore.app/logos/animalplanet.png" group-title="CANAIS | DOCUMENTARIO",ANIMAL PLANET FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/129381.m3u8
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET FHD H265¹" tvg-logo="https://prostore.app/logos/animalplanet.png" group-title="CANAIS | DOCUMENTARIO",ANIMAL PLANET FHD H265¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608186.m3u8
