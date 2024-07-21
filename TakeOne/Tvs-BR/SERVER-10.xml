@@ -2765,18 +2765,10 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Ne
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/624951.m3u8
 #EXTINF:-1 tvg-id="tv.boa.vista.br" tvg-name="GLOBO BOA VISTA" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO BOA VISTA
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/624952.m3u8
-#EXTINF:-1 tvg-id="sexy.hot.br" tvg-name="XXX SEXY HOT" tvg-logo="https://prostore.app/logos/adultos.png" group-title="CANAIS | ADULTO",XXX SEXY HOT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/624954.m3u8
-#EXTINF:-1 tvg-id="sexprive.brasileirinhas.br" tvg-name="XXX SEXY PRIVE" tvg-logo="https://prostore.app/logos/adultos.png" group-title="CANAIS | ADULTO",XXX SEXY PRIVE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/624955.m3u8
-#EXTINF:-1 tvg-id="sextreme.brazil.br" tvg-name="XXX SEXTREME" tvg-logo="https://prostore.app/logos/adultos.png" group-title="CANAIS | ADULTO",XXX SEXTREME
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/624956.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H MANNY MAOS A OBRA" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H MANNY MAOS A OBRA
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/624957.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H O SOCIO" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H O SOCIO
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/624958.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX HIDDEN CAM" tvg-logo="https://prostore.app/logos/adultos.png" group-title="CANAIS | ADULTO",XXX HIDDEN CAM
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/624959.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H MEGA MAN" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H MEGA MAN
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/624960.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H OS SETE MONSTRINHOS" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H OS SETE MONSTRINHOS
