@@ -509,3 +509,19 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Ne
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/129381.m3u8
 #EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET FHD H265¹" tvg-logo="https://prostore.app/logos/animalplanet.png" group-title="CANAIS | DOCUMENTARIO",ANIMAL PLANET FHD H265¹
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608186.m3u8
+#EXTINF:-1 tvg-id="conmebol.1.br" tvg-name="PARAMOUNT+ 1¹" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="CANAIS | ESPORTES PPV",PARAMOUNT+ 1¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/131198.m3u8
+#EXTINF:-1 tvg-id="conmebol.1.br" tvg-name="PARAMOUNT+ 1²" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="CANAIS | ESPORTES PPV",PARAMOUNT+ 1²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/131199.m3u8
+#EXTINF:-1 tvg-id="conmebol.2.br" tvg-name="PARAMOUNT+ 2¹" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="CANAIS | ESPORTES PPV",PARAMOUNT+ 2¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/131200.m3u8
+#EXTINF:-1 tvg-id="conmebol.2.br" tvg-name="PARAMOUNT+ 2²" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="CANAIS | ESPORTES PPV",PARAMOUNT+ 2²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/131201.m3u8
+#EXTINF:-1 tvg-id="conmebol.3.br" tvg-name="PARAMOUNT+ 3¹" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="CANAIS | ESPORTES PPV",PARAMOUNT+ 3¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/131202.m3u8
+#EXTINF:-1 tvg-id="conmebol.3.br" tvg-name="PARAMOUNT+ 3²" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="CANAIS | ESPORTES PPV",PARAMOUNT+ 3²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/131203.m3u8
+#EXTINF:-1 tvg-id="conmebol.4.br" tvg-name="PARAMOUNT+ 4¹" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="CANAIS | ESPORTES PPV",PARAMOUNT+ 4¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/131204.m3u8
+#EXTINF:-1 tvg-id="conmebol.4.br" tvg-name="PARAMOUNT+ 4²" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="CANAIS | ESPORTES PPV",PARAMOUNT+ 4²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/131205.m3u8
