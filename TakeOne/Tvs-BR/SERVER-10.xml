@@ -83,3 +83,39 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Ne
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/604860.m3u8
 #EXTINF:-1 tvg-id="disney.br" tvg-name="DISNEY CHANNEL FHD²" tvg-logo="https://prostore.app/logos/disneychannel.png" group-title="CANAIS | INFANTIS",DISNEY CHANNEL FHD²
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/604861.m3u8
+#EXTINF:-1 tvg-id="dogtv.br" tvg-name="DOG TV HD" tvg-logo="https://prostore.app/logos/dogtv.png" group-title="CANAIS | VARIEDADES",DOG TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/61459.m3u8
+#EXTINF:-1 tvg-id="dogtv.br" tvg-name="DOG TV FHD" tvg-logo="https://prostore.app/logos/dogtv.png" group-title="CANAIS | VARIEDADES",DOG TV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/61458.m3u8
+#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA SD" tvg-logo="https://prostore.app/logos/vi-va.png" group-title="CANAIS | VARIEDADES",VIVA SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/6928.m3u8
+#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA HD" tvg-logo="https://prostore.app/logos/vi-va.png" group-title="CANAIS | VARIEDADES",VIVA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97296.m3u8
+#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA FHD" tvg-logo="https://prostore.app/logos/vi-va.png" group-title="CANAIS | VARIEDADES",VIVA FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97295.m3u8
+#EXTINF:-1 tvg-id="trutv.br" tvg-name="TRU TV SD¹" tvg-logo="https://prostore.app/logos/trutv.png" group-title="CANAIS | VARIEDADES",TRU TV SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608503.m3u8
+#EXTINF:-1 tvg-id="trutv.br" tvg-name="TRU TV SD²" tvg-logo="https://prostore.app/logos/trutv.png" group-title="CANAIS | VARIEDADES",TRU TV SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97625.m3u8
+#EXTINF:-1 tvg-id="trutv.br" tvg-name="TRU TV HD¹" tvg-logo="https://prostore.app/logos/trutv.png" group-title="CANAIS | VARIEDADES",TRU TV HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608504.m3u8
+#EXTINF:-1 tvg-id="trutv.br" tvg-name="TRU TV HD²" tvg-logo="https://prostore.app/logos/trutv.png" group-title="CANAIS | VARIEDADES",TRU TV HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97624.m3u8
+#EXTINF:-1 tvg-id="trutv.br" tvg-name="TRU TV FHD¹" tvg-logo="https://prostore.app/logos/trutv.png" group-title="CANAIS | VARIEDADES",TRU TV FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608505.m3u8
+#EXTINF:-1 tvg-id="trutv.br" tvg-name="TRU TV FHD²" tvg-logo="https://prostore.app/logos/trutv.png" group-title="CANAIS | VARIEDADES",TRU TV FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97623.m3u8
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT SD¹" tvg-logo="https://prostore.app/logos/gnt.png" group-title="CANAIS | VARIEDADES",GNT SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608499.m3u8
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT SD²" tvg-logo="https://prostore.app/logos/gnt.png" group-title="CANAIS | VARIEDADES",GNT SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/604945.m3u8
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT HD²" tvg-logo="https://prostore.app/logos/gnt.png" group-title="CANAIS | VARIEDADES",GNT HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608500.m3u8
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT HD¹" tvg-logo="https://prostore.app/logos/gnt.png" group-title="CANAIS | VARIEDADES",GNT HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/604946.m3u8
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT FHD¹" tvg-logo="https://prostore.app/logos/gnt.png" group-title="CANAIS | VARIEDADES",GNT FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608501.m3u8
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT FHD²" tvg-logo="https://prostore.app/logos/gnt.png" group-title="CANAIS | VARIEDADES",GNT FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/604947.m3u8
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT FHD H265¹" tvg-logo="https://prostore.app/logos/gnt.png" group-title="CANAIS | VARIEDADES",GNT FHD H265¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608502.m3u8
