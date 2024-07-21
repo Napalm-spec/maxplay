@@ -797,3 +797,45 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Ne
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/466227.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="As  Pistas de Blue" tvg-logo="https://images.pluto.tv/channels/5f99aad4e82db50007fac4b2/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",As  Pistas de Blue
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/111258.m3u8
+#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="BAND TV SP SD" tvg-logo="https://prostore.app/logos/band.png" group-title="CANAIS | BAND",BAND TV SP SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/604922.m3u8
+#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="BAND SP 4K" tvg-logo="http://ccdnblck.xyz/images/0a99bf6f215e20875e74106a7c171dfb.png" group-title="CANAIS | 4K",BAND SP 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/110993.m3u8
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND TV" tvg-logo="https://prostore.app/logos/band.png" group-title="CANAIS | BAND",BAND TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/469455.m3u8
+#EXTINF:-1 tvg-id="band.bahia.br" tvg-name="BAND TV BAHIA" tvg-logo="https://prostore.app/logos/band.png" group-title="CANAIS | BAND",BAND TV BAHIA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/469463.m3u8
+#EXTINF:-1 tvg-id="band.brasilia.br" tvg-name="BAND TV BRASILIA" tvg-logo="https://prostore.app/logos/band.png" group-title="CANAIS | BAND",BAND TV BRASILIA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/469461.m3u8
+#EXTINF:-1 tvg-id="band.campinas.br" tvg-name="BAND TV CAMPINAS" tvg-logo="https://prostore.app/logos/band.png" group-title="CANAIS | BAND",BAND TV CAMPINAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/604921.m3u8
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND TV CASCAVEL PR" tvg-logo="https://prostore.app/logos/band.png" group-title="CANAIS | BAND",BAND TV CASCAVEL PR
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/469469.m3u8
+#EXTINF:-1 tvg-id="band.curitiba.br" tvg-name="BAND TV CURITIBA FHD" tvg-logo="https://prostore.app/logos/band.png" group-title="CANAIS | BAND",BAND TV CURITIBA FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/605356.m3u8
+#EXTINF:-1 tvg-id="band.curitiba.br" tvg-name="BAND TV CURITIBA HD" tvg-logo="https://prostore.app/logos/band.png" group-title="CANAIS | BAND",BAND TV CURITIBA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/605355.m3u8
+#EXTINF:-1 tvg-id="band.goiania.br" tvg-name="BAND TV GOIANIA" tvg-logo="https://prostore.app/logos/band.png" group-title="CANAIS | BAND",BAND TV GOIANIA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/601479.m3u8
+#EXTINF:-1 tvg-id="band.minas.br" tvg-name="BAND TV MINAS" tvg-logo="https://prostore.app/logos/band.png" group-title="CANAIS | BAND",BAND TV MINAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/604919.m3u8
+#EXTINF:-1 tvg-id="nordestv.br" tvg-name="BAND TV NORDESTE" tvg-logo="https://prostore.app/logos/band.png" group-title="CANAIS | BAND",BAND TV NORDESTE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/469464.m3u8
+#EXTINF:-1 tvg-id="band.porto.alegre.br" tvg-name="BAND TV PA" tvg-logo="https://prostore.app/logos/band.png" group-title="CANAIS | BAND",BAND TV PA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/469465.m3u8
+#EXTINF:-1 tvg-id="e.parana.br" tvg-name="BAND TV PARANA" tvg-logo="https://prostore.app/logos/band.png" group-title="CANAIS | BAND",BAND TV PARANA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/24924.m3u8
+#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="BAND TV SP HD" tvg-logo="https://prostore.app/logos/band.png" group-title="CANAIS | BAND",BAND TV SP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/604923.m3u8
+#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="BAND TV SP FHD" tvg-logo="https://prostore.app/logos/band.png" group-title="CANAIS | BAND",BAND TV SP FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/604925.m3u8
+#EXTINF:-1 tvg-id="band.rio.grande.do.sul.br" tvg-name="BAND TV RS" tvg-logo="https://prostore.app/logos/band.png" group-title="CANAIS | BAND",BAND TV RS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/469462.m3u8
+#EXTINF:-1 tvg-id="band.rj.br" tvg-name="BAND TV RJ HD" tvg-logo="https://prostore.app/logos/band.png" group-title="CANAIS | BAND",BAND TV RJ HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/605353.m3u8
+#EXTINF:-1 tvg-id="band.rj.br" tvg-name="BAND TV RJ FHD" tvg-logo="https://prostore.app/logos/band.png" group-title="CANAIS | BAND",BAND TV RJ FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/605354.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BET Being Mary Jane" tvg-logo="https://images.pluto.tv/channels/60a8126a0ac3970007f850fe/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",BET Being Mary Jane
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/111282.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BET Pluto TV" tvg-logo="https://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",BET Pluto TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/111266.m3u8
