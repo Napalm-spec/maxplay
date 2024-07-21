@@ -541,3 +541,21 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Ne
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/131204.m3u8
 #EXTINF:-1 tvg-id="conmebol.4.br" tvg-name="PARAMOUNT+ 4²" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="CANAIS | ESPORTES PPV",PARAMOUNT+ 4²
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/131205.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 1¹" tvg-logo="https://prostore.app/logos/hbomax.png" group-title="CANAIS | ESPORTES PPV",HBO MAX 1¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97351.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 1²" tvg-logo="https://prostore.app/logos/hbomax.png" group-title="CANAIS | ESPORTES PPV",HBO MAX 1²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608181.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 2¹" tvg-logo="https://prostore.app/logos/hbomax.png" group-title="CANAIS | ESPORTES PPV",HBO MAX 2¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97352.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 2²" tvg-logo="https://prostore.app/logos/hbomax.png" group-title="CANAIS | ESPORTES PPV",HBO MAX 2²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608182.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 3¹" tvg-logo="https://prostore.app/logos/hbomax.png" group-title="CANAIS | ESPORTES PPV",HBO MAX 3¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97353.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 3²" tvg-logo="https://prostore.app/logos/hbomax.png" group-title="CANAIS | ESPORTES PPV",HBO MAX 3²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608183.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 4¹" tvg-logo="https://prostore.app/logos/hbomax.png" group-title="CANAIS | ESPORTES PPV",HBO MAX 4¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97354.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 4²" tvg-logo="https://prostore.app/logos/hbomax.png" group-title="CANAIS | ESPORTES PPV",HBO MAX 4²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608184.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 5²" tvg-logo="https://prostore.app/logos/hbomax.png" group-title="CANAIS | ESPORTES PPV",HBO MAX 5²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608185.m3u8
