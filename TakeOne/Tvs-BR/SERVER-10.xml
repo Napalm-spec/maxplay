@@ -659,3 +659,99 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Ne
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608170.m3u8
 #EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 6 FHD H265¹" tvg-logo="https://static.b2pteam.com/logos/esportes/espnextra.png" group-title="CANAIS | ESPORTE",ESPN 6 FHD H265¹
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608171.m3u8
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 4K" tvg-logo="https://prostore.app/logos/espncopiar.png" group-title="CANAIS | 4K",ESPN 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/602676.m3u8
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO 4K" tvg-logo="https://prostore.app/logos/hbo.png" group-title="CANAIS | 4K",HBO 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/100333.m3u8
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO SD¹" tvg-logo="https://prostore.app/logos/hbo.png" group-title="CANAIS | HBO",HBO SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/4366.m3u8
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO SD²" tvg-logo="https://prostore.app/logos/hbo.png" group-title="CANAIS | HBO",HBO SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/60973.m3u8
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD¹" tvg-logo="https://prostore.app/logos/hbo.png" group-title="CANAIS | HBO",HBO HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/6108.m3u8
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD²" tvg-logo="https://prostore.app/logos/hbo.png" group-title="CANAIS | HBO",HBO HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/60974.m3u8
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO FHD¹" tvg-logo="https://prostore.app/logos/hbo.png" group-title="CANAIS | HBO",HBO FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/11566.m3u8
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO FHD²" tvg-logo="https://prostore.app/logos/hbo.png" group-title="CANAIS | HBO",HBO FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/61206.m3u8
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 SD¹" tvg-logo="https://prostore.app/logos/hbo.2.png" group-title="CANAIS | HBO",HBO 2 SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/4365.m3u8
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 SD²" tvg-logo="https://prostore.app/logos/hbo.2.png" group-title="CANAIS | HBO",HBO 2 SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/60975.m3u8
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 HD¹" tvg-logo="https://prostore.app/logos/hbo.2.png" group-title="CANAIS | HBO",HBO 2 HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/6110.m3u8
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 HD²" tvg-logo="https://prostore.app/logos/hbo.2.png" group-title="CANAIS | HBO",HBO 2 HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/60976.m3u8
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 FHD¹" tvg-logo="https://prostore.app/logos/hbo.2.png" group-title="CANAIS | HBO",HBO 2 FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/11567.m3u8
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 FHD²" tvg-logo="https://prostore.app/logos/hbo.2.png" group-title="CANAIS | HBO",HBO 2 FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/61204.m3u8
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI SD¹" tvg-logo="https://prostore.app/logos/hbomundi.png" group-title="CANAIS | HBO",HBO MUNDI SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/4358.m3u8
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI SD²" tvg-logo="https://prostore.app/logos/hbomundi.png" group-title="CANAIS | HBO",HBO MUNDI SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97123.m3u8
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI HD¹" tvg-logo="https://prostore.app/logos/hbomundi.png" group-title="CANAIS | HBO",HBO MUNDI HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/10266.m3u8
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI HD²" tvg-logo="https://prostore.app/logos/hbomundi.png" group-title="CANAIS | HBO",HBO MUNDI HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97124.m3u8
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI FHD¹" tvg-logo="https://prostore.app/logos/hbomundi.png" group-title="CANAIS | HBO",HBO MUNDI FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/63301.m3u8
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI FHD²" tvg-logo="https://prostore.app/logos/hbomundi.png" group-title="CANAIS | HBO",HBO MUNDI FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97125.m3u8
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS SD¹" tvg-logo="https://prostore.app/logos/hboplus.png" group-title="CANAIS | HBO",HBO PLUS SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/4363.m3u8
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS SD²" tvg-logo="https://prostore.app/logos/hboplus.png" group-title="CANAIS | HBO",HBO PLUS SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97119.m3u8
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS HD¹" tvg-logo="https://prostore.app/logos/hboplus.png" group-title="CANAIS | HBO",HBO PLUS HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/6106.m3u8
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS HD²" tvg-logo="https://prostore.app/logos/hboplus.png" group-title="CANAIS | HBO",HBO PLUS HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/60979.m3u8
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS FHD¹" tvg-logo="https://prostore.app/logos/hboplus.png" group-title="CANAIS | HBO",HBO PLUS FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/13190.m3u8
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS FHD²" tvg-logo="https://prostore.app/logos/hboplus.png" group-title="CANAIS | HBO",HBO PLUS FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/61207.m3u8
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP SD¹" tvg-logo="https://prostore.app/logos/hbopop.png" group-title="CANAIS | HBO",HBO POP SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/60988.m3u8
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP SD²" tvg-logo="https://prostore.app/logos/hbopop.png" group-title="CANAIS | HBO",HBO POP SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97120.m3u8
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP HD¹" tvg-logo="https://prostore.app/logos/hbopop.png" group-title="CANAIS | HBO",HBO POP HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/10265.m3u8
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP HD²" tvg-logo="https://prostore.app/logos/hbopop.png" group-title="CANAIS | HBO",HBO POP HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97121.m3u8
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP FHD¹" tvg-logo="https://prostore.app/logos/hbopop.png" group-title="CANAIS | HBO",HBO POP FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/25015.m3u8
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP FHD²" tvg-logo="https://prostore.app/logos/hbopop.png" group-title="CANAIS | HBO",HBO POP FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97122.m3u8
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY SD¹" tvg-logo="https://prostore.app/logos/hbofamily.png" group-title="CANAIS | HBO",HBO FAMILY SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/4364.m3u8
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY SD²" tvg-logo="https://prostore.app/logos/hbofamily.png" group-title="CANAIS | HBO",HBO FAMILY SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/60977.m3u8
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY HD¹" tvg-logo="https://prostore.app/logos/hbofamily.png" group-title="CANAIS | HBO",HBO FAMILY HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/6109.m3u8
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY HD²" tvg-logo="https://prostore.app/logos/hbofamily.png" group-title="CANAIS | HBO",HBO FAMILY HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/60978.m3u8
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY FHD¹" tvg-logo="https://prostore.app/logos/hbofamily.png" group-title="CANAIS | HBO",HBO FAMILY FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/63299.m3u8
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY FHD²" tvg-logo="https://prostore.app/logos/hbofamily.png" group-title="CANAIS | HBO",HBO FAMILY FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/61205.m3u8
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE SD¹" tvg-logo="https://prostore.app/logos/hbosignature.png" group-title="CANAIS | HBO",HBO SIGNATURE SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/4361.m3u8
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE SD²" tvg-logo="https://prostore.app/logos/hbosignature.png" group-title="CANAIS | HBO",HBO SIGNATURE SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/60981.m3u8
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE HD¹" tvg-logo="https://prostore.app/logos/hbosignature.png" group-title="CANAIS | HBO",HBO SIGNATURE HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/6105.m3u8
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE HD²" tvg-logo="https://prostore.app/logos/hbosignature.png" group-title="CANAIS | HBO",HBO SIGNATURE HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/60982.m3u8
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE FHD¹" tvg-logo="https://prostore.app/logos/hbosignature.png" group-title="CANAIS | HBO",HBO SIGNATURE FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/63300.m3u8
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE FHD²" tvg-logo="https://prostore.app/logos/hbosignature.png" group-title="CANAIS | HBO",HBO SIGNATURE FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/61208.m3u8
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME SD" tvg-logo="https://prostore.app/logos/hboxtreme.png" group-title="CANAIS | HBO",HBO XTREME SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/62850.m3u8
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME HD" tvg-logo="https://prostore.app/logos/hboxtreme.png" group-title="CANAIS | HBO",HBO XTREME HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/60986.m3u8
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME FHD" tvg-logo="https://prostore.app/logos/hboxtreme.png" group-title="CANAIS | HBO",HBO XTREME FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/61210.m3u8
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV 4K " tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | 4K",SPORTV 4K 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/100330.m3u8
