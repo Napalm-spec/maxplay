@@ -175,3 +175,45 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Ne
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97184.m3u8
 #EXTINF:-1 tvg-id="discovery.science.br" tvg-name="DISCOVERY SCIENCE FHD H265¹" tvg-logo="https://prostore.app/logos/discoveryscienc.png" group-title="CANAIS | DISCOVERY",DISCOVERY SCIENCE FHD H265¹
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608494.m3u8
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY SD¹" tvg-logo="https://prostore.app/logos/Canalsony.png" group-title="CANAIS | FILMES E SERIES",SONY SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/4395.m3u8
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY SD²" tvg-logo="https://prostore.app/logos/Canalsony.png" group-title="CANAIS | FILMES E SERIES",SONY SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97126.m3u8
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY HD¹" tvg-logo="https://prostore.app/logos/Canalsony.png" group-title="CANAIS | FILMES E SERIES",SONY HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/6961.m3u8
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY HD²" tvg-logo="https://prostore.app/logos/Canalsony.png" group-title="CANAIS | FILMES E SERIES",SONY HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97127.m3u8
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY FHD¹" tvg-logo="https://prostore.app/logos/Canalsony.png" group-title="CANAIS | FILMES E SERIES",SONY FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/13202.m3u8
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY FHD²" tvg-logo="https://prostore.app/logos/Canalsony.png" group-title="CANAIS | FILMES E SERIES",SONY FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97128.m3u8
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY FHD H265¹" tvg-logo="https://prostore.app/logos/Canalsony.png" group-title="CANAIS | FILMES E SERIES",SONY FHD H265¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608227.m3u8
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY SD¹" tvg-logo="https://prostore.app/logos/syfy.png" group-title="CANAIS | FILMES E SERIES",SYFY SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/4323.m3u8
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY SD²" tvg-logo="https://prostore.app/logos/syfy.png" group-title="CANAIS | FILMES E SERIES",SYFY SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97129.m3u8
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY HD¹" tvg-logo="https://prostore.app/logos/syfy.png" group-title="CANAIS | FILMES E SERIES",SYFY HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/7795.m3u8
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY HD²" tvg-logo="https://prostore.app/logos/syfy.png" group-title="CANAIS | FILMES E SERIES",SYFY HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97130.m3u8
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY FHD¹" tvg-logo="https://prostore.app/logos/syfy.png" group-title="CANAIS | FILMES E SERIES",SYFY FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/13195.m3u8
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY FHD²" tvg-logo="https://prostore.app/logos/syfy.png" group-title="CANAIS | FILMES E SERIES",SYFY FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97131.m3u8
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY FHD H265¹" tvg-logo="https://prostore.app/logos/syfy.png" group-title="CANAIS | FILMES E SERIES",SYFY FHD H265¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608226.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E SD¹" tvg-logo="https://images2.imgbox.com/06/5d/tjHaxHl8_o.png" group-title="CANAIS | FILMES E SERIES",A&E SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/4404.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E SD²" tvg-logo="https://images2.imgbox.com/06/5d/tjHaxHl8_o.png" group-title="CANAIS | FILMES E SERIES",A&E SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97221.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E HD¹" tvg-logo="https://images2.imgbox.com/06/5d/tjHaxHl8_o.png" group-title="CANAIS | FILMES E SERIES",A&E HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/8139.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E HD²" tvg-logo="https://images2.imgbox.com/06/5d/tjHaxHl8_o.png" group-title="CANAIS | FILMES E SERIES",A&E HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97220.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD¹" tvg-logo="https://images2.imgbox.com/06/5d/tjHaxHl8_o.png" group-title="CANAIS | FILMES E SERIES",A&E FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/61196.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD²" tvg-logo="https://images2.imgbox.com/06/5d/tjHaxHl8_o.png" group-title="CANAIS | FILMES E SERIES",A&E FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/97219.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD H265¹" tvg-logo="https://images2.imgbox.com/06/5d/tjHaxHl8_o.png" group-title="CANAIS | FILMES E SERIES",A&E FHD H265¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://51.79.39.236:80/live/q9m93gip/xrbl5e2t/608224.m3u8
