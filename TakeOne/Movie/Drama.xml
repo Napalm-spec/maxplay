@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>A Musa de Bonnard</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4dd20a257570b148d20fe788610eff1bc34c1394&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//y3A7b85AzG3lSlXChil0fRI8hNt.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//5lJi60sftEZ4dJw7gSRTmzU71fJ.jpg</fanart>
+    <info>A vida do pintor francês Pierre Bonnard (1867-1947) e de sua esposa, Marthe de Méligny (1869-1942), ao longo de cinco décadas. O homem que seu país natal apelidou de “pintor da felicidade” não seria o pintor que todos conhecem sem a enigmática Marthe que sozinha ocupa quase um terço da sua obra…</info>
+    <genre>Drama | Romance</genre>
+</item>
 <item>
     <title>A Jovem e o Mar</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:92ce2651d0c420c228e366f9d459213cc912280c&dn</link>
