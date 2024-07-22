@@ -1,6 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+<item>
+    <title>The Shift - O Deslocamento</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9fe3beb85e4fe4f76e55bf9a375270d9893144b9&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//3c1jlJr6ik6SyAF9VZxXfpytbFj.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//zDparHclByx1ulKw9YEpRfr02UV.jpg</fanart>
+    <info>Depois de conhecer um estranho misterioso, um homem deve escapar de um mundo distópico para retornar para sua esposa.</info>
+    <genre>Ficção | Suspense</genre>
+</item>
+<item>
+    <title>A Musa de Bonnard</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4dd20a257570b148d20fe788610eff1bc34c1394&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//y3A7b85AzG3lSlXChil0fRI8hNt.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//5lJi60sftEZ4dJw7gSRTmzU71fJ.jpg</fanart>
+    <info>A vida do pintor francês Pierre Bonnard (1867-1947) e de sua esposa, Marthe de Méligny (1869-1942), ao longo de cinco décadas. O homem que seu país natal apelidou de “pintor da felicidade” não seria o pintor que todos conhecem sem a enigmática Marthe que sozinha ocupa quase um terço da sua obra…</info>
+    <genre>Biografia | Drama | Romance</genre>
+</item>
+<item>
+    <title>Bad Boys: Até o Fim</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:21b1f03be092bebb70b75e0a0a2f0c7b152dceeb&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//ak6VZDHms5T4p0eFISk336kqjR6.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//gRApXuxWmO2forYTuTmcz5RaNUV.jpg</fanart>
+    <info>Depois que seu falecido ex-capitão é incriminado, Lowrey e Burnett tentam limpar seu nome, apenas para acabarem se tornando os mais procurados de Miami.</info>
+    <genre>Ação | Crime | Suspense</genre>
+</item>	
 <item>
     <title>Imaculada</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cba643d0040367f99e7df3d7b2b87ff6dbe3a258&dn</link>
