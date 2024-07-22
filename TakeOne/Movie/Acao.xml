@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Bad Boys: Até o Fim</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:21b1f03be092bebb70b75e0a0a2f0c7b152dceeb&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//ak6VZDHms5T4p0eFISk336kqjR6.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//gRApXuxWmO2forYTuTmcz5RaNUV.jpg</fanart>
+    <info>Depois que seu falecido ex-capitão é incriminado, Lowrey e Burnett tentam limpar seu nome, apenas para acabarem se tornando os mais procurados de Miami.</info>
+    <genre>Ação | Crime | Suspense</genre>
+</item>
 <item>
     <title>Aprendiz de Espiã: Na Cidade Eterna</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:48792cf6a999f6e7685faf936f295795e51fc657&dn</link>
