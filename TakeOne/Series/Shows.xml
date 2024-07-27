@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+<item>
+    <title>The Chosen: Os Escolhidos 4ª Temporada</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2771e9b47d2a5161e5b338be97daf8228b993607</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/osVr2KDItynDQLuuP2ljQ8hLbq7.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/becylvp20QsiFZthILr4R1BzUT5.jpg</fanart>
+    <info>Depois de pregar para uma multidão de mais de 5.000 pessoas na Galileia e realizar um milagre andando sobre as águas, as ações de Jesus irritaram cada vez mais as autoridades judaicas.</info>
+    <genre>Drama, Família</genre>
+</item>	
+<item>
+    <title>The Chosen: Os Escolhidos 3ª Temporada</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:31b4749e7ec29d2626350eb4b003d267a2f26e3d</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/6EqQSAuoTXMxb5AaU2HHp9S2gwE.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/becylvp20QsiFZthILr4R1BzUT5.jpg</fanart>
+    <info>Um pescador carismático afogando-se em dívidas. Uma mulher problemática lutando com demônios reais. Um jovem cobrador de impostos condenado ao ostracismo pela sociedade. Um líder religioso questionando sua tradição de fé.</info>
+    <genre>Drama, Família</genre>
+</item>
+<item>
+    <title>The Chosen: Os Escolhidos 2ª Temporada</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ad84745f05a879abe26e2e106039b6258138902</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/kMYaHKJ9q9ylEGq8XGk9MYSU6Rt.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/becylvp20QsiFZthILr4R1BzUT5.jpg</fanart>
+    <info>Um pescador carismático afogando-se em dívidas. Uma mulher problemática lutando com demônios reais. Um jovem cobrador de impostos condenado ao ostracismo pela sociedade. Um líder religioso questionando sua tradição de fé.</info>
+    <genre>Drama, Família</genre>
+</item>
+<item>
+    <title>The Chosen: Os Escolhidos 1ª Temporada</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4dff4a44ecf643bfa6f9c5b91da18f390e637294</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/ycV0AQul4pxe31cnchWFK69mVi7.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/becylvp20QsiFZthILr4R1BzUT5.jpg</fanart>
+    <info>Um pescador carismático afogando-se em dívidas. Uma mulher problemática lutando com demônios reais. Um jovem cobrador de impostos condenado ao ostracismo pela sociedade. Um líder religioso questionando sua tradição de fé.</info>
+    <genre>Drama, Família</genre>
+</item>	
 <item>
     <title>Os Bandidos do Tempo 1ª Temporada 01º E 02º EPISÓDIOS</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95eb89ff4e718e6409fc34b79a52ca76127c4fc1&dn</link>
