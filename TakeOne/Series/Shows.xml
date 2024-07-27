@@ -23,8 +23,10 @@
     <genre>Ação | Aventura</genre>
 </item>
 <item>
-    <title>Sunny 1ª Temporada 01º E 02º EPISÓDIOS</title>
-    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Q5FLPC5DVZPKY4G24YLCSIRF4HJS5FX6&dn</link>
+    <title>Sunny 1ª Temporada 01º E 04º EPISÓDIOS</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Q5FLPC5DVZPKY4G24YLCSIRF4HJS5FX6&dn$$lsname= 01º E 02º EPISÓDIOS</link>	
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:167d552579f6f561fa27294b7981976470b3927d&dn$$lsname= 03º EPISÓDIO</link>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d4cedcf7439911064b0ca9233460cbb40da7de9e&dn$$lsname= 04º EPISÓDIO</link>
     <thumbnail>https://image.tmdb.org/t/p/original/oditMN1mmmil8YjN9yzZzn8GU43.jpg</thumbnail>
     <fanart>https://image.tmdb.org/t/p/original/sV2NpSVW9fXky2v0YKXEmTljqK0.jpg</fanart>
     <info>A vida de uma americana que vive em Kyoto, no Japão, vira de cabeça para baixo quando seu marido e filho desaparecem em um misterioso acidente de avião. Como consolo, ela ganha Sunny, um exemplar de uma nova classe de robôs domésticos fabricados pela empresa de eletrônicos de seu marido.</info>
