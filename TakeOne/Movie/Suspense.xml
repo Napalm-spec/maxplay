@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Um Estranho no Bosque</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DWOWPLBZNMA7HVQIIQJLD2QMH6ECFR7F&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//oa4a1sHsmVbNr8BFiT3nPHlftPz.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//1NBPhXi3C2OFeWO5uZvEDJfi6fr.jpg</fanart>
+    <info>Olivia vai à uma cabana na floresta com um grupo de amigos para tentar superar o luto pela morte de seu noivo, mas neste lugar nada é o que parece.</info>
+    <genre>Suspense</genre>
+</item>
 <item>
     <title>Armadilha em Alto Mar</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:57c76003e5959d1bd0595ed374b593b3135b333d&dn</link>
