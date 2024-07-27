@@ -3,29 +3,16 @@
 
 <item>
     <title>teste 3</title>
-    <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/qjkkPMzkdQTL17</link>
+    <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/qjkkPMzkdQTL17$$lsname= streamtape</link>
+    <link>plugin://plugin.video.resolverurl_player?url=https://strwish.com/e/rt6isjxlrpmx$$lsname= strwish</link>
+    <link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.ps/e/z19zz7dxcgvm6kq$$lsname= mixdrop</link>
     <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//XJ9sq8CAxGcHjxpsLWu9fBGZsB.jpg</thumbnail>
     <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//dOqqnfLq1LFs7UlC9ZzMIgqbicu.jpg</fanart>
     <info></info>
     <genre>Ação, Aventura</genre>
 </item>
 
-<item>
-    <title>teste 2</title>
-    <link>plugin://plugin.video.resolverurl_player?url=https://strwish.com/e/rt6isjxlrpmx</link>
-    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//XJ9sq8CAxGcHjxpsLWu9fBGZsB.jpg</thumbnail>
-    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//dOqqnfLq1LFs7UlC9ZzMIgqbicu.jpg</fanart>
-    <info></info>
-    <genre>Ação, Aventura</genre>
-</item>    
-<item>
-    <title>teste 1</title>
-    <link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.ps/e/z19zz7dxcgvm6kq</link>
-    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//XJ9sq8CAxGcHjxpsLWu9fBGZsB.jpg</thumbnail>
-    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//dOqqnfLq1LFs7UlC9ZzMIgqbicu.jpg</fanart>
-    <info></info>
-    <genre>Ação, Aventura</genre>
-</item>
+
 
 
 
