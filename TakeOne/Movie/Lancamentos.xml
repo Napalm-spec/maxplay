@@ -1,7 +1,70 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+item>
+    <title>Férias Trocadas</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62456c4589340b4fc7a8cec596186dde237a5e46&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//lJUhkcPgDjzVnIcwfU9CGlHhBfF.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//uKOwNfP3YDUMake5Gub6xb42gwn.jpg</fanart>
+    <info>José Eduardo, o Zé, é dono de uma escolinha de futebol e ganha numa rifa uma viagem com a mulher e a filha blogueira para Cartagena. Já José Eduardo, o Edu, é um empresário bem-sucedido que vai sair de férias com a esposa e o filho tik toker. A confusão começa quando, por engano, Zé se hospeda no hotel de luxo de Edu, que, por sua vez, acaba na pousada simples de Zé. Essa troca proporciona experiências que as duas famílias não estavam acostumadas, mas que acaba as unindo ainda mais.</info>
+    <genre>Comédia, Nacional</genre>
+</item>
+<item>
+    <title>Guerra Sem Regras</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:00f4c0a3e9738cbd4eb1c47f569ab68d892714e0&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//xVlsA37y6w9COClNkvk6xq8yN5p.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//s5znBQmprDJJ553IMQfwEVlfroH.jpg</fanart>
+    <info>O Exército Britânico recruta um reduzido grupo de soldados altamente qualificados para lutar contra as forças alemãs durante a Segunda Guerra Mundial.</info>
+    <genre>Ação | Drama | Guerra</genre>
+</item>
+<item>
+    <title>Um Estranho no Bosque</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DWOWPLBZNMA7HVQIIQJLD2QMH6ECFR7F&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//oa4a1sHsmVbNr8BFiT3nPHlftPz.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//1NBPhXi3C2OFeWO5uZvEDJfi6fr.jpg</fanart>
+    <info>Olivia vai à uma cabana na floresta com um grupo de amigos para tentar superar o luto pela morte de seu noivo, mas neste lugar nada é o que parece.</info>
+    <genre>Suspense</genre>
+</item>
+<item>
+    <title>Nem Tudo é Negociável</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:42fc1c9344a9e73753fed6d35e802f9a6dd326e5&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//vF6avV3yzZlLhCFBB1xbIG94fdC.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//qNCB0RqLU4b9S7yqv1aKWzONT2U.jpg</fanart>
+    <info>O negociador de reféns Alan Bender é chamado para resgatar o presidente, que foi sequestrado. Mas acaba tendo que salvar a esposa e o próprio casamento.</info>
+    <genre>Comédia | Suspense</genre>
+</item>
+<item>
+    <title>Casa de Ga’a</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:74731235a4f8871b7b63bcc5a894d091fc02fc83</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//jtDAIoVst9Bj1VRcQKY2fj52VYe.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//c3rwwFFVbkyEI6wPtpPd9lvovPW.jpg</fanart>
+    <info>No auge do império Oyo, o feroz Bashorun Ga'a tornou-se mais poderoso que os reis que ele mesmo coroou, mas foi derrubado por seu próprio sangue.</info>
+    <genre>Drama</genre>
+</item>
+<item>
+    <title>Wonderland</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dfab857fb59242877d1057cf5e245066e76592fe</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//fBUW9CSqdwZl0FXvLBcNfXO1qnO.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/None</fanart>
+    <info></info>
+    <genre>Drama, Ficção</genre>
+</item>
+<item>
+    <title>Armadilha em Alto Mar</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:57c76003e5959d1bd0595ed374b593b3135b333d&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//fiY4WjBKhmfckhUqSZPfmwLUAKi.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//fpgpfqO8asy47Ocb7npq2QbGyUy.jpg</fanart>
+    <info>Presos em mar aberto após um acidente fatal, uma jovem e seus dois amigos são resgatados pelo capitão de um navio pesqueiro, sem saber que o navio guarda um segredo assustador.</info>
+    <genre>suspense, Terror</genre>
+</item>
+<item>
+    <title>Isca</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b40d6d2fc5b0035f8f1ccd6744623f2031ddd0ad&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//lpDbjUc6RawYC4UJj1YAn9OW802.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//1KJtjg3MQFnrfd7NXfs11z4HLwD.jpg</fanart>
+    <info>Acompanha um grupo de cinco amigas que precisam lutar por suas vidas em águas abertas depois que um casamento dos sonhos se transforma em um pesadelo.</info>
+    <genre>suspense, Terror</genre>
+</item>
 <item>
     <title>The Shift - O Deslocamento</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9fe3beb85e4fe4f76e55bf9a375270d9893144b9&dn</link>
