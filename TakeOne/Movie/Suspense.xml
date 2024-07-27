@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+<item>
+    <title>Armadilha em Alto Mar</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:57c76003e5959d1bd0595ed374b593b3135b333d&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//fiY4WjBKhmfckhUqSZPfmwLUAKi.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//fpgpfqO8asy47Ocb7npq2QbGyUy.jpg</fanart>
+    <info>Presos em mar aberto após um acidente fatal, uma jovem e seus dois amigos são resgatados pelo capitão de um navio pesqueiro, sem saber que o navio guarda um segredo assustador.</info>
+    <genre>suspense, Terror</genre>
+</item>
+<item>
+    <title>Isca</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b40d6d2fc5b0035f8f1ccd6744623f2031ddd0ad&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//lpDbjUc6RawYC4UJj1YAn9OW802.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//1KJtjg3MQFnrfd7NXfs11z4HLwD.jpg</fanart>
+    <info>Acompanha um grupo de cinco amigas que precisam lutar por suas vidas em águas abertas depois que um casamento dos sonhos se transforma em um pesadelo.</info>
+    <genre>suspense, Terror</genre>
+</item>    
 <item>
     <title>Os Estranhos: Capítulo 1</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7368052c0b2ba4c2d8653e03aad94a3470aacae9&dn</link>
