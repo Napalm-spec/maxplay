@@ -2,6 +2,22 @@
 <items>
 
 <item>
+    <title>Casa de Ga’a</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:74731235a4f8871b7b63bcc5a894d091fc02fc83</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//jtDAIoVst9Bj1VRcQKY2fj52VYe.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//c3rwwFFVbkyEI6wPtpPd9lvovPW.jpg</fanart>
+    <info>No auge do império Oyo, o feroz Bashorun Ga'a tornou-se mais poderoso que os reis que ele mesmo coroou, mas foi derrubado por seu próprio sangue.</info>
+    <genre>Drama</genre>
+</item>
+<item>
+    <title>Wonderland</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dfab857fb59242877d1057cf5e245066e76592fe</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//fBUW9CSqdwZl0FXvLBcNfXO1qnO.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/None</fanart>
+    <info></info>
+    <genre>Drama, Ficção</genre>
+</item>    
+<item>
     <title>A Musa de Bonnard</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4dd20a257570b148d20fe788610eff1bc34c1394&dn</link>
     <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//y3A7b85AzG3lSlXChil0fRI8hNt.jpg</thumbnail>
