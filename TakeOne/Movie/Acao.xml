@@ -2,6 +2,14 @@
 <items>
 
 <item>
+    <title>Guerra Sem Regras</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:00f4c0a3e9738cbd4eb1c47f569ab68d892714e0&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//xVlsA37y6w9COClNkvk6xq8yN5p.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//s5znBQmprDJJ553IMQfwEVlfroH.jpg</fanart>
+    <info>O Exército Britânico recruta um reduzido grupo de soldados altamente qualificados para lutar contra as forças alemãs durante a Segunda Guerra Mundial.</info>
+    <genre>Ação | Drama | Guerra</genre>
+</item>	
+<item>
     <title>Bad Boys: Até o Fim</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:21b1f03be092bebb70b75e0a0a2f0c7b152dceeb&dn</link>
     <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//ak6VZDHms5T4p0eFISk336kqjR6.jpg</thumbnail>
