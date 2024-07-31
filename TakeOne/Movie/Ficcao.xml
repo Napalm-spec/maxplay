@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+<item>
+    <title>Um Lugar Silencioso: Dia Um</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7561a237d970eba3422d3a8327fa921caa14ff01&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//pN9BtzUeqPIKybAu9baihz6YzyO.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//2RVcJbWFmICRDsVxRI8F5xRmRsK.jpg</fanart>
+    <info>Este filme nos leva de volta ao ponto onde tudo começou, acompanhando uma nova personagem, interpretada por Lupita Nyong’o, enquanto navega pelos horríveis primeiros momentos na cidade mais barulhenta do mundo: Nova York.</info>
+    <genre>Ficção | Suspense | Terror</genre>
+</item>    
 <item>
     <title>The Shift - O Deslocamento</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9fe3beb85e4fe4f76e55bf9a375270d9893144b9&dn</link>
