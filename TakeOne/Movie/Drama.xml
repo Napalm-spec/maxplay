@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+<item>
+    <title>Clube dos Vândalos</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7b132fa1e1547bb34bf85009d26307b8d7b40985&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//6zWYq8gYzyUMN6pWNWmV0f6cR8M.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//bVigVS3LVotEK4GsBlGOagkjPEc.jpg</fanart>
+    <info>Kathy, um membro obstinado dos Vândalos, casada com um motociclista selvagem e imprudente chamado Benny, conta a evolução dos Vândalos ao longo de uma década, começando como um clube local unido por bons momentos, motas a roncar e respeito pelo seu forte e firme líder, Johnny. À medida que a vida nos Vandals se torna mais perigosa e o clube ameaça tornar-se num gangue mais sinistro, Kathy, Benny e Johnny são forçados a fazer escolhas sobre a sua lealdade.</info>
+    <genre>Drama</genre>
+</item>    
 <item>
     <title>Casa de Ga’a</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:74731235a4f8871b7b63bcc5a894d091fc02fc83</link>
