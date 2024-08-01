@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Fronteira Sombria</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:S4DBAHWW2W5VJT4EGKHNXKGFSFPNHY3D&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//gCGfIDlqbOea9sdyZ0f69Zvfz1o.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//7w3lsubWU6UTOBgNqzQ4SPuXm8c.jpg</fanart>
+    <info>Uma investigadora da cidade grande confronta os fantasmas de seu passado ao trabalhar uma série de assassinatos sinistros na fronteira da Indonésia com a Malásia.</info>
+    <genre>Drama | Suspense</genre>
+</item>
 <item>
     <title>Clube dos Vândalos</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7b132fa1e1547bb34bf85009d26307b8d7b40985&dn</link>
