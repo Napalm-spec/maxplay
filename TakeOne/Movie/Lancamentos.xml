@@ -2,7 +2,14 @@
 <items>
 
 
-	
+<item>
+    <title>A Semente do Mal</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7WHVEMZQTANWZWTXAEGEU2PS57KCECON&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//2v3Yukqm3gAnhz2uPSzQjq6qojE.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//eVPMCjjZ3kDRIYrTooNKwjZnUl.jpg</fanart>
+    <info>Ao lado de sua namorada, Edward decide desvendar os segredos a respeito de sua família biológica, com quem nunca teve contato. No entanto, o que parecia ser uma jornada de descobertas pelo Norte de Portugal rapidamente se transforma em um pesadelo indescritível. Edward logo percebe que os laços que o unem a sua família estão mergulhados em um segredo macabro, capaz de atormentar até mesmo os mais corajosos.</info>
+    <genre>Suspense | Terror</genre>
+</item>	
 <item>
     <title>Fronteira Sombria</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:S4DBAHWW2W5VJT4EGKHNXKGFSFPNHY3D&dn</link>
