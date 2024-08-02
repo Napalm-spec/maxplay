@@ -18,7 +18,7 @@
 <info> </info>
 <externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Canais.xml</externallink>
 </channel>
-https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/4K.xml
+
 <channel>
 <name>[B][COLOR lime]NEO TV[/COLOR] - [COLOR white]FILMES [/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/NjCgDS31/FILMES.jpg</thumbnail>
@@ -31,7 +31,11 @@ https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/4K.xml
 <name>[B][COLOR lime]NEO TV[/COLOR] - [COLOR white]FILMES 4K[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/0jzcw6KZ/neotv4K.jpg</thumbnail>
 <fanart>https://i.postimg.cc/SKHxp0t4/fanart.jpg</fanart>
-<info></info>
+<info>
+[COLOR lime]Dublado[/COLOR]
+[COLOR lime]Dual Áudio[/COLOR]
+[COLOR lime]Legendado[/COLOR]
+</info>
 <externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/4K.xml</externallink>
 </channel>
  
