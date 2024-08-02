@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+<item>
+    <title>Planeta dos Macacos: O Reinado</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OMX2MC3YL7MVNDBRYJ73WVOXGVITMLP3&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//dzDK2TMXsxrolGVdZwNGcOlZqrF.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//fqv8v6AycXKsivp1T5yKtLbGXce.jpg</fanart>
+    <info>Várias gerações no futuro, após o reinado de César, os macacos são agora a espécie dominante e vivem harmoniosamente, enquanto os humanos foram reduzidos a viver nas sombras. À medida que um novo líder símio tirânico constrói o seu império, um jovem macaco empreende uma jornada angustiante que o levará a questionar tudo o que sabia sobre o passado e a fazer escolhas que definirão um futuro tanto para os macacos como para os humanos.</info>
+    <genre>Ação | Aventura | Ficção</genre>
+</item>	
 <item>
     <title>Assassino por Acaso</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4HJ5TL6ZJXQLIZ4CIBERCIS3I35BQV6J&dn</link>
