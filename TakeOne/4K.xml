@@ -62,11 +62,11 @@
 </channel>
 
 <channel>
-<name>[B][COLOR white]FICÇÃO[/COLOR][/B]</name>
+<name>[B][COLOR white]FICÇÃO [/COLOR][/B][B][COLOR white] 4K[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/76c38q5w/FICCAO.jpg</thumbnail>
 <fanart>https://i.postimg.cc/mZFb4wMh/flag.jpg</fanart>
-<info>[COLOR red]OFF[/COLOR]</info>
-<externallink>https://0.00.xml</externallink>
+<info>[COLOR lime]ON[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Movi4K/Ficcao.xml</externallink>
 </channel>
  
 
