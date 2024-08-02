@@ -4,18 +4,18 @@
 
 
 <channel>
-<name>[B][COLOR white]AÇÃO [/COLOR][/B]</name>
+<name>[B][COLOR white]AÇÃO [/COLOR][/B][B][COLOR white] 4K Dual Áudio[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/ZY2WcBhf/SERIES.jpg</thumbnail>
 <fanart>https://i.postimg.cc/mZFb4wMh/flag.jpg</fanart>
-<info></info>
-<externallink>https://0.00.xml</externallink>
+<info>[COLOR lime]ON[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Movi4K/Acao.xml</externallink>
 </channel>
 
 <channel>
 <name>[B][COLOR white]ANIMAÇÃO [/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/7LK6TbVn/animacao.jpg</thumbnail>
 <fanart>https://i.postimg.cc/mZFb4wMh/flag.jpg</fanart>
-<info></info>
+<info>[COLOR red]OFF[/COLOR]</info>
 <externallink>https://0.00.xml</externallink>
 </channel>
 
@@ -23,7 +23,7 @@
 <name>[B][COLOR white]AVENTURA [/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/nVy43c81/AVENTURA.jpg</thumbnail>
 <fanart>https://i.postimg.cc/mZFb4wMh/flag.jpg</fanart>
-<info></info>
+<info>[COLOR red]OFF[/COLOR]</info>
 <externallink>https://0.00.xml</externallink>
 </channel>
 
@@ -31,7 +31,7 @@
 <name>[B][COLOR white]COMEDIA [/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/50jt51Kd/comedia.jpg</thumbnail>
 <fanart>https://i.postimg.cc/mZFb4wMh/flag.jpg</fanart>
-<info></info>
+<info>[COLOR red]OFF[/COLOR]</info>
 <externallink>https://0.00.xml</externallink>
 </channel>  
   
@@ -41,7 +41,7 @@
 <name>[B][COLOR white]DRAMA [/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/KcRf9H1m/DRAMA.jpg</thumbnail>
 <fanart>https://i.postimg.cc/mZFb4wMh/flag.jpg</fanart>
-<info></info>
+<info>[COLOR red]OFF[/COLOR]</info>
 <externallink>https://0.00.xml</externallink>
 </channel>
 
@@ -49,7 +49,7 @@
 <name>[B][COLOR white]FANTASIA [/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/y8zT86vN/TERROR.jpg</thumbnail>
 <fanart>https://i.postimg.cc/mZFb4wMh/flag.jpg</fanart>
-<info></info>
+<info>[COLOR red]OFF[/COLOR]</info>
 <externallink>https://0.00.xml</externallink>
 </channel>
 
@@ -57,7 +57,7 @@
 <name>[B][COLOR white]FAROESTE [/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/tJxh986P/FAROESTE.jpg</thumbnail>
 <fanart>https://i.postimg.cc/mZFb4wMh/flag.jpg</fanart>
-<info></info>
+<info>[COLOR red]OFF[/COLOR]</info>
 <externallink>https://0.00.xml</externallink>
 </channel>
 
@@ -65,7 +65,7 @@
 <name>[B][COLOR white]FICÇÃO[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/76c38q5w/FICCAO.jpg</thumbnail>
 <fanart>https://i.postimg.cc/mZFb4wMh/flag.jpg</fanart>
-<info></info>
+<info>[COLOR red]OFF[/COLOR]</info>
 <externallink>https://0.00.xml</externallink>
 </channel>
  
@@ -74,7 +74,7 @@
 <name>[B][COLOR white]SUSPENSE [/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/Jzc5Dw25/SUSPENSE.jpg</thumbnail>
 <fanart>https://i.postimg.cc/mZFb4wMh/flag.jpg</fanart>
-<info></info>
+<info>[COLOR red]OFF[/COLOR]</info>
 <externallink>https://0.00.xml</externallink>
 </channel>  
    
@@ -82,7 +82,7 @@
 <name>[B][COLOR white]TERROR [/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/y8zT86vN/TERROR.jpg</thumbnail>
 <fanart>https://i.postimg.cc/mZFb4wMh/flag.jpg</fanart>
-<info></info>
+<info>[COLOR red]OFF[/COLOR]</info>
 <externallink>https://0.00.xml</externallink>
 </channel> 
 
