@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+<item>
+    <title>Uma Canção De Gratidão</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DRNPUGHGRIMCITXPAYF4AAAOTR5LLQJM&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//mtkAdP8l8Hx9bIF2JChLdpy3VQL.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//73X7Yj9JmAKynrkPyo4iOaDXlz9.jpg</fanart>
+    <info>Baseado em uma notável história real, a fé de uma mãe resiste a todas as adversidades e inspira seu marido e filhos a manterem a sua.</info>
+    <genre>Drama</genre>
+</item>	
 <item>
     <title>Rebel Moon - Parte 2: A Marcadora de Cicatrizes</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2M44GYUCLN7RLDEWVXWTYJ23EUMLX3BF&dn</link>
