@@ -10,7 +10,7 @@
     <info>O Reinado realiza um salto no tempo após a conclusão da Guerra pelo Planeta dos Macacos. 
     Muitas sociedades de macacos cresceram desde quando César levou seu povo a um oásis, enquanto os humanos foram reduzidos a sobreviver e se esconder nas sombras. 
     Apesar de ser responsável pela segurança da nova geração de primatas evoluídos, muitos não conhecem os feitos de César.</info>
-    <genre>Ação | Aventura | Ficção</genre>
+    <genre>Ação </genre>
 </item>    
     
 <item>
@@ -40,13 +40,6 @@
     <genre>Ação </genre>
 </item>
 
-<item>
-    <title>O Dublê [COLOR lime] 4K Legendado[/COLOR]</title>
-    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YAJDFUAOUN4EXC37ZUPMDFKW4R6TJEOV&dn</link>
-    <thumbnail>https://image.tmdb.org/t/p/original/vGwFotzCDGnQ7A6RqXZHHXUR7gz.jpg</thumbnail>
-    <fanart>https://image.tmdb.org/t/p/original/H5HjE7Xb9N09rbWn1zBfxgI8uz.jpg</fanart>
-    <info>Colt é um dublê que tem uma tremenda queda pela diretora do filme que está filmando. As coisas começam a dar errado quando o ator principal do filme desaparece.</info>
-    <genre>Ação </genre>
-</item>
+
     
 </items>
