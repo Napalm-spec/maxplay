@@ -1,0 +1,934 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1 xui-id="49699" tvg-id="RTPxx1" tvg-name="RTP 1 HD" tvg-logo="http://005.0004567.xyz:80/images/ZkQzA2oXDv8XaL74FSSuqh2XRYMgZd0kNy8IOTPPCbLxK39KKok8sd7MNJgc3hfr4igb11aozXDN3q6vbiRLb_YenIe6d0Jnj3l4aleYKMo.png" group-title="Portugal",RTP 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8qwhtofPelOCFenNHN_j3iQ
+#EXTINF:-1 xui-id="42455" tvg-id="RTPxx1" tvg-name="RTP 1 FHD" tvg-logo="http://005.0004567.xyz:80/images/ZkQzA2oXDv8XaL74FSSuqh2XRYMgZd0kNy8IOTPPCbLxK39KKok8sd7MNJgc3hfr4igb11aozXDN3q6vbiRLb_YenIe6d0Jnj3l4aleYKMo.png" group-title="Portugal",RTP 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8oNdGGQfhrJARgbcECbx9Yg
+#EXTINF:-1 xui-id="49758" tvg-id="RTxxP2" tvg-name="RTP 2 HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREl5HfoT-uAOXmiOPq4tUseY.png" group-title="Portugal",RTP 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8ve3J7lCOY3U1nVjFZ6OHBk
+#EXTINF:-1 xui-id="42457" tvg-id="RTxxP2" tvg-name="RTP 2 FHD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREl5HfoT-uAOXmiOPq4tUseY.png" group-title="Portugal",RTP 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8mNpQrBsEv8b4C4oD7JcO5Q
+#EXTINF:-1 xui-id="49701" tvg-id="SIC" tvg-name="SIC HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtRElD9NPUQjrXULcftkPMbXk4.png" group-title="Portugal",SIC HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8tGuTyPCXV11kLnim-KpioQ
+#EXTINF:-1 xui-id="42459" tvg-id="SICD" tvg-name="SIC FHD" tvg-logo="http://005.0004567.xyz:80/images/EPLIfTu2t5m68R6yLkCx0kfx29ww5VO887nQydAn8lQriNiT35mb9ko0ZHhn7dCc.png" group-title="Portugal",SIC FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8gM6QXBb_VoOv6iRbXZSW3Y
+#EXTINF:-1 xui-id="49703" tvg-id="TVI" tvg-name="TVI HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREmxe_ZADIpINxrpOLG-haCJ.png" group-title="Portugal",TVI HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8mf86CDH3j-xpSSxrvf-480
+#EXTINF:-1 xui-id="42461" tvg-id="TVID" tvg-name="TVI FHD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREmxe_ZADIpINxrpOLG-haCJ.png" group-title="Portugal",TVI FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8oYLcUiEywKwRIydcP9SNZc
+#EXTINF:-1 xui-id="42463" tvg-id="SICN" tvg-name="SIC Noticias" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREkT1h3h7nqAhdFK3Kq9Y3WGbV91fel1U2Ft8SS6fWXLQQ.png" group-title="Portugal",SIC Noticias
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8hXnXpX6Oz4_pLXFucNYc6k
+#EXTINF:-1 xui-id="49707" tvg-id="SICN" tvg-name="SIC NOTICIAS HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREkT1h3h7nqAhdFK3Kq9Y3WGbV91fel1U2Ft8SS6fWXLQQ.png" group-title="Portugal",SIC NOTICIAS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8h7gl7Crq1nhIn4I5mgLces
+#EXTINF:-1 xui-id="42464" tvg-id="RTP3" tvg-name="RTP 3 FHD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREnT5pOWrpV2dqsrLGslDvFo.png" group-title="Portugal",RTP 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8ri4Mx1vEpr6N51J5l9__dA
+#EXTINF:-1 xui-id="49783" tvg-id="RTP3Hd" tvg-name="RTP 3 HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREnT5pOWrpV2dqsrLGslDvFo.png" group-title="Portugal",RTP 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8h62EG_3mWnyRvCiTs2oc9I
+#EXTINF:-1 xui-id="49757" tvg-id="TVI24Hd" tvg-name="CNN Portugal HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREmg-EwKNgxjn_t7ChWGpBRE1t-xVDt0Xcs0LmybMgXFZA.png" group-title="Portugal",CNN Portugal HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8qvTFYQemms3Ia-eq3fiH5Y
+#EXTINF:-1 xui-id="42466" tvg-id="TVI24" tvg-name="CNN Portugal FHD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREmg-EwKNgxjn_t7ChWGpBRE1t-xVDt0Xcs0LmybMgXFZA.png" group-title="Portugal",CNN Portugal FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8lsWvlKIiL_n1i8SM3Ju6fM
+#EXTINF:-1 xui-id="42468" tvg-id="CMTV" tvg-name="CMTV FHD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREm0QiMtk8v_5Nvh4Kx9JznM.png" group-title="Portugal",CMTV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8h8_zpHdSRZWv74NwWK6tzM
+#EXTINF:-1 xui-id="49705" tvg-id="CMTV" tvg-name="CMTV HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREm0QiMtk8v_5Nvh4Kx9JznM.png" group-title="Portugal",CMTV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8uClil2x7Ra7V0s9seKir2Q
+#EXTINF:-1 xui-id="42485" tvg-id="AcfdBolaTV" tvg-name="A Bola TV" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREmk663qcnrSr1aQaCn7vUm6.png" group-title="Portugal",A Bola TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8gW9Dfm60-BzD4E-BOhJbJM
+#EXTINF:-1 xui-id="42486" tvg-id="AcfdBolaTV" tvg-name="A Bola TV ᴴᴰ" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREmk663qcnrSr1aQaCn7vUm6.png" group-title="Portugal",A Bola TV ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8oI_hE0HlhxFGWgt3aDSois
+#EXTINF:-1 xui-id="49759" tvg-id="CANAL11" tvg-name="CANAL 11 HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREm1BO1TEEH8LoCOOHxgWdck.png" group-title="Portugal",CANAL 11 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8kUYZyyyhfsO3aKZWnmI3tQ
+#EXTINF:-1 xui-id="42488" tvg-id="CANAL11" tvg-name="Canal 11 FHD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREm1BO1TEEH8LoCOOHxgWdck.png" group-title="Portugal",Canal 11 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8oY36VaT5ucX607_MPV3-Ew
+#EXTINF:-1 xui-id="63305" tvg-id="" tvg-name="W-Sport HD" tvg-logo="http://005.0004567.xyz:80/images/tOhY6q2bn15KIkniX7y8dtRuFeiIPPayxZfHhZTy-F_m5arI1dPbY1Q68-OSH8-rQl1xU7pF_2QKnArb-UoGU7AQMjdTNVvHPh6aX7l1Dq8.png" group-title="Portugal",W-Sport HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8jLJoHAYQ4PEbsO72ddgrKg
+#EXTINF:-1 xui-id="49710" tvg-id="SPORTVyuKJ+" tvg-name="SPORT TV + HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREm0RV44nYH9sd3xrG1U92eO.png" group-title="Portugal",SPORT TV + HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8jXpEpv3BAppnSMMURqbvm8
+#EXTINF:-1 xui-id="42490" tvg-id="SPORTV +" tvg-name="SPORT TV + FHD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREm0RV44nYH9sd3xrG1U92eO.png" group-title="Portugal",SPORT TV + FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8udyhsY1Mr3wKGmZ3ODiMeQ
+#EXTINF:-1 xui-id="44728" tvg-id="SPORT.TV 1" tvg-name="Sportv 1 LSD |2MB|" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREly4JW9djDdOPyQuUmUenOf.png" group-title="Portugal",Sportv 1 LSD |2MB|
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8p0BD_TtW6f4xSV20YJ5Pts
+#EXTINF:-1 xui-id="104691" tvg-id="" tvg-name="Sport Tv 1 HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREnV53u70WEtmbHCLF5SotNG.png" group-title="Portugal",Sport Tv 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8jImD2atxVr4mBuw9dBNt6M
+#EXTINF:-1 xui-id="42494" tvg-id="SPORT.TV 1" tvg-name="SPORT TV 1 HD-SD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREnV53u70WEtmbHCLF5SotNG.png" group-title="Portugal",SPORT TV 1 HD-SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8iQGCkh2yKFKAvT9L_bPZ9o
+#EXTINF:-1 xui-id="42496" tvg-id="SPORT.TV 2" tvg-name="SPORT TV 2 ᴴᴰ" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREk1HQE4Qd1Gqz1WhCYxUIjo.png" group-title="Portugal",SPORT TV 2 ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8ru_kjfUDtAYFnRYVEv1-0U
+#EXTINF:-1 xui-id="42498" tvg-id="SPORT.TV 2" tvg-name="SPORT TV 2 HD-SD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREk1HQE4Qd1Gqz1WhCYxUIjo.png" group-title="Portugal",SPORT TV 2 HD-SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8tJvQ1X3rvxp970oiF5qFZc
+#EXTINF:-1 xui-id="49717" tvg-id="SPORT.TV 3 HD" tvg-name="SPORT TV 3 HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREn1mlrO8IAxqdxgVOr5hnoU.png" group-title="Portugal",SPORT TV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8hR2JEKN-sYZ3CKEXuEfMwo
+#EXTINF:-1 xui-id="82578" tvg-id="SPORT.TV 3 HD" tvg-name="Sport Tv 3 HD-SD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtRElNNAjGetCShyQqEhB-V-lH.png" group-title="Portugal",Sport Tv 3 HD-SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8pTyFHJFRKzoVGTlgb86mdE
+#EXTINF:-1 xui-id="42503" tvg-id="SPORT.TV 4" tvg-name="SPORT TV 4 HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtRElNNAjGetCShyQqEhB-V-lH.png" group-title="Portugal",SPORT TV 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8gqRBRNY9C4KygMbglB1BSs
+#EXTINF:-1 xui-id="82579" tvg-id="SPORT.TV 4 HD" tvg-name="Sport Tv 4 HD-SD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtRElNNAjGetCShyQqEhB-V-lH.png" group-title="Portugal",Sport Tv 4 HD-SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8hdOpPyrIL41iDdBXcpgqoc
+#EXTINF:-1 xui-id="42506" tvg-id="SPORT.TV 5" tvg-name="SPORT TV 5 HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREmxp3BgLwL25tcWoIn7klc8.png" group-title="Portugal",SPORT TV 5 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8peeBX-r6RzAAZfzYA9iTYE
+#EXTINF:-1 xui-id="82580" tvg-id="SPORT.TV 5 HD" tvg-name="Sport Tv 5 HD-SD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREmxp3BgLwL25tcWoIn7klc8.png" group-title="Portugal",Sport Tv 5 HD-SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8gVlpTwIpwgk7HpKK7gE5Oc
+#EXTINF:-1 xui-id="49653" tvg-id="SPORT.TVHG 6 HD" tvg-name="Sport TV 6 HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtRElXLmWk0noHofHQJWygLsJq.png" group-title="Portugal",Sport TV 6 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8kg9CZJBZfJqDoCnlWpurfo
+#EXTINF:-1 xui-id="49720" tvg-id="SPORT.TVHG 6 HD" tvg-name="SPORT TV 6 FHD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtRElXLmWk0noHofHQJWygLsJq.png" group-title="Portugal",SPORT TV 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8thBGAk-kaud6OfslqaewZg
+#EXTINF:-1 xui-id="49765" tvg-id="NBATVHD" tvg-name="SPORT TV NBA HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtRElLN40umhSfLWf942bv7Ik_BxrvxupHtZmoCaDQ1lp5ag.png" group-title="Portugal",SPORT TV NBA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8pvmNulVGZ998lbf3i55wf4
+#EXTINF:-1 xui-id="42508" tvg-id="SIC Novelas" tvg-name="SPORT TV NBA FHD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtRElLN40umhSfLWf942bv7Ik_BxrvxupHtZmoCaDQ1lp5ag.png" group-title="Portugal",SPORT TV NBA FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8vqhxM0X5H5cqlUhGCw9N5k
+#EXTINF:-1 xui-id="42510" tvg-id="ELEVENSPORT 1" tvg-name="Eleven Sports 1 HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtRElHyt8PZKfqIHOAmde1cYP5m9a1vJcrokFdCDr36qpUAA.png" group-title="Portugal",Eleven Sports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8oqX3LfgIBBSsDqo0Xac8aM
+#EXTINF:-1 xui-id="42512" tvg-id="ELEVENSPORT 1" tvg-name="Eleven Sports 1 HD-SD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtRElHyt8PZKfqIHOAmde1cYP5m9a1vJcrokFdCDr36qpUAA.png" group-title="Portugal",Eleven Sports 1 HD-SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8tQRS95MC9j286lqbSFPk8k
+#EXTINF:-1 xui-id="42514" tvg-id="ELEVENSPORT 2" tvg-name="Eleven Sports 2 HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREloZkSq1lTjVUI3A6OI8K7Y.png" group-title="Portugal",Eleven Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8kYb0o8rohJyrBznTDxf-OY
+#EXTINF:-1 xui-id="42516" tvg-id="ELEVENSPORT 2" tvg-name="Eleven Sports 2 HDⓃ" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREloZkSq1lTjVUI3A6OI8K7Y.png" group-title="Portugal",Eleven Sports 2 HDⓃ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8juKzNUlFm7hf1OfjcYW9OA
+#EXTINF:-1 xui-id="42518" tvg-id="ELEVENSPORT 3" tvg-name="Eleven Sports 3 HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREkoKEszx6-g8yObrbm5kUiw.png" group-title="Portugal",Eleven Sports 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8qeZQ0S7VuG5k9NyEcpRFw0
+#EXTINF:-1 xui-id="49731" tvg-id="ELEVENSPORT 3" tvg-name="ELEVEN SPORTS 3 HD-SD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREkoKEszx6-g8yObrbm5kUiw.png" group-title="Portugal",ELEVEN SPORTS 3 HD-SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8hrBzPUQug5HT6VtJOMHpn4
+#EXTINF:-1 xui-id="42520" tvg-id="ELEVENSPORT 4" tvg-name="Eleven Sports 4 HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREkgt9b6_sd7FPY-UKap4kGW.png" group-title="Portugal",Eleven Sports 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8k4ftoXP_E5O7G-45SCHwIQ
+#EXTINF:-1 xui-id="49733" tvg-id="ELEVENSPORT 4 HD" tvg-name="Eleven Sports 4 Fhd" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREkgt9b6_sd7FPY-UKap4kGW.png" group-title="Portugal",Eleven Sports 4 Fhd
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8gOVQZobCXE28-M0ft9kwWs
+#EXTINF:-1 xui-id="42522" tvg-id="ELEVENSPORT 5" tvg-name="Eleven Sports 5 HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREnlpSAlxqysAoYzDM7mcux9.png" group-title="Portugal",Eleven Sports 5 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8ruwiKpZNyWGHVetH5xyiNs
+#EXTINF:-1 xui-id="42523" tvg-id="ELEVENSPORT 5" tvg-name="Eleven Sports 5 FHD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREnlpSAlxqysAoYzDM7mcux9.png" group-title="Portugal",Eleven Sports 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8g76EjbDzGRvPVVernWOGag
+#EXTINF:-1 xui-id="42524" tvg-id="ELEVENSPORT 6" tvg-name="Eleven Sports 6 HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREk6G-otheFHFCyqh13a47eY.png" group-title="Portugal",Eleven Sports 6 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8oTTkLIhh7MYQTUK9pQrVIY
+#EXTINF:-1 xui-id="42525" tvg-id="ELEVENSPORT 6" tvg-name="Eleven Sports 6 FHD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREk6G-otheFHFCyqh13a47eY.png" group-title="Portugal",Eleven Sports 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8oEyETkiCMhckKhtOFkbM74
+#EXTINF:-1 xui-id="42527" tvg-id="BTV1hd" tvg-name="BTV HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREkjR5vttRPFf8AaKWXMt9G8.png" group-title="Portugal",BTV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8iZJiiyCDdrR1xO82-Q7Qe4
+#EXTINF:-1 xui-id="42528" tvg-id="BTV1hd" tvg-name="BTV FHD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREkjR5vttRPFf8AaKWXMt9G8.png" group-title="Portugal",BTV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8l-x6LPeqxG0cn275tbIjNA
+#EXTINF:-1 xui-id="82582" tvg-id="BTV1hd" tvg-name="BTV HD-SD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREkjR5vttRPFf8AaKWXMt9G8.png" group-title="Portugal",BTV HD-SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8lc33ba04BOnbTD8blnkLtA
+#EXTINF:-1 xui-id="42531" tvg-id="SPORTINGTVHD" tvg-name="Sporting TV ᴴᴰ" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREkJBQEVRmwAZbZOZygv5xHb.png" group-title="Portugal",Sporting TV ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8qNfE0WMjZ2BC2ZNBgLmwj8
+#EXTINF:-1 xui-id="49778" tvg-id="SPORTINGTVHD" tvg-name="SPORTING TV HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREkJBQEVRmwAZbZOZygv5xHb.png" group-title="Portugal",SPORTING TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8hCAUwsddoWPWuEknKr05O4
+#EXTINF:-1 xui-id="42533" tvg-id="EuroSport HD" tvg-name="Eurosport 1 HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREnqRMoZlqFlUgR3CI5CiqIdK0sp6dfN_R2qBWZnmV56wQ.png" group-title="Portugal",Eurosport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8lVzzw4-yoJY3BTSajr3N6A
+#EXTINF:-1 xui-id="49761" tvg-id="EuroSport HD" tvg-name="EUROSPORT 1 FHD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREnqRMoZlqFlUgR3CI5CiqIdK0sp6dfN_R2qBWZnmV56wQ.png" group-title="Portugal",EUROSPORT 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8i85WRkHCqnR4QeO03ZmWgU
+#EXTINF:-1 xui-id="42535" tvg-id="EuroSport 2" tvg-name="Eurosport 2 ᴴᴰ" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREmDRISEmXMPoSTIIaHsK-hKhzHEWKG3l8NwMjfrwR-Hnw.png" group-title="Portugal",Eurosport 2 ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8pm9j7ymXpJ5YCGm-HSe6mQ
+#EXTINF:-1 xui-id="49762" tvg-id="EuroSport 2" tvg-name="EUROSPORT 2 FHD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREmDRISEmXMPoSTIIaHsK-hKhzHEWKG3l8NwMjfrwR-Hnw.png" group-title="Portugal",EUROSPORT 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8qGnB4jmRvUWvgQuVnQ_HZY
+#EXTINF:-1 xui-id="42536" tvg-id="PFC" tvg-name="PFC" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREmRJfQeqwRPe7X-KtdQPeap.png" group-title="Portugal",PFC
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8rIRuNk_qK_uBbcKVaW4O74
+#EXTINF:-1 xui-id="49709" tvg-id="GLObbO" tvg-name="GLOBO HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREk02Zp1U_yZlojTDjxZJ7e6.png" group-title="Portugal",GLOBO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8lnn4LxlCS9O1wwb1s87QtQ
+#EXTINF:-1 xui-id="42470" tvg-id="GLObbO" tvg-name="Globo FHD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREk02Zp1U_yZlojTDjxZJ7e6.png" group-title="Portugal",Globo FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8lCtCOCeQDXK3y9O7bQ4L-I
+#EXTINF:-1 xui-id="70645" tvg-id="SIC Novelas" tvg-name="Sic Novelas HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREnfeQdHxIAgsC4h3zDgKQak.png" group-title="Portugal",Sic Novelas HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8pse0l-aX8rXNLtPZv3EW5Q
+#EXTINF:-1 xui-id="42474" tvg-id="TVI_FICCAO" tvg-name="TVI Ficção" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREnmvK1KY0BeF5bOO7KjFiDB.png" group-title="Portugal",TVI Ficção
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8reyNqAl4qkGymmzHzitIZ4
+#EXTINF:-1 xui-id="49767" tvg-id="TVI_FICCAO" tvg-name="TVI FICCAO FHD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREmc7AKusaliIBMT3xm6gNkAS3uEUpMc5FEClVFZ5Z4wVg.png" group-title="Portugal",TVI FICCAO FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8riO88ite-JDgfwK4XRh724
+#EXTINF:-1 xui-id="42476" tvg-id="TVIReality" tvg-name="TVI Reality" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREl5W53U76yBlJLkkAAeHqmU.png" group-title="Portugal",TVI Reality
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8tBx5gLHU4v2jUKudcfcBoI
+#EXTINF:-1 xui-id="49785" tvg-id="TVIReality" tvg-name="TVI REALITY HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREmH_UvquAIQniWLGaKDwR74mlQD2ELdLdBV8Y9BLHy6EQ.png" group-title="Portugal",TVI REALITY HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8iWrR5Xl77U9vlLLdjVzms8
+#EXTINF:-1 xui-id="42478" tvg-id="PORTO" tvg-name="Porto Canal HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREmOHKdMpx2iuWLCIyYITMNg.png" group-title="Portugal",Porto Canal HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8lgpFHJE5hNpd07_VnuVdL8
+#EXTINF:-1 xui-id="49772" tvg-id="PORTO" tvg-name="PORTO CANAL HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtRElI0J8ilnmgu2DYHeDbU5xGQeh9quvAk7fwUsJvWMEPcA.png" group-title="Portugal",PORTO CANAL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8pCBt3llxnby1xQy9zohCRM
+#EXTINF:-1 xui-id="42480" tvg-id="SICCARAS" tvg-name="SIC Caras HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREmFqbtZJpXLqwgAyVmqMKyW.png" group-title="Portugal",SIC Caras HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8juFE_kP76SApyhwanNVzUw
+#EXTINF:-1 xui-id="49756" tvg-id="SICCARAShd" tvg-name="SIC CARAS FHD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREmFqbtZJpXLqwgAyVmqMKyW.png" group-title="Portugal",SIC CARAS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8jqq4PfV3Zf1D2ICaZZOBJE
+#EXTINF:-1 xui-id="42482" tvg-id="SICR" tvg-name="SIC Radical HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtRElSxv_0LKJt0njU-GI-EKf0_Shvo1zvb-8gWHUxqpJRBw.png" group-title="Portugal",SIC Radical HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8iMo50UIMeOCCLuaCqFLv6E
+#EXTINF:-1 xui-id="49764" tvg-id="SICR" tvg-name="SIC RADICAL FHD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtRElSxv_0LKJt0njU-GI-EKf0_Shvo1zvb-8gWHUxqpJRBw.png" group-title="Portugal",SIC RADICAL FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8iw2cVGiiVR-nP7AldlycSc
+#EXTINF:-1 xui-id="42483" tvg-id="RTPM" tvg-name="RTP Memória" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREmTeaYNbomRVBxkKjvD1gwo.png" group-title="Portugal",RTP Memória
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8hWbZlBLrhZ7uFzYde_pkLk
+#EXTINF:-1 xui-id="42472" tvg-id="SICM" tvg-name="SIC Mulher FHD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREnkm2-Y-lF-epJkCtVrAgQ1RI9KdONdkvsu43bAwE1_cA.png" group-title="Portugal",SIC Mulher FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8uSbcyjmuAaGShn1FTv0gGQ
+#EXTINF:-1 xui-id="49775" tvg-id="SICM" tvg-name="SIC MULHER HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREnkm2-Y-lF-epJkCtVrAgQ1RI9KdONdkvsu43bAwE1_cA.png" group-title="Portugal",SIC MULHER HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8oIVYiVkMbcH3jmC-aOb5E4
+#EXTINF:-1 xui-id="42660" tvg-id="RTPA" tvg-name="RTP Africa" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREmTv2K7GPOxGPNrF-TxEvUx.png" group-title="Portugal",RTP Africa
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8q3VOxtg3zVfVq2VMaCA-oQ
+#EXTINF:-1 xui-id="42659" tvg-id="RTP Açores" tvg-name="RTP Açores" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREmqgCCGxNTzYGAf9uPZMDfF.png" group-title="Portugal",RTP Açores
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8sSm3XkTGp4SFDiedvIHOXA
+#EXTINF:-1 xui-id="42658" tvg-id="RTP Madeira" tvg-name="RTP Madeira" tvg-logo="https://logos.prvgroup.xyz/TUGA/RTPMADEIRA.png" group-title="Portugal",RTP Madeira
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8iONSiT384rGGFp-lUj0dbw
+#EXTINF:-1 xui-id="42657" tvg-id="TV RecordHD" tvg-name="TV Record ᴴᴰ" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtRElCL85QLn7CZ9ULfW-9n6Cx.png" group-title="Portugal",TV Record ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8n8uXU2v-RjMX-w8z1QQKgo
+#EXTINF:-1 xui-id="49760" tvg-id="TV RecordHD" tvg-name="TV RECORD HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtRElCL85QLn7CZ9ULfW-9n6Cx.png" group-title="Portugal",TV RECORD HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8nNJbMU1o01SMSEyXQtf974
+#EXTINF:-1 xui-id="42484" tvg-id="CanaljQ" tvg-name="Canal Q" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREnmL1IZT6ojvDe3yv2XqAon.png" group-title="Portugal",Canal Q
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8qP3S8dUus0Jlp_Ywnz1cuk
+#EXTINF:-1 xui-id="67152" tvg-id="TVCg4" tvg-name="TVCINE + HD" tvg-logo="http://005.0004567.xyz:80/images/-r_zzcHgZvl1FmagljnFAP2RL4HOAoUGKcscA2woXUQz98HMyqL0zex5H6M5Av8U.png" group-title="Portugal",TVCINE + HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8lpwAKLH15XDi0IsRN__cJ4
+#EXTINF:-1 xui-id="42584" tvg-id="TVCg4" tvg-name="TVCine ACTION FHD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREk6of6Lapq0fIG4_J-_R-AGAEtJ0W8UPCKmyhlfunwVpw.png" group-title="Portugal",TVCine ACTION FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8uXbJV9lPu3ANE1Dv2AGSW4
+#EXTINF:-1 xui-id="49740" tvg-id="TVCg4" tvg-name="TVCINE ACTION HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREk6of6Lapq0fIG4_J-_R-AGAEtJ0W8UPCKmyhlfunwVpw.png" group-title="Portugal",TVCINE ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8oix6MGimikP9D0bLu1esY4
+#EXTINF:-1 xui-id="42580" tvg-id="TVCg2" tvg-name="TVCine EDITION FHD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREmIpMZn4QvyyyRFV-gwW4vyJYp6TAuLaKJzTDiPSDd1TA.png" group-title="Portugal",TVCine EDITION FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8gsY3VnqBGbySemMgQU03cw
+#EXTINF:-1 xui-id="49738" tvg-id="TVCg2" tvg-name="TVCINE EDITION HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREmIpMZn4QvyyyRFV-gwW4vyJYp6TAuLaKJzTDiPSDd1TA.png" group-title="Portugal",TVCINE EDITION HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8oLhbNfWfCAeDt7JNqn8wAk
+#EXTINF:-1 xui-id="42582" tvg-id="TVCg3" tvg-name="TVCine EMOTION FHD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREnq00JcJ_2fLxpk15sMerLH-0SBuV7Tdjm28ANPg0AXXg.png" group-title="Portugal",TVCine EMOTION FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8jwUy4ALzS7NVjRwUrukIYc
+#EXTINF:-1 xui-id="49739" tvg-id="TVCg3" tvg-name="TVCINE EMOTON HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREnq00JcJ_2fLxpk15sMerLH-0SBuV7Tdjm28ANPg0AXXg.png" group-title="Portugal",TVCINE EMOTON HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8uB7OKvXspv1OebVf5p2s9k
+#EXTINF:-1 xui-id="42578" tvg-id="TVCg1" tvg-name="TVCine TOP FHD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREk82SymkcxQmDUQYQyH8kOlHOruOtmtJcxGZczjlXoiBw.png" group-title="Portugal",TVCine TOP FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8s_dI7VbHIIxCfTtOHhClWw
+#EXTINF:-1 xui-id="42588" tvg-id="FOXHD" tvg-name="Star Channel HD" tvg-logo="http://005.0004567.xyz:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXEbGT6qSYwxMeV-syc5mvt5fA2C9HpOLAplBHbGoFN-7zi5RZMUdV1moab4a0xfqM.png" group-title="Portugal",Star Channel HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8gzfVbn84Ay2k9fqgFTg9Es
+#EXTINF:-1 xui-id="49744" tvg-id="FOXHD" tvg-name="Star Channel FHD" tvg-logo="http://005.0004567.xyz:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXEbGT6qSYwxMeV-syc5mvt5fA2C9HpOLAplBHbGoFN-7zi5RZMUdV1moab4a0xfqM.png" group-title="Portugal",Star Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8uaCdZHosQ4vn2t1faSwHIs
+#EXTINF:-1 xui-id="42590" tvg-id="FOXLIFEHD" tvg-name="Star Life ᴴᴰ" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7519b96c-71f8-4040-82d4-c80e18384f1b/dfpxe5b-d986eed9-4037-4b49-b5dd-6e74fc417113.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc1MTliOTZjLTcxZjgtNDA0MC04MmQ0LWM4MGUxODM4NGYxYlwvZGZweGU1Yi1kOTg2ZWVkOS00MDM3LTRiNDktYjVkZC02ZTc0ZmM0MTcxMTMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.DYPLL7cFmQ5J8gjSVB02HK6z36NrF4XLpXMWvtHc1QE" group-title="Portugal",Star Life ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8tr_ZOuPALc7uDOPatOOapc
+#EXTINF:-1 xui-id="49750" tvg-id="FOXLIFEHD" tvg-name="Star Life HD" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7519b96c-71f8-4040-82d4-c80e18384f1b/dfpxe5b-d986eed9-4037-4b49-b5dd-6e74fc417113.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc1MTliOTZjLTcxZjgtNDA0MC04MmQ0LWM4MGUxODM4NGYxYlwvZGZweGU1Yi1kOTg2ZWVkOS00MDM3LTRiNDktYjVkZC02ZTc0ZmM0MTcxMTMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.DYPLL7cFmQ5J8gjSVB02HK6z36NrF4XLpXMWvtHc1QE" group-title="Portugal",Star Life HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8hQPynI7yeaR5ZoGbFmcGos
+#EXTINF:-1 xui-id="42596" tvg-id="FOXMOVIESHD" tvg-name="Star Movies FHD" tvg-logo="http://005.0004567.xyz:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJj8N7Onu0IMU6EvUr9i_a0FaLVmSFb6Lsa3dxJKhuPYOE2oYALieIdNcY62K0GuQstBwvyL03zf6kffJKX2SXRhg.png" group-title="Portugal",Star Movies FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8pWLQN0Oys-euStsZIdtOwc
+#EXTINF:-1 xui-id="49747" tvg-id="FOXMOVIESHD" tvg-name="Star Movies HD" tvg-logo="http://005.0004567.xyz:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJj8N7Onu0IMU6EvUr9i_a0FaLVmSFb6Lsa3dxJKhuPYOE2oYALieIdNcY62K0GuQstBwvyL03zf6kffJKX2SXRhg.png" group-title="Portugal",Star Movies HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8s_yokVAdtxsm3nJfW1pG64
+#EXTINF:-1 xui-id="42594" tvg-id="FXCOMEDY" tvg-name="Star Comedy FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYPEm934KysAkxxYtY4YH_f_yIkq5jXrIiQkaEhNDzDO5W2MbKaHwmbPaVhAeBkbDW7OQ&usqp=CAU" group-title="Portugal",Star Comedy FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8p6Rn-K1CP40ut36ftSYXN8
+#EXTINF:-1 xui-id="49749" tvg-id="FXCOMEDY" tvg-name="Star Comedy HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYPEm934KysAkxxYtY4YH_f_yIkq5jXrIiQkaEhNDzDO5W2MbKaHwmbPaVhAeBkbDW7OQ&usqp=CAU" group-title="Portugal",Star Comedy HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8kIlvgDGbJjMuI9tMYs2M-U
+#EXTINF:-1 xui-id="42592" tvg-id="FOXCRIMEHD" tvg-name="Star Crime FHD" tvg-logo="http://005.0004567.xyz:80/images/svQX8GcKm-jh_Gbvi9NSEYa3FY5nX_lumEPOJcrQ1sTwSUh6-Hv0HsV0p1f0iKz-OlmPPxy0M_4oDXHqQUfIqg.png" group-title="Portugal",Star Crime FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8mrump2EIFmSTChyEyzc1L0
+#EXTINF:-1 xui-id="49748" tvg-id="FOXCRIMEHD" tvg-name="Star Crime HD" tvg-logo="http://005.0004567.xyz:80/images/svQX8GcKm-jh_Gbvi9NSEYa3FY5nX_lumEPOJcrQ1sTwSUh6-Hv0HsV0p1f0iKz-OlmPPxy0M_4oDXHqQUfIqg.png" group-title="Portugal",Star Crime HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8mnS5JEX4HR9dFJgUJYafOU
+#EXTINF:-1 xui-id="42586" tvg-id="NOSStudiosHD" tvg-name="NOS STUDIOS FHD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtRElqsH-YoKZarnnFizQofRfI.png" group-title="Portugal",NOS STUDIOS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8hl9jWdx75PHMaXX9F74RkU
+#EXTINF:-1 xui-id="49751" tvg-id="NOSStudiosHD" tvg-name="NOS STUDIOS HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtRElqsH-YoKZarnnFizQofRfI.png" group-title="Portugal",NOS STUDIOS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8tzWN59eBmVISUaM4EK0KBM
+#EXTINF:-1 xui-id="49752" tvg-id="HOLLYHD" tvg-name="HOLLYWOOD HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREmhrgXvqT3lSQZvSmXGzQGDqEdghZjNs2XG1sox0VJt3w.png" group-title="Portugal",HOLLYWOOD HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8lZAdP49hMbkAJgHvNGLVHs
+#EXTINF:-1 xui-id="42605" tvg-id="HOLLYHD" tvg-name="Hollywood FHD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREmhrgXvqT3lSQZvSmXGzQGDqEdghZjNs2XG1sox0VJt3w.png" group-title="Portugal",Hollywood FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8gGGq61iu6z8yVVwnxSfd0s
+#EXTINF:-1 xui-id="42610" tvg-id="CINEMUNDO" tvg-name="Cinemundo FHD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREm9O_xF1dx5I30OKGSMvmLj.png" group-title="Portugal",Cinemundo FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8rvatt2ThVtwX91CCr6YAvw
+#EXTINF:-1 xui-id="49753" tvg-id="CINEMUNDO" tvg-name="CINEMUNDO HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREm9O_xF1dx5I30OKGSMvmLj.png" group-title="Portugal",CINEMUNDO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8h_IImB8_HPtwXxhiTVzmbE
+#EXTINF:-1 xui-id="42608" tvg-id="SYFYHD" tvg-name="SYFY FHD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREk7UljekNSgK23F8bzamrTy.png" group-title="Portugal",SYFY FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8lrVEPqX_dhOs0T8UwlxAzE
+#EXTINF:-1 xui-id="49763" tvg-id="SYFYHD" tvg-name="SYFY HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREk7UljekNSgK23F8bzamrTy.png" group-title="Portugal",SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8vIfVToqOOlDcHLLNrgruOg
+#EXTINF:-1 xui-id="42598" tvg-id="AXN" tvg-name="AXN HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREnKzBVgmHMBEjmgqjhPuI2I.png" group-title="Portugal",AXN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8sxo93e3_5FNADyiHN7SIMk
+#EXTINF:-1 xui-id="49742" tvg-id="AXN" tvg-name="AXN FHD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREnKzBVgmHMBEjmgqjhPuI2I.png" group-title="Portugal",AXN FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8r0hyDWG6zGzKLDoDoA8-44
+#EXTINF:-1 xui-id="49746" tvg-id="AXN Black HD" tvg-name="AXN MOVIES HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREk76ascHe2AUgMueihmmxRs-jYUEvp0EpNEy18sBCV1rA.png" group-title="Portugal",AXN MOVIES HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8hvvgublIQmQlKyF1tZBoS8
+#EXTINF:-1 xui-id="42602" tvg-id="AXN Black HD" tvg-name="AXN MOVIES FHD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREk76ascHe2AUgMueihmmxRs-jYUEvp0EpNEy18sBCV1rA.png" group-title="Portugal",AXN MOVIES FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8r3dqwjegamRHMwm1lSzgvE
+#EXTINF:-1 xui-id="49745" tvg-id="AXN White HD" tvg-name="AXN WHITE HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREnmEH_3x7o6sI-la2wsvicB.png" group-title="Portugal",AXN WHITE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8vcG3oc4arIfG97d4Mcsd2w
+#EXTINF:-1 xui-id="42600" tvg-id="AXN White HD" tvg-name="AXN WHITE FHD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREnmEH_3x7o6sI-la2wsvicB.png" group-title="Portugal",AXN WHITE FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8rE3NWnmsMXiXRaxHgDXo1M
+#EXTINF:-1 xui-id="42604" tvg-id="amc" tvg-name="AMC FHD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREmwN3FvENLEvYRUPzZuFwLu.png" group-title="Portugal",AMC FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8p4RcwevUliiEkxE_vLnhuQ
+#EXTINF:-1 xui-id="49755" tvg-id="amc" tvg-name="AMC HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREmwN3FvENLEvYRUPzZuFwLu.png" group-title="Portugal",AMC HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8m4i-7ikRWaUIgd43kGw9q8
+#EXTINF:-1 xui-id="104765" tvg-id="" tvg-name="Faroeste Cowboys" tvg-logo="http://005.0004567.xyz:80/images/W4QbCK1EnCBI6I5_SpBAh41X6tcshNTym_P1rC6H0tQJUHAAYN4YJ_5gHIzG4Ez4tx4qA6Jv6A_wXadw2QNS9X8wB1qecJy6ro3s9pz211U.png" group-title="Portugal",Faroeste Cowboys
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8qFO2UUKzD0wHTOJFq1v0Jg
+#EXTINF:-1 xui-id="79381" tvg-id="" tvg-name="Classic Movies" tvg-logo="http://005.0004567.xyz:80/images/9-AzKXN_Yq3gmPY1gWeGLZLauzDUGWs5q2GDVZ8nU5KFeKZLcbOdDSg3ooHmyUrHJLozBn4Y-vH9Y-xKGedn-n4DuD54KN8d6SW9lTw2l66XMZYrYtUzGb-NZIyUQoNT.jpg" group-title="Portugal",Classic Movies
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8qyNqaAto6NDrocSH03KDXQ
+#EXTINF:-1 xui-id="79377" tvg-id="" tvg-name="Cinema Terror" tvg-logo="https://images-platform.99static.com//H7MCbxhgNsu_xMy_g5ekt2z2KdU=/4x13:1469x1478/fit-in/500x500/99designs-contests-attachments/75/75356/attachment_75356308" group-title="Portugal",Cinema Terror
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8qBZgqoNFxBEsf5JrxkAQAw
+#EXTINF:-1 xui-id="79380" tvg-id="" tvg-name="Canal James Bond 007" tvg-logo="http://005.0004567.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4VDIyPlgePbczGwi4NBkCIqedp4gZy0GDiC1kVMcLJkr.png" group-title="Portugal",Canal James Bond 007
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8qpc8UuMom_AEzMacWdIaSY
+#EXTINF:-1 xui-id="42560" tvg-id="BabyTV" tvg-name="Baby TV" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREknrh8Fhp6F89_qBFD1uI5Y.png" group-title="Portugal",Baby TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8m36wnkRIy74HIpYxrUWLks
+#EXTINF:-1 xui-id="40186" tvg-id="Nickejvgu" tvg-name="Nick + HD" tvg-logo="http://005.0004567.xyz:80/images/sViDqpFKOkKzmuIwJmZIrve2jfvXP5DHP3EAoR1Yv5QtdX0GA9uLrEFOvpXF4UGwqPnmL3LmvOfqTcGy5gU8OI9HCb-edaFpDJjVDjmNu-M0i3UmG24RmJIFC-BAhZSm.jpeg" group-title="Portugal",Nick + HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8oOdQqFXXjcBb9sdEgf20YE
+#EXTINF:-1 xui-id="42559" tvg-id="Nickejvgu" tvg-name="Nick Jr." tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREnTCjYvkt3p2Rrbx0Z1MpD2.png" group-title="Portugal",Nick Jr.
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8jMe5EwMfDCVPHziWYgRnaM
+#EXTINF:-1 xui-id="42550" tvg-id="Nicke" tvg-name="Nickelodeon" tvg-logo="https://logos.prvgroup.xyz/TUGA/NICKLODEON.png" group-title="Portugal",Nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8leW-IWvSyyaFYNhGHyR608
+#EXTINF:-1 xui-id="104773" tvg-id="" tvg-name="Dragon Ball" tvg-logo="http://005.0004567.xyz:80/images/dsAt8cMDBjbP3mVNdeYR4ajPBd1qY9c5enr4fxkL96-HyR9a0AidGATDIvfMhIst.png" group-title="Portugal",Dragon Ball
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8jerwCXN3YzFTSi2V8ohi2I
+#EXTINF:-1 xui-id="62271" tvg-id="" tvg-name="Dartacao" tvg-logo="https://i.ytimg.com/vi/Qs8BU3j_vOI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBtFFiF7ABU4QMzFE0e0ULtJwC6hQ" group-title="Portugal",Dartacao
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8uukxcIcUyRY3CKzxMhJP7Q
+#EXTINF:-1 xui-id="60939" tvg-id="" tvg-name="Tom Sawyer" tvg-logo="http://005.0004567.xyz:80/images/1CX9HZ1TpsR6jq_dGSnHkDfkB16SNs75FIowKQqOlxG671kTsiZLPTxIpa6FHNJ_ebe1mBLoJwBm3lFPmsEmZw.jpg" group-title="Portugal",Tom Sawyer
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8kCfiXq6Cq-UWy-KNcHxwOY
+#EXTINF:-1 xui-id="42555" tvg-id="DISNY" tvg-name="Disney Channel" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREmUdCfXXGRE_Duy43dpaTk4qMs67uaZk8af36P9uNvYaw.png" group-title="Portugal",Disney Channel
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8lU_eq-pZAju96m85qJ8Jw8
+#EXTINF:-1 xui-id="49786" tvg-id="DISNY" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREmUdCfXXGRE_Duy43dpaTk4qMs67uaZk8af36P9uNvYaw.png" group-title="Portugal",DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8otqZSRahoCF-E_EF7lkCpw
+#EXTINF:-1 xui-id="42558" tvg-id="CART" tvg-name="Cartoon Network" tvg-logo="http://005.0004567.xyz:80/images/EPLIfTu2t5m68R6yLkCx0tynB7Q4LevtwAgZNL2NbQh8TcvuGKrr3fbIQniRGfzl.png" group-title="Portugal",Cartoon Network
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8gH9kOLY8mr-NA8mdx4Oy9E
+#EXTINF:-1 xui-id="49113" tvg-id="PANDA KIDS" tvg-name="Panda Kids" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREnS90wSqnB1JAaQe5IfYkkd.png" group-title="Portugal",Panda Kids
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8o3Ft7osiZieKYKbqY-b1TU
+#EXTINF:-1 xui-id="42561" tvg-id="SIC K" tvg-name="SIC K" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREnP1krz1PE_ben6Sa2GQ8pp.png" group-title="Portugal",SIC K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8nlp5sVqFLk09WQ_jJ5DZmc
+#EXTINF:-1 xui-id="49766" tvg-id="SIC K" tvg-name="SIC KIDS HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREne931rKL2gKQAmyTY8zI2q.png" group-title="Portugal",SIC KIDS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8iVHjzJcpjalnlnsngvy5Nk
+#EXTINF:-1 xui-id="60923" tvg-id="" tvg-name="DISNEY MARVEL" tvg-logo="https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F07%2Fdisney-to-make-fewer-marvel-lucasfilm-projects-movies-tv-shows-001.jpg?cbr=1&q=90" group-title="Portugal",DISNEY MARVEL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8i2VfS7vfybS9xkSlCHsN-k
+#EXTINF:-1 xui-id="42557" tvg-id="DISNEYJUNIOR" tvg-name="Disney Junior" tvg-logo="http://005.0004567.xyz:80/images/EPLIfTu2t5m68R6yLkCx0hi06JaLDkciY-rL41FNNKYxPi8Oa3AarPSKdeXjK8gQ.png" group-title="Portugal",Disney Junior
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8npNCAhRObYEC1dcZy5FkfE
+#EXTINF:-1 xui-id="60927" tvg-id="" tvg-name="Disney Star wars" tvg-logo="http://005.0004567.xyz:80/images/m0L1cTfVGunSvdcXcByW8OjGkLi6N_XilNEdkw93qul3M4cMW7f2YKMP0126f-3xd4MkXmTKj5-3JaRkxa_s8Q.jpg" group-title="Portugal",Disney Star wars
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8rRzGPOzf3fG88ZaGtSVzYA
+#EXTINF:-1 xui-id="60925" tvg-id="" tvg-name="DISNEY PIXAR" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/042012/cars_2.png?itok=JXy7Blmx" group-title="Portugal",DISNEY PIXAR
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8omBkWFqPFaivbbDY4gwBdA
+#EXTINF:-1 xui-id="60924" tvg-id="" tvg-name="DISNEY +" tvg-logo="https://i0.wp.com/disneymovieslist.com/wp-content/uploads/2023/06/Best-Opening-Weekend-Box-Office-Performance-of-Disney-Movies-13.jpg?resize=863%2C398&ssl=1" group-title="Portugal",DISNEY +
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8ozBAKNYwJ1kZx7dXw3kQ-g
+#EXTINF:-1 xui-id="42551" tvg-id="PANDA" tvg-name="Canal Panda" tvg-logo="http://005.0004567.xyz:80/images/EPLIfTu2t5m68R6yLkCx0nqSqw5uRxt27D0iCjcVrAkcuX1Chqps19taBuNuNL8D.png" group-title="Portugal",Canal Panda
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8t5ia6zN_2uSVvHlJ2CAcqA
+#EXTINF:-1 xui-id="49787" tvg-id="PANDA" tvg-name="Panda HD" tvg-logo="http://005.0004567.xyz:80/images/EPLIfTu2t5m68R6yLkCx0nqSqw5uRxt27D0iCjcVrAkcuX1Chqps19taBuNuNL8D.png" group-title="Portugal",Panda HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8rsz_fd2CUa8NdGbF5S_h3A
+#EXTINF:-1 xui-id="46913" tvg-id="LOLLY" tvg-name="Lolly Kids HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREmspTfC62BO664jdSgMoBIN.png" group-title="Portugal",Lolly Kids HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8tuHjNwY3jbTw885XmEnJJQ
+#EXTINF:-1 xui-id="62268" tvg-id="" tvg-name="A Pantera Cor de Rosa" tvg-logo="http://005.0004567.xyz:80/images/I1pSR7XU015S8m9TzZOhJskVg8dGH_8MzpA8QQjyXEWqIMZ5OTpZ7fjwdFTKi07y15xCp5X3va6z4yDNAqVz9_M4XlkbjMnQJfXY7SqaawU.png" group-title="Portugal",A Pantera Cor de Rosa
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8ot38tE9jW5kZIVvFgB0iXg
+#EXTINF:-1 xui-id="42563" tvg-id="BOOMERANG" tvg-name="Cartoonito" tvg-logo="http://00.0004567.xyz:2082/images/2336665748d9da610df39ac9456e49c0.png" group-title="Portugal",Cartoonito
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8qWIdZzktxRpTjsTbu506vw
+#EXTINF:-1 xui-id="42552" tvg-id="Biggs" tvg-name="Biggs" tvg-logo="https://logos.prvgroup.xyz/TUGA/BIGGS.png" group-title="Portugal",Biggs
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8tlbtnTwJGmSq0GcVPchSxc
+#EXTINF:-1 xui-id="67147" tvg-id="MUNTORO" tvg-name="MUNDO TOURO TV vfd" tvg-logo="http://005.0004567.xyz:80/images/bynbqyUxvUKyEcml68KOzv0SP56XjL-s0SATSV9M1Omze3vRFUoOBs4-yNOCGwRO95vLD2fnmjjWXbVmegdFUxhWnf2nNmHZ7nVLi-yka4GDAKnzy1WPO8qeDV79CftY.png" group-title="Portugal",MUNDO TOURO TV vfd
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8pgF-eauHYqmfj4v1lHgYIE
+#EXTINF:-1 xui-id="42541" tvg-id="DogTV" tvg-name="Dog TV HD" tvg-logo="http://005.0004567.xyz:80/images/m0L1cTfVGunSvdcXcByW8OjGkLi6N_XilNEdkw93qulVGvfUN1akjFb_Iq6hjyDCk3VJSz4A0PYHAHTz7D7mHw.png" group-title="Portugal",Dog TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8mk9KliyFtdYBRcy93hsgpY
+#EXTINF:-1 xui-id="42544" tvg-id="Fuel Tv" tvg-name="Fuel TV HD" tvg-logo="http://005.0004567.xyz:80/images/EPLIfTu2t5m68R6yLkCx0vZrZDIE97dWZsJxcLTRI3u2pZVmOyxYVkp8_LT0wkpe.png" group-title="Portugal",Fuel TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8hKHnsqaP5P9OYVKS5UXCZc
+#EXTINF:-1 xui-id="49770" tvg-id="Fuel Tv" tvg-name="FUEL TV HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREmN-mpKBIAq5gImKnAb1UKK.png" group-title="Portugal",FUEL TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8m-Yx0II-BoT7yR8uFw6OTw
+#EXTINF:-1 xui-id="42542" tvg-id="CaçaePesca" tvg-name="Caça e Pesca" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtRElWumvP80silM4rFLst13G2sdVnv1d9ODtHNUOtGCRiRQ.png" group-title="Portugal",Caça e Pesca
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8gNTHEkGsf4ye-mtki6HOYg
+#EXTINF:-1 xui-id="42691" tvg-id="ARTV" tvg-name="ARTV" tvg-logo="https://logos.prvgroup.xyz/TUGA/ARTV.png" group-title="Portugal",ARTV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8jN80bdU_n6X0qxxaRciWA4
+#EXTINF:-1 xui-id="47420" tvg-id="S+ HD" tvg-name="S+" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtRElTJTI_11vcxBVVriQkC-GA.png" group-title="Portugal",S+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8vpbzrUx5HQsxfic6T4-EXc
+#EXTINF:-1 xui-id="67149" tvg-id="Fight Network" tvg-name="FIGHT SPORTS HD" tvg-logo="http://005.0004567.xyz:80/images/yj2DmkbsO6EGTiE33ZI9RZvFmobpzs9MLoyA2TzNdmyNCcdwj0YgBShIAk-GvkYiKPXePwanSKyBLrMXbBvSjbmr1EknjjQ4-xfSt5c9lR9bx9GSSIjy8c8AK4RXYNp6.png" group-title="Portugal",FIGHT SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8vaIFttNmdAaCB3aeVQcO8A
+#EXTINF:-1 xui-id="49776" tvg-id="AbE" tvg-name="BLAZE HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREmVLBCtIyNAhhImccv50Fnc.png" group-title="Portugal",BLAZE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8t2hqAEBvnnaCZN6yXKknIw
+#EXTINF:-1 xui-id="42637" tvg-id="AbE" tvg-name="Blaze ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/BLAZEHD.png" group-title="Portugal",Blaze ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8nZcnfIte-VhFTHz-EYxWk4
+#EXTINF:-1 xui-id="67150" tvg-id="" tvg-name="CAMPO PEQUENO TV HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtRElJ6a9iUKdEbqiNYKkBgmJ7AiDqMfhm90doKKEDlzpzxA.png" group-title="Portugal",CAMPO PEQUENO TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8o3trxm_8LuzALJsShrtyzU
+#EXTINF:-1 xui-id="49754" tvg-id="CASA E COZINH" tvg-name="CASA COZINHA HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREm22EIJdKJAyCLP6PkvFpsZDx61Ul8G-T12KpjdkczKfQ.png" group-title="Portugal",CASA COZINHA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8rpLM_UHCSof0Ty9ZstTmow
+#EXTINF:-1 xui-id="42620" tvg-id="CASA E COZINH" tvg-name="Casa e Cozinha" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREm22EIJdKJAyCLP6PkvFpsZDx61Ul8G-T12KpjdkczKfQ.png" group-title="Portugal",Casa e Cozinha
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8oQpMdyCbCK6QBaiuk7Su-4
+#EXTINF:-1 xui-id="42673" tvg-id="TPA" tvg-name="TPA Internacional" tvg-logo="https://logos.prvgroup.xyz/logosmundo/tpainternacional.png" group-title="Portugal",TPA Internacional
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8qwZZYqZI09jmzmGT_ypmxY
+#EXTINF:-1 xui-id="42656" tvg-id="RTPxx1" tvg-name="Localvisão ᴴᴰ" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREkVvbwf3rtdGEDbctGXgsTld8RPehCxV6N8VLTojSG6gA.png" group-title="Portugal",Localvisão ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8tjRHMrHQL6jqu0UDeIWe4M
+#EXTINF:-1 xui-id="42538" tvg-id="Motorvision HD" tvg-name="Motorvision" tvg-logo="https://logos.prvgroup.xyz/TUGA/MOTORVISION.png" group-title="Portugal",Motorvision
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8jK8hMGsiZTQJSETHZinxm8
+#EXTINF:-1 xui-id="42619" tvg-id="24 Kitchen" tvg-name="24 Kitchen HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtRElOtzH5a_-nvlHRFBsVo2tOy5-7FQo016cwQC_uDe7tGA.png" group-title="Portugal",24 Kitchen HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8nkAtFWOZcEwA3Gz4R95guc
+#EXTINF:-1 xui-id="49777" tvg-id="24 Kitchen" tvg-name="24 KITCHEN HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtRElOtzH5a_-nvlHRFBsVo2tOy5-7FQo016cwQC_uDe7tGA.png" group-title="Portugal",24 KITCHEN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8ulwweZnNM4J6oWx-LE1yeU
+#EXTINF:-1 xui-id="42621" tvg-id="TLC" tvg-name="TLC" tvg-logo="https://logos.prvgroup.xyz/TUGA/TLC.png" group-title="Portugal",TLC
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8qzoxrrf4aBaPEeaOCSsj0I
+#EXTINF:-1 xui-id="49781" tvg-id="TRAVEL" tvg-name="TRAVEL CHANNEL HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREmXDDUI3-moUJiE8OmuZVeP.png" group-title="Portugal",TRAVEL CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8qyurVrv8RTiGA0RuIgrhs0
+#EXTINF:-1 xui-id="42614" tvg-id="EENTERHD" tvg-name="E! Entertainment HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREkTb4lNcO8-VyE-MXOkWixL.png" group-title="Portugal",E! Entertainment HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8m41GxbynF7yAU-wudBISV0
+#EXTINF:-1 xui-id="49769" tvg-id="EENTERHD" tvg-name="E! ENTERTAINMENT HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREkTb4lNcO8-VyE-MXOkWixL.png" group-title="Portugal",E! ENTERTAINMENT HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8i1lpETv00wC4cUiUjzSM-w
+#EXTINF:-1 xui-id="49782" tvg-id="HIST" tvg-name="HISTORIA HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREmNF27aIHU9ZD2tsOr0QT7D.png" group-title="Portugal",HISTORIA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8jPEm80Y9CD-GxC0Px5iQy0
+#EXTINF:-1 xui-id="42635" tvg-id="HIST" tvg-name="História ᴴᴰ" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREmNF27aIHU9ZD2tsOr0QT7D.png" group-title="Portugal",História ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8m5nbkWsnLJa67J_aZynA5g
+#EXTINF:-1 xui-id="49788" tvg-id="ID" tvg-name="ID Investigation Discovery HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREnqFKKKSvzTk50DEiuH2dNeXE5S57gO_-0GpP4ZXy5a0w.png" group-title="Portugal",ID Investigation Discovery HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8svHPQNDnoEHnKuDUYRlCrg
+#EXTINF:-1 xui-id="42633" tvg-id="ID" tvg-name="Investigation Discovery ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/IDHD_NEW.png" group-title="Portugal",Investigation Discovery ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8omj_XAg9eCIkXH08ArBsP0
+#EXTINF:-1 xui-id="42628" tvg-id="NGCWILD" tvg-name="Nat Geo Wild ᴴᴰ" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREnT9_ldrEdsw1QV--ZqE3ogNU8CD80mG-ZAECEA12SdRA.png" group-title="Portugal",Nat Geo Wild ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8uSw3SEO0mDu4yS73XIL-Yk
+#EXTINF:-1 xui-id="49780" tvg-id="NGCWILD" tvg-name="National Geographic wild HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREnT9_ldrEdsw1QV--ZqE3ogNU8CD80mG-ZAECEA12SdRA.png" group-title="Portugal",National Geographic wild HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8qosZ36MPlQlnc2Kx92Of18
+#EXTINF:-1 xui-id="49779" tvg-id="NGC" tvg-name="National geographic HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtRElI0J8ilnmgu2DYHeDbU5xGQeh9quvAk7fwUsJvWMEPcA.png" group-title="Portugal",National geographic HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8haNasI3AEGoelb90KDrMLY
+#EXTINF:-1 xui-id="42626" tvg-id="NGC33" tvg-name="National Geographic ᴴᴰ" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtRElI0J8ilnmgu2DYHeDbU5xGQeh9quvAk7fwUsJvWMEPcA.png" group-title="Portugal",National Geographic ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8rLdGWtdZbGvHj4b0U1XxP4
+#EXTINF:-1 xui-id="49774" tvg-id="ODIS" tvg-name="ODISSEIA HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtRElICLAL_5HV4gnFw9VBT3NW.png" group-title="Portugal",ODISSEIA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8tIbtplM8Tn7qy97y4x9MS0
+#EXTINF:-1 xui-id="42630" tvg-id="ODIS" tvg-name="Odisseia ᴴᴰ" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtRElICLAL_5HV4gnFw9VBT3NW.png" group-title="Portugal",Odisseia ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8h7o7mit93RfhpW1VcBVqvU
+#EXTINF:-1 xui-id="42632" tvg-id="crimeinvestigacao" tvg-name="Crime Investigation ᴴᴰ" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREk9muV6dMWz1NV-KCI-WDp3C1AKO9m_ev4uROiq6ewi7A.png" group-title="Portugal",Crime Investigation ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8povsN4v5C0wE-fsqWaF1Ko
+#EXTINF:-1 xui-id="49784" tvg-id="Discovcxvery" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREnqFKKKSvzTk50DEiuH2dNeXE5S57gO_-0GpP4ZXy5a0w.png" group-title="Portugal",DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8mghOUj5tj5b0Hsovq2_I54
+#EXTINF:-1 xui-id="42624" tvg-id="Discovery" tvg-name="Discovery Channel ᴴᴰ" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREnqFKKKSvzTk50DEiuH2dNeXE5S57gO_-0GpP4ZXy5a0w.png" group-title="Portugal",Discovery Channel ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8iNQbwjC2pjlVpcVzdfvOc8
+#EXTINF:-1 xui-id="42679" tvg-id="EuroNews" tvg-name="Euronews" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREl_Af1_qihc0e39IjOVruPt.png" group-title="Portugal",Euronews
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8rAT7V4e-EHWMSod3XuLQJE
+#EXTINF:-1 xui-id="42616" tvg-id="FASHIONTVHD" tvg-name="Fashion TV" tvg-logo="https://logos.prvgroup.xyz/TUGA/FASHIONTV.png" group-title="Portugal",Fashion TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8hXCK9uoipuyPahuW8Tqj_s
+#EXTINF:-1 xui-id="42669" tvg-id="dummy012" tvg-name="Fatima TV ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/logosmundo/tvfatima.png" group-title="Portugal",Fatima TV ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8oMCUqbKcMUZz6R1cK8xjrg
+#EXTINF:-1 xui-id="42668" tvg-id="Canção Nova" tvg-name="Canção Nova" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREnxgSdxLmVlCarPRp7GzNAF.png" group-title="Portugal",Canção Nova
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8usq3SfV_-VLgRXbEHGg7JE
+#EXTINF:-1 xui-id="42670" tvg-id="KuriakosTV" tvg-name="Kuriakos TV ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/logosmundo/kuriakostv.png" group-title="Portugal",Kuriakos TV ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8rnmZpZqHfVyPKYpcLcmjLA
+#EXTINF:-1 xui-id="67151" tvg-id="BOMSOM TV" tvg-name="BOM SOM HD | EXCLUSIVO MEO BOX" tvg-logo="" group-title="Portugal",BOM SOM HD | EXCLUSIVO MEO BOX
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8kBdeonjxzRTzPxVseLaM84
+#EXTINF:-1 xui-id="42650" tvg-id="CLUBBING TV HD" tvg-name="Clubbing TV" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREk0EskrTHcY0mMyzB_vpPEb.png" group-title="Portugal",Clubbing TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8r1NjWOh78kMtq3CEk8-VuE
+#EXTINF:-1 xui-id="47421" tvg-id="STINGRAY LOUD HD" tvg-name="Stingray Iconcerts HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/IConcerts_%282006-2017%29.png/revision/latest?cb=20180408152234" group-title="Portugal",Stingray Iconcerts HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8iMYCZhbmsOPyNAuqOkSfq8
+#EXTINF:-1 xui-id="42649" tvg-id="Afro Music" tvg-name="Afro Music" tvg-logo="https://logos.prvgroup.xyz/TUGA/AFROMUSIC.png" group-title="Portugal",Afro Music
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8lVXpp44F5tipEay6zg4Tu0
+#EXTINF:-1 xui-id="44106" tvg-id="almalusa" tvg-name="Alma Lusa" tvg-logo="https://i.ibb.co/fdptDsR/transferir.png" group-title="Portugal",Alma Lusa
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8tR4eMNy0G533FKSdigyABQ
+#EXTINF:-1 xui-id="42648" tvg-id="MCM POP" tvg-name="MCM POP" tvg-logo="https://logos.prvgroup.xyz/TUGA/MCMPOP.png" group-title="Portugal",MCM POP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8nqhi8EIz2y5R03FMsogaXI
+#EXTINF:-1 xui-id="42647" tvg-id="MCM POP" tvg-name="MCM TOP" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREmwGmy_EvoprcOOeMK9NjAp.png" group-title="Portugal",MCM TOP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8gDaxI8wFzdQBSoG3pJp0_A
+#EXTINF:-1 xui-id="42651" tvg-id="MEZZO" tvg-name="Mezzo HD" tvg-logo="https://logos.prvgroup.xyz/logosmundo/mezzotv.png" group-title="Portugal",Mezzo HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8ifgHeXcVtIiB3DNbU6QKk0
+#EXTINF:-1 xui-id="42642" tvg-id="mtv live" tvg-name="MTV Live ᴴᴰ" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtRElDya6jlPVe46bhtAlnchUDFvXy5iPF50WlwvyUAX13_w.png" group-title="Portugal",MTV Live ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8rVsRF8SKg7FDcgXhe_0ytg
+#EXTINF:-1 xui-id="49771" tvg-id="MTV Portugal" tvg-name="MTV PORTUGAL HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtRElDya6jlPVe46bhtAlnchUDFvXy5iPF50WlwvyUAX13_w.png" group-title="Portugal",MTV PORTUGAL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8h0oweV7cRBXHJjmtvxfBn4
+#EXTINF:-1 xui-id="42641" tvg-id="MTV Portugal" tvg-name="MTV Portugal ᴴᴰ" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREklJB4KnOxtRanwUK2ZOM4X.png" group-title="Portugal",MTV Portugal ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8rrVV8gFQB0iepPQEejY4Ac
+#EXTINF:-1 xui-id="42644" tvg-id="SIC Novelas" tvg-name="VH1" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREnYhBE9XMOLkOncCTo3xXuo.png" group-title="Portugal",VH1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8u5fzJuDskpoF143xwODfhw
+#EXTINF:-1 xui-id="42646" tvg-id="Trnace toca" tvg-name="Trace Toca" tvg-logo="https://logos.prvgroup.xyz/TUGA/TRACETOCA.png" group-title="Portugal",Trace Toca
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8uHeiM8nypDqfi0d9_CdKz4
+#EXTINF:-1 xui-id="42645" tvg-id="TRACEURBANHD" tvg-name="Trace Urban" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREmwhs24xlNGRTrQmhdSM1uL.png" group-title="Portugal",Trace Urban
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8kOAAvt623XFzMsafVbT8Z8
+#EXTINF:-1 xui-id="42653" tvg-id="BABY FIRST" tvg-name="Zap Viva ᴴᴰ" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREnraymNPMyFtKdyS7p0KVrc.png" group-title="Portugal",Zap Viva ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8hHTI-7GwVivCZQrpTOnImg
+#EXTINF:-1 xui-id="49773" tvg-id="BABY FIRST" tvg-name="ZAP VIVA HD" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREnraymNPMyFtKdyS7p0KVrc.png" group-title="Portugal",ZAP VIVA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8it1NjTvOVLcW1EQzh8tBIw
+#EXTINF:-1 xui-id="67077" tvg-id="RTPxx1" tvg-name="RTP 1H+" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREkImp7WCBcVOXtec7sU9WP-.png" group-title="Portugal SD",RTP 1H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8mjNnJNMB3papodCnpvxMts
+#EXTINF:-1 xui-id="67078" tvg-id="RTxxP2" tvg-name="RTP 2 H+" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREl5HfoT-uAOXmiOPq4tUseY.png" group-title="Portugal SD",RTP 2 H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8iiOtWsHpuyn5_UXhRobJu4
+#EXTINF:-1 xui-id="67079" tvg-id="SIC" tvg-name="SIC H+" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtRElHB_ziUp9prAMGbZayeArc.png" group-title="Portugal SD",SIC H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8leFFVERGaBtfl8trqG5-WI
+#EXTINF:-1 xui-id="67080" tvg-id="TVI" tvg-name="TVIH+" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREmxe_ZADIpINxrpOLG-haCJ.png" group-title="Portugal SD",TVIH+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8ou6ZlmYdQVPNrxyNfuHq3k
+#EXTINF:-1 xui-id="67081" tvg-id="SICN" tvg-name="SIC NOTICIAS H+" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREkT1h3h7nqAhdFK3Kq9Y3WGbV91fel1U2Ft8SS6fWXLQQ.png" group-title="Portugal SD",SIC NOTICIAS H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8sn4b9vojVQIhlF_4pI1FNg
+#EXTINF:-1 xui-id="67082" tvg-id="RTP3" tvg-name="RTP 3 H+" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREnT5pOWrpV2dqsrLGslDvFo.png" group-title="Portugal SD",RTP 3 H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8kXEV_4K5kCBm44vGrZE-bM
+#EXTINF:-1 xui-id="67083" tvg-id="TVI24" tvg-name="CNN PORTUGAL H+" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREkFzQR2d5nNnzvXWimpA0ZL.png" group-title="Portugal SD",CNN PORTUGAL H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8gDPBDpJejx93PI6bl0fxlk
+#EXTINF:-1 xui-id="67084" tvg-id="CMTVhd" tvg-name="CMTV H+" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREkJ41jB_4tPWp2o99iAFWGa.png" group-title="Portugal SD",CMTV H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8tP1-iVfLww4XnH1k_iCY9Y
+#EXTINF:-1 xui-id="67085" tvg-id="SICMhd" tvg-name="SIC Mulher H+" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREnkm2-Y-lF-epJkCtVrAgQ1RI9KdONdkvsu43bAwE1_cA.png" group-title="Portugal SD",SIC Mulher H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8ns18zEkUG8UH-SBEEk0S-g
+#EXTINF:-1 xui-id="67086" tvg-id="SICRhd" tvg-name="SIC RADICAL H+" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtRElSxv_0LKJt0njU-GI-EKf0_Shvo1zvb-8gWHUxqpJRBw.png" group-title="Portugal SD",SIC RADICAL H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8r-YPtW_NqaTeWB2A3OJaeo
+#EXTINF:-1 xui-id="67087" tvg-id="SICCARAS" tvg-name="SIC CARAS H+" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREmFqbtZJpXLqwgAyVmqMKyW.png" group-title="Portugal SD",SIC CARAS H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8sowhJShHuHke9DFS5cDNig
+#EXTINF:-1 xui-id="67088" tvg-id="TV RecordHD" tvg-name="TV RECORD H+" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtRElCL85QLn7CZ9ULfW-9n6Cx.png" group-title="Portugal SD",TV RECORD H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8m8IprZu8e11ZQZYSdDrJMM
+#EXTINF:-1 xui-id="67089" tvg-id="GLObbO" tvg-name="GLOBO H+" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREk02Zp1U_yZlojTDjxZJ7e6.png" group-title="Portugal SD",GLOBO H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8o-51654C0fiE751cLn-WfE
+#EXTINF:-1 xui-id="67090" tvg-id="TVI_FICCAO" tvg-name="TVI FICCAO H+" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREnmvK1KY0BeF5bOO7KjFiDB.png" group-title="Portugal SD",TVI FICCAO H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8sKew6I_CUpocmzwzpFr4pY
+#EXTINF:-1 xui-id="67091" tvg-id="TVI Reality" tvg-name="TVI REALITY H+" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREl5W53U76yBlJLkkAAeHqmU.png" group-title="Portugal SD",TVI REALITY H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8nZuLhtB-LvnjtPpQG1SQ7o
+#EXTINF:-1 xui-id="67092" tvg-id="PORTOhd" tvg-name="PORTO CANAL H+" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREmOHKdMpx2iuWLCIyYITMNg.png" group-title="Portugal SD",PORTO CANAL H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8jSHPLZUWxQP-WMcxxOUY-I
+#EXTINF:-1 xui-id="67093" tvg-id="Nickeju" tvg-name="Nick Junior H+" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREnTCjYvkt3p2Rrbx0Z1MpD2.png" group-title="Portugal SD",Nick Junior H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8qjzuBmBVI3dFKLn5BBURaY
+#EXTINF:-1 xui-id="67094" tvg-id="DISNEYJUNIOR" tvg-name="DISNEY JUNIOR H+" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREmzi2nZcU2rHDT0N_Lq0GXgSYb4XCXt2Y8obDczQ_TOLA.png" group-title="Portugal SD",DISNEY JUNIOR H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8t4Dv8DD_njbWHqVLTZcQVc
+#EXTINF:-1 xui-id="67095" tvg-id="dummy008" tvg-name="Sic KidsH+" tvg-logo="http://005.0004567.xyz:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREnP1krz1PE_ben6Sa2GQ8pp.png" group-title="Portugal SD",Sic KidsH+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8h70mWy1ifmtlVqY_lTQuCI
+#EXTINF:-1 xui-id="67096" tvg-id="" tvg-name="DISNEY CHANNEL H+" tvg-logo="" group-title="Portugal SD",DISNEY CHANNEL H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8pUEevt1vyJ27V6xbPQ7Lw0
+#EXTINF:-1 xui-id="67097" tvg-id="" tvg-name="PANDA BIGGS H+" tvg-logo="" group-title="Portugal SD",PANDA BIGGS H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8iV2E-NiOTwuWD9x-UjzV6U
+#EXTINF:-1 xui-id="67098" tvg-id="" tvg-name="AXN H+" tvg-logo="" group-title="Portugal SD",AXN H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8pma-b1wySF41Xm_aC_43Uc
+#EXTINF:-1 xui-id="67099" tvg-id="" tvg-name="AXN WHITE H+" tvg-logo="" group-title="Portugal SD",AXN WHITE H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8pEZTlpgBoHPciO3ryNJ2iU
+#EXTINF:-1 xui-id="67100" tvg-id="" tvg-name="AXN MOVIES H+" tvg-logo="" group-title="Portugal SD",AXN MOVIES H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8hqTN68q061bq4ipUPNtjIo
+#EXTINF:-1 xui-id="67101" tvg-id="" tvg-name="FOX H+" tvg-logo="" group-title="Portugal SD",FOX H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8qRRc6QNvuQ9werdjJmOyqQ
+#EXTINF:-1 xui-id="67102" tvg-id="" tvg-name="FOX MOVIES H+" tvg-logo="" group-title="Portugal SD",FOX MOVIES H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8g_P9xRzbvBwswRI_0IYjkg
+#EXTINF:-1 xui-id="67103" tvg-id="" tvg-name="FOX CRIME H+" tvg-logo="" group-title="Portugal SD",FOX CRIME H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8ouedUWFxaMVn1LxfKuuhgY
+#EXTINF:-1 xui-id="67104" tvg-id="" tvg-name="FOX LIFE H+" tvg-logo="" group-title="Portugal SD",FOX LIFE H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8lVDAQBTYQuknCkVXKyoPYU
+#EXTINF:-1 xui-id="67105" tvg-id="" tvg-name="FOX COMEDY H+" tvg-logo="" group-title="Portugal SD",FOX COMEDY H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8qeEAGfDvyUlygiKX2XSrd8
+#EXTINF:-1 xui-id="67106" tvg-id="" tvg-name="NOS STUDIOS H+" tvg-logo="" group-title="Portugal SD",NOS STUDIOS H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8rt5EUsZZeaWyGbNSu_wCSc
+#EXTINF:-1 xui-id="67107" tvg-id="" tvg-name="HOLLYWOOD H+" tvg-logo="" group-title="Portugal SD",HOLLYWOOD H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8gLYFygrZnmY93_f0XYc1kI
+#EXTINF:-1 xui-id="67108" tvg-id="" tvg-name="CINEMUNDO H+" tvg-logo="" group-title="Portugal SD",CINEMUNDO H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8kddfIMt81ypNqtOhZOTqfE
+#EXTINF:-1 xui-id="67109" tvg-id="" tvg-name="SYFY H+" tvg-logo="" group-title="Portugal SD",SYFY H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8tqLh2ubOlnXbfAA9ftCRso
+#EXTINF:-1 xui-id="67110" tvg-id="" tvg-name="TV Cine TOP H+" tvg-logo="" group-title="Portugal SD",TV Cine TOP H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8sjMmkiDSQPErdJcPXhoSOs
+#EXTINF:-1 xui-id="67111" tvg-id="" tvg-name="TV Cine Edition H+" tvg-logo="" group-title="Portugal SD",TV Cine Edition H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8uQZymJMQD6RLDWH1-LKVLU
+#EXTINF:-1 xui-id="67112" tvg-id="" tvg-name="TV Cine Emotion H+" tvg-logo="" group-title="Portugal SD",TV Cine Emotion H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8ozFGstpNwgqgch5ARFYyLg
+#EXTINF:-1 xui-id="67113" tvg-id="TVCine ACTION" tvg-name="TVCINE ACTION H+" tvg-logo="" group-title="Portugal SD",TVCINE ACTION H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8tYaeotpwat-H1pAV0x5TA4
+#EXTINF:-1 xui-id="67114" tvg-id="" tvg-name="CANAL PANDA H+" tvg-logo="" group-title="Portugal SD",CANAL PANDA H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8gw453_EmeAcb-KIlhUnR-A
+#EXTINF:-1 xui-id="67115" tvg-id="" tvg-name="SPORT TV + H+" tvg-logo="" group-title="Portugal SD",SPORT TV + H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8haa76Y82SYYd8zm5bOG9XM
+#EXTINF:-1 xui-id="67116" tvg-id="" tvg-name="SPORT TV 1 SUPER H+" tvg-logo="http://005.0004567.xyz:80/images/ZkQzA2oXDv8XaL74FSSuqh2XRYMgZd0kNy8IOTPPCbIoNFxpn1o0nLUhEqc7He9gjbDmxQaA0Nt3ch_J2LkFoV0gopxhvtZnqszSQ0zzmN0.png" group-title="Portugal SD",SPORT TV 1 SUPER H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8j7b8uQMiqLlBxH95m4mscY
+#EXTINF:-1 xui-id="67117" tvg-id="" tvg-name="SPORT TV 1 H+" tvg-logo="http://005.0004567.xyz:80/images/ZkQzA2oXDv8XaL74FSSuqh2XRYMgZd0kNy8IOTPPCbIoNFxpn1o0nLUhEqc7He9gjbDmxQaA0Nt3ch_J2LkFoV0gopxhvtZnqszSQ0zzmN0.png" group-title="Portugal SD",SPORT TV 1 H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8hxIzT-nr9eH7oBDVxTGuNU
+#EXTINF:-1 xui-id="67118" tvg-id="" tvg-name="Sport Tv 2 H+" tvg-logo="http://00.0004567.xyz:2082/images/ec951b46b948cfacf89162de10693297.png" group-title="Portugal SD",Sport Tv 2 H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8qe7khOe27LsVOfhbupFz5M
+#EXTINF:-1 xui-id="67119" tvg-id="" tvg-name="SPORT TV 3 H+" tvg-logo="http://00.0004567.xyz:2082/images/499c1c4fb8a17d119563b93abb93808a.png" group-title="Portugal SD",SPORT TV 3 H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8ozpCakROkjU7Q130pBTnJQ
+#EXTINF:-1 xui-id="73219" tvg-id="" tvg-name="Sport Tv 4 H+" tvg-logo="http://00.0004567.xyz:2082/images/d59a89abb4af5bc4dd85243d5f75bcac.png" group-title="Portugal SD",Sport Tv 4 H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8r0l1xzSIQBC-vDrzdx1Ue4
+#EXTINF:-1 xui-id="67120" tvg-id="" tvg-name="SPORT TV 5 H+" tvg-logo="" group-title="Portugal SD",SPORT TV 5 H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8qpQ_1TkoK9fkRbhj3zmPZU
+#EXTINF:-1 xui-id="67121" tvg-id="" tvg-name="SPORT TV 6 H+" tvg-logo="" group-title="Portugal SD",SPORT TV 6 H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8vovrNDrKAKhNETFGdd5H90
+#EXTINF:-1 xui-id="67122" tvg-id="" tvg-name="CANAL 11 H+" tvg-logo="" group-title="Portugal SD",CANAL 11 H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8r5YaNnNim9eEsWOV8Hyq5U
+#EXTINF:-1 xui-id="67123" tvg-id="" tvg-name="A Bola TV H+" tvg-logo="" group-title="Portugal SD",A Bola TV H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8iV0-e3SYEqQ5vcjXdVAD3I
+#EXTINF:-1 xui-id="67124" tvg-id="" tvg-name="SPORTING TV H+" tvg-logo="" group-title="Portugal SD",SPORTING TV H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8ok2h1NzfOPHqWZKgBfTrsY
+#EXTINF:-1 xui-id="67125" tvg-id="" tvg-name="BENFICA TV H+" tvg-logo="" group-title="Portugal SD",BENFICA TV H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8sExm9g9BK63WD2B8QM5aLQ
+#EXTINF:-1 xui-id="67126" tvg-id="" tvg-name="ELEVEN SPORTS 1 H+" tvg-logo="" group-title="Portugal SD",ELEVEN SPORTS 1 H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8qSR3p9RUCYeB-3pRx8wuMc
+#EXTINF:-1 xui-id="67127" tvg-id="" tvg-name="ELEVEN SPORTS 2 H+" tvg-logo="" group-title="Portugal SD",ELEVEN SPORTS 2 H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8h17Z2ROu0qmegp9WCVgtOg
+#EXTINF:-1 xui-id="67128" tvg-id="" tvg-name="ELEVEN SPORTS 3 H+" tvg-logo="" group-title="Portugal SD",ELEVEN SPORTS 3 H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8ki7s4nflH-DjgNsxvjOoxA
+#EXTINF:-1 xui-id="67129" tvg-id="" tvg-name="ELEVEN SPORTS 4 H+" tvg-logo="" group-title="Portugal SD",ELEVEN SPORTS 4 H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8ibBgf1ALYPgep_fVQey9Hs
+#EXTINF:-1 xui-id="67130" tvg-id="" tvg-name="ELEVEN SPORTS 5 H+" tvg-logo="" group-title="Portugal SD",ELEVEN SPORTS 5 H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8sX9ZLm9S8EgFNnxsCIgpZY
+#EXTINF:-1 xui-id="67131" tvg-id="" tvg-name="ELEVEN SPORTS 6 H+" tvg-logo="" group-title="Portugal SD",ELEVEN SPORTS 6 H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8gXibgY6KnjbgPOPW7822mk
+#EXTINF:-1 xui-id="67132" tvg-id="" tvg-name="EUROSPORT 1 H+" tvg-logo="" group-title="Portugal SD",EUROSPORT 1 H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8sYs1Z0A2Y9zn4rxQP6IyiI
+#EXTINF:-1 xui-id="67133" tvg-id="" tvg-name="EUROSPORT 2 H+" tvg-logo="" group-title="Portugal SD",EUROSPORT 2 H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8nLRFYCASwUmsTnKV1YqtHc
+#EXTINF:-1 xui-id="67134" tvg-id="" tvg-name="MTV PORTUGAL H+" tvg-logo="" group-title="Portugal SD",MTV PORTUGAL H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8lX20ev9BESpDksfWjS_NTU
+#EXTINF:-1 xui-id="67135" tvg-id="" tvg-name="ID Investigation Discovery H+" tvg-logo="" group-title="Portugal SD",ID Investigation Discovery H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8oMcqnPxpSNx2d6JsRxu8-8
+#EXTINF:-1 xui-id="67136" tvg-id="" tvg-name="National geographic H+" tvg-logo="" group-title="Portugal SD",National geographic H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8oY5ijNKPzgl-8BkDNt9zLU
+#EXTINF:-1 xui-id="67137" tvg-id="" tvg-name="Geographic wildH+" tvg-logo="" group-title="Portugal SD",Geographic wildH+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8vOxbqenF5Vko5TA6MeJAAM
+#EXTINF:-1 xui-id="67138" tvg-id="" tvg-name="ODISSEIA H+" tvg-logo="" group-title="Portugal SD",ODISSEIA H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8ipF0LgamE6e8Tj8uj1T8BI
+#EXTINF:-1 xui-id="67139" tvg-id="" tvg-name="HISTORIA H+" tvg-logo="" group-title="Portugal SD",HISTORIA H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8ntUGcTrtbhoUftO3Tw3RUg
+#EXTINF:-1 xui-id="67140" tvg-id="" tvg-name="CASA COZINHA H+" tvg-logo="" group-title="Portugal SD",CASA COZINHA H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8oGnNYkw_raEIdigo8hqp_Q
+#EXTINF:-1 xui-id="67141" tvg-id="" tvg-name="FOOD NETWORKH+" tvg-logo="" group-title="Portugal SD",FOOD NETWORKH+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8g4LzDdfCpw8AygpZ87s0l8
+#EXTINF:-1 xui-id="67142" tvg-id="" tvg-name="24 KITCHEN H+" tvg-logo="" group-title="Portugal SD",24 KITCHEN H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8n0xEt40FAieYj31n9O9a-8
+#EXTINF:-1 xui-id="67143" tvg-id="" tvg-name="TLC H+" tvg-logo="" group-title="Portugal SD",TLC H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8u-Lof1UMH1r8tGFZZC9TdM
+#EXTINF:-1 xui-id="67144" tvg-id="" tvg-name="FUEL H+" tvg-logo="" group-title="Portugal SD",FUEL H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8oo8khuNH99-IRFnBfrYUkk
+#EXTINF:-1 xui-id="67145" tvg-id="" tvg-name="ZAP VIVA H+" tvg-logo="" group-title="Portugal SD",ZAP VIVA H+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8iIXLRTZJEPMJixWiQPtE4k
+#EXTINF:-1 xui-id="71983" tvg-id="" tvg-name="ES | MULTIDEPORTE" tvg-logo="" group-title="Espanha",ES | MULTIDEPORTE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8tSEW_90DbvX_M93tYISUww
+#EXTINF:-1 xui-id="71984" tvg-id="" tvg-name="ES | M.DEPORTES 6 SOLO EVENTOS" tvg-logo="" group-title="Espanha",ES | M.DEPORTES 6 SOLO EVENTOS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8jnOCIT9ZPrBo2ex9XttwKk
+#EXTINF:-1 xui-id="71985" tvg-id="" tvg-name="ES | M.DEPORTES 5 SOLO EVENTOS" tvg-logo="" group-title="Espanha",ES | M.DEPORTES 5 SOLO EVENTOS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8jQBA7safD0_DE-WYnbH5sI
+#EXTINF:-1 xui-id="71986" tvg-id="" tvg-name="ES | M.DEPORTES 4 SOLO EVENTOS" tvg-logo="" group-title="Espanha",ES | M.DEPORTES 4 SOLO EVENTOS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8v44XFNGRs0f_Th7UTb8pQY
+#EXTINF:-1 xui-id="71987" tvg-id="" tvg-name="ES | M.DEPORTES 3 SOLO EVENTOS" tvg-logo="" group-title="Espanha",ES | M.DEPORTES 3 SOLO EVENTOS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8iX6rM12gW6e-MLjekABnX4
+#EXTINF:-1 xui-id="71988" tvg-id="" tvg-name="ES | M.DEPORTES 2 SOLO EVENTOS" tvg-logo="" group-title="Espanha",ES | M.DEPORTES 2 SOLO EVENTOS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8lykV72zl33S0ehDpOWkI80
+#EXTINF:-1 xui-id="71989" tvg-id="" tvg-name="#0 HD" tvg-logo="" group-title="Espanha",#0 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8hIWwb4Wi2bV_2z-XFEhrDI
+#EXTINF:-1 xui-id="71990" tvg-id="" tvg-name="LA 1 HD" tvg-logo="" group-title="Espanha",LA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8miOWaRiSSgymDK937ZtOOA
+#EXTINF:-1 xui-id="71991" tvg-id="" tvg-name="La 2 HD" tvg-logo="" group-title="Espanha",La 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8hrJW_xdv-c6_TUOh5Nmvkw
+#EXTINF:-1 xui-id="71992" tvg-id="" tvg-name="ANTENA 3 HD" tvg-logo="" group-title="Espanha",ANTENA 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8kEnuiqhOyek8uOW2kBu3uc
+#EXTINF:-1 xui-id="71993" tvg-id="" tvg-name="CUATRO HD" tvg-logo="" group-title="Espanha",CUATRO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8mUWGthOZSLdytzmXRhW4pQ
+#EXTINF:-1 xui-id="71994" tvg-id="" tvg-name="TELECINCO HD" tvg-logo="" group-title="Espanha",TELECINCO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8kkggIJwW7AOeaI5tvYmZII
+#EXTINF:-1 xui-id="71995" tvg-id="" tvg-name="LA SEXTA HD" tvg-logo="" group-title="Espanha",LA SEXTA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8q5dR41YNNR2Hizhs1qMekw
+#EXTINF:-1 xui-id="71996" tvg-id="" tvg-name="24 HORAS" tvg-logo="" group-title="Espanha",24 HORAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8iY-KqlQkK_WBEH-xhwerGo
+#EXTINF:-1 xui-id="71997" tvg-id="" tvg-name="MOVISTAR ESTRENOS HD" tvg-logo="" group-title="Espanha",MOVISTAR ESTRENOS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8nfwOhBKzwyRa2VAE_Vowd0
+#EXTINF:-1 xui-id="71998" tvg-id="" tvg-name="MOVISTAR ACCION HD" tvg-logo="" group-title="Espanha",MOVISTAR ACCION HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8uyn799YITqSxOCz8K7RBa8
+#EXTINF:-1 xui-id="71999" tvg-id="" tvg-name="MOVISTAR COMEDIA HD" tvg-logo="" group-title="Espanha",MOVISTAR COMEDIA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8uSxeu4jiR2QdoYiSzDml0U
+#EXTINF:-1 xui-id="72000" tvg-id="" tvg-name="MOVISTAR DRAMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Movistar_Drama.svg/1024px-Movistar_Drama.svg.png" group-title="Espanha",MOVISTAR DRAMA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8k9jUvR2opc_yMzKL1kSgbo
+#EXTINF:-1 xui-id="72001" tvg-id="" tvg-name="MOVISTAR DCINE Ñ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/1200px-Movistar_Cine_Espa%C3%B1ol.svg.png" group-title="Espanha",MOVISTAR DCINE Ñ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8sy-9RmR1Kcchu_c6YX10JU
+#EXTINF:-1 xui-id="72002" tvg-id="" tvg-name="MOVISTAR SERIES HD" tvg-logo="" group-title="Espanha",MOVISTAR SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8khf-rDhfm7UEAhOtXsTuj8
+#EXTINF:-1 xui-id="72003" tvg-id="" tvg-name="ES | M.CRIMEN HD" tvg-logo="" group-title="Espanha",ES | M.CRIMEN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8sR7LE_Re34bIw97cW3u464
+#EXTINF:-1 xui-id="72004" tvg-id="" tvg-name="HOLLYWOOD HD" tvg-logo="http://00.0004567.xyz:2082/images/3f2f97019cc93aa107750e661b40e8a9.jpg" group-title="Espanha",HOLLYWOOD HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8g8XjJGvGxeh3qbTrMgOfAo
+#EXTINF:-1 xui-id="72005" tvg-id="" tvg-name="TCM HD" tvg-logo="http://00.0004567.xyz:2082/images/481ee88402266fde60880abc1b4f7a48.png" group-title="Espanha",TCM HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8lIEM3FN8ZvnMMnCCzsRsGQ
+#EXTINF:-1 xui-id="72006" tvg-id="" tvg-name="SUNDANCE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Sundance_Channel_Logo.png" group-title="Espanha",SUNDANCE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8mkX6-9PFrfXQm0agwkfTVs
+#EXTINF:-1 xui-id="72007" tvg-id="" tvg-name="XTREM HD" tvg-logo="http://00.0004567.xyz:2082/images/1616fe78b44acc265861b27634b65c96.png" group-title="Espanha",XTREM HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8hZNH6vXFjI_g52RWAqB3aA
+#EXTINF:-1 xui-id="72008" tvg-id="" tvg-name="SOMOS FHD" tvg-logo="http://00.0004567.xyz:2082/images/44c68d5df74f953e5809606bc542a90a.png" group-title="Espanha",SOMOS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8hQJvlHi4p47uxaG2w5zgOo
+#EXTINF:-1 xui-id="72009" tvg-id="" tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://00.0004567.xyz:2082/images/db84fd722b09a6787fd09b7eb55ff6ab.png" group-title="Espanha",PARAMOUNT CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8lZ0Pn96JnKHYOwBP6GXgU8
+#EXTINF:-1 xui-id="72010" tvg-id="" tvg-name="CALLE 13 HD" tvg-logo="https://pbs.twimg.com/profile_images/841301943679123456/sgaXRdpZ.jpg" group-title="Espanha",CALLE 13 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8nyKqsrO7C_oGZgpTdXz5GQ
+#EXTINF:-1 xui-id="72011" tvg-id="" tvg-name="FOX HD" tvg-logo="http://00.0004567.xyz:2082/images/7d6b23f5b2db7dc7fe335aad8a32cca2.png" group-title="Espanha",FOX HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8jqs3ExyX_pGVoaWoFl1aew
+#EXTINF:-1 xui-id="72012" tvg-id="" tvg-name="AXN HD" tvg-logo="" group-title="Espanha",AXN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8sKwo7rnP7jMUPvzIwHyJG8
+#EXTINF:-1 xui-id="72013" tvg-id="" tvg-name="AXN WAHITE HD" tvg-logo="" group-title="Espanha",AXN WAHITE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8tgaTVkuNGixEGGOvMW9DGI
+#EXTINF:-1 xui-id="72014" tvg-id="" tvg-name="AMC HD" tvg-logo="http://00.0004567.xyz:2082/images/d0457f70a4fde8134ea2bdc7de51ec57.png" group-title="Espanha",AMC HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8ugnfq6t2MRnOboM1uLeZhk
+#EXTINF:-1 xui-id="72015" tvg-id="" tvg-name="TNT HD" tvg-logo="" group-title="Espanha",TNT HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8tI2VBFE-oyJCNTPrx04tEI
+#EXTINF:-1 xui-id="72016" tvg-id="" tvg-name="SYFY HD" tvg-logo="http://00.0004567.xyz:2082/images/923b1db7aea407ede3eee3b8aa53aab7.jpg" group-title="Espanha",SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8rB9iD_aMY2MF86xAmgv_q4
+#EXTINF:-1 xui-id="72017" tvg-id="" tvg-name="COSMOS HD" tvg-logo="" group-title="Espanha",COSMOS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8lyl39AWPkMBGEv4t-NpJY8
+#EXTINF:-1 xui-id="72018" tvg-id="" tvg-name="COMEDY CENTRAL HD" tvg-logo="" group-title="Espanha",COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8kgYjloNgvkTtQbHcNKVQiQ
+#EXTINF:-1 xui-id="72019" tvg-id="" tvg-name="MTV" tvg-logo="https://pbs.twimg.com/profile_images/1237030619965788160/_7QOVguc_400x400.jpg" group-title="Espanha",MTV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8nWxWlghSxalUtntIm24y0Q
+#EXTINF:-1 xui-id="72020" tvg-id="" tvg-name="FDF" tvg-logo="http://00.0004567.xyz:2082/images/f0118e9bd2c4fb29c64ee03abce698b8.png" group-title="Espanha",FDF
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8nv7O25DSYqSJkc0DfpCULs
+#EXTINF:-1 xui-id="72021" tvg-id="" tvg-name="A3SERIES HD" tvg-logo="http://00.0004567.xyz:2082/images/fd8f21c8c30ba9ed99437dbda1cc015b.png" group-title="Espanha",A3SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8rzUoUSWTWYOJnstzprF-fs
+#EXTINF:-1 xui-id="72022" tvg-id="" tvg-name="MEGA" tvg-logo="http://00.0004567.xyz:2082/images/91805ec00ad20b85226bec0bacf843d3.png" group-title="Espanha",MEGA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8ouhDr06cXRDMOP_5u4DJs0
+#EXTINF:-1 xui-id="72023" tvg-id="" tvg-name="ENERGY" tvg-logo="http://00.0004567.xyz:2082/images/c310f3ff1e7d4cf2191d965c4200c704.png" group-title="Espanha",ENERGY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8iWFiZP6CXGglsDwV2x2SMM
+#EXTINF:-1 xui-id="72024" tvg-id="" tvg-name="DIVINITY" tvg-logo="http://00.0004567.xyz:2082/images/7f845c0646013df67f9935d2790d8359.png" group-title="Espanha",DIVINITY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8hzyeA1xbnO-37UqF7CcXYs
+#EXTINF:-1 xui-id="72025" tvg-id="" tvg-name="CRIMEN  + INVESTIGACION" tvg-logo="http://00.0004567.xyz:2082/images/d2b2292e6d3d928df88f58084f1e960a.png" group-title="Espanha",CRIMEN  + INVESTIGACION
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8rUQhknzspL6DCgZtc2sil4
+#EXTINF:-1 xui-id="72026" tvg-id="" tvg-name="DECASA HD" tvg-logo="" group-title="Espanha",DECASA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8sWZ7t8T7keJP43ZuVz5kkw
+#EXTINF:-1 xui-id="72027" tvg-id="" tvg-name="CANAL COCINA HD" tvg-logo="" group-title="Espanha",CANAL COCINA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8lzAjaWvgy6rBckfiDPF7FM
+#EXTINF:-1 xui-id="72028" tvg-id="" tvg-name="BE MAD HD" tvg-logo="http://00.0004567.xyz:2082/images/4f7161e814b751557b71bdf0d0e23a79.png" group-title="Espanha",BE MAD HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8kYIoqCnQQqF6tIOfu_xqXs
+#EXTINF:-1 xui-id="72029" tvg-id="" tvg-name="NEOX" tvg-logo="http://00.0004567.xyz:2082/images/28189d8022ae217a3be20a0abb1b18b8.png" group-title="Espanha",NEOX
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8vf2HVxr4gPxT-Cf2xfj_as
+#EXTINF:-1 xui-id="72030" tvg-id="" tvg-name="NOVA" tvg-logo="http://00.0004567.xyz:2082/images/3bc340da2adeac26295e0d41f3a35b83.png" group-title="Espanha",NOVA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8hZM6Qf4pdNFQZeer5fM2AM
+#EXTINF:-1 xui-id="72031" tvg-id="" tvg-name="ODISEA HD" tvg-logo="http://00.0004567.xyz:2082/images/f1c027e2dd55b81a8cf12c1a971ce067.jpg" group-title="Espanha",ODISEA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8ojooNA3VtGqeC_cu4ds3Y8
+#EXTINF:-1 xui-id="72032" tvg-id="" tvg-name="Iberalia HD CAZA" tvg-logo="" group-title="Espanha",Iberalia HD CAZA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8or0VokVXKMgYPDBm0ZbnvY
+#EXTINF:-1 xui-id="72033" tvg-id="" tvg-name="DISNEY JR" tvg-logo="http://00.0004567.xyz:2082/images/098d475f76e6a0860e4da430c897cd64.png" group-title="Espanha",DISNEY JR
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8o0yyAeVgL4jXrN70Q-8-9Q
+#EXTINF:-1 xui-id="72034" tvg-id="" tvg-name="DISNEY CHANNEL HD" tvg-logo="" group-title="Espanha",DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8jPT3gbjbPzaqoHY1MSQAnc
+#EXTINF:-1 xui-id="72035" tvg-id="" tvg-name="CLAN HD" tvg-logo="http://00.0004567.xyz:2082/images/e412ed3894b9b7d6f5db550b21d079bf.png" group-title="Espanha",CLAN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8q7qk5RKFBvBKG9Wbfb4dAA
+#EXTINF:-1 xui-id="72036" tvg-id="" tvg-name="BOING" tvg-logo="http://00.0004567.xyz:2082/images/6d496de65d9af6ab9c6b9022fd73726e.png" group-title="Espanha",BOING
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8gx6CohESIUwwu4V2VXjydY
+#EXTINF:-1 xui-id="72037" tvg-id="" tvg-name="CANAL PANDA" tvg-logo="http://verplusonline.com/wp-content/uploads/2016/10/panda.png" group-title="Espanha",CANAL PANDA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8jW7NqnqBavxZCLDZXlXxJg
+#EXTINF:-1 xui-id="72038" tvg-id="" tvg-name="BABY  TV" tvg-logo="http://00.0004567.xyz:2082/images/95171258279507cbae7495dac7cd46bd.png" group-title="Espanha",BABY  TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8t_Ar3gKOszexgQsalv3oNM
+#EXTINF:-1 xui-id="72039" tvg-id="" tvg-name="NICKELODEON HD" tvg-logo="" group-title="Espanha",NICKELODEON HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8m9XY9p2PXRpUq_zKX1gG9g
+#EXTINF:-1 xui-id="72040" tvg-id="" tvg-name="NICK JR" tvg-logo="https://w7.pngwing.com/pngs/792/17/png-transparent-nick-jr-too-nickelodeon-television-channel-nick-blaze.png" group-title="Espanha",NICK JR
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8hFt4WDTVOsojUfVC4OgkHo
+#EXTINF:-1 xui-id="72041" tvg-id="" tvg-name="HISTORIA HD" tvg-logo="" group-title="Espanha",HISTORIA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8mJiguPWFYZmubL6SDGVNjw
+#EXTINF:-1 xui-id="72042" tvg-id="" tvg-name="DISCOVERY  CHANNEL" tvg-logo="http://00.0004567.xyz:2082/images/fc8f42b5e686f626a6fad372d0d3c363.jpg" group-title="Espanha",DISCOVERY  CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8prlrZp7Us151W2Sq92D5wQ
+#EXTINF:-1 xui-id="72043" tvg-id="" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="Espanha",NATIONAL GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8i7IVkFaWrznZ9TrzLMGKCQ
+#EXTINF:-1 xui-id="72044" tvg-id="" tvg-name="NATIONAL GEOGRAFIC WILD HD" tvg-logo="" group-title="Espanha",NATIONAL GEOGRAFIC WILD HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8mDExT2HikB94u4M1CzIzEw
+#EXTINF:-1 xui-id="72045" tvg-id="" tvg-name="DMAX" tvg-logo="https://i1.wp.com/www.audiovisual451.com/wp-content/uploads/dmax-h.jpg?fit=300%2C236&ssl=1" group-title="Espanha",DMAX
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8nOgUcGg8_rKRknSqB4KIaU
+#EXTINF:-1 xui-id="72046" tvg-id="" tvg-name="DKISS" tvg-logo="http://00.0004567.xyz:2082/images/4d1002e4175b7881d2c4872a66f41855.jpg" group-title="Espanha",DKISS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8vy32QQvUsa-ZkGaXSvtLzI
+#EXTINF:-1 xui-id="72047" tvg-id="" tvg-name="BLAZE" tvg-logo="" group-title="Espanha",BLAZE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8txRPDAv_kiRqhr2-NtLwYQ
+#EXTINF:-1 xui-id="72048" tvg-id="" tvg-name="CAZA Y PESCA HD" tvg-logo="" group-title="Espanha",CAZA Y PESCA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8iUOjdMCdrh2XHKrcEawDGM
+#EXTINF:-1 xui-id="72049" tvg-id="" tvg-name="IBERALIA TV" tvg-logo="https://pbs.twimg.com/profile_images/660014807534460928/AssUmNxU_400x400.png" group-title="Espanha",IBERALIA TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8gY4bRqckEJpiJX7h11WByM
+#EXTINF:-1 xui-id="72050" tvg-id="" tvg-name="DAZN F1 HD" tvg-logo="" group-title="Espanha",DAZN F1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8uMk93ZGxZMYxE20VFCEOBk
+#EXTINF:-1 xui-id="72051" tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="" group-title="Espanha",DAZN 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8oCoJbEba8brlYWye1TfpLQ
+#EXTINF:-1 xui-id="72052" tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="" group-title="Espanha",DAZN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8vwWUFp87cpwxzE6bVTCVZU
+#EXTINF:-1 xui-id="72053" tvg-id="" tvg-name="DAZN 3 HD" tvg-logo="" group-title="Espanha",DAZN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8gQ5y0KD7BLs-9dpRmigsGA
+#EXTINF:-1 xui-id="72054" tvg-id="" tvg-name="DAZN 4 HD" tvg-logo="" group-title="Espanha",DAZN 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8s4wVdnpgl2nCtwGddhlTSA
+#EXTINF:-1 xui-id="72055" tvg-id="" tvg-name="MOVISTAR VAMOS HD" tvg-logo="http://00.0004567.xyz:2082/images/f303d293d447d49ea3c0c3a08e1e130d.jpg" group-title="Espanha",MOVISTAR VAMOS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8vd6CcU75n0VjOJGwZG5bHs
+#EXTINF:-1 xui-id="72056" tvg-id="" tvg-name="LIGA TV BAR HD" tvg-logo="http://00.0004567.xyz:2082/images/6974ce5ac660610b44d9b9fed0ff9548.png" group-title="Espanha",LIGA TV BAR HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8jVospMdUflKEOTbzQNv2m4
+#EXTINF:-1 xui-id="72057" tvg-id="" tvg-name="MOVISTAR LALIGA HD" tvg-logo="http://00.0004567.xyz:2082/images/b0e265f2cf2d6fbe37ca92712ab231b9.png" group-title="Espanha",MOVISTAR LALIGA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8l_K52z0LfqZGgFnW5fcvTM
+#EXTINF:-1 xui-id="72058" tvg-id="" tvg-name="MOVISTAR LA LIGA 2 FHD" tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_LaLiga_2.png" group-title="Espanha",MOVISTAR LA LIGA 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8inpATpMIW3IolpzXrYFXm4
+#EXTINF:-1 xui-id="72059" tvg-id="" tvg-name="MOVISTAR LIGA CAMPEONES HD" tvg-logo="" group-title="Espanha",MOVISTAR LIGA CAMPEONES HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8t5j76rNlSjir7qv63TA374
+#EXTINF:-1 xui-id="72060" tvg-id="" tvg-name="MOVISTAR LIGA CAMPEONES 1 FULLHD" tvg-logo="" group-title="Espanha",MOVISTAR LIGA CAMPEONES 1 FULLHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8gsBBBfbAsd4JYlaoO4mxwc
+#EXTINF:-1 xui-id="72061" tvg-id="" tvg-name="MOVISTAR LIGA CAMPEONES 2 FULLHD" tvg-logo="" group-title="Espanha",MOVISTAR LIGA CAMPEONES 2 FULLHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8melWIalqQQyOW59bXcwdew
+#EXTINF:-1 xui-id="72062" tvg-id="" tvg-name="MOVISTAR DEPORTE HD" tvg-logo="" group-title="Espanha",MOVISTAR DEPORTE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8mCK8tK-_ABMyTs9dU2-gQ8
+#EXTINF:-1 xui-id="72063" tvg-id="" tvg-name="EUROSPORT 1 HD" tvg-logo="http://00.0004567.xyz:2082/images/8a716bc871d1e0b95af1832d7aef3e28.png" group-title="Espanha",EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8oZk6Q2se6YAEZfDOH1p9B4
+#EXTINF:-1 xui-id="72064" tvg-id="" tvg-name="MOVISTAR F1" tvg-logo="http://00.0004567.xyz:2082/images/9d7eb5bdbfc0604fd09bc3606475cedc.png" group-title="Espanha",MOVISTAR F1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8ikG7Cq_9K1IWfNh7O5niXg
+#EXTINF:-1 xui-id="72065" tvg-id="" tvg-name="ES : DAZN F1" tvg-logo="" group-title="Espanha",ES : DAZN F1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8rCVDJz4luoK3cJuMrJvctE
+#EXTINF:-1 xui-id="72066" tvg-id="" tvg-name="MOVISTAR GOLF HD" tvg-logo="" group-title="Espanha",MOVISTAR GOLF HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8pdih69ZmoYJj-U2A0qxOyg
+#EXTINF:-1 xui-id="72067" tvg-id="" tvg-name="GOL HD" tvg-logo="" group-title="Espanha",GOL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8kckg8WZLtPexDwIbc_3OjE
+#EXTINF:-1 xui-id="72068" tvg-id="" tvg-name="TELEDEPORTE  HD" tvg-logo="" group-title="Espanha",TELEDEPORTE  HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8mcjrIQ8ChXXRVDfkBKRrH8
+#EXTINF:-1 xui-id="72069" tvg-id="" tvg-name="MOVISTAR TOROS HD" tvg-logo="http://00.0004567.xyz:2082/images/b756cdd646dafe4a87414f5f1f1ac078.jpg" group-title="Espanha",MOVISTAR TOROS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8t6GzKPHqXswaDQ19wkbY6A
+#EXTINF:-1 xui-id="72070" tvg-id="" tvg-name="ARAGON TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Arag%C3%B3nTV.svg/1200px-Arag%C3%B3nTV.svg.png" group-title="Espanha",ARAGON TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8qzaP65apz3CntLw03-IblQ
+#EXTINF:-1 xui-id="72071" tvg-id="" tvg-name="SOL Music" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAkFBMVEXkJif////iAADkIyTkHyDjGhvjCw3jHR7jFRf++PjjERPjExX86+v63Nz97u7kKSrzra3jBgn1vLz519fqaGnzsrLlMDHmOjvujY398/PsfH374eHxo6PwmZn0t7frbm/3zMzoWVn2w8PrdHTwnZ3ujo7nRkfpYWHoVlbuh4ftgYHmP0DlNDXnTE33ysroVlexv5RbAAAS20lEQVR4nOVd6ZqqOBDVJOxuuLaKC+64zfu/3RAIECAJAcHW2+fPfNN9Wzkkqb0qrXbj6I12k4O3GLun2bSPMZ2d3PHCO0x2o17zX99q8LON7vo4ntkA2KauaAhB2CKACGmKbuJfzcbHdddo8CmaYtidLG42UHUtZsUB1HQV2LfFpNvQkzTBsOucLaAqqIBbiqeiAvPsNMGybobz4d4EZhlyCZAJ1P1wXvMT1cqwN3CBrVRiF0GxgTuoVf7Ux9CYXIBabfEyS6mCy6Q+2VMXw+2mHnoxyc22pierheHc6QOtNnohNDB1ajmSNTBcLoBZpBOqAJpgsfwAhqMzeE22iKCA8+iXGW4ftW/PNBB4vHggX2Lo86tPujTF8QWGXfcN/EKO7gvGTmWG833D+5OGBvaV5WpVhocG5QsLCji8leFzqr6VH4Y6rXYcqzA0NqAJ/VcECDZVbLkKDNfqezdoAkUdvoGhcf6VBQwBwbn0MpZluLN+awFDKPquWYbXX1zAEBBcG2TYuZu/zA/DnHWaYjh8kw1TBATK7NQSDH/Ab1OLAX6aYOjav82Lgu3WzrDT/10ZmoUylT2MkgxH9mccwQRIlfSN5RgOf11J5AGBnIEjxXDwOTKGBhjUxXD1mQR9iqt6GH6QlshCRmsUM/Q+l6BP0Xud4UcTlKFYxPCDt2iIwo1awPBjhUyCInEjZvihaiKNAqUhZDj8BoI+RaHqFzEcfQdBn6LIgBMw7NifZ6qxAW2BGS5gOP00Y5sPNK3C0P0sd0kMxS3P8OeTHN5i2Fy1yGO4+xYpE4ErUDkMO99G0KfIkTYchrPvkTIR0KwMw+snxEXLwmSHipkMv+4QhmCHUVkMDf1bVH0aUGelbVgMz9+kCWkoZzmGX2JvswDWMgwN9Tv3KAZU8/s0z3DzrXsUQ9kUM9x+7x7FALlyhhzD6ffuUQyY8zKyDA/vLyOpF2q27ibDcP7dexQDzIUM998sZkIoexHD7vcvob+IXQFD933FeM1Bc/kMv1xTREhrjBTDx/d5hSygB4/hP7KEmUWkGf4jS5hZRIrhG0PcECm6ZaqqapqWoqHazSg6CE4xPL9DkELNsoF9d/c/B2cwmQyclbd5IADMwja+MtDOLIbLxpcQt+Bp48MuHxSbb52xDqz6SIIlg+GiWXMG6kDZr0VlPt3VrLbicWWRZ9ioRerTu68kKnyWnlqT/51YpzFDp7kAIrIVT7ZhwnCUWh7EdHIMG/MLNfAoV529qqORA/azDJvS9goYl+536TxqyArFWj9iuGlEVWhgU6m/7vD6+9aiiA1haDSxhLB6v9KTVSoIIUQIaZrcYgAjxXDSQPDChGXL6iksqRQ7CGFq/fvpcTmP5fabOkkxvNRukkJwrM6vTRsgYDSfp8KgcuYlutAMe2U2KQwmPvhWpWnpGu/NmPdXpwdEsg/msmY/utRzgh7FcCC5SaFiAqA9xteVM/Bx8G1KFbCahMAi+1jlsQolqp7LX9/lFJs6oBi6MpsUWkDbD0bZRsDOeg8yNdKQlT9IYCxH2+2ouE77FHxqLsYrm59GbsJQxmJD4H7gSv71jf4EDfFVxHKwiSQHmC6Gwi6mMC5mZ38su+GI5RYwHBZqWATO4u6/SbKMyo3X72k4N9pNgooN9qLjOvaFJsplzMayqtsexgwLo6TqrNBs7kzJF+sP3j9Z2fmxCwrY8PtfsdA0c3V5liRBEjkNGBbZulItKkYrWBz9wvn9jmNSK4IenxnMl1iUsC/NiGFRHFgsN2IEakrhreCC29AAgcP5m/bBymdajnK6InjwLmFY4DhJEgwOCLqzf2U8ROIBTDifOAJKrsr5Jm+cBC4UZngW/o0qbZs8baiyD5VxF590wJM3ADwzPyljnARSCjMULiHMrcpy6KyOq0FethqAV+h5LxB/3NrCGcjqk1IWtBUyFB/DzEucX1U8ukvXfeMmt7i8nvniMkfeSTi72Z+UcvPw3mgVvJXMEhoKJavtrNj8j/2Yq2KHFp3Yf7rJCaFSzjH2L1oFQTYrXQnvpN4G6BnzXme5HI22z91w7bANMamUHafubpM9oOXC1jjk5jO8iQzZzMlapWU+iGHbKs9dkhJ+Knub7rM/WEnrewx0wwwN4bpnT/pqhkfopSfohYAKm6BcAZLF7prIbdJTOUfWNnyGwk2UhKxiGN2d443/O92hHXje0eQ5m9P2IOfr5H2kAFlzp5Qj2wpETau9FgqaPEOabG/5HHgnYGv8JZQ0snTmFp9nJ7cV+whp+Ju/VWAF5fQRi+jwDBBnm8nWPphMyy1nP5StpPBfXKvAGZFsfV8+eEXIipxDnrNd2CibiNPGPsOZ8I94iioHjvUsK92zVTAhshuodK0InPkMC3a2+VrERdIhR0yfq5NleCilKzDsdqtQOpmPV6Jmkr6OyvQucqZv+Tw86LWKtxECp0NlkpKiIReMwTCyGZ0KkXkwau0k5C8ygf7wBrtu+bGbckGVXLldACf7dTLPmoG9a00k03VIwWN/gdq6uXvvsJZdVKk1hJD5t7lwQWJBwzCHgccRK4quW6bJyayak9ZBPihAPtv/VMt3oYq7qDGkziFbVaxyGjaygVUF9e+z2+Pinjf7hfdzXB2cNVsn6IeWJ3jJ4Ruy8BtSVdtOnwKbVRifg4zDyhbXvZzjb4y6y05vbhhMK4QT5/JaC/5BQf/tF1cPv6DBZD3cPbfpfwpkGEpUeGg35l8+OGYgBxyJqS1aY74AzsUkWvRGsFypby40vBFkLskB5DwnITjhNDRuCVIWuYzBOP4UqABXbq6YU7BNNcgU0CNgl8v+c4Q2clsn/jvOfUfPjRze21V6cqrYMNXvTHNtrkO2HcdF1l2NluLUmvG/3WJoqV6ns1yyjGxuMkbYJgY44uqOpA1i8vWcb4Gz1pT/9ZqUtAxx4U82OHIparxo90PhOf08cL3caasvesOyG8W4qGyBSCgyd5AGzhyPy9ULeuzzuPKUXl/IUJEcbzdqKfywtY+dmhsWDS3+EOSLhVPpjF8Y8yC01w1DewPHOayO3nWxH5//49IQM5Tzf40g6aLlO44orEwQSxyIFBVMV7wcsHHDywEfTvj0m/P5crpNW1pgNFKhvaA4Vdd13yjRuOUEhQwlsjLzFQgNM9Ei+thdb2b4dMrpOuGnuJdII4tMnh4FcT2OqCxGEUNf2AmLmkYLEOnIYuFndLqj0VJ8ttd1TxXri2RpAA1cBmySxtPr0wWhdjnpx8Si9tqsaUscpsFAKjBdz1lvR8tOgGV3uz7s78DOKPN8Z1xJdOufrenrQ4FNQ7NUTJU66EC1GKYKBK+NwT82MFvTt2mkSmlkP059geKz30QNr2+XCnyL8oCVN+rSbWZwoe9bCPzDKqg2WHy5aWrAu+8finz8KrAvpWbgYnQ3zQ149338snGaQmhS0wwTDC9NDujXD9KxthIwFW6BTG75fvRmJ6OaE6l4aVlAE3gSUrW7uoOmR3DYO4mYdyXo4CYMlHfW+1bj9FpBzLtsVlUayAJw4+TKUX1yz8OmD1TJtNuLAL3C3NMrgJrvTiiPjbcaTNbryeDws3Cnvutj1dqoJoRdmD98HUGMHIeUcV24Un+vofjLZ4U54FeAfr8zPMgBl6hmLANkgsummY8ugSCPL6zFqAjf4XrgG/B+fYxIUItR/xwF7DSHgeymZzQUvsCgnkZcE1UBWnwdzHz0eGURccSKBJ7MrG6B+KcWLLKHgpqoMkW3csDz4I2Rs/cVgzTBIMlJG5DIBidvsl125r1OdzdYTFMLAbVwkxS09oZ1bfU3AEN0neFysIBeliPSgy71zC2lVpjCiyWTAs7ZXowBzT+KJhRUXJHaxLr61nCLvRk8BgzJ6YFyp4N5CKiXH2eyHhy8i0nFLEhvU5R8gGCRd8FWlGBOxkCK9SupL5UTB5mApRKkhemF0MNcavIjfRVka5Mng8DdUQuzTcp9Ses1edcK3RU27yx7wR9RettOiuAKatbCGuHiFg28FqhP01EXOC38pJr6SLUBZeaSiEY8yAApmXR98tekCStMPiSp1+d1Fsgae7p/Ulk6ncoYiXPMpM67oFY/bnOjKm2j76Deq289YFDOGMnrRMcHZlOh++RgkTRMUBCkReVRu36cCYAKSF4wKXufhH8jkpNxrX5Bv4XuZTdEXFpPMSTJRmpPhoWbcacZKbgwvKmtzsZOz6HeflgSEBQEQYts5EwLStItFY5F7pBQgujh436LgoNIlpCqBYjrECmGhECyH0iqJlrUqGZmjx8cOx3UAUJhai54DrJh22Oe/CObf6pN02+Q9U+jnhlxw4UeF85EwibJSNEMw/eQzLbILGqU1hgw/F6SxQsEDSlo5dZOk6Sqb/KSVJCgwTfuexIXLiVpUqI4qUhTwpD0JwkEjUn+Zukp2dATJWiiIkXexCpSe4O3uL5K3gsTVO+aqLY4WUKy4fRx/AOKIVfQxFqGmjK2G4OUkCeCBlepR2lIjs2uhTshODDkpfLL+aj+Q1EPKZXpDj6LSJl5hmG0J2PNA8P+W+qYmI8kOtXzaDlihzsz+PizaA2hYoQ7JcQo8xDMRy/qA7bCGvrQhsBiJJQyTrgFE52d3ZNZQYOBwDhJbHeSke/kiAaCJiqdZ1dwEGOtu8X1X53QEuAWe9B9wIJKXrKE4X/8fxaKzC455RTDUNAkRhQpTU93gGhgNogdj1iFpyyaKPOxoow6pKLA9uPM7OYwTPVycwNuVmgfHcJst787gtNtoCzD/J4kWyg7mgmq4Eo4xm31pEA4tGhQVNSxvQQtZJZv1ZwGRh+mjLUUOHUYqX789n+cbUqW0FZCQXIPT4mrZBmS4/OMGRLKLEVkko0Y62qQsk6sWCLNd87xeJhsjfDVRVOCd8PhZIDLMH6uYZUB28FApM9MPBeDLOHKJMIg3GJHu5VlSFpeYqMAEp35pASNrQcUoK6H3xnrKKICoxOrMm7i9I9z1J46BnZUhmGSHzF9/cxcDI7IDb/bUFNFrvhkk9ceM4yaWT2gBr2JCqnhSNQxcJ7eScelGJtw98Q7GlIWTfhhSq7B6KhDNTSkUjffEMnDzC5lZpuwpwcnS0iNlurhqSNZhjA6PcvB0TsOIpE5SQy9UJvMO5H5bcSD7WmLhnyaqnjPREt11mOzpT7bvrffSds6yL3uN2eXFSuJ1a9wxhBZQrx9YGSShCP3swzZfV3JRTy5pp9tUuRDGvNS8sJ3JsDU3XveYnzTgYq/RgsLCNJPiIJyIdYmzc0YYhkRZmgWHQOBH9WZ7en/o8y9fNbQF4bxb/sOXeJl7C6UwodTiOudcpsI+o+PK4YYj1+MpMtdNOsrHI5NjihpLiPLkmfYMtHPNt6Cy6E3TVVW6MA6r9bP7ei5Xrl2uuiicr2TAIxZX3nLjdQ/ErcwfCmROABbo+efipTBBH05otxvp6AzMVtr40PTA4dd1d8R7GfMa8uH3KxtUAIYra2y2ZzPsVwOI5n5Z8VdEE2sSUmwZu4xIh52UAMY/6+GS+je+pzVwZyb+J7Zl+8BYs6+/J4ruorBmV/678+g/QNzhP+VReTPgv5XFlEwz/sfmcmebhP5a3P1//27Ef7A/Rb//h0lH1Ag8hqK75n5do0hcVfQv3/f0x+4s6u9/t59ygr7/8m78/7A/Ydfe4clc/jEH72H9A/cJfsH7gP+vqs6uU3Zf/de7j9wt7rvZXyPtOHOsBUz7Njfovij/HBZht8TBBfO0BAx/BaByimzkWFIpak/GIAzOFWKYbry4TNR1JRbwLD98+kUC2f+FzFse59NERQOxitk+NkUiwlKMPzkjSpzLYUEw88VN1Kd/zIMP1VpFKiJMgx91f95BhwUK/qSDNuj/A0xvwykSo47k2TY7kw/y5lSprIDRmQZ+v7iJ7nEtiv93PIMP0lrSF1eVJ5he9fAHKcqQJKD4sszbHdmnxBHNWelZvyUYthuX39dbUAgOcyxIsP2Tv9dmaroZS/GLMuwbZx/cRkhYHQq1M3QN3BYVzq+BYpabrZwVYZtY/MrywjBpvQCVmTYbm+n7y9KUafVpt1VY4h7vd67VZVqo+5eYNie75scs5aBBvblZl/XwbDd7rpvsnFQ9buhX2PoH8fHGzgi8HhpLupLDN/AUXuR38sMfd/43KDMUfgjsd/HsN1eLkBuXHcdgCZYvDbUti6Gvlx1prULVg1Mncryk0YtDNt42AyoMZSDVLB5dexyhLoY+rbc5FIPSZ/eZVLFPmOjPoY+egMX2K/JHcUG7qD8pUsC1MrQx3y4V4FZbSmRCcz9sJbDR6Fuhhhd52wBVSlDE49ms87OK/ef8dAEQ4zuZHGzcb9okR6BuLXUvi0mTbDDaIohhtFdH8cz3Kdp6qmbS/F9W5qi4/5mezY+rrv1yZU8mmRI0BvtJgdvMXZPs2kfYzo7ueOFd5jsRrXKFDb+B2ywInM1UTFSAAAAAElFTkSuQmCC" group-title="Espanha",SOL Music
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8oDIlq79LUanH6rUcpsp0nE
+#EXTINF:-1 xui-id="72072" tvg-id="" tvg-name="MEZZO LIVE FULL HD" tvg-logo="http://00.0004567.xyz:2082/images/e76422f9fd6fffdd32ecad5ec08334a6.png" group-title="Espanha",MEZZO LIVE FULL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8koJxEdNXqxprLG8rcdwoQo
+#EXTINF:-1 xui-id="72073" tvg-id="" tvg-name="CANAL SUR FHD" tvg-logo="http://www.canalsur.es/html/recursos/logos/csrytv.svg" group-title="Espanha",CANAL SUR FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8gOhJOsMqnQA7nemCjY250I
+#EXTINF:-1 xui-id="72074" tvg-id="" tvg-name="TELEMADRID FHD" tvg-logo="http://www.telemadrid.es/sites/default/files/Images2018/logometaTM.jpg" group-title="Espanha",TELEMADRID FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8k01CW871b5o4XwWZ5y034s
+#EXTINF:-1 xui-id="72075" tvg-id="" tvg-name="CLASSICA" tvg-logo="http://00.0004567.xyz:2082/images/de64e69510cc4625ef281cd1c9bd0a18.jpg" group-title="Espanha",CLASSICA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8tXWRu3sbfPwKo0hIqd-6gs
+#EXTINF:-1 xui-id="72076" tvg-id="" tvg-name="MOVISTAR LIGA 1 HD" tvg-logo="" group-title="Espanha",MOVISTAR LIGA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8taB5mh4ePvnxwNlTOAjgDg
+#EXTINF:-1 xui-id="72077" tvg-id="" tvg-name="VH1" tvg-logo="" group-title="Espanha",VH1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8kkkgSKGHryrJ98WqutEBoQ
+#EXTINF:-1 xui-id="72664" tvg-id="" tvg-name="DE | DAS ERSTE HD" tvg-logo="" group-title="Alemanha",DE | DAS ERSTE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8v7cvtIXlf_2aBl15WHesjk
+#EXTINF:-1 xui-id="72665" tvg-id="" tvg-name="DE | ZDF HD 0" tvg-logo="" group-title="Alemanha",DE | ZDF HD 0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8pcoVvi68CgkWZwtuPeizOI
+#EXTINF:-1 xui-id="72666" tvg-id="" tvg-name="DE | RTL HD" tvg-logo="" group-title="Alemanha",DE | RTL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8pRs7SCxzNpdftU848qF6fQ
+#EXTINF:-1 xui-id="72667" tvg-id="" tvg-name="DE | SAT 1 HD" tvg-logo="" group-title="Alemanha",DE | SAT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8tRNNj2yMFBcxZRSsKNiHFU
+#EXTINF:-1 xui-id="72668" tvg-id="" tvg-name="DE | PRO 7 HD" tvg-logo="" group-title="Alemanha",DE | PRO 7 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8lFqrWpUoImFMpu4CznJJSY
+#EXTINF:-1 xui-id="72669" tvg-id="" tvg-name="DE | RTL 2 HD" tvg-logo="" group-title="Alemanha",DE | RTL 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8gLj2dniEOsWNrBE250kccQ
+#EXTINF:-1 xui-id="72670" tvg-id="" tvg-name="DE | RTL UP HD" tvg-logo="" group-title="Alemanha",DE | RTL UP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8qgc0h40ecsU6H258aEy0FE
+#EXTINF:-1 xui-id="72671" tvg-id="" tvg-name="DE | VOX HD" tvg-logo="" group-title="Alemanha",DE | VOX HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8rh8TX29S6pI4M8AmuvLkjo
+#EXTINF:-1 xui-id="72672" tvg-id="" tvg-name="DE | VOXUP HD" tvg-logo="" group-title="Alemanha",DE | VOXUP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8utc9Lk1siZHRvI0JOI55CA
+#EXTINF:-1 xui-id="72673" tvg-id="" tvg-name="DE | KABEL 1 HD" tvg-logo="" group-title="Alemanha",DE | KABEL 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8u-QALG-Qfjm2vUhm0Czjgc
+#EXTINF:-1 xui-id="72674" tvg-id="" tvg-name="DE | SIXX HD" tvg-logo="" group-title="Alemanha",DE | SIXX HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8kB31qTLdHO_ULH-OZTPLEc
+#EXTINF:-1 xui-id="72675" tvg-id="" tvg-name="DE | TAGESSCHAU24 HD" tvg-logo="" group-title="Alemanha",DE | TAGESSCHAU24 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8hP9led-YYfrX0K8Z0_e1Qg
+#EXTINF:-1 xui-id="72676" tvg-id="" tvg-name="DE | ARTE HD" tvg-logo="" group-title="Alemanha",DE | ARTE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8j6CEvUHKzL2V4pOxizph8U
+#EXTINF:-1 xui-id="72677" tvg-id="" tvg-name="DE | 3SAT HD" tvg-logo="" group-title="Alemanha",DE | 3SAT HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8n41y-H0tVHe9QToDqJ-nqk
+#EXTINF:-1 xui-id="72678" tvg-id="" tvg-name="DE | N-TV HD" tvg-logo="" group-title="Alemanha",DE | N-TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8hTmA1GSEu4ty4X8T1yITzs
+#EXTINF:-1 xui-id="72679" tvg-id="" tvg-name="DE | NITRO HD" tvg-logo="" group-title="Alemanha",DE | NITRO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8sGb_3ucrfF-yoNMTmdGu04
+#EXTINF:-1 xui-id="72680" tvg-id="" tvg-name="DE | SUPER RTL HD" tvg-logo="" group-title="Alemanha",DE | SUPER RTL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8oRiRcZl1_83R3d1qgY0g58
+#EXTINF:-1 xui-id="72681" tvg-id="" tvg-name="DE | PRO 7 MAXX HD" tvg-logo="" group-title="Alemanha",DE | PRO 7 MAXX HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8vYNJBR7dkoCiuCEoWFXkpg
+#EXTINF:-1 xui-id="72682" tvg-id="" tvg-name="DE | SAT 1 GOLD HD" tvg-logo="" group-title="Alemanha",DE | SAT 1 GOLD HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8tlV84tWVzqtN8ubl3IVIq0
+#EXTINF:-1 xui-id="72683" tvg-id="" tvg-name="DE | ONE HD" tvg-logo="" group-title="Alemanha",DE | ONE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8lEZacbq32Mo9fINzIgqPXs
+#EXTINF:-1 xui-id="72684" tvg-id="" tvg-name="DE | ARD ALPHA HD" tvg-logo="" group-title="Alemanha",DE | ARD ALPHA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8vRGC7iXhxsDIkRkoMh8mYY
+#EXTINF:-1 xui-id="72685" tvg-id="" tvg-name="DE | ZDF INFO HD" tvg-logo="" group-title="Alemanha",DE | ZDF INFO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8mrwpwQZyqTifgzGK52YHos
+#EXTINF:-1 xui-id="72686" tvg-id="" tvg-name="DE | ZDF NEO HD" tvg-logo="" group-title="Alemanha",DE | ZDF NEO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8uP8wYUS7Wet_CwK4gmTEXU
+#EXTINF:-1 xui-id="72687" tvg-id="" tvg-name="DE | TELE 5 HD" tvg-logo="" group-title="Alemanha",DE | TELE 5 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8mAH_QijNSVm8yYyFbD6ls4
+#EXTINF:-1 xui-id="72688" tvg-id="" tvg-name="DE | BON GUSTO HD" tvg-logo="" group-title="Alemanha",DE | BON GUSTO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8qe5JTYOU9bLSYeUoyf89Gs
+#EXTINF:-1 xui-id="72689" tvg-id="" tvg-name="DE | CURIOSITY CHANNEL HD" tvg-logo="" group-title="Alemanha",DE | CURIOSITY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8rN22lIwoAdPx-t-W7BL7S0
+#EXTINF:-1 xui-id="72690" tvg-id="" tvg-name="DE | HEIMAT KANAL HD" tvg-logo="" group-title="Alemanha",DE | HEIMAT KANAL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8sWvmJasCOayEZoeDXug-hs
+#EXTINF:-1 xui-id="72691" tvg-id="" tvg-name="DE | DISCOVERY CHANNEL HD" tvg-logo="" group-title="Alemanha",DE | DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8oFqJjn46i0tto0hdr54BiU
+#EXTINF:-1 xui-id="72692" tvg-id="" tvg-name="DE | NAT GEO HD" tvg-logo="" group-title="Alemanha",DE | NAT GEO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8mEsgdbV_k3FGhmolVsz-U8
+#EXTINF:-1 xui-id="72693" tvg-id="" tvg-name="DE | NAT GEO WILD HD" tvg-logo="" group-title="Alemanha",DE | NAT GEO WILD HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8q4aYmy8L1DymzyQIyHRlc0
+#EXTINF:-1 xui-id="72694" tvg-id="" tvg-name="DE | HISTORY HD" tvg-logo="" group-title="Alemanha",DE | HISTORY HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8vEUXMTgHkP-xRy1WPqP6u8
+#EXTINF:-1 xui-id="72695" tvg-id="" tvg-name="DE | DMAX HD" tvg-logo="" group-title="Alemanha",DE | DMAX HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8rNw5RgefyMbk_UuQNLWN6w
+#EXTINF:-1 xui-id="72696" tvg-id="" tvg-name="DE | CRIME+ INVESTIGATION HD" tvg-logo="" group-title="Alemanha",DE | CRIME+ INVESTIGATION HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8hhtPBeU3D4_InOhicv-w5U
+#EXTINF:-1 xui-id="72697" tvg-id="" tvg-name="DE | PHOENIX HD" tvg-logo="" group-title="Alemanha",DE | PHOENIX HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8k2DCotJZs-P6NFriTK88SE
+#EXTINF:-1 xui-id="72698" tvg-id="" tvg-name="DE | E! ENTERTAINMENT HD" tvg-logo="" group-title="Alemanha",DE | E! ENTERTAINMENT HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8tRA9CGWipFSIHvBESGMJYM
+#EXTINF:-1 xui-id="72699" tvg-id="" tvg-name="DE | TLC HD" tvg-logo="" group-title="Alemanha",DE | TLC HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8o1j0ujHaorITGFXCuRWgpY
+#EXTINF:-1 xui-id="72700" tvg-id="" tvg-name="DE | 13TH STREET HD" tvg-logo="" group-title="Alemanha",DE | 13TH STREET HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8gOKzQKiwGEYUmTMCGgBn7E
+#EXTINF:-1 xui-id="72701" tvg-id="" tvg-name="DE | FOX HD" tvg-logo="" group-title="Alemanha",DE | FOX HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8pzh2CQ1rCtDz0r0tk1IrrM
+#EXTINF:-1 xui-id="72702" tvg-id="" tvg-name="DE | SYFY HD" tvg-logo="" group-title="Alemanha",DE | SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8jXm7KB5gq6xVt5QidtOJLY
+#EXTINF:-1 xui-id="72703" tvg-id="" tvg-name="DE | SERVUS TV HD" tvg-logo="" group-title="Alemanha",DE | SERVUS TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8s-WYZHADV26be1-n28q6Vo
+#EXTINF:-1 xui-id="72704" tvg-id="" tvg-name="DE | KINOWELT HD" tvg-logo="" group-title="Alemanha",DE | KINOWELT HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8pAUxq74JALCIcM6Wds0qlY
+#EXTINF:-1 xui-id="72705" tvg-id="" tvg-name="DE | SPIEGEL GESICHTE HD" tvg-logo="" group-title="Alemanha",DE | SPIEGEL GESICHTE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8jWy-3WOh8pAg9ZRpkKitBw
+#EXTINF:-1 xui-id="72706" tvg-id="" tvg-name="DE | ROMANCE TV HD" tvg-logo="" group-title="Alemanha",DE | ROMANCE TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8od_j2u4_kG4Ovd4XBmJXGA
+#EXTINF:-1 xui-id="72707" tvg-id="" tvg-name="DE | WARNER TV FILM  HD" tvg-logo="" group-title="Alemanha",DE | WARNER TV FILM  HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8lzogPXnm84srUemJfl_uag
+#EXTINF:-1 xui-id="72708" tvg-id="" tvg-name="DE | WARNER TV COMEDY HD" tvg-logo="" group-title="Alemanha",DE | WARNER TV COMEDY HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8qZ6WHiiFT9clAe7ho_wXMs
+#EXTINF:-1 xui-id="72709" tvg-id="" tvg-name="DE | WARNER TV SERIE  HD" tvg-logo="" group-title="Alemanha",DE | WARNER TV SERIE  HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8l59yfj38GJBHBg6RxUSJdk
+#EXTINF:-1 xui-id="72710" tvg-id="" tvg-name="DE | UNIVERSAL CHANNEL HD" tvg-logo="" group-title="Alemanha",DE | UNIVERSAL CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8mja2MKfzHfBgFASzuczDIc
+#EXTINF:-1 xui-id="72711" tvg-id="" tvg-name="DE | SPIEGEL TV WISSEN HD" tvg-logo="" group-title="Alemanha",DE | SPIEGEL TV WISSEN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8o2A_4QL9hVpIIOOmtNFJqQ
+#EXTINF:-1 xui-id="72712" tvg-id="" tvg-name="DE | KIKA HD" tvg-logo="" group-title="Alemanha",DE | KIKA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8iw1791fnILoQBTJkAVQsZM
+#EXTINF:-1 xui-id="72713" tvg-id="" tvg-name="DE | FIX & FOXI HD" tvg-logo="" group-title="Alemanha",DE | FIX & FOXI HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8tcfu_-MeTbwirgMq_iPPxU
+#EXTINF:-1 xui-id="72714" tvg-id="" tvg-name="DE | Tom & Jerry HD" tvg-logo="" group-title="Alemanha",DE | Tom & Jerry HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8jPNPijAPeMG26EzT80854o
+#EXTINF:-1 xui-id="72715" tvg-id="" tvg-name="DE | DISNEY JUNIOR HD" tvg-logo="" group-title="Alemanha",DE | DISNEY JUNIOR HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8vNIkBJJ_4ioOQxr1yDoLvE
+#EXTINF:-1 xui-id="72716" tvg-id="" tvg-name="DE | DISNEY CHANNEL HD" tvg-logo="" group-title="Alemanha",DE | DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8h09GTZwKBtuEvUYRle6r3Q
+#EXTINF:-1 xui-id="72717" tvg-id="" tvg-name="DE | CARTOON NETWORK HD" tvg-logo="" group-title="Alemanha",DE | CARTOON NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8u87g7DgvYubEu8Q89LdJ8A
+#EXTINF:-1 xui-id="72718" tvg-id="" tvg-name="DE | BOOMERANG HD" tvg-logo="" group-title="Alemanha",DE | BOOMERANG HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8n_V41EkkINTZaj4Vu28qiE
+#EXTINF:-1 xui-id="72719" tvg-id="" tvg-name="DE | TOGGO PLUS HD" tvg-logo="" group-title="Alemanha",DE | TOGGO PLUS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8kt8158ViwrFDs9__b2497I
+#EXTINF:-1 xui-id="72720" tvg-id="" tvg-name="DE | MTV HD" tvg-logo="" group-title="Alemanha",DE | MTV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8vR407F3WYF4NNAXnpJ3Wnk
+#EXTINF:-1 xui-id="72721" tvg-id="" tvg-name="DE | NICKTOONS HD" tvg-logo="" group-title="Alemanha",DE | NICKTOONS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8tDAyFeZtmYd0m_dHrHPEPk
+#EXTINF:-1 xui-id="72722" tvg-id="" tvg-name="DE | DELUXE MUSIC HD" tvg-logo="" group-title="Alemanha",DE | DELUXE MUSIC HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8t_gUGgjagiwV9wcz0eMjAs
+#EXTINF:-1 xui-id="72723" tvg-id="" tvg-name="DE | JUKEBOX HD" tvg-logo="" group-title="Alemanha",DE | JUKEBOX HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8u7p-kmjDPWhf799YHTcKac
+#EXTINF:-1 xui-id="72724" tvg-id="" tvg-name="DE | CLASSICA HD" tvg-logo="" group-title="Alemanha",DE | CLASSICA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8kDxUmyk85DjpzHMVoeuz_Y
+#EXTINF:-1 xui-id="72725" tvg-id="" tvg-name="DE | SKY 1 HD" tvg-logo="" group-title="Alemanha",DE | SKY 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8tFwN9nPKIVDSTL7ar3Nxu0
+#EXTINF:-1 xui-id="72726" tvg-id="" tvg-name="DE | SKY CINEMA PREMIEREN HD" tvg-logo="" group-title="Alemanha",DE | SKY CINEMA PREMIEREN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8vrdSTI-nEOrlzad49eQZUY
+#EXTINF:-1 xui-id="72727" tvg-id="" tvg-name="DE | SKY CINEMA PREMIEREN +24 HD" tvg-logo="" group-title="Alemanha",DE | SKY CINEMA PREMIEREN +24 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8oAcFFC47m7AwlbjzBb1PKs
+#EXTINF:-1 xui-id="72728" tvg-id="" tvg-name="DE | SKY CINEMA THRILLER HD" tvg-logo="" group-title="Alemanha",DE | SKY CINEMA THRILLER HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8oTVOxOKKV0OqWaji05bzSs
+#EXTINF:-1 xui-id="72729" tvg-id="" tvg-name="DE | SKY CINEMA ACTION HD" tvg-logo="" group-title="Alemanha",DE | SKY CINEMA ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8i49appGMFkIroce1N0zK7A
+#EXTINF:-1 xui-id="72730" tvg-id="" tvg-name="DE | SKY CINEMA FAMILY HD" tvg-logo="" group-title="Alemanha",DE | SKY CINEMA FAMILY HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8teb8nR9_0iKRCN9g8mF85g
+#EXTINF:-1 xui-id="72731" tvg-id="" tvg-name="DE | SKY CINEMA SPECIAL HD" tvg-logo="" group-title="Alemanha",DE | SKY CINEMA SPECIAL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8kmfkIeMwBFcRl7jLbV3AFc
+#EXTINF:-1 xui-id="72732" tvg-id="" tvg-name="DE | SKY CINEMA FUN HD" tvg-logo="" group-title="Alemanha",DE | SKY CINEMA FUN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8oj7wScTrkI8JSrXoOak4TI
+#EXTINF:-1 xui-id="72733" tvg-id="" tvg-name="DE | SKY CINEMA BEST OF HD" tvg-logo="" group-title="Alemanha",DE | SKY CINEMA BEST OF HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8uNCWlH6C8c2uiIleNpA7Yk
+#EXTINF:-1 xui-id="72734" tvg-id="" tvg-name="DE | SKY ATLANTIC HD" tvg-logo="" group-title="Alemanha",DE | SKY ATLANTIC HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8jGVzP9U-do_2gqJXf0FzLA
+#EXTINF:-1 xui-id="72735" tvg-id="" tvg-name="DE | SKY KRIMI HD" tvg-logo="" group-title="Alemanha",DE | SKY KRIMI HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8kw2AdkJxg22Jz4IIalsKLM
+#EXTINF:-1 xui-id="72736" tvg-id="" tvg-name="DE | SKY REPLAY HD" tvg-logo="" group-title="Alemanha",DE | SKY REPLAY HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8kgKWy6LT2duUUu5wFmybCc
+#EXTINF:-1 xui-id="72737" tvg-id="" tvg-name="DE | SKY NATURE HD" tvg-logo="" group-title="Alemanha",DE | SKY NATURE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8hxkYb9n_BIkapuzaUawBHE
+#EXTINF:-1 xui-id="72738" tvg-id="" tvg-name="DE | SKY CINEMA CLASSICS HD" tvg-logo="" group-title="Alemanha",DE | SKY CINEMA CLASSICS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8ka6LnwpJZlYo0gfvUJSZ1Y
+#EXTINF:-1 xui-id="72739" tvg-id="" tvg-name="DE | SKY SELECT 1 HD" tvg-logo="" group-title="Alemanha",DE | SKY SELECT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8rvzfQzSG3JBiGIZp1EanVY
+#EXTINF:-1 xui-id="72740" tvg-id="" tvg-name="DE | SKY SELECT 2 HD" tvg-logo="" group-title="Alemanha",DE | SKY SELECT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8nbiJvh1lmXE0tI8rjM5RBY
+#EXTINF:-1 xui-id="72741" tvg-id="" tvg-name="DE | SKY SELECT 3 HD" tvg-logo="" group-title="Alemanha",DE | SKY SELECT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8ikYcY9oc631sKzUUnGq5Qg
+#EXTINF:-1 xui-id="72742" tvg-id="" tvg-name="DE | SKY SELECT 4 HD" tvg-logo="" group-title="Alemanha",DE | SKY SELECT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8okTiJgvC4j4I1BxINw5V8U
+#EXTINF:-1 xui-id="72743" tvg-id="" tvg-name="DE | DAZN 1 HD" tvg-logo="" group-title="Alemanha",DE | DAZN 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8h9GWQZkGXt2DM5O0Ql-G4w
+#EXTINF:-1 xui-id="72744" tvg-id="" tvg-name="DE | DAZN 2 HD" tvg-logo="" group-title="Alemanha",DE | DAZN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8qAViyOK46vU1pXrNka0jpw
+#EXTINF:-1 xui-id="72745" tvg-id="" tvg-name="DE | EUROSPORT 1 HD" tvg-logo="" group-title="Alemanha",DE | EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8uKke3_ZPxyT0ta6oFHaJOA
+#EXTINF:-1 xui-id="72746" tvg-id="" tvg-name="DE | EUROSPORT 2 HD" tvg-logo="" group-title="Alemanha",DE | EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8o5eJd0TQokih0gQC1OP_yk
+#EXTINF:-1 xui-id="72747" tvg-id="" tvg-name="DE | EUROSPORT 2 XTRA HD" tvg-logo="" group-title="Alemanha",DE | EUROSPORT 2 XTRA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8vJsmgi4WzZgw3mkosV20uM
+#EXTINF:-1 xui-id="72748" tvg-id="" tvg-name="DE: Sky Sport F1" tvg-logo="" group-title="Alemanha",DE: Sky Sport F1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8lpueWFdwGXHglG4vDtRSpw
+#EXTINF:-1 xui-id="72749" tvg-id="" tvg-name="DE | SPORT 1 HD" tvg-logo="" group-title="Alemanha",DE | SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8o5ug85BqXwA7nmT69Ls-eg
+#EXTINF:-1 xui-id="104766" tvg-id="" tvg-name="DE: Sky Sports 1" tvg-logo="" group-title="Alemanha",DE: Sky Sports 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8rvleUZmbsX54vA0Ezp0WuE
+#EXTINF:-1 xui-id="72750" tvg-id="" tvg-name="DE | MOTORVISION HD" tvg-logo="" group-title="Alemanha",DE | MOTORVISION HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8pFASL3iZel9TUtiRs7pWfI
+#EXTINF:-1 xui-id="72751" tvg-id="" tvg-name="DE | BUNDESLIGA 1 HD" tvg-logo="" group-title="Alemanha",DE | BUNDESLIGA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8o3qjZvxffv6sKgXDZ4Y2aE
+#EXTINF:-1 xui-id="72752" tvg-id="" tvg-name="DE | BUNDESLIGA 2 HD" tvg-logo="" group-title="Alemanha",DE | BUNDESLIGA 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8r_hncQCjmk6qF_hU0iGF8I
+#EXTINF:-1 xui-id="72753" tvg-id="" tvg-name="DE | BUNDESLIGA 3 HD" tvg-logo="" group-title="Alemanha",DE | BUNDESLIGA 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8u2NCjHpKcsDe9o7HCG4Jj8
+#EXTINF:-1 xui-id="72754" tvg-id="" tvg-name="DE | BUNDESLIGA 4 HD" tvg-logo="" group-title="Alemanha",DE | BUNDESLIGA 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8h9R0zTIn_qhddtkn9F_5uA
+#EXTINF:-1 xui-id="72755" tvg-id="" tvg-name="DE | SKY SPORT NEWS HD" tvg-logo="" group-title="Alemanha",DE | SKY SPORT NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8j_ypCUy2qI4g2tc8PceQkg
+#EXTINF:-1 xui-id="72757" tvg-id="" tvg-name="DE | SKY SPORT 2 HD" tvg-logo="" group-title="Alemanha",DE | SKY SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8uMapptCsFcrDqSiHVX412U
+#EXTINF:-1 xui-id="72758" tvg-id="" tvg-name="DE | SKY SPORT AUSTRIA HD" tvg-logo="" group-title="Alemanha",DE | SKY SPORT AUSTRIA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8nMOV_8k7mEudy2yjNuAU5w
+#EXTINF:-1 xui-id="72759" tvg-id="" tvg-name="DE | MAGENTA 1 HD" tvg-logo="" group-title="Alemanha",DE | MAGENTA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8kj_xrJ7YMLMuiEvq7uZB9g
+#EXTINF:-1 xui-id="72760" tvg-id="" tvg-name="DE | MAGENTA 2 HD" tvg-logo="" group-title="Alemanha",DE | MAGENTA 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8uW3wo9vhYiuQOVhdOy1pJo
+#EXTINF:-1 xui-id="72761" tvg-id="" tvg-name="DE | MAGENTA 3 HD" tvg-logo="" group-title="Alemanha",DE | MAGENTA 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8oJkRPX45wD-ML31m4IAHrA
+#EXTINF:-1 xui-id="72762" tvg-id="" tvg-name="DE | MAGENTA 4 HD" tvg-logo="" group-title="Alemanha",DE | MAGENTA 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8oPP5X5gyDjetVy6iH9M5Qs
+#EXTINF:-1 xui-id="72763" tvg-id="" tvg-name="DE | MAGENTA 5 HD" tvg-logo="" group-title="Alemanha",DE | MAGENTA 5 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8qGRbJ3shVwe_QpCOR6YXRg
+#EXTINF:-1 xui-id="72764" tvg-id="" tvg-name="DE | SKY CINEMA MITTELERDE HD" tvg-logo="" group-title="Alemanha",DE | SKY CINEMA MITTELERDE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://amb.amb2021.one:80/play/rj6GGM_-hzVYH_wt9eYN8kAB2FT5HQ4B37eHcXHyvZQ
