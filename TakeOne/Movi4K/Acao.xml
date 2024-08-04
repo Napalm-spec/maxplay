@@ -19,7 +19,7 @@
     <thumbnail>https://image.tmdb.org/t/p/original/21m6CNV9gNAkRhVQebmva1TU3Hi.jpg</thumbnail>
     <fanart>https://image.tmdb.org/t/p/original/xHEOGkTom8b2UMq1rsDVqxUZ7Ce.jpg</fanart>
     <info>Os Bad Boys preferidos do mundo todo estão de volta com a mistura icônica de ação eletrizante e comédia escrachada mas, dessa vez, com uma virada: os melhores de Miami são agora os mais procurados.</info>
-    <genre>Ação | Crime | Suspense</genre>
+    <genre>Ação </genre>
 </item>
 
 <item>
@@ -28,7 +28,25 @@
     <thumbnail>https://image.tmdb.org/t/p/original/1MkmV4YhLwkwki7SAItVzpKW4p0.jpg</thumbnail>
     <fanart>https://image.tmdb.org/t/p/original/20eJMdHIDsf8btCGRGYV5EXkXgO.jpg</fanart>
     <info>O poderoso Kong e o temível Godzilla se unem contra uma colossal ameaça mortal escondida no mundo dos humanos, que ameaça a existência de sua espécie e da nossa. Mergulhando profundamente nos mistérios da Ilha da Caveira e nas origens da Terra Oca, o filme irá explorar a antiga batalha de Titãs que ajudou a forjar esses seres extraordinários e os ligou à humanidade para sempre.</info>
-    <genre>Ação | Crime | Suspense</genre>
+    <genre>Ação </genre>
 </item>
 
+<item>
+    <title>Furiosa: Uma Saga Mad Max [COLOR lime] 4K Dual Áudio[/COLOR]</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DNUL3R7EB5XV3622I7W67YH6PUBXCOF5&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/guVwxL9W9GzY2ygjUJwPnNVe0v2.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/zj13HSGkT7EIRwUKnXrurgkQ1qc.jpg</fanart>
+    <info>Quando o mundo entra em colapso, a jovem Furiosa é sequestrada do Green Place das Muitas Mães e cai nas mãos da horda de motoqueiros liderada pelo Senhor da Guerra Dementus. Vagando pelo deserto condenado, eles encontram a Cidadela controlada por Immortan Joe. Enquanto os dois tiranos lutam por poder e controle, Furiosa terá que sobreviver a muitos desafios para encontrar e trilhar o caminho de volta para casa.</info>
+    <genre>Ação </genre>
+</item>
+
+<item>
+    <title>O Dublê [COLOR lime] 4K Legendado[/COLOR]</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YAJDFUAOUN4EXC37ZUPMDFKW4R6TJEOV&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/vGwFotzCDGnQ7A6RqXZHHXUR7gz.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/H5HjE7Xb9N09rbWn1zBfxgI8uz.jpg</fanart>
+    <info>Colt é um dublê que tem uma tremenda queda pela diretora do filme que está filmando. As coisas começam a dar errado quando o ator principal do filme desaparece.</info>
+    <genre>Ação </genre>
+</item>
+    
 </items>
