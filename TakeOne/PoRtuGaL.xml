@@ -41,7 +41,7 @@
 <info> SERVIDOR 5[COLOR lime]  PORTUBAL[/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Tvs-PT/SERVER-05.xml</externallink>
 </channel>   
-
+https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Tvs-PT/SERVER-07.xml
 <channel>
 <name>[B][COLOR white]SERVIDOR-6[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/qMNXC4fx/NEOTVPT2-fw.png</thumbnail>
@@ -50,7 +50,13 @@
 <externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Tvs-PT/SERVER-06.xml</externallink>
 </channel> 
 
-
+<channel>
+<name>[B][COLOR white]SERVIDOR-7[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/qMNXC4fx/NEOTVPT2-fw.png</thumbnail>
+<fanart>https://i.postimg.cc/mZFb4wMh/flag.jpg</fanart>
+<info> SERVIDOR 7[COLOR lime]  PORTUBAL[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Tvs-PT/SERVER-07.xml</externallink>
+</channel> 
 
   
 </channels>
