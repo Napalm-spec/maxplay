@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Eu Vi o Brilho da TV</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JD35CF5EVLTK4IUS4U4AXVNYLYBLXCJ7&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//1iIKv687Ve0WKHDJ86haUVcPEZL.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//sNBnCmF1ueoERa4uW5kh929KkRO.jpg</fanart>
+    <info>O adolescente Owen, que está vivendo a sua vida normalmente, tentando sobreviver nos subúrbios quando um colega apresenta a ele um misterioso e intrigante programa de TV noturno sobrenatural. Os dois adolescente, vidrados nesse programa, começam a se distanciar e distorcer a realidade.</info>
+    <genre>Drama | Terror</genre>
+</item>
 <item>
     <title>Uma Canção De Gratidão</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DRNPUGHGRIMCITXPAYF4AAAOTR5LLQJM&dn</link>
