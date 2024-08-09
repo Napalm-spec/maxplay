@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Missão Cruzada</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f361799a6a327b353708da279b5f6657ed38f03b&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//aJee3ZpITDSS1EB0HfLM5SSHWr7.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//xrBIcStq1zcEH37nqs6BBAJsKI0.jpg</fanart>
+    <info>Um ex-agente que agora é dono de casa se envolve em uma missão perigosa com a esposa, que é detetive e não sabe nada sobre o passado dele.</info>
+    <genre>Ação | Aventura | Comédia</genre>
+</item>
+<item>
+    <title>Beleza Avassaladora 2</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3467b75905b9cf4354dcaf97acc434730e90f63d&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//51EYuxGoyv1VqxMz4gxWh2OhweR.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//xcm1UdhsFPMBvnO3JuHoHFrqb0q.jpg</fanart>
+    <info>Ao escapar da polícia em Agra, Rani e Rishu planejam fugir juntos, mas quando o plano dá errado, Rani pede ajuda a um admirador.</info>
+    <genre>Suspense</genre>
+</item>
 <item>
     <title>Meu Sangue Ferve por Você</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f3186cf63e5bf4bd80675407b048251068e70c8f&dn</link>
