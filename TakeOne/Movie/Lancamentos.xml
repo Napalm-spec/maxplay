@@ -1,6 +1,55 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+<item>
+    <title>Pequenas Cartas Obscenas</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5130b6ac190556716a3ad65f6f1695f62688e735&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//o6YsZuJ2jvCKyz9tLr7RJBENNJL.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//sp99ZzKz6Zv7nX95XDJmhNA4LVI.jpg</fanart>
+    <info>Uma cidade litorânea inglesa da década de 1920 é testemunha de um escândalo sombrio e absurdo nessa comédia de mistério alucinante. Baseado em uma história verídica mais estranha que a ficção, que acompanha duas vizinhas: a profundamente conservadora Edith Swan e a desordeira imigrante irlandesa Rose Gooding. Quando Edith e outros moradores começam a receber cartas perversas, cheias de palavrões involuntariamente hilários, a desbocada Rose é acusada do crime. As cartas anônimas provocam um alvoroço nacional e um julgamento se segue. No entanto, quando as mulheres da cidade - lideradas pela policial Gladys Moss - começam a investigar o crime, elas suspeitam que algo está errado e que Rose pode não ser a culpada.</info>
+    <genre>Comédia | Drama | Mistério</genre>
+</item>
+<item>
+    <title>Não Posso Viver Sem Você</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59c61161a9409b5a7c0b18c6d86e82982cb5b7e7&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//6GwVxZRiKS2TPCnfp0RoA1iXr9P.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//zIQ4wrG5jC5ypXVq0H9XTqspHx5.jpg</fanart>
+    <info>Um homem viciado em trabalho acaba estragando um evento de família e a esposa dá um ultimato: ou ele fica com o celular, ou fica com o casamento de vinte anos.</info>
+    <genre>Comédia | Romance</genre>
+</item>
+<item>
+    <title>A Liga</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3b806aa375b9630b8683471e8a2a410c4929b7da&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//epzHc7RNjgpj9e2IVH88g7cr7DG.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//4ft6TR9wA6bra0RLL6G7JFDQ5t1.jpg</fanart>
+    <info>Recrutado para uma missão inesperada, um cara comum que trabalha como empreiteiro vira espião.</info>
+    <genre>Ação | Aventura | Comédia</genre>
+</item>
+<item>
+    <title>Jackpot: Loteria Mortal!</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5d2a1ed9606757dc5eb15fc81e679f9501868dd2&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//elzEsnRrrhvsPgY0xVbWzhF9mun.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//pzFbYJfqGKlGxOsDIIsUi6YxVQ.jpg</fanart>
+    <info>Jackpot: Loteria Mortal conta a história da vencedora da loteria criada recentemente na Califórnia, Katie Kim (Awkafina) e sua luta para sobrevir e reivindicar seu bilhete premiado com o apoio do Cassidy (John Cena), enquanto fogem do Louis Lewis (Simu Liu) e dos caçadores do prêmio.</info>
+    <genre>Ação | Comédia</genre>
+</item>
+<item>
+    <title>Twisters</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d6e60181a3b1cb924cc3d208ddae3e238b250e82&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//pjnD08FlMAIXsfOLKQbvmO0f0MD.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//58D6ZAvOKxlHjyX9S8qNKSBE9Y.jpg</fanart>
+    <info>Dois caçadores de tempestades arriscam suas vidas na tentativa de testar um sistema experimental de alerta meteorológico.</info>
+    <genre>Ação | Aventura | Suspense</genre>
+</item>
+<item>
+    <title>Como Vender a Lua</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:546b621db8f47b5955e16813ab3c1e15a4323e9a&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//9Hw7uOjq7zHEixF0JBJw8E3XB4e.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//zB0g0VaRKHfRrvBT4ouHK5W967W.jpg</fanart>
+    <info>Contratada para trabalhar a imagem da NASA com o público, a marketeira Kelly Jones precisa chegar a um acordo em como trabalhar com o diretor de lançamento, Cole Davis, que já tem muito em jogo com a missão. Quando a Casa Branca considera que a missão é importante demais para falhar, Jones precisa encenar um pouso falso na lua como back-up.</info>
+    <genre>Comédia | Romance</genre>
+</item>	
 <item>
     <title>Missão Cruzada</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f361799a6a327b353708da279b5f6657ed38f03b&dn</link>
