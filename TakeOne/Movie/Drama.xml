@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Janet Planet</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:561234043bb156b9580e01f69cd323eb8b03d8ac&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//4n539sFGFBjv4RlIR6dHJ8d2M7P.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//fuv2TxJb1retWu3XMwsVJqm8ylr.jpg</fanart>
+    <info>Na zona rural de Massachusetts, Lacy, de 11 anos, passa o verão de 91 em casa, encantada com sua própria imaginação e com a atenção de sua mãe, Janet. Com o passar dos meses, três visitantes entram em sua órbita, todos cativados por Janet.</info>
+    <genre>Drama</genre>
+</item>
 <item>
     <title>Meu Sangue Ferve por Você</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f3186cf63e5bf4bd80675407b048251068e70c8f&dn</link>
