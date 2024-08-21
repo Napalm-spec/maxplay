@@ -52,5 +52,12 @@ Isso ajudará a equipe responsável a resolver o problema mais rapidamente.
 <externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Series.xml</externallink>
 </channel>
 
+ <channel>
+<name>[B][COLOR lime]NEO TV[/COLOR] - [COLOR white]FILMES teste[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/NjCgDS31/FILMES.jpg</thumbnail>
+<fanart>https://i.postimg.cc/SKHxp0t4/fanart.jpg</fanart>
+<info></info>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Direct/MoLINK.xml</externallink>
+</channel>
   
 </channels>
