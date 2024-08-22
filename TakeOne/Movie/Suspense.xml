@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+<item>
+    <title>Entrevista com o Demônio</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d11337d9c34716fae0d3ab6442e127fb450451f0&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//gGyCpd8m1XITpw69gh9GgjhES6o.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//4yrOyO3N55XazHQXXYoqiiPQd40.jpg</fanart>
+    <info>Uma transmissão televisiva ao vivo em 1977 dá terrivelmente errado, liberando o mal em todos os lares do país.</info>
+    <genre>Suspense | Terror</genre>
+</item>    
 <item>
     <title>Beleza Avassaladora 2</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3467b75905b9cf4354dcaf97acc434730e90f63d&dn</link>
