@@ -1,6 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+<item>
+    <title>Nice Girls</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08d19f4c36d82834c78b892942c05e5612cb6c90&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//tyiclx8VegzLUpiLFXSIh1lt710.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//qnjzH3r7jzxNfiMu2lpmeqOBpYe.jpg</fanart>
+    <info>Uma policial rebelde e uma detetive detalhista unem forças com um ex-hacker para resolver o caso de desaparecimento de um tenente e evitar um desastre.</info>
+    <genre>Comédia</genre>
+</item>
+<item>
+    <title>Meu Malvado Favorito 4</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d3ea5871d6cbac6cbcd0d45d72448273e4284088&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//jWYTtmxSuWVXP22hxAeXdQZLZrh.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//lgkPzcOSnTvjeMnuFzozRO5HHw1.jpg</fanart>
+    <info>Nesta sequência, o vilão mais amado do planeta retorna e agora Gru, Lucy, Margo, Edith e Agnes dão as boas-vindas a um novo membro da família: Gru Jr., que pretende atormentar seu pai. Enquanto se adapta com o pequeno, Gru enfrenta um novo inimigo, Maxime Le Mal, forçando sua namorada Valentina e a família a fugir do perigo.</info>
+    <genre>Animação | Aventura | Comédia</genre>
+</item>
+<item>
+    <title>Belo Desastre: O Casamento</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8a97f696fb3474cb7eb1d35e6f06425a0666d396&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//iqQzph0pkMbZuhysW08jx0mHFLR.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//hP3HWRujFCM2qLUYhSAJEm23ElP.jpg</fanart>
+    <info>No rescaldo de Belo Desastre: O Casamento, Abby e Travis acordam depois de uma noite louca em Las Vegas como recém-casados ​​por acidente! Com a multidão em seu encalço, eles fogem para o México para uma lua de mel selvagem e estranha - mas será que terão outro desastre?</info>
+    <genre>Comédia | Romance</genre>
+</item>
+<item>
+    <title>A Grande Fuga</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:97337396ddebc143ad2e35fc28f743571e0c9198&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//iL9Q5PYd92QPFntR7pJ6iby4QDE.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//dcGf6amsVeJ2oT75GhpeqavCWO8.jpg</fanart>
+    <info>Bernard Jordan, veterano da II Guerra Mundial, mora em uma casa de repouso, mas, em 2014, para comemorar o Dia D, ele foge rumo à Normandia, aonde irá se encontrar com outros amigos. Na mesma ocasião, ele celebra 60 anos de casamento com Irene.</info>
+    <genre>Drama | Guerra | História</genre>
+</item>
+<item>
+    <title>Entrevista com o Demônio</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d11337d9c34716fae0d3ab6442e127fb450451f0&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//gGyCpd8m1XITpw69gh9GgjhES6o.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//4yrOyO3N55XazHQXXYoqiiPQd40.jpg</fanart>
+    <info>Uma transmissão televisiva ao vivo em 1977 dá terrivelmente errado, liberando o mal em todos os lares do país.</info>
+    <genre>Suspense | Terror</genre>
+</item>	
 <item>
     <title>Janet Planet</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:561234043bb156b9580e01f69cd323eb8b03d8ac&dn</link>
