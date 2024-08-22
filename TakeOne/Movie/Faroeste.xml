@@ -2,7 +2,14 @@
 <items>
 
 
-
+<item>
+    <title>Minha Arma Era a Lei</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4f29d507b720610f3f1173dfc975e86a7093b861&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//kwl5FxszBJ9kfdHuy14pv8pJspT.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//paZcZF8RbQHPNq3gb3IeSNITjtL.jpg</fanart>
+    <info>Em 1873, uma pequena cidade do Texas é atacada por uma gangue de malfeitores sedentos por sangue. Um misterioso pistoleiro russo se junta ao delegado e ao xerife local na tentativa de proteger a cidade e os seus habitantes.</info>
+    <genre>Faroeste</genre>
+</item>
 <item>
     <title>A Noite Em Que Voltaram Para Casa</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d66cc160b28f81565292ca2f0085fc263be28084&dn</link>
