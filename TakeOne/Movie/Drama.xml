@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+<item>
+    <title>A Grande Fuga</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:97337396ddebc143ad2e35fc28f743571e0c9198&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//iL9Q5PYd92QPFntR7pJ6iby4QDE.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//dcGf6amsVeJ2oT75GhpeqavCWO8.jpg</fanart>
+    <info>Bernard Jordan, veterano da II Guerra Mundial, mora em uma casa de repouso, mas, em 2014, para comemorar o Dia D, ele foge rumo à Normandia, aonde irá se encontrar com outros amigos. Na mesma ocasião, ele celebra 60 anos de casamento com Irene.</info>
+    <genre>Drama | Guerra | História</genre>
+</item>    
 <item>
     <title>Janet Planet</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:561234043bb156b9580e01f69cd323eb8b03d8ac&dn</link>
