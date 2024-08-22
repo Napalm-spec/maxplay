@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+ <item>
+    <title>Meu Malvado Favorito 4</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d3ea5871d6cbac6cbcd0d45d72448273e4284088&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//jWYTtmxSuWVXP22hxAeXdQZLZrh.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//lgkPzcOSnTvjeMnuFzozRO5HHw1.jpg</fanart>
+    <info>Nesta sequência, o vilão mais amado do planeta retorna e agora Gru, Lucy, Margo, Edith e Agnes dão as boas-vindas a um novo membro da família: Gru Jr., que pretende atormentar seu pai. Enquanto se adapta com o pequeno, Gru enfrenta um novo inimigo, Maxime Le Mal, forçando sua namorada Valentina e a família a fugir do perigo.</info>
+    <genre>Animação | Aventura | Comédia</genre>
+</item>
  <item>
     <title>A Missão de Sandy Bochechas</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JQ67ZIDZ6AZFM4XOONXQOC53CS7L22RC&dn</link>
