@@ -28,7 +28,7 @@
 </item>
 <item>
     <title>TESTE2</title>
-    <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/wldoqJ8QkBfWzd/</link>
+    <link>plugin://plugin.video.resolverurl_streams?url=https://streamtape.com/e/wldoqJ8QkBfWzd/</link>
     <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//kwl5FxszBJ9kfdHuy14pv8pJspT.jpg</thumbnail>
     <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//paZcZF8RbQHPNq3gb3IeSNITjtL.jpg</fanart>
     <info>Em 1873, uma pequena cidade do Texas é atacada por uma gangue de malfeitores sedentos por sangue. Um misterioso pistoleiro russo se junta ao delegado e ao xerife local na tentativa de proteger a cidade e os seus habitantes.</info>
@@ -36,7 +36,7 @@
 </item>
 <item>
     <title>TESTE3</title>
-    <link>plugin://plugin.video.resolverurl_player?url=https://wishonly.site/e/ulf2by1td6gy</link>
+    <link>plugin://plugin.video.resolverurl_streams?url=https://wishonly.site/e/ulf2by1td6gy</link>
     <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//kwl5FxszBJ9kfdHuy14pv8pJspT.jpg</thumbnail>
     <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//paZcZF8RbQHPNq3gb3IeSNITjtL.jpg</fanart>
     <info>Em 1873, uma pequena cidade do Texas é atacada por uma gangue de malfeitores sedentos por sangue. Um misterioso pistoleiro russo se junta ao delegado e ao xerife local na tentativa de proteger a cidade e os seus habitantes.</info>
