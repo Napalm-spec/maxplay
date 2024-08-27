@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Luccas e Gi em: Dinossauros</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:259aec3027d3156b9b0a16216d79f167d16b7c5d&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//7qtOpGR1rmf2dFzVka09spF2IlN.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//6K7aQLpk17wBrTlX5eKjbkF91np.jpg</fanart>
+    <info>Os irmãos Luccas e Gi viajam ao lado da melhor amiga para conhecer um novo parque de diversões com famosas réplicas de dinossauros. Por acidente, o grupo entra em uma gigante enrascada ao descobrir os planos de uma cientista ambiciosa e sem escrúpulos que quer trazer os dinossauros de volta à vida – custe o que custar. Luccas precisará fazer de tudo para salvar a irmã das garras da vilã, que planeja usá-la como cobaia para suas terríveis experiências.</info>
+    <genre>Aventura</genre>
+</item>
 <item>
     <title>Nice Girls</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08d19f4c36d82834c78b892942c05e5612cb6c90&dn</link>
