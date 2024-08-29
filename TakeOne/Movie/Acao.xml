@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+<item>
+    <title>Transação Perigosa</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dab7e51b1858acfc133ab3728d8a400095bd5d67&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//byDeAJWEIz01PRQUzGFZULCsnC4.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//6VoxDupaW2VXfLtJyeOoGCgXSjD.jpg</fanart>
+    <info>O ladrão profissional Mason tenta seu maior assalto com seu irmão, roubando um banco.  Quando tudo dá errado, eles ficam presos lá dentro, cercados pelas autoridades.  A tensão aumenta enquanto Mason negocia com sua ex-amante, a negociadora principal.</info>
+    <genre>Ação | Suspense</genre>
+</item>	
 <item>
     <title>A Vingança de John Henry</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c83b43215efcd0685370f0c7f4b69dcbfd65d019&dn</link>
