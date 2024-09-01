@@ -2,7 +2,22 @@
 <items>
 
 
-
+<item>
+    <title>A Libertação</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85af253f16c51ead4df448666b3d9f17a53300ff&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//4TdwOqwIPdG0BMuCDZdmQz92zjT.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//mGUzMKsEZAhO5xGzsj30v5XLptV.jpg</fanart>
+    <info>Em busca de um recomeço, a mãe solo Ebony Jackson muda para uma casa nova com sua família. Mas algo sinistro já vive lá...</info>
+    <genre>Suspense | Terror</genre>
+</item>
+<item>
+    <title>Armadilha</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fe74a0df67a06cb2d8882712b0a6e079ae51ea9c&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//ArVwz2CXHiY2SuCRYRsfRlG2Fac.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//p5kpFS0P3lIwzwzHBOULQovNWyj.jpg</fanart>
+    <info>Um pai e sua filha adolescente assistem a um badalado show de música pop, quando percebem que estão no epicentro de um evento sombrio e sinistro.</info>
+    <genre>Crime | Suspense</genre>
+</item>
 <item>
     <title>Transação Perigosa</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dab7e51b1858acfc133ab3728d8a400095bd5d67&dn</link>
