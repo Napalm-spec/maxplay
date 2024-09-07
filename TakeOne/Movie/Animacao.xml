@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>SPY x FAMILY CÓDIGO: Branco</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cfde90330d6dbcb5bf277cecf83b115cf9e2c1c2&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//thGaW3UXecNJAEdB6rs8sC45JWv.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//zVDJ4cRgSpHlILSm7kGiklHQ6O7.jpg</fanart>
+    <info>Ele é um espião. Ela uma assassina. Juntos, Loid e Yor mantêm suas vidas duplas enquanto fingem serem a família perfeita. No entanto, sua filha adotiva, Anya, uma telepata, conhece seus empolgantes segredos, sem eles saberem. Usando o pretexto de levar sua família numa viagem de inverno no fim de semana, a tentativa de Loid de progredir em sua missão atual, a Operação Strix, é frustrada quando Anya se envolve por engano e ativa eventos que ameaçam a paz mundial!</info>
+    <genre>Animação | Comédia</genre>
+</item>
  <item>
     <title>Meu Malvado Favorito 4</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d3ea5871d6cbac6cbcd0d45d72448273e4284088&dn</link>
