@@ -2,6 +2,22 @@
 <items>
 
 <item>
+    <title>teste 2</title>
+    <link>plugin://plugin.video.resolverurl_player?url=https://jwplayerhls.com/e/x8537reofajb</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//kwl5FxszBJ9kfdHuy14pv8pJspT.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//paZcZF8RbQHPNq3gb3IeSNITjtL.jpg</fanart>
+    <info>Em 1873, uma pequena cidade do Texas é atacada por uma gangue de malfeitores sedentos por sangue. Um misterioso pistoleiro russo se junta ao delegado e ao xerife local na tentativa de proteger a cidade e os seus habitantes.</info>
+    <genre>Faroeste</genre>
+</item>
+<item>
+    <title>teste 1</title>
+    <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/qDZwXwaqMafK0w/</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//kwl5FxszBJ9kfdHuy14pv8pJspT.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//paZcZF8RbQHPNq3gb3IeSNITjtL.jpg</fanart>
+    <info>Em 1873, uma pequena cidade do Texas é atacada por uma gangue de malfeitores sedentos por sangue. Um misterioso pistoleiro russo se junta ao delegado e ao xerife local na tentativa de proteger a cidade e os seus habitantes.</info>
+    <genre>Faroeste</genre>
+</item>    
+<item>
     <title>teste</title>
     <link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.ps/e/enoekd0riqr1nxk</link>
     <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//kwl5FxszBJ9kfdHuy14pv8pJspT.jpg</thumbnail>
