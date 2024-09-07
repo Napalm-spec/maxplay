@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Audi vs. Lancia: Corrida pela Glória</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9ac72da1fd42500ffc13927de8b617b2bbaab65f&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//bVEpaBlASDxGfCeyA4MRrrFa18l.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//1aL5xmJJKxur5GJ1glJSOLK3xnG.jpg</fanart>
+    <info>Inspirado em fatos reais que ocorreram durante a feroz rivalidade entre a Alemanha (Audi) e a Itália (Lancia) no Campeonato Mundial de Rally de 1983.</info>
+    <genre>Drama | Esporte</genre>
+</item>
 <item>
     <title>A Grande Fuga</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:97337396ddebc143ad2e35fc28f743571e0c9198&dn</link>
