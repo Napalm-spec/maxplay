@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>No Coração do Velho Oeste</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a41027dc8e38557ffb8f41ed8a07c1ba640bbe68&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//1UL2Fd4DV65ubXenv3psZdcMry8.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//8qiPa1PrZsRKZanvo2utkM7DgKC.jpg</fanart>
+    <info>Em 1874, em uma pequena cidade do Texas, dois amigos perseguem um grupo de traficantes que sequestraram cinco mulheres. Com a ajuda de um companheiro nativo, eles correm contra o tempo para libertá-las antes que elas sejam vendidas como escravas.</info>
+    <genre>Faroeste</genre>
+</item>
 <item>
     <title>Minha Arma Era a Lei</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4f29d507b720610f3f1173dfc975e86a7093b861&dn</link>
