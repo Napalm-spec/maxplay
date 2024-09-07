@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+
+ <item>
+    <title>A Maldição de Savannah</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2a7e4e24589441c13d81c090ec6a414dc2775764&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//dLoIGT1rCQ9IM1Oa38gwx1GFD00.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//hg8J9cow8XaGUTuOcAsXzQye3jW.jpg</fanart>
+    <info>Após a filha de um casal morrer afogada em sua própria casa, a família decide se mudar para Savannah, uma pequena cidade da Geórgia. Consumida pela culpa, a mãe começa a presenciar estranhos fenômenos paranormais que ela acredita serem causados pelo fantasma de sua filha.</info>
+    <genre>Suspense | Terror</genre>
+</item>   
 <item>
     <title>A Libertação</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85af253f16c51ead4df448666b3d9f17a53300ff&dn</link>
