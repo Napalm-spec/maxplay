@@ -1,30 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-<item>
-    <title>teste 2</title>
-    <link>plugin://plugin.video.resolverurl_player?url=https://wishonly.site/e/8rj1g8sol4qv</link>
-    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//kwl5FxszBJ9kfdHuy14pv8pJspT.jpg</thumbnail>
-    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//paZcZF8RbQHPNq3gb3IeSNITjtL.jpg</fanart>
-    <info>Em 1873, uma pequena cidade do Texas é atacada por uma gangue de malfeitores sedentos por sangue. Um misterioso pistoleiro russo se junta ao delegado e ao xerife local na tentativa de proteger a cidade e os seus habitantes.</info>
-    <genre>Faroeste</genre>
-</item>
-<item>
-    <title>teste 1</title>
-    <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/qDZwXwaqMafK0w/</link>
-    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//kwl5FxszBJ9kfdHuy14pv8pJspT.jpg</thumbnail>
-    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//paZcZF8RbQHPNq3gb3IeSNITjtL.jpg</fanart>
-    <info>Em 1873, uma pequena cidade do Texas é atacada por uma gangue de malfeitores sedentos por sangue. Um misterioso pistoleiro russo se junta ao delegado e ao xerife local na tentativa de proteger a cidade e os seus habitantes.</info>
-    <genre>Faroeste</genre>
-</item>    
-<item>
-    <title>teste</title>
-    <link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.ps/e/enoekd0riqr1nxk</link>
-    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//kwl5FxszBJ9kfdHuy14pv8pJspT.jpg</thumbnail>
-    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//paZcZF8RbQHPNq3gb3IeSNITjtL.jpg</fanart>
-    <info>Em 1873, uma pequena cidade do Texas é atacada por uma gangue de malfeitores sedentos por sangue. Um misterioso pistoleiro russo se junta ao delegado e ao xerife local na tentativa de proteger a cidade e os seus habitantes.</info>
-    <genre>Faroeste</genre>
-</item>
+
 <item>
     <title>Minha Arma Era a Lei</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4f29d507b720610f3f1173dfc975e86a7093b861&dn</link>
