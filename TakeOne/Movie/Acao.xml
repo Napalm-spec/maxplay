@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Rebel Ridge</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6464fce97c27c2069220636e163e1e170a69c115&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//xEt2GSz9z5rSVpIHMiGdtf0czyf.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//tbgIhYwQ5IAgNaFU1SBBxxNXCmm.jpg</fanart>
+    <info>Um ex-fuzileiro enfrenta a corrupção em uma cidadezinha depois que policiais locais apreendem o dinheiro da fiança de seu primo injustamente.</info>
+    <genre>Ação | Drama | Suspense</genre>
+</item>
 <item>
     <title>Transação Perigosa</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dab7e51b1858acfc133ab3728d8a400095bd5d67&dn</link>
