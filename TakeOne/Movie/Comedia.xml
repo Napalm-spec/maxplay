@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+
+<item>
+    <title>Melhor Viúva Do Que Mal Acompanhada</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e4e367091359c9c0ec5cd7d12e0d9c12bab10ede&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//cuhfurVh5zfHsS6RZD1RLvPTstO.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//dJRwzUzAslW267cyA61s6oAAmpn.jpg</fanart>
+    <info>Três amigas, abandonadas e maltratadas por seus maridos, planejam se vingar deles com a ajuda de um homem com experiência nesse tipo de trabalho.</info>
+    <genre>Comédia | Crime | Suspense</genre>
+</item>    
 <item>
     <title>Belo Desastre: O Casamento</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8a97f696fb3474cb7eb1d35e6f06425a0666d396&dn</link>
