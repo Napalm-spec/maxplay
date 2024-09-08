@@ -2,17 +2,10 @@
 <items>
 
 
+
  <item>
     <title>Twisters (2024)</title>
-    <link><link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.ps/e/q17ogo7vt7lpdz</link></link>
-    <thumbnail>https://image.tmdb.org/t/p/original/pjnD08FlMAIXsfOLKQbvmO0f0MD.jpg</thumbnail>
-    <fanart>https://image.tmdb.org/t/p/original/7aPrv2HFssWcOtpig5G3HEVk3uS.jpg</fanart>
-    <info>Dois caçadores de tempestades arriscam suas vidas na tentativa de testar um sistema experimental de alerta meteorológico.</info>
-    <genre>Ação, Aventura, Thriller</genre>
-</item> 
- <item>
-    <title>Twisters (2024)</title>
-    <link><link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.ps/e/q17ogo7vt7lpdz</link></link>
+    <link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.ps/e/q17ogo7vt7lpdz</link>
     <thumbnail>https://image.tmdb.org/t/p/original/pjnD08FlMAIXsfOLKQbvmO0f0MD.jpg</thumbnail>
     <fanart>https://image.tmdb.org/t/p/original/7aPrv2HFssWcOtpig5G3HEVk3uS.jpg</fanart>
     <info>Dois caçadores de tempestades arriscam suas vidas na tentativa de testar um sistema experimental de alerta meteorológico.</info>
