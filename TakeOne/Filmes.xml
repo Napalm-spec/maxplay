@@ -93,7 +93,13 @@
 <externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Movie/Terror.xml</externallink>
 </channel> 
 
-  
+ <channel>
+<name>[B][COLOR white]TESTE [/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/y8zT86vN/TERROR.jpg</thumbnail>
+<fanart>https://i.postimg.cc/mZFb4wMh/flag.jpg</fanart>
+<info></info>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Direct/MoLINK.xml</externallink>
+</channel>  
 
   
 
