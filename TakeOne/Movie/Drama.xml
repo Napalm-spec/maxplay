@@ -3,6 +3,14 @@
 
 
  <item>
+    <title>Boxer</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:64674bd3420745a7184390c7a4bd6af8424f2a15&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//2LtIFOtp9yjVd2pOtVRc091TpxP.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//83NiekHNOZkLbPdjd5KTIOE92Tn.jpg</fanart>
+    <info>Contando apenas com o apoio da esposa, um jovem boxeador foge da Polônia comunista em busca do sonho de se tornar o maior lutador da história.</info>
+    <genre>Drama</genre>
+</item>
+ <item>
     <title>Inferno no Gelo</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c6208dd9a4afb2cd177156ec0d6f352d1f4213c1&dn</link>
     <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//y4EL88PYlAu74PwP5jOo3xTtGOt.jpg</thumbnail>
