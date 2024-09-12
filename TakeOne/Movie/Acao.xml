@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+
+
+<item>
+    <title>Bandida: A Número Um</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:46b3d258386421f4d8d8d280d467841f28dc15e5&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//x1n3ZFBR7yuWrmts7GRZIcUtTVo.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//7cDsJInZGnNC1IFQL5kgYsZSXr3.jpg</fanart>
+    <info>Aos nove anos, Rebeca é vendida por sua avó para o bicheiro que comandava a Rocinha. Disputada por bicheiros e traficantes, a comunidade passa por mudanças de poder. Rebeca vira mulher do traficante chefe e, com a morte do parceiro, sua sucessora. A eletrizante trajetória de crime, violência, drogas e amor de uma mulher chefe do tráfico na Rocinha, no Rio de Janeiro dos anos 1980.</info>
+    <genre>Ação | Crime | Drama</genre>
+</item>	
 <item>
     <title>Rebel Ridge</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6464fce97c27c2069220636e163e1e170a69c115&dn</link>
