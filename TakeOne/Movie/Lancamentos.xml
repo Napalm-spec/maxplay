@@ -3,6 +3,38 @@
 
 
 <item>
+    <title>Technoboys</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f69964998dfcbc4301b226f268b6d988f826c3b&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//ezv48VP0S3EA7lZRuV8XLEvxJ20.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//k9dOgIzSnU4yl6Peqgn6Yi74Hi8.jpg</fanart>
+    <info>Eles podem até continuar incríveis e icônicos, mas estão totalmente perdidos. Os integrantes de uma boyband das antigas encaram um mundo novo ao voltar à ativa.</info>
+    <genre>Comédia | Musical</genre>
+</item>
+<item>
+    <title>Boxer</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:64674bd3420745a7184390c7a4bd6af8424f2a15&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//2LtIFOtp9yjVd2pOtVRc091TpxP.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//83NiekHNOZkLbPdjd5KTIOE92Tn.jpg</fanart>
+    <info>Contando apenas com o apoio da esposa, um jovem boxeador foge da Polônia comunista em busca do sonho de se tornar o maior lutador da história.</info>
+    <genre>Drama</genre>
+</item>
+<item>
+    <title>Bandida: A Número Um</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:46b3d258386421f4d8d8d280d467841f28dc15e5&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//x1n3ZFBR7yuWrmts7GRZIcUtTVo.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//7cDsJInZGnNC1IFQL5kgYsZSXr3.jpg</fanart>
+    <info>Aos nove anos, Rebeca é vendida por sua avó para o bicheiro que comandava a Rocinha. Disputada por bicheiros e traficantes, a comunidade passa por mudanças de poder. Rebeca vira mulher do traficante chefe e, com a morte do parceiro, sua sucessora. A eletrizante trajetória de crime, violência, drogas e amor de uma mulher chefe do tráfico na Rocinha, no Rio de Janeiro dos anos 1980.</info>
+    <genre>Ação | Crime | Drama</genre>
+</item>
+<item>
+    <title>MaXXXine</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:580ad6b5b9e0d448b68438f17cf8a99e8f69fad6&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//dmi277uSdCavkSLTVNBUMlyDYy0.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//viKEEaaCaZ0hZ2nGuvIEozlLooL.jpg</fanart>
+    <info>Na década de 1980, em Hollywood, a estrela de cinema adulto e aspirante a atriz Maxine Minx finalmente teve sua grande chance. Mas enquanto um misterioso assassino persegue as estrelas de Hollywood, um rasto de sangue ameaça revelar o seu passado sinistro.</info>
+    <genre>Terror</genre>
+</item>	
+<item>
     <title>Harold e o Lápis Mágico</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9cc98fd5de55e3a6ff7b571d39a0b6137926f7fd&dn</link>
     <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//8LV7FJmmuFXA6468yTBIUDsszBc.jpg</thumbnail>
