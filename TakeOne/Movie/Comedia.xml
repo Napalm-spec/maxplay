@@ -2,7 +2,14 @@
 <items>
 
 
-
+<item>
+    <title>Technoboys</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f69964998dfcbc4301b226f268b6d988f826c3b&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//ezv48VP0S3EA7lZRuV8XLEvxJ20.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//k9dOgIzSnU4yl6Peqgn6Yi74Hi8.jpg</fanart>
+    <info>Eles podem até continuar incríveis e icônicos, mas estão totalmente perdidos. Os integrantes de uma boyband das antigas encaram um mundo novo ao voltar à ativa.</info>
+    <genre>Comédia | Musical</genre>
+</item>
 <item>
     <title>Melhor Viúva Do Que Mal Acompanhada</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e4e367091359c9c0ec5cd7d12e0d9c12bab10ede&dn</link>
