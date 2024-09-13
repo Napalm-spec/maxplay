@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+    
+<item>
+    <title>Feios</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:60220f713ae93d6b52966f44ff08a5fb84caecd8&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//nag7Z3XqW3wJv4Q0xgCQLNE8nuj.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//rbEsJL59iW5mr4s1YnLocEFdO3Q.jpg</fanart>
+    <info>Em um futuro distópico que impõe rígidos padrões de beleza, uma adolescente aguardando sua cirurgia plástica obrigatória sai em busca da amiga desaparecida.</info>
+    <genre>Aventura | Drama | Ficção</genre>
+</item>
 <item>
     <title>Harold e o Lápis Mágico</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9cc98fd5de55e3a6ff7b571d39a0b6137926f7fd&dn</link>
