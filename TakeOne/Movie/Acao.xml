@@ -3,7 +3,14 @@
 
 
 
-
+<item>
+    <title>O Agente Faixa-Preta</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b1e8c86c1bfb3d9bb04a9a3113b9643463fbfca&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//svzJ0m5JFj63Enw1BHCUpJWLPp0.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//wSZbtiFIK1fkKZdSRtn2kz2Ttfd.jpg</fanart>
+    <info>Um talentoso lutador de artes marciais que não resiste a ajudar pessoas em perigo se une a um oficial de condicional para enfrentar e prevenir o crime.</info>
+    <genre>Ação | Comédia | Suspense</genre>
+</item>
 <item>
     <title>Bandida: A Número Um</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:46b3d258386421f4d8d8d280d467841f28dc15e5&dn</link>
