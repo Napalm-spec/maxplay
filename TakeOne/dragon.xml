@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>
+
+ 
+<channel>
+<name>[B][COLOR yellow]   ==== GOKU PLAY ====   [/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/L86Xt3Zc/21-Vuj-N9n-GL.jpg</thumbnail>
+<fanart>https://i.postimg.cc/SKHxp0t4/fanart.jpg</fanart>
+<info>
+[COLOR blue] Bem vindo ao addon NEO TV. [/COLOR]
+Se o Addon tiver presença em redes sociais, você pode relatar o problema lá.  
+Lembre-se de fornecer o máximo de detalhes possível ao relatar um link quebrado.
+Isso ajudará a equipe responsável a resolver o problema mais rapidamente. 
+</info>
+<externallink>https://0.0.0</externallink>
+</channel>
+
+ 
+  <channel>
+<name>[B][COLOR lime]NEO TV[/COLOR] - [COLOR white]TV AO VIVO  [/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/V6CLdgHX/neotv1.jpg</thumbnail>
+<fanart>https://i.postimg.cc/SKHxp0t4/fanart.jpg</fanart>
+<info> </info>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Canais.xml</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]NEO TV[/COLOR] - [COLOR white]FILMES [/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/NjCgDS31/FILMES.jpg</thumbnail>
+<fanart>https://i.postimg.cc/SKHxp0t4/fanart.jpg</fanart>
+<info></info>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Filmes.xml</externallink>
+</channel>
+ 
+<channel>
+<name>[B][COLOR lime]NEO TV[/COLOR] - [COLOR white]FILMES 4K[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/0jzcw6KZ/neotv4K.jpg</thumbnail>
+<fanart>https://i.postimg.cc/SKHxp0t4/fanart.jpg</fanart>
+<info>
+[COLOR lime]Dublado[/COLOR]
+[COLOR lime]Dual Áudio[/COLOR]
+[COLOR lime]Legendado[/COLOR]
+</info>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/4K.xml</externallink>
+</channel>
+ 
+<channel>
+<name>[B][COLOR lime]NEO TV[/COLOR] - [COLOR white]SÉRIES [/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/0jCvwBGK/SERIES.jpg</thumbnail>
+<fanart>https://i.postimg.cc/SKHxp0t4/fanart.jpg</fanart>
+<info></info>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Series.xml</externallink>
+</channel>
+
+  
+</channels>
