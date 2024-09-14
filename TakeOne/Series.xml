@@ -4,8 +4,8 @@
 
 <channel>
 <name>[B][COLOR white]SÉRIES [/COLOR][/B]</name>
-<thumbnail>https://i.postimg.cc/0jCvwBGK/SERIES.jpg</thumbnail>
-<fanart>https://i.postimg.cc/SKHxp0t4/fanart.jpg</fanart>
+<thumbnail>https://i.postimg.cc/mZPYyTsz/SERIES.jpg</thumbnail>
+<fanart>https://i.postimg.cc/qM3ML5qx/fanart.jpg</fanart>
 <info>[COLOR blue]SERIES  [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Series/Shows.xml</externallink>
 </channel>  
@@ -15,8 +15,8 @@
     
 <channel>
 <name>[B][COLOR white]SÉRIES ANIMES [/COLOR][/B]</name>
-<thumbnail>https://i.postimg.cc/0jCvwBGK/SERIES.jpg</thumbnail>
-<fanart>https://i.postimg.cc/SKHxp0t4/fanart.jpg</fanart>
+<thumbnail>https://i.postimg.cc/pVYpb7RV/SEANIME.jpg</thumbnail>
+<fanart>https://i.postimg.cc/qM3ML5qx/fanart.jpg</fanart>
 <info>[COLOR blue]SERIES [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Series/Animes.xml</externallink>
 </channel>  
