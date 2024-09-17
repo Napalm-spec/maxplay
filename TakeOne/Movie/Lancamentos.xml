@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Borderlands: O Destino do Universo Está em Jogo</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:802678414ef3fc438b67fbf6ad4232909a2d4c0f&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//xqPSxMaJ36etkUif4VggAX9tLu0.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//mKOBdgaEFguADkJhfFslY7TYxIh.jpg</fanart>
+    <info>Uma infame caçadora de recompensas retorna ao lugar onde cresceu, o caótico planeta Pandora, e forma uma aliança inesperada com uma equipe de desajustados para encontrar a filha desaparecida...</info>
+    <genre>Ação | Aventura | Ficção</genre>
+</item>
 <item>
     <title>Setor 36</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fc9cf96b7ee93381ee7d7588b1b67a3e275deec0&dn</link>
