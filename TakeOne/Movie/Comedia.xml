@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>O Duelo</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bd7c40372433a4a002f0e27c743b75ac6d696fef&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//lobSXthKJtYL6dezaQa8J9L8k02.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//eCY7WbysAGSKDmcGTB7n8Uyggz0.jpg</fanart>
+    <info>Quando Woody descobre que seu melhor amigo está transando com sua namorada; ele o desafia a um duelo à moda antiga. Esta comédia matadora mira bem no coração.</info>
+    <genre>Comédia | Drama</genre>
+</item>
 <item>
     <title>Technoboys</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f69964998dfcbc4301b226f268b6d988f826c3b&dn</link>
