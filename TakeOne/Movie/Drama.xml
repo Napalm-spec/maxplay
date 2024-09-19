@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Tuesday: O Último Abraço</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5f9c7c0776e5de8113effa2a4b55e2eda050d97f&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//y6bhnRp7o1yoHvUD0UVnsbR8UyO.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//ebmY8j6bfTsxUdhVtTaoNITch6u.jpg</fanart>
+    <info>Zora (Julia Louis-Dreyfus) é uma mãe dedicada que vive com sua filha Tuesday (Lola Petticrew), que está doente em estágio terminal. Certo dia, elas recebem uma visita inusitada: a própria Morte, através de um pássaro falante que muda de tamanho. Esse encontro leva as duas em um caminho de reflexão sobre vida, amor, morte e família enquanto se preparam para o adeus.</info>
+    <genre>Drama | Fantasia</genre>
+</item>
  <item>
     <title>Setor 36</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fc9cf96b7ee93381ee7d7588b1b67a3e275deec0&dn</link>
