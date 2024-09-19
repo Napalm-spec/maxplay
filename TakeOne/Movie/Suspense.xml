@@ -2,7 +2,14 @@
 <items>
 
 
-
+<item>
+    <title>O Exorcismo</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ecdd85e38f8081ccc653ef3ce0b182e084f42bc6&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//iRXYk29JzZQHr4FPTbR0MKhkvzS.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//8fNBsXpgMvqk75SPsZzTmIqSRxY.jpg</fanart>
+    <info>Anthony Miller é um ator com um passado sombrio, marcado pelo abuso de drogas. Durante as filmagens do seu novo filme de terror, ele começa a exibir um comportamento perturbador, levantando suspeitas sobre seu estado mental. Ao investigar o que pode estar acontecendo, sua filha se vê no limite entre a realidade e o sobrenatural e percebe que os problemas que assombram seu pai podem ser mais aterrorizantes do que parecem.</info>
+    <genre>Suspense | Terror</genre>
+</item>
  <item>
     <title>A Maldição de Savannah</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2a7e4e24589441c13d81c090ec6a414dc2775764&dn</link>
