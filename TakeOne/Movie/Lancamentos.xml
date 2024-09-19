@@ -1,6 +1,40 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+
+<item>
+    <title>O Duelo</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bd7c40372433a4a002f0e27c743b75ac6d696fef&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//lobSXthKJtYL6dezaQa8J9L8k02.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//eCY7WbysAGSKDmcGTB7n8Uyggz0.jpg</fanart>
+    <info>Quando Woody descobre que seu melhor amigo está transando com sua namorada; ele o desafia a um duelo à moda antiga. Esta comédia matadora mira bem no coração.</info>
+    <genre>Comédia | Drama</genre>
+</item>
+<item>
+    <title>O Exorcismo</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ecdd85e38f8081ccc653ef3ce0b182e084f42bc6&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//iRXYk29JzZQHr4FPTbR0MKhkvzS.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//8fNBsXpgMvqk75SPsZzTmIqSRxY.jpg</fanart>
+    <info>Anthony Miller é um ator com um passado sombrio, marcado pelo abuso de drogas. Durante as filmagens do seu novo filme de terror, ele começa a exibir um comportamento perturbador, levantando suspeitas sobre seu estado mental. Ao investigar o que pode estar acontecendo, sua filha se vê no limite entre a realidade e o sobrenatural e percebe que os problemas que assombram seu pai podem ser mais aterrorizantes do que parecem.</info>
+    <genre>Suspense | Terror</genre>
+</item>
+<item>
+    <title>Cães de Guerra</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:664c67bfc1b38164129a21f6fa7af13d2555c13c&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//wGk3nQeatNW9qyFfkfPSzFKuLZi.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//blqiNjJefmY10Wx6y2vgJJWljJj.jpg</fanart>
+    <info>Com Frank Grillo. Após uma missão dar errado, apenas um mercenário de um grupo sobrevive para vingar seus irmãos caídos. Enfrentando perigos e traições, ele deve lutar até o fim para buscar justiça e redimir sua honra.</info>
+    <genre>Ação | Drama | Suspense</genre>
+</item>
+<item>
+    <title>Tuesday: O Último Abraço</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5f9c7c0776e5de8113effa2a4b55e2eda050d97f&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//y6bhnRp7o1yoHvUD0UVnsbR8UyO.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//ebmY8j6bfTsxUdhVtTaoNITch6u.jpg</fanart>
+    <info>Zora (Julia Louis-Dreyfus) é uma mãe dedicada que vive com sua filha Tuesday (Lola Petticrew), que está doente em estágio terminal. Certo dia, elas recebem uma visita inusitada: a própria Morte, através de um pássaro falante que muda de tamanho. Esse encontro leva as duas em um caminho de reflexão sobre vida, amor, morte e família enquanto se preparam para o adeus.</info>
+    <genre>Drama | Fantasia</genre>
+</item>	
 <item>
     <title>Borderlands: O Destino do Universo Está em Jogo</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:802678414ef3fc438b67fbf6ad4232909a2d4c0f&dn</link>
