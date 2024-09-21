@@ -2,7 +2,22 @@
 <items>
 
 
-
+<item>
+    <title>As Três Filhas</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:01847d159c285ee946f944af3c0359845f8e7ff5&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//fySlKghftKUoFbqQeFQInNQK3gi.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//6MuKvMcnNdgbfhc7HRGDbDSJuR7.jpg</fanart>
+    <info>Três irmãs distantes se reúnem em um pequeno apartamento em Nova York para cuidar do pai doente, e as emoções tomam conta.</info>
+    <genre>Drama</genre>
+</item>
+<item>
+    <title>Fique Acordado</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9651c8c7518e1963e28f8e637029bd04f6930567&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//izPVZlS3FcfVjiQ4kjQKppIwja0.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//pcjWAV4Iw7sl3dpV1dfIoxbbTuu.jpg</fanart>
+    <info>Após um teste farmacêutico dar errado, as cobaias se deparam com um efeito colateral aterrorizante: se você dormir, morre. Presos em uma clínica, o pânico se instala enquanto eles tentam escapar e, de alguma forma, permanecer acordados.</info>
+    <genre>Suspense | Terror</genre>
+</item>
 <item>
     <title>O Duelo</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bd7c40372433a4a002f0e27c743b75ac6d696fef&dn</link>
