@@ -2,6 +2,23 @@
 <items>
 
 
+
+<item>
+    <title>O Vingador da Iugoslávia 2</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:daf4b146e145d9b1ab243aad4d49a6292025f65b&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//fSrBQXN5u0EeG9Acv2SBX84yuBY.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//Apb3QquCSu95DHvjxajEh8lbHgE.jpg</fanart>
+    <info>O aposentado espião Philip e sua filha vivem tranquilamente na Itália. Mas quando o inimigo vingativo os persegue, eles devem lutar pela sobrevivência. Em fuga, eles se unem para se manter seguros em sua vizinhança sabendo que a batalha não terminará até que a última bala seja disparada.</info>
+    <genre>Ação | Drama | Suspense</genre>
+</item>
+<item>
+    <title>A Turma da Floresta 2: Ao Redor do Mundo</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:291ef27805072ad6b94c3d8f03ebbe0016bd3174&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//c1q9S6SiNdap74UhZB7kHLtjvPL.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//pPiSOLhGcwgfvtzWLU4hDNSg35N.jpg</fanart>
+    <info>O Esquadrão da Selva tem uma missão: salvar a floresta de um super-vilão com um plano maligno. Eles enfrentam muitas aventuras e trapalhadas ao redor do mundo para encontrar cientistas que possam ajudá-los.</info>
+    <genre>Animação | Aventura | Comédia</genre>
+</item>	
 <item>
     <title>É Assim Que Acaba</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:109de078fc5fa842f457d5768ebd6213017526e8&dn</link>
