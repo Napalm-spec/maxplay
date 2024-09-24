@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+
+<item>
+    <title>A Turma da Floresta 2: Ao Redor do Mundo</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:291ef27805072ad6b94c3d8f03ebbe0016bd3174&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//c1q9S6SiNdap74UhZB7kHLtjvPL.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//pPiSOLhGcwgfvtzWLU4hDNSg35N.jpg</fanart>
+    <info>O Esquadrão da Selva tem uma missão: salvar a floresta de um super-vilão com um plano maligno. Eles enfrentam muitas aventuras e trapalhadas ao redor do mundo para encontrar cientistas que possam ajudá-los.</info>
+    <genre>Animação | Aventura | Comédia</genre>
+</item>    
 <item>
     <title>SPY x FAMILY CÓDIGO: Branco</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cfde90330d6dbcb5bf277cecf83b115cf9e2c1c2&dn</link>
