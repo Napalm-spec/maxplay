@@ -2,7 +2,30 @@
 <items>
 
 
-
+<item>
+    <title>Afraid</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ddb1890d4e84478088571dd0a88adedf02d21d2c&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//oRODSMQ2L25M0Xjvt1g8pwd8yea.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//sjC29cgm4qZAnpOJQbYKCxDCcra.jpg</fanart>
+    <info>Curtis e sua família são selecionados para testar um novo dispositivo doméstico revolucionário: Um assistente familiar digital chamado AIA. Levando a casa inteligente para o próximo nível, uma vez que a unidade e todos os seus sensores e câmeras estejam instalados em sua casa, o AIA parece capaz de fazer tudo. Ela aprende os comportamentos da família e começa a antecipar suas necessidades. E ela pode garantir que nada – nem ninguém – atrapalhe sua família.</info>
+    <genre>Ficção | Suspense | Terror</genre>
+</item>
+<item>
+    <title>Tudo pelo Divórcio</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ddab318fda6bb72a623972bb392afbb79745679&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//gJfv8ceXsopdMmv9AKGBkKiBKhE.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//xWBYA32Y30Ax79zNTKZYjYmATK6.jpg</fanart>
+    <info>Um ex-casal fica à mercê da igreja quando tenta validar a anulação do seu casamento mais de vinte anos depois.</info>
+    <genre>Comédia | Drama</genre>
+</item>
+<item>
+    <title>Divertida Mente 2</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e3a4072068b9fc5261a365012f33ba8d94ce2117&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//9h2KgGXSmWigNTn3kQdEFFngj9i.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//dKvvW3euRwUY0Nyl6JBP5tXLPJW.jpg</fanart>
+    <info>"Divertida Mente 2", da Disney e da Pixar, retorna à mente da adolescente Riley, e o faz no momento em que a sala de comando está passando por uma demolição repentina para dar lugar a algo totalmente inesperado: novas emoções! Alegria, Tristeza, Raiva, Medo e Nojinho não sabem bem como reagir quando Ansiedade aparece, e tudo indica que ela não está sozinha.</info>
+    <genre>Animação | Aventura | Comédia</genre>
+</item>
 <item>
     <title>O Vingador da Iugoslávia 2</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:daf4b146e145d9b1ab243aad4d49a6292025f65b&dn</link>
