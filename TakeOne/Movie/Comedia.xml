@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+
+<item>
+    <title>Tudo pelo Divórcio</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ddab318fda6bb72a623972bb392afbb79745679&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//gJfv8ceXsopdMmv9AKGBkKiBKhE.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//xWBYA32Y30Ax79zNTKZYjYmATK6.jpg</fanart>
+    <info>Um ex-casal fica à mercê da igreja quando tenta validar a anulação do seu casamento mais de vinte anos depois.</info>
+    <genre>Comédia | Drama</genre>
+</item>    
 <item>
     <title>O Duelo</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bd7c40372433a4a002f0e27c743b75ac6d696fef&dn</link>
