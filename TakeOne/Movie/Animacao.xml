@@ -2,7 +2,14 @@
 <items>
 
 
-
+<item>
+    <title>Divertida Mente 2</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e3a4072068b9fc5261a365012f33ba8d94ce2117&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//9h2KgGXSmWigNTn3kQdEFFngj9i.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//dKvvW3euRwUY0Nyl6JBP5tXLPJW.jpg</fanart>
+    <info>"Divertida Mente 2", da Disney e da Pixar, retorna à mente da adolescente Riley, e o faz no momento em que a sala de comando está passando por uma demolição repentina para dar lugar a algo totalmente inesperado: novas emoções! Alegria, Tristeza, Raiva, Medo e Nojinho não sabem bem como reagir quando Ansiedade aparece, e tudo indica que ela não está sozinha.</info>
+    <genre>Animação | Aventura | Comédia</genre>
+</item>
 <item>
     <title>A Turma da Floresta 2: Ao Redor do Mundo</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:291ef27805072ad6b94c3d8f03ebbe0016bd3174&dn</link>
