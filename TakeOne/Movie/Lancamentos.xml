@@ -1,7 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Tudo pelo Divórcio</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ddab318fda6bb72a623972bb392afbb79745679&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//hGo8LmLGwBY2DucU4DgUTq06pEW.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//f0BTMdFY2o7nltxywM09Tlqvh27.jpg</fanart>
+    <info>Um ex-casal fica à mercê da igreja quando tenta validar a anulação do seu casamento mais de vinte anos depois.</info>
+    <genre>Comédia | Drama</genre>
+</item>
+<item>
+    <title>Bangkok no Limite: Entre o Inferno e o Paraíso</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65a088a51a1bceeb5e27221edc999bf04c56a3f3&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//dpcWDfyval6VfOUacRBFS0gNDVO.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//igtm12Wy9EUlxFeyb4v8bRyuYSY.jpg</fanart>
+    <info>Um socorrista luta por sobrevivência depois de se envolver no fogo cruzado do submundo de Bangkok.</info>
+    <genre>Ação | Drama | Suspense</genre>
+</item>
+<item>
+    <title>Um Verdadeiro Cavalheiro</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2fef705ddaadbacf36c74311aea0db2d468b870e&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//q7SltSvTLAY8jrKhe4uWRxoIfBG.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//zFyK00VDVqcRIYw7pw57LiTyolV.jpg</fanart>
+    <info>A vida de um charmoso acompanhante vira de cabeça para baixo quando ele começa a se apaixonar e precisa descobrir suas verdadeiras necessidades e desejos.</info>
+    <genre>Drama | Romance</genre>
+</item>
+<item>
+    <title>Calor Mortífero</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:741e13c92ddcf59046d0736b2d742541ef61ebf5&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//2rOpWhQqLrWIndHnbrb6VUxQoV5.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//6IsycwFwgZ0M1MIjXNkW9j45jcY.jpg</fanart>
+    <info>Irmãos gêmeos encontram-se em um perigoso triângulo amoroso em uma ilha grega isolada, onde um crime acontece e agora todos querem saber o motivo. A investigação é confiada a "The Jealousy Man", um detetive ferido.</info>
+    <genre>Drama | Romance | Suspense</genre>
+</item>
 <item>
     <title>Afraid</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ddb1890d4e84478088571dd0a88adedf02d21d2c&dn</link>
