@@ -2,7 +2,14 @@
 <items>
 
 
-
+<item>
+    <title>Tudo pelo Divórcio</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ddab318fda6bb72a623972bb392afbb79745679&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//hGo8LmLGwBY2DucU4DgUTq06pEW.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//f0BTMdFY2o7nltxywM09Tlqvh27.jpg</fanart>
+    <info>Um ex-casal fica à mercê da igreja quando tenta validar a anulação do seu casamento mais de vinte anos depois.</info>
+    <genre>Comédia | Drama</genre>
+</item>
 <item>
     <title>Tudo pelo Divórcio</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ddab318fda6bb72a623972bb392afbb79745679&dn</link>
