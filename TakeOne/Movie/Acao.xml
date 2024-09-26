@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Bangkok no Limite: Entre o Inferno e o Paraíso</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65a088a51a1bceeb5e27221edc999bf04c56a3f3&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//dpcWDfyval6VfOUacRBFS0gNDVO.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//igtm12Wy9EUlxFeyb4v8bRyuYSY.jpg</fanart>
+    <info>Um socorrista luta por sobrevivência depois de se envolver no fogo cruzado do submundo de Bangkok.</info>
+    <genre>Ação | Drama | Suspense</genre>
+</item>
 <item>
     <title>O Vingador da Iugoslávia 2</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:daf4b146e145d9b1ab243aad4d49a6292025f65b&dn</link>
