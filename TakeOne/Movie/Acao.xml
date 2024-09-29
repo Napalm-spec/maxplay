@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+
+
+<item>
+    <title>Lobos</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eeb24d94f92e5b4c263a684acbc4750ad06566b9&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//5LvefZZsapIsOIckLZHbYlwCAkm.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//uXDwP5qPhuRyPpQ7WkLbE6t2z5W.jpg</fanart>
+    <info>Dois solucionadores rivais se cruzam quando ambos são chamados para encobrir o erro de uma importante figura pública de Nova York. Durante uma noite conturbada, eles terão que deixar de lado suas diferenças e egos para concluir o serviço.</info>
+    <genre>Ação | Crime | Suspense</genre>
+</item>	
 <item>
     <title>Bangkok no Limite: Entre o Inferno e o Paraíso</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65a088a51a1bceeb5e27221edc999bf04c56a3f3&dn</link>
