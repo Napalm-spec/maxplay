@@ -2,7 +2,14 @@
 <items>
 
 
-    
+<item>
+    <title>Memórias Ocultas</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dec5f35aec74ae76953d6e937fe9524eb8baf563&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//lOPMU5t5gNJquxZuvtADNFhhrnR.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//56Qw2gQ9CAsEfJVqawhZD4gCNXf.jpg</fanart>
+    <info>Depois de receber um telefonema enigmático, Sophie começa a ter apagões que a levam a uma realidade alternativa. Entrelaçada em uma conspiração secular, ela precisa navegar entre realidades e lutar por sua vida enquanto presente e futuro se confundem.</info>
+    <genre>Aventura | Drama | Suspense</genre>
+</item>    
 <item>
     <title>Feios</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:60220f713ae93d6b52966f44ff08a5fb84caecd8&dn</link>
