@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>O Diário</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5c54d92a34b98f96482f613780aa3ffb911e6881&dn=</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//x7xSx1TdHRCKNIiV6qqYwOWRxbL.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//wrySctz7zkaFpyLYQ0bTjO0xUQ6.jpg</fanart>
+    <info>Depois de se divorciar, Olga muda de casa para um novo começo com sua filha. De início elas não percebem as coisas estranhas que acontecem na casa até que Olga descobre o diário de um serial killer no sótão, colocando sua vida e a de todos ao seu redor em risco.</info>
+    <genre>Drama | Suspense</genre>
+</item>
 <item>
     <title>Guerreiros do Basquete</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ed3b641150980d2f79df97d5a387cf9840a8cbc7&dn</link>
