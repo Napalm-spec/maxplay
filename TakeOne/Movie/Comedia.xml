@@ -2,6 +2,14 @@
 <items>
 
 
+ <item>
+    <title>Identidades em Jogo</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e18cc016369ffefbc7478d7724a913ad3f6f3db7&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//huxjP3cgTmRFP2bfpgWMaxZQ1m5.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//3LVVSvAkQGbL5fvG4VM3GfMaZBe.jpg</fanart>
+    <info>Uma festa pré-casamento se transforma em um pesadelo para um grupo de amigos da faculdade depois que um convidado inesperado aparece carregando uma mala misteriosa.</info>
+    <genre>Comédia | Mistério | Suspense</genre>
+</item>   
 <item>
     <title>Tudo pelo Divórcio</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ddab318fda6bb72a623972bb392afbb79745679&dn</link>
