@@ -3,7 +3,14 @@
 
 
 
-
+<item>
+    <title>Prisioneiro do Caos</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3d36e12634d3c6d8c3e94b7213f3658e9bb645c0&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//69rCc2fJ0gqOZCKCnQLIRrClvpY.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//eXQ8O0ykuEB8dUJhq2WJll4vXmA.jpg</fanart>
+    <info>Condenado injustamente por homicídio, um vendedor de eletrônicos atrapalhado precisa enfrentar corrupção policial e conspirações criminosas para provar sua inocência.</info>
+    <genre> Ação | Comédia | Crime</genre>
+</item>
 <item>
     <title>Lobos</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eeb24d94f92e5b4c263a684acbc4750ad06566b9&dn</link>
