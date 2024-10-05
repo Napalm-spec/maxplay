@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+<item>
+    <title>Amber Alert</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:add95a8579cdc4dd2e4b6f10abfa016c1ee1c6db&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//6pP9HlVFDLqChRiWhN1E7HdJF4I.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//vt37v6ouquokPYeEg3xqkzKjHRj.jpg</fanart>
+    <info>Jaq está ansiosa para chegar ao seu primeiro dia em um novo emprego, e seu motorista, Shane, que está apenas tentando ganhar um pouco mais com seu trabalho. Um alerta de sequestro de criança em seus telefones mudará tudo isso quando descobrirem que estão atrás de um carro que corresponde à descrição do sequestrador. Incapazes de deixar escapar um possível traficante de crianças, eles iniciam uma perseguição que colocará suas próprias vidas em risco.</info>
+    <genre>Crime | Drama | Suspense</genre>
+</item>	
 <item>
     <title>Os Caras Malvados: Assalto Assombrado</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:314b10844f50cf8bcb37d58cb4c66b99a5d5c437&dn</link>
