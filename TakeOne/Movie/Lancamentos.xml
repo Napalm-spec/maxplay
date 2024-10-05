@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Os Caras Malvados: Assalto Assombrado</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:314b10844f50cf8bcb37d58cb4c66b99a5d5c437&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//tbR70ceR2Qw2fNMDj1cvOhmTfwa.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//vGaBqgY8YRzQVUbBMPnd5SmYvL7.jpg</fanart>
+    <info>Em busca de um amuleto valioso, os Caras Malvados embarcam em um assalto de Halloween numa mansão aterrorizante. O que pode dar errado?</info>
+    <genre>Animação | Comédia</genre>
+</item>
 <item>
     <title>O Diário</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5c54d92a34b98f96482f613780aa3ffb911e6881&dn=</link>
