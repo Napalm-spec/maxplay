@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>O Clube do Tesouro</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d81282d1dd172f654f89b316c647c922f8ff5160&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//shKztvANU0Lqo1WB4QU6wT0cuft.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//jc4s1f0VvGCLp5Lsu7HE5U6BAEY.jpg</fanart>
+    <info>Três colegas de escola se unem para encontrar o mítico tesouro de sua cidade, mas logo descobrem que a lenda é muito mais complexa do que pensavam.</info>
+    <genre>Aventura</genre>
+</item>
 <item>
     <title>Memórias Ocultas</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dec5f35aec74ae76953d6e937fe9524eb8baf563&dn</link>
