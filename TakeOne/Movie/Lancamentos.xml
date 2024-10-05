@@ -2,8 +2,87 @@
 <items>
 
 
+<item>
+    <title>O Diário</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5c54d92a34b98f96482f613780aa3ffb911e6881&dn=</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//x7xSx1TdHRCKNIiV6qqYwOWRxbL.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//wrySctz7zkaFpyLYQ0bTjO0xUQ6.jpg</fanart>
+    <info>Depois de se divorciar, Olga muda de casa para um novo começo com sua filha. De início elas não percebem as coisas estranhas que acontecem na casa até que Olga descobre o diário de um serial killer no sótão, colocando sua vida e a de todos ao seu redor em risco.</info>
+    <genre>Drama | Suspense</genre>
+</item>
+<item>
+    <title>O Clube do Tesouro</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d81282d1dd172f654f89b316c647c922f8ff5160&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//shKztvANU0Lqo1WB4QU6wT0cuft.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//jc4s1f0VvGCLp5Lsu7HE5U6BAEY.jpg</fanart>
+    <info>Três colegas de escola se unem para encontrar o mítico tesouro de sua cidade, mas logo descobrem que a lenda é muito mais complexa do que pensavam.</info>
+    <genre>Aventura</genre>
+</item>
 
-
+<item>
+    <title>A Casa Mórbida</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:70d37048e6f96a207c0091aeafbaabfda08706b6&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//xUb8Q8HsOoE30VHigKUE1emkVDT.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//aKCxzcNr8bUiJCwrrc0y9rYFfbU.jpg</fanart>
+    <info>Uma chef ambiciosa abre seu primeiro restaurante - um restaurante de comida caseira em uma propriedade remota - onde ela luta contra o caos na cozinha, um investidor duvidoso, dúvidas sobre si mesma... e o poderoso espírito do antigo proprietário da propriedade que ameaça sabotá-la a todo momento.</info>
+    <genre>Suspense | Terror</genre>
+</item>
+<item>
+    <title>A Hora do Vampiro</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9da3a1edf348e1ab8a647ef531b4be266dd5a694&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//ybGTVT8kDF4vUi2iew9e2RPvJWm.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//hJpTWcFlucIOOo5WEuYN0w69fJi.jpg</fanart>
+    <info>Ben Mears (David Soul) é um romancista natural da pequena cidade de Jerusalem's Lot - ou, como os habitantes locais a chamavam, Salem's Lot. Enquanto volta para casa em busca de inspiração para sua próxima obra, ele descobre que há um novo morador em uma casa que permaneceu vazia por décadas, um vendedor de antiguidades chamado Barlow. Nenhum dos habitantes da cidade conhece o tal Barlow, e sim o seu charmoso representante, Straker. Mas quando pessoas começam a morrer de repente, as coisas ficam ainda mais estranhas.</info>
+    <genre>Suspense | Terror</genre>
+</item>
+<item>
+    <title>Prisioneiro do Caos</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3d36e12634d3c6d8c3e94b7213f3658e9bb645c0&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//69rCc2fJ0gqOZCKCnQLIRrClvpY.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//eXQ8O0ykuEB8dUJhq2WJll4vXmA.jpg</fanart>
+    <info>Condenado injustamente por homicídio, um vendedor de eletrônicos atrapalhado precisa enfrentar corrupção policial e conspirações criminosas para provar sua inocência.</info>
+    <genre> Ação | Comédia | Crime</genre>
+</item>
+<item>
+    <title>Meu Filho, Nosso Mundo</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9395182a923af5d7daf379e55da873410ffffb63&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//iP1wYVjnBKUyeRyf2qDtP2GEB60.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//yWDnXuKpa7qZFpEu1v8DyYGtUtK.jpg</fanart>
+    <info>Com casamento e carreira falidos, o comediante Max Bernal está morando com seu pai Stan. Ele não concorda com Jenna sobre a melhor maneira de cuidar do filho deles, Ezra, de 11 anos e diagnosticado com autismo. Cansado e decidido a mudar o jogo, Max parte com Ezra em uma viagem de carro para encontrar um lugar onde possam ser felizes.</info>
+    <genre>Comédia | Drama</genre>
+</item>
+<item>
+    <title>Prenda a Respiração</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:60682a7c3397d615a0f76d72082ebe8747afe049&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//joqsZ0tZpWUJSKQ1Uj9VyA8CIBE.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//mRsTSkhiapQWXhjqvdvxBahnDTd.jpg</fanart>
+    <info>Na década de 1930, em Oklahoma, em meio às horríveis tempestades de poeira da região, uma mulher tem certeza de que uma presença sinistra está ameaçando sua família.</info>
+    <genre>Drama | Suspense | Terror</genre>
+</item>
+<item>
+    <title>O Poço 2</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d6b4d0ab7a27d50f57852a3661dfe8fb4a0d6991&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//2fJn438T3W2XDlyBlgNuAeAAHrj.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//3m0j3hCS8kMAaP9El6Vy5Lqnyft.jpg</fanart>
+    <info>Após um líder misterioso impor sua própria lei em um sistema brutal de celas verticais, uma mulher luta contra um método bizarro de distribuição de comida.</info>
+    <genre>Drama | Ficção | Suspense</genre>
+</item>
+<item>
+    <title>CTRL</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1295d23b3525c7f81ed5fe716b027f191f759a2d&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//6bdKunzqqadZwiDd8FYHXlRMlJc.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//cVTW8yQcIUPQ8lGnIgAa4Jx5dNw.jpg</fanart>
+    <info>Os influencers Nella e Joe parecem ser o casal perfeito. Até que ela usa um app de IA depois de descobrir uma traição e as coisas acabam saindo do controle.</info>
+    <genre>Drama | Suspense</genre>
+</item>
+<item>
+    <title>Identidades em Jogo</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e18cc016369ffefbc7478d7724a913ad3f6f3db7&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//huxjP3cgTmRFP2bfpgWMaxZQ1m5.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//3LVVSvAkQGbL5fvG4VM3GfMaZBe.jpg</fanart>
+    <info>Uma festa pré-casamento se transforma em um pesadelo para um grupo de amigos da faculdade depois que um convidado inesperado aparece carregando uma mala misteriosa.</info>
+    <genre>Comédia | Mistério | Suspense</genre>
+</item>
 <item>
     <title>Lobos</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eeb24d94f92e5b4c263a684acbc4750ad06566b9&dn</link>
