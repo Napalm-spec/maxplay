@@ -2,6 +2,23 @@
 <items>
 
 
+
+<item>
+    <title>O Corvo</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d0b8505df5bb09a95f837d5d90209aa6381886f7&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//g7ZNO5yvpr9jJqQBcTvcNICC9yF.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//Asg2UUwipAdE87MxtJy7SQo08XI.jpg</fanart>
+    <info>As almas gêmeas Eric Draven e Shelly Webster são brutalmente assassinadas quando os demônios de seu passado sombrio os alcançam. Atravessando os mundos dos vivos e dos mortos, Draven retorna em busca de vingança sangrenta contra os assassinos.</info>
+    <genre>Ação | Fantasia | Terror</genre>
+</item>
+<item>
+    <title>The Last Redemption</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ad2d74d83906a6296cc4c4c5280f7acacf209a8d&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//cUmLAwhpFIDCefwY5iVSIIrrAoH.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/None</fanart>
+    <info>In a land of swords and sorcery, bandits break from their gang to protect a little girl, pitting them against their old friends and former leader who was once like a father to them.</info>
+    <genre>Aventura | Fantasia</genre>
+</item>	
 <item>
     <title>Amber Alert</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:add95a8579cdc4dd2e4b6f10abfa016c1ee1c6db&dn</link>
