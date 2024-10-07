@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+<item>
+    <title>The Last Redemption</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ad2d74d83906a6296cc4c4c5280f7acacf209a8d&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//cUmLAwhpFIDCefwY5iVSIIrrAoH.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/None</fanart>
+    <info>In a land of swords and sorcery, bandits break from their gang to protect a little girl, pitting them against their old friends and former leader who was once like a father to them.</info>
+    <genre>Aventura | Fantasia</genre>
+</item>    
 <item>
     <title>O Clube do Tesouro</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d81282d1dd172f654f89b316c647c922f8ff5160&dn</link>
