@@ -2,7 +2,30 @@
 <items>
 
 
-
+<item>
+    <title>Navio dos Amaldiçoados</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e1996875dbb3f845910ac79bd69e34f934857ccd&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//wvVfymH7XYLz1Cz3oxfWWkqKz5d.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//yFrVk5UDEpbBgljRfIKfXbkjcuM.jpg</fanart>
+    <info>Elena e os guardas vão investigar um navio abandonado. A tripulação tem planos horríveis para eles.</info>
+    <genre>Ação | Terror</genre>
+</item>
+<item>
+    <title>A Forja – O Poder da Transformação</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:926204942233d030581f9055a76b0c402c7ad6ef&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//3gux4K8ZOhlPeXRwQUeqxyWgiSM.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//9XDgbD365BU4cFyyhLZIgyUYSId.jpg</fanart>
+    <info>Um ano depois de encerrar o ensino médio, o jovem Isaías Wright não tem planos para o futuro e é desafiado por sua mãe solo e um empresário de sucesso a começar a traçar um rumo melhor para sua vida. Ele passa a ser discipulado pelo seu novo mentor, conta com orações de sua mãe e de uma guerreira de orações, Dona Clara, e começa a descobrir o propósito de Deus para sua vida.</info>
+    <genre>Drama</genre>
+</item>
+<item>
+    <title>Os Fantasmas Ainda se Divertem: Beetlejuice Beetlejuice</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:baa3143779b3956cb2ee8ffd91254a6e8286a181&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//wzFnVtsAkOcZoy2OeMd9ytKVOw4.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//A1dZ6faTjg0e6HYftBmEKujuXGQ.jpg</fanart>
+    <info>Depois de uma tragédia familiar inesperada, três gerações da família Deetz voltam para casa em Winter River. Ainda assombrada por Beetlejuice, a vida de Lydia vira de cabeça para baixo quando sua filha adolescente rebelde, Astrid, descobre a misteriosa maquete da cidade no sótão, e o portal para a vida após a morte é acidentalmente aberto. Com problemas em ambos os reinos, é apenas uma questão de tempo até que alguém diga o nome de Beetlejuice três vezes, e o demônio travesso volte para levar ao mundo seu próprio estilo de caos.</info>
+    <genre>Comédia | Fantasia | Terror</genre>
+</item>
 <item>
     <title>O Corvo</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d0b8505df5bb09a95f837d5d90209aa6381886f7&dn</link>
