@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Navio dos Amaldiçoados</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e1996875dbb3f845910ac79bd69e34f934857ccd&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//wvVfymH7XYLz1Cz3oxfWWkqKz5d.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//yFrVk5UDEpbBgljRfIKfXbkjcuM.jpg</fanart>
+    <info>Elena e os guardas vão investigar um navio abandonado. A tripulação tem planos horríveis para eles.</info>
+    <genre>Ação | Terror</genre>
+</item>
 <item>
     <title>O Corvo</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d0b8505df5bb09a95f837d5d90209aa6381886f7&dn</link>
