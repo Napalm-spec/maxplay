@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+<item>
+    <title>Caçula</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04304ae0bcf11df98a1d5ef9daf916110251bd75&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//uc2txUknq7W3ZyZN0hiwgvpoOOj.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//2LOETKGCe52EachXICgNdJOWo8K.jpg</fanart>
+    <info>Em 2008, durante o último mês das férias de verão antes do ensino médio começar, um impressionável menino americano de 13 anos, de ascendência taiwanesa, aprende o que a família não ensina: a andar de skate, a flertar e a amar a mãe.</info>
+    <genre>Comédia | Drama</genre>
+</item>    
 <item>
     <title>Os Fantasmas Ainda se Divertem: Beetlejuice Beetlejuice</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:baa3143779b3956cb2ee8ffd91254a6e8286a181&dn</link>
