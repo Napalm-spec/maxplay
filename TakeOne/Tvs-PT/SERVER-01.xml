@@ -1,373 +1,615 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="RTP 1" tvg-name="RTP 1" tvg-logo="http://mylogos.xyz/LogosPT/RTP1.png" group-title="VIP PORTUGAL",RTP 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/1.m3u8
-#EXTINF:-1 tvg-id="RTP 1 FHD" tvg-name="RTP 1 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/RTP1.png" group-title="VIP PORTUGAL",RTP 1 (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/3.m3u8
-#EXTINF:-1 tvg-id="RTP 2" tvg-name="RTP 2" tvg-logo="http://mylogos.xyz/LogosPT/RTP2.png" group-title="VIP PORTUGAL",RTP 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/4.m3u8
-#EXTINF:-1 tvg-id="RTP 2 FHD" tvg-name="RTP 2 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/RTP2.png" group-title="VIP PORTUGAL",RTP 2 (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/5.m3u8
-#EXTINF:-1 tvg-id="SIC" tvg-name="SIC" tvg-logo="http://mylogos.xyz/LogosPT/SIC.png" group-title="VIP PORTUGAL",SIC
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/9142.m3u8
-#EXTINF:-1 tvg-id="SIC FHD" tvg-name="SIC (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/SIC.png" group-title="VIP PORTUGAL",SIC (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/8.m3u8
-#EXTINF:-1 tvg-id="TVI" tvg-name="TVI" tvg-logo="http://mylogos.xyz/LogosPT/TVI.png" group-title="VIP PORTUGAL",TVI
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/9.m3u8
-#EXTINF:-1 tvg-id="TVI FHD" tvg-name="TVI (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/TVI.png" group-title="VIP PORTUGAL",TVI (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/225.m3u8
-#EXTINF:-1 tvg-id="RTP 3" tvg-name="RTP 3" tvg-logo="http://mylogos.xyz/LogosPT/RTP3.png" group-title="VIP PORTUGAL",RTP 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/11.m3u8
-#EXTINF:-1 tvg-id="RTP 3" tvg-name="RTP 3 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/RTP3.png" group-title="VIP PORTUGAL",RTP 3 (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/22158.m3u8
-#EXTINF:-1 tvg-id="SIC NOTÍCIAS" tvg-name="SIC Noticias" tvg-logo="http://mylogos.xyz/LogosPT/Sic.Noticias.png" group-title="VIP PORTUGAL",SIC Noticias
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/24.m3u8
-#EXTINF:-1 tvg-id="SIC NOTÍCIAS FHD" tvg-name="SIC Noticias (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Sic.Noticias.png" group-title="VIP PORTUGAL",SIC Noticias (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/25.m3u8
-#EXTINF:-1 tvg-id="CNN Portugal" tvg-name="CNN Portugal" tvg-logo="http://mylogos.xyz/LogosPT/cnnPT.png" group-title="VIP PORTUGAL",CNN Portugal
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/26.m3u8
-#EXTINF:-1 tvg-id="CNN Portugal FHD" tvg-name="CNN Portugal (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/cnnPT.png" group-title="VIP PORTUGAL",CNN Portugal (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/269.m3u8
-#EXTINF:-1 tvg-id="CMTV" tvg-name="CMTV" tvg-logo="http://mylogos.xyz/LogosPT/CMtv.png" group-title="VIP PORTUGAL",CMTV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/22.m3u8
-#EXTINF:-1 tvg-id="CMTV FHD" tvg-name="CMTV (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/CMtv.png" group-title="VIP PORTUGAL",CMTV (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/23.m3u8
-#EXTINF:-1 tvg-id="PORTO CANAL" tvg-name="Porto Canal" tvg-logo="http://mylogos.xyz/LogosPT/Porto.Canal.png" group-title="VIP PORTUGAL",Porto Canal
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/65.m3u8
-#EXTINF:-1 tvg-id="PORTO CANAL FHD" tvg-name="Porto Canal (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Porto.Canal.1080p.png" group-title="VIP PORTUGAL",Porto Canal (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/23281.m3u8
-#EXTINF:-1 tvg-id="SIC MULHER" tvg-name="SIC Mulher" tvg-logo="http://mylogos.xyz/LogosPT/SIC.Mulher.png" group-title="VIP PORTUGAL",SIC Mulher
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/17.m3u8
-#EXTINF:-1 tvg-id="SIC MULHER FHD" tvg-name="SIC Mulher (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/SIC.Mulher.png" group-title="VIP PORTUGAL",SIC Mulher (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/24261.m3u8
-#EXTINF:-1 tvg-id="SIC RADICAL" tvg-name="SIC Radical" tvg-logo="http://mylogos.xyz/LogosPT/SIC.Radical.png" group-title="VIP PORTUGAL",SIC Radical
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/16.m3u8
-#EXTINF:-1 tvg-id="SIC RADICAL FHD" tvg-name="SIC Radical (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/SIC.Radical.png" group-title="VIP PORTUGAL",SIC Radical (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/22165.m3u8
-#EXTINF:-1 tvg-id="SIC CARAS" tvg-name="SIC Caras" tvg-logo="http://mylogos.xyz/LogosPT/SIC.Caras.png" group-title="VIP PORTUGAL",SIC Caras
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/18.m3u8
-#EXTINF:-1 tvg-id="SIC CARAS FHD" tvg-name="SIC Caras (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/SIC.Caras.1080p.png" group-title="VIP PORTUGAL",SIC Caras (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/30029.m3u8
-#EXTINF:-1 tvg-id="TVI FICÇÃO" tvg-name="TVI Ficção" tvg-logo="http://mylogos.xyz/LogosPT/TVI.Ficcao.png" group-title="VIP PORTUGAL",TVI Ficção
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/21.m3u8
-#EXTINF:-1 tvg-id="TVI FICÇÃO HD" tvg-name="TVI Ficção (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/TVI.Ficcao.1080p.png" group-title="VIP PORTUGAL",TVI Ficção (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/20843.m3u8
-#EXTINF:-1 tvg-id="RTP ÁFRICA" tvg-name="RTP Africa" tvg-logo="http://mylogos.xyz/LogosPT/RTP.Africa.png" group-title="VIP PORTUGAL",RTP Africa
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/12.m3u8
-#EXTINF:-1 tvg-id="RTP MADEIRA" tvg-name="RTP Madeira" tvg-logo="http://mylogos.xyz/LogosPT/RTP.Madeira.png" group-title="VIP PORTUGAL",RTP Madeira
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/15.m3u8
-#EXTINF:-1 tvg-id="RTP AÇORES" tvg-name="RTP Açores" tvg-logo="http://mylogos.xyz/LogosPT/RTP.Acores.png" group-title="VIP PORTUGAL",RTP Açores
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/13.m3u8
-#EXTINF:-1 tvg-id="RTP MEMÓRIA" tvg-name="RTP Memória" tvg-logo="http://mylogos.xyz/LogosPT/RTP.Memoria.png" group-title="VIP PORTUGAL",RTP Memória
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/14.m3u8
-#EXTINF:-1 tvg-id="TVI REALITY" tvg-name="TVI Reality" tvg-logo="http://mylogos.xyz/LogosPT/TVI.Reality.png" group-title="VIP PORTUGAL",TVI Reality
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/20.m3u8
-#EXTINF:-1 tvg-id="TVI REALITY" tvg-name="TVI Reality (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/TVI.Reality.png" group-title="VIP PORTUGAL",TVI Reality (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/21593.m3u8
-#EXTINF:-1 tvg-id="TVI REALITY MOSAICO" tvg-name="TVI Reality ✬Mosaico✬" tvg-logo="http://mylogos.xyz/LogosPT/TVI.Reality.Mosaico.png" group-title="VIP PORTUGAL",TVI Reality ✬Mosaico✬
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/30330.m3u8
-#EXTINF:-1 tvg-id="TVI REALITY CAMERA 1" tvg-name="TVI Reality ✬Camera 1✬" tvg-logo="http://mylogos.xyz/LogosPT/TVI.Reality.Cam1.png" group-title="VIP PORTUGAL",TVI Reality ✬Camera 1✬
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/30331.m3u8
-#EXTINF:-1 tvg-id="TVI REALITY CAMERA 2" tvg-name="TVI Reality ✬Camera 2✬" tvg-logo="http://mylogos.xyz/LogosPT/TVI.Reality.Cam2.png" group-title="VIP PORTUGAL",TVI Reality ✬Camera 2✬
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/30332.m3u8
-#EXTINF:-1 tvg-id="TVI REALITY CAMERA 3" tvg-name="TVI Reality ✬Camera 3✬" tvg-logo="http://mylogos.xyz/LogosPT/TVI.Reality.Cam3.png" group-title="VIP PORTUGAL",TVI Reality ✬Camera 3✬
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/30333.m3u8
-#EXTINF:-1 tvg-id="TVI REALITY CAMERA 4" tvg-name="TVI Reality ✬Camera 4✬" tvg-logo="http://mylogos.xyz/LogosPT/TVI.Reality.Cam4.png" group-title="VIP PORTUGAL",TVI Reality ✬Camera 4✬
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/76344.m3u8
-#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo" tvg-logo="http://mylogos.xyz/LogosPT/Globo.png" group-title="VIP PORTUGAL",Globo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/164.m3u8
-#EXTINF:-1 tvg-id="A BOLA" tvg-name="A Bola TV" tvg-logo="http://mylogos.xyz/LogosPT/aBolaTV.png" group-title="VIP PORTUGAL",A Bola TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/27.m3u8
-#EXTINF:-1 tvg-id="A BOLA FHD" tvg-name="A Bola TV (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/aBolaTV.png" group-title="VIP PORTUGAL",A Bola TV (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/22167.m3u8
-#EXTINF:-1 tvg-id="CANAL 11" tvg-name="CANAL 11" tvg-logo="http://mylogos.xyz/LogosPT/Canal11.png" group-title="VIP PORTUGAL",CANAL 11
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/23282.m3u8
-#EXTINF:-1 tvg-id="CANAL 11" tvg-name="Canal 11 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Canal11.png" group-title="VIP PORTUGAL",Canal 11 (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/32.m3u8
-#EXTINF:-1 tvg-id="SPORT TV+" tvg-name="Sport TV+" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV+.png" group-title="VIP PORTUGAL",Sport TV+
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/34.m3u8
-#EXTINF:-1 tvg-id="SPORT TV+ FHD" tvg-name="Sport TV+ (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/SportTV+.png" group-title="VIP PORTUGAL",Sport TV+ (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/35.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="Sport TV 1" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV1.png" group-title="VIP PORTUGAL",Sport TV 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/36.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 1 FHD" tvg-name="Sport TV 1 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV1.png" group-title="VIP PORTUGAL",Sport TV 1 (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/49.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 1 HD" tvg-name="Sport TV 1 ✬Alternativa✬" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV1.1080p.png" group-title="VIP PORTUGAL",Sport TV 1 ✬Alternativa✬
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/31013.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 1 HD" tvg-name="Sport TV 1 ✬H265✬" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV1.H265.png" group-title="VIP PORTUGAL",Sport TV 1 ✬H265✬
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/22171.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="Sport TV 2" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV2.png" group-title="VIP PORTUGAL",Sport TV 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/37.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 2 FHD" tvg-name="Sport TV 2 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV2.png" group-title="VIP PORTUGAL",Sport TV 2 (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/50.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="Sport TV 3" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV3.png" group-title="VIP PORTUGAL",Sport TV 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/38.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 3 FHD" tvg-name="Sport TV 3 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV3.png" group-title="VIP PORTUGAL",Sport TV 3 (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/51.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 4" tvg-name="Sport TV 4" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV4.png" group-title="VIP PORTUGAL",Sport TV 4
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/39.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 4 FHD" tvg-name="Sport TV 4 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV4.png" group-title="VIP PORTUGAL",Sport TV 4 (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/14143.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 5" tvg-name="Sport TV 5" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV5.png" group-title="VIP PORTUGAL",Sport TV 5
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/40.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 5 FHD" tvg-name="Sport TV 5 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV5.1080P.png" group-title="VIP PORTUGAL",Sport TV 5 (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/283.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 6" tvg-name="Sport TV 6" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV6.png" group-title="VIP PORTUGAL",Sport TV 6
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/73258.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 6 FHD" tvg-name="Sport TV 6 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV6.png" group-title="VIP PORTUGAL",Sport TV 6 (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/73259.m3u8
-#EXTINF:-1 tvg-id="SPORT TV NBA FHD" tvg-name="Sport TV NBA" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV.NBA.1080P.png" group-title="VIP PORTUGAL",Sport TV NBA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/41.m3u8
-#EXTINF:-1 tvg-id="BTV" tvg-name="Benfica TV" tvg-logo="http://mylogos.xyz/LogosPT/BenficaTV.png" group-title="VIP PORTUGAL",Benfica TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/29.m3u8
-#EXTINF:-1 tvg-id="BTV FHD" tvg-name="Benfica TV (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/BenficaTV.1080p.png" group-title="VIP PORTUGAL",Benfica TV (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/30.m3u8
-#EXTINF:-1 tvg-id="BTV HD" tvg-name="Benfica TV ✬Alternativa✬" tvg-logo="http://mylogos.xyz/LogosPT/BenficaTV.1080p.png" group-title="VIP PORTUGAL",Benfica TV ✬Alternativa✬
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/31016.m3u8
-#EXTINF:-1 tvg-id="BTV HD" tvg-name="Benfica TV ✬H265✬" tvg-logo="http://mylogos.xyz/LogosPT/BenficaTV.H265.png" group-title="VIP PORTUGAL",Benfica TV ✬H265✬
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/22169.m3u8
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 1" tvg-name="Eleven Sports 1" tvg-logo="http://mylogos.xyz/LogosPT/Eleven1.png" group-title="VIP PORTUGAL",Eleven Sports 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/52.m3u8
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 1 FHD" tvg-name="Eleven Sports 1 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Eleven1.1080P.png" group-title="VIP PORTUGAL",Eleven Sports 1 (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/54.m3u8
-#EXTINF:-1 tvg-id="eleven.1.pt" tvg-name="Eleven Sports 1 ✬H265✬" tvg-logo="http://mylogos.xyz/LogosPT/Eleven1.H265.png" group-title="VIP PORTUGAL",Eleven Sports 1 ✬H265✬
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/24166.m3u8
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 2" tvg-name="Eleven Sports 2" tvg-logo="http://mylogos.xyz/LogosPT/Eleven2.png" group-title="VIP PORTUGAL",Eleven Sports 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/55.m3u8
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 2 FHD" tvg-name="Eleven Sports 2 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Eleven2.png" group-title="VIP PORTUGAL",Eleven Sports 2 (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/57.m3u8
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 2" tvg-name="Eleven Sports 2 ✬H265✬" tvg-logo="http://mylogos.xyz/LogosPT/Eleven2.H265.png" group-title="VIP PORTUGAL",Eleven Sports 2 ✬H265✬
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/24167.m3u8
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 3" tvg-name="Eleven Sports 3" tvg-logo="http://mylogos.xyz/LogosPT/Eleven3.png" group-title="VIP PORTUGAL",Eleven Sports 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/58.m3u8
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 3 FHD" tvg-name="Eleven Sports 3 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Eleven3.png" group-title="VIP PORTUGAL",Eleven Sports 3 (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/60.m3u8
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 4" tvg-name="Eleven Sports 4" tvg-logo="http://mylogos.xyz/LogosPT/Eleven4.png" group-title="VIP PORTUGAL",Eleven Sports 4
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/284.m3u8
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 4 FHD" tvg-name="Eleven Sports 4 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Eleven4.1080P.png" group-title="VIP PORTUGAL",Eleven Sports 4 (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/61.m3u8
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 5" tvg-name="Eleven Sports 5" tvg-logo="http://mylogos.xyz/LogosPT/Eleven5.png" group-title="VIP PORTUGAL",Eleven Sports 5
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/286.m3u8
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 5 FHD" tvg-name="Eleven Sports 5 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Eleven5.1080P.png" group-title="VIP PORTUGAL",Eleven Sports 5 (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/62.m3u8
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 6" tvg-name="Eleven Sports 6" tvg-logo="http://mylogos.xyz/LogosPT/Eleven6.png" group-title="VIP PORTUGAL",Eleven Sports 6
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/289.m3u8
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 6 FHD" tvg-name="Eleven Sports 6 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Eleven6.1080P.png" group-title="VIP PORTUGAL",Eleven Sports 6 (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/63.m3u8
-#EXTINF:-1 tvg-id="SPORTING TV" tvg-name="Sporting TV" tvg-logo="http://mylogos.xyz/LogosPT/SportingTV.png" group-title="VIP PORTUGAL",Sporting TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/64.m3u8
-#EXTINF:-1 tvg-id="SPORTING TV FHD" tvg-name="Sporting TV (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/SportingTV.1080p.png" group-title="VIP PORTUGAL",Sporting TV (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/23285.m3u8
-#EXTINF:-1 tvg-id="EUROSPORT 1" tvg-name="Eurosport 1" tvg-logo="http://mylogos.xyz/LogosPT/Eurosport1.png" group-title="VIP PORTUGAL",Eurosport 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/70.m3u8
-#EXTINF:-1 tvg-id="EUROSPORT 1 FHD" tvg-name="Eurosport 1 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Eurosport1.1080p.png" group-title="VIP PORTUGAL",Eurosport 1 (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/71.m3u8
-#EXTINF:-1 tvg-id="EUROSPORT 2" tvg-name="Eurosport 2" tvg-logo="http://mylogos.xyz/LogosPT/Eurosport2.png" group-title="VIP PORTUGAL",Eurosport 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/72.m3u8
-#EXTINF:-1 tvg-id="EUROSPORT 2 FHD" tvg-name="Eurosport 2 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Eurosport2.png" group-title="VIP PORTUGAL",Eurosport 2 (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/73.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Play ✬Kids✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Kids.png" group-title="VIP PORTUGAL",Play ✬Kids✬
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/31158.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Play ✬Disney✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Disney.png" group-title="VIP PORTUGAL",Play ✬Disney✬
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/31159.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Play ✬Pixar✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Pixar.png" group-title="VIP PORTUGAL",Play ✬Pixar✬
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/42316.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Play ✬DreamWorks✬" tvg-logo="http://mylogos.xyz/LogosPT/Play.Dreamworks.png" group-title="VIP PORTUGAL",Play ✬DreamWorks✬
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/43227.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Play ✬Luccas Neto✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.LucasNeto.png" group-title="VIP PORTUGAL",Play ✬Luccas Neto✬
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/31163.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Play ✬Artista da Semana✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.ArtistaDaSemana.png" group-title="VIP PORTUGAL",Play ✬Artista da Semana✬
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/32074.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Play ✬Cinema✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Cinema.png" group-title="VIP PORTUGAL",Play ✬Cinema✬
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/32138.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Play ✬Acção✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Accao.png" group-title="VIP PORTUGAL",Play ✬Acção✬
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/31166.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Play ✬Comédias✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Comedias.png" group-title="VIP PORTUGAL",Play ✬Comédias✬
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/32978.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Play ✬Dramas✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Dramas.png" group-title="VIP PORTUGAL",Play ✬Dramas✬
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/31165.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Play ✬Ficção e Fantasia✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.FiccaoFantasia.png" group-title="VIP PORTUGAL",Play ✬Ficção e Fantasia✬
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/32137.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Play ✬Marvel✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Marvel1.png" group-title="VIP PORTUGAL",Play ✬Marvel✬
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/32076.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Play ✬Marvel 2✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Marvel2.png" group-title="VIP PORTUGAL",Play ✬Marvel 2✬
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/43300.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Play ✬DC Comics✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.DCcomics.png" group-title="VIP PORTUGAL",Play ✬DC Comics✬
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/32979.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Play ✬Sagas e Trilogias✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Sagas.png" group-title="VIP PORTUGAL",Play ✬Sagas e Trilogias✬
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/32152.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Play ✬Western✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Western.2021.png" group-title="VIP PORTUGAL",Play ✬Western✬
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/32151.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Play ✬Terror✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Terror.png" group-title="VIP PORTUGAL",Play ✬Terror✬
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/33009.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Play ✬Cinema Português✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.CinemaTuga.png" group-title="VIP PORTUGAL",Play ✬Cinema Português✬
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/113486.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Play ✬Documentários✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Documentarios.png" group-title="VIP PORTUGAL",Play ✬Documentários✬
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/82513.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Play ✬Tomorrowland✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Tomorrowland.png" group-title="VIP PORTUGAL",Play ✬Tomorrowland✬
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/32139.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Play ✬Dj´s✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Djs.png" group-title="VIP PORTUGAL",Play ✬Dj´s✬
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/32136.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Play ✬Music✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Music.png" group-title="VIP PORTUGAL",Play ✬Music✬
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/31160.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Play ✬Concerts✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Concerts.png" group-title="VIP PORTUGAL",Play ✬Concerts✬
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/31161.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Play ✬The Voice✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.TheVoice.png" group-title="VIP PORTUGAL",Play ✬The Voice✬
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/33010.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Play ✬Stand-Up Comedy✬" tvg-logo="http://mylogos.xyz/LogosPlay/PlayStandup.png" group-title="VIP PORTUGAL",Play ✬Stand-Up Comedy✬
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/48741.m3u8
-#EXTINF:-1 tvg-id="TVCine TOP" tvg-name="TVCine Top" tvg-logo="http://mylogos.xyz/LogosPT/tvcine.top.png" group-title="VIP PORTUGAL",TVCine Top
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/83.m3u8
-#EXTINF:-1 tvg-id="TVCine TOP FHD" tvg-name="TVCine Top (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/tvcine.top.png" group-title="VIP PORTUGAL",TVCine Top (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/84.m3u8
-#EXTINF:-1 tvg-id="TVCine EDITION" tvg-name="TVCine Edition" tvg-logo="http://mylogos.xyz/LogosPT/tvcine.edition.png" group-title="VIP PORTUGAL",TVCine Edition
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/85.m3u8
-#EXTINF:-1 tvg-id="TVCine EDITION FHD" tvg-name="TVCine Edition (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/tvcine.edition.1080p.png" group-title="VIP PORTUGAL",TVCine Edition (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/86.m3u8
-#EXTINF:-1 tvg-id="TVCine EMOTION" tvg-name="TVCine Emotion" tvg-logo="http://mylogos.xyz/LogosPT/tvcine.emotion.png" group-title="VIP PORTUGAL",TVCine Emotion
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/87.m3u8
-#EXTINF:-1 tvg-id="TVCine EMOTION FHD" tvg-name="TVCine Emotion (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/tvcine.emotion.png" group-title="VIP PORTUGAL",TVCine Emotion (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/88.m3u8
-#EXTINF:-1 tvg-id="TVCine ACTION" tvg-name="TVCine Action" tvg-logo="http://mylogos.xyz/LogosPT/tvcine.action.png" group-title="VIP PORTUGAL",TVCine Action
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/89.m3u8
-#EXTINF:-1 tvg-id="TVCine ACTION FHD" tvg-name="TVCine Action (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/tvcine.action.png" group-title="VIP PORTUGAL",TVCine Action (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/90.m3u8
-#EXTINF:-1 tvg-id="NOS STUDIOS" tvg-name="NOS Studios" tvg-logo="http://mylogos.xyz/LogosPT/NosStudios.png" group-title="VIP PORTUGAL",NOS Studios
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/14142.m3u8
-#EXTINF:-1 tvg-id="NOS STUDIOS FHD" tvg-name="Nos studios (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/NosStudios.png" group-title="VIP PORTUGAL",Nos studios (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/100.m3u8
-#EXTINF:-1 tvg-id="CINEMUNDO" tvg-name="Cinemundo" tvg-logo="http://mylogos.xyz/LogosPT/cinemundo.png" group-title="VIP PORTUGAL",Cinemundo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/97.m3u8
-#EXTINF:-1 tvg-id="Cinemundo PT" tvg-name="Cinemundo (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/cinemundo.png" group-title="VIP PORTUGAL",Cinemundo (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/22183.m3u8
-#EXTINF:-1 tvg-id="HOLLYWOOD" tvg-name="Hollywood" tvg-logo="http://mylogos.xyz/LogosPT/hollywood.png" group-title="VIP PORTUGAL",Hollywood
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/95.m3u8
-#EXTINF:-1 tvg-id="HOLLYWOOD FHD" tvg-name="Hollywood (FullHD)" tvg-logo="http://naoadianta696969.live:80/images/b0bac411b0b17f4e7538dd0f42023d02.png" group-title="VIP PORTUGAL",Hollywood (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/96.m3u8
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://mylogos.xyz/LogosPT/AMC.png" group-title="VIP PORTUGAL",AMC
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/104.m3u8
-#EXTINF:-1 tvg-id="AMC FHD" tvg-name="AMC (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/AMC.png" group-title="VIP PORTUGAL",AMC (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/105.m3u8
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://mylogos.xyz/LogosPT/axn.png" group-title="VIP PORTUGAL",AXN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/106.m3u8
-#EXTINF:-1 tvg-id="AXN FHD" tvg-name="AXN (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/axn.1080p.png" group-title="VIP PORTUGAL",AXN (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/107.m3u8
-#EXTINF:-1 tvg-id="AXN WHITE HD" tvg-name="AXN White" tvg-logo="http://mylogos.xyz/LogosPT/axn.white.png" group-title="VIP PORTUGAL",AXN White
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/110.m3u8
-#EXTINF:-1 tvg-id="AXN WHITE FHD" tvg-name="AXN White (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/axn.white.1080p.png" group-title="VIP PORTUGAL",AXN White (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/111.m3u8
-#EXTINF:-1 tvg-id="AXN MOVIES" tvg-name="AXN Movies" tvg-logo="http://mylogos.xyz/LogosPT/axn.movies.png" group-title="VIP PORTUGAL",AXN Movies
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/108.m3u8
-#EXTINF:-1 tvg-id="AXN MOVIES FHD" tvg-name="AXN Movies (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/axn.movies.png" group-title="VIP PORTUGAL",AXN Movies (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/109.m3u8
-#EXTINF:-1 tvg-id="RTP 1" tvg-name="FOX" tvg-logo="http://mylogos.xyz/LogosPT/Fox.png" group-title="VIP PORTUGAL",FOX
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/112.m3u8
-#EXTINF:-1 tvg-id="FOX PT" tvg-name="FOX (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Fox.png" group-title="VIP PORTUGAL",FOX (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/113.m3u8
-#EXTINF:-1 tvg-id="FOX LIFE" tvg-name="FOX Life" tvg-logo="http://mylogos.xyz/LogosPT/Fox.Life.png" group-title="VIP PORTUGAL",FOX Life
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/116.m3u8
-#EXTINF:-1 tvg-id="FOX LIFE FHD" tvg-name="FOX Life (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Fox.Life.png" group-title="VIP PORTUGAL",FOX Life (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/117.m3u8
-#EXTINF:-1 tvg-id="FOX CRIME" tvg-name="FOX Crime" tvg-logo="http://mylogos.xyz/LogosPT/Fox.Crime.png" group-title="VIP PORTUGAL",FOX Crime
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/115.m3u8
-#EXTINF:-1 tvg-id="FOX CRIME FHD" tvg-name="FOX Crime (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Fox.Crime.png" group-title="VIP PORTUGAL",FOX Crime (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/101.m3u8
-#EXTINF:-1 tvg-id="FOX MOVIES" tvg-name="FOX Movies" tvg-logo="http://mylogos.xyz/LogosPT/Fox.Movies.png" group-title="VIP PORTUGAL",FOX Movies
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/102.m3u8
-#EXTINF:-1 tvg-id="FOX MOVIES FHD" tvg-name="FOX Movies (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Fox.Movies.png" group-title="VIP PORTUGAL",FOX Movies (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/25830.m3u8
-#EXTINF:-1 tvg-id="RTP 1" tvg-name="FOX Comedy" tvg-logo="http://mylogos.xyz/LogosPT/Fox.Comedy.png" group-title="VIP PORTUGAL",FOX Comedy
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/114.m3u8
-#EXTINF:-1 tvg-id="FOX COMEDY FHD" tvg-name="FOX Comedy (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Fox.Comedy.png" group-title="VIP PORTUGAL",FOX Comedy (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/29332.m3u8
-#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-logo="http://mylogos.xyz/LogosPT/Syfy.png" group-title="VIP PORTUGAL",SYFY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/93.m3u8
-#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="Disney Channel" tvg-logo="http://mylogos.xyz/LogosPT/Disney.Channel.png" group-title="VIP PORTUGAL",Disney Channel
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/124.m3u8
-#EXTINF:-1 tvg-id="DISNEY JUNIOR" tvg-name="Disney Junior" tvg-logo="http://mylogos.xyz/LogosPT/Disney.Junior.png" group-title="VIP PORTUGAL",Disney Junior
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/123.m3u8
-#EXTINF:-1 tvg-id="BIGGS" tvg-name="Biggs" tvg-logo="http://mylogos.xyz/LogosPT/Biggs.png" group-title="VIP PORTUGAL",Biggs
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/120.m3u8
-#EXTINF:-1 tvg-id="SIC K" tvg-name="SIC K" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/SIC%20K.png" group-title="VIP PORTUGAL",SIC K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/128.m3u8
-#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="Cartoon Network" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/CARTOON%20NETWORK.png" group-title="VIP PORTUGAL",Cartoon Network
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/122.m3u8
-#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="Nickelodeon" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/Nickelodeon.png" group-title="VIP PORTUGAL",Nickelodeon
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/125.m3u8
-#EXTINF:-1 tvg-id="NICK JR" tvg-name="Nick Jr." tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/Nick%20Jr..png" group-title="VIP PORTUGAL",Nick Jr.
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/126.m3u8
-#EXTINF:-1 tvg-id="BABY TV" tvg-name="Baby TV" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/BABY%20TV.png" group-title="VIP PORTUGAL",Baby TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/118.m3u8
-#EXTINF:-1 tvg-id="Panda KIDS" tvg-name="Panda Kids" tvg-logo="http://mylogos.xyz/LogosPT/Panda.Kids.png" group-title="VIP PORTUGAL",Panda Kids
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/76617.m3u8
-#EXTINF:-1 tvg-id="CANAL PANDA" tvg-name="Canal Panda" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/Canal%20Panda.png" group-title="VIP PORTUGAL",Canal Panda
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/121.m3u8
-#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/Boomerang.png" group-title="VIP PORTUGAL",Boomerang
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/119.m3u8
-#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD" tvg-name="Nat Geo" tvg-logo="http://mylogos.xyz/LogosPT/NatGeo.png" group-title="VIP PORTUGAL",Nat Geo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/30057.m3u8
-#EXTINF:-1 tvg-id="NAT GEO WILD FHD" tvg-name="Nat Geo Wild" tvg-logo="http://mylogos.xyz/LogosPT/NatGeoWild.png" group-title="VIP PORTUGAL",Nat Geo Wild
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/140.m3u8
-#EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="Discovery Channel" tvg-logo="http://mylogos.xyz/LogosPT/Discovery.Channel.png" group-title="VIP PORTUGAL",Discovery Channel
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/134.m3u8
-#EXTINF:-1 tvg-id="DISCOVERY CHANNEL FHD" tvg-name="Discovery Channel (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Discovery.Channel.png" group-title="VIP PORTUGAL",Discovery Channel (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/136.m3u8
-#EXTINF:-1 tvg-id="ID INVESTIGATION DISCOVERY" tvg-name="Investigation Discovery" tvg-logo="http://mylogos.xyz/LogosPT/InvestigationDiscovery.png" group-title="VIP PORTUGAL",Investigation Discovery
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/30061.m3u8
-#EXTINF:-1 tvg-id="CRIME INVESTIGATION" tvg-name="Crime Investigation" tvg-logo="http://mylogos.xyz/LogosPT/CrimeInvestigation.png" group-title="VIP PORTUGAL",Crime Investigation
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/133.m3u8
-#EXTINF:-1 tvg-id="TRAVEL CHANNEL FHD" tvg-name="Travel Channel" tvg-logo="http://mylogos.xyz/LogosPT/Travel.Channel.png" group-title="VIP PORTUGAL",Travel Channel
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/152.m3u8
-#EXTINF:-1 tvg-id="ODISSEIA" tvg-name="Odisseia" tvg-logo="http://mylogos.xyz/LogosPT/Odisseia.png" group-title="VIP PORTUGAL",Odisseia
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/146.m3u8
-#EXTINF:-1 tvg-id="HISTÓRIA" tvg-name="História" tvg-logo="http://mylogos.xyz/LogosPT/Historia.png" group-title="VIP PORTUGAL",História
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/148.m3u8
-#EXTINF:-1 tvg-id="CANAL Q" tvg-name="Canal Q" tvg-logo="http://mylogos.xyz/LogosPT/CanalQ.png" group-title="VIP PORTUGAL",Canal Q
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/169.m3u8
-#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://mylogos.xyz/LogosPT/TLC.png" group-title="VIP PORTUGAL",TLC
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/151.m3u8
-#EXTINF:-1 tvg-id="CASA E COZINHA FHD" tvg-name="Casa e Cozinha" tvg-logo="http://mylogos.xyz/LogosPT/CasaCozinha.png" group-title="VIP PORTUGAL",Casa e Cozinha
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/22238.m3u8
-#EXTINF:-1 tvg-id="24 KITCHEN FHD" tvg-name="24 Kitchen" tvg-logo="http://mylogos.xyz/LogosPT/24Kitchen.png" group-title="VIP PORTUGAL",24 Kitchen
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/129.m3u8
-#EXTINF:-1 tvg-id="FOOD NETWORK FHD" tvg-name="Food Network" tvg-logo="http://mylogos.xyz/LogosPT/FoodNetwork.1080p.png" group-title="VIP PORTUGAL",Food Network
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/29358.m3u8
-#EXTINF:-1 tvg-id="FUEL TV FHD" tvg-name="Fuel TV" tvg-logo="http://mylogos.xyz/LogosPT/FuelTV.png" group-title="VIP PORTUGAL",Fuel TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/69.m3u8
-#EXTINF:-1 tvg-id="MOTORVISION FHD" tvg-name="Motorvision" tvg-logo="http://mylogos.xyz/LogosPT/MotorvisionTV.png" group-title="VIP PORTUGAL",Motorvision
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/82.m3u8
-#EXTINF:-1 tvg-id="CAÇA E PESCA" tvg-name="Caça e Pesca" tvg-logo="http://mylogos.xyz/LogosPT/CazaPesca.png" group-title="VIP PORTUGAL",Caça e Pesca
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/132.m3u8
-#EXTINF:-1 tvg-id="CAÇAVISION" tvg-name="Caçavision" tvg-logo="http://mylogos.xyz/LogosPT/Cazavision.png" group-title="VIP PORTUGAL",Caçavision
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/131.m3u8
-#EXTINF:-1 tvg-id="TOROS TV" tvg-name="Toros TV" tvg-logo="http://mylogos.xyz/LogosPT/TorosTv.png" group-title="VIP PORTUGAL",Toros TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/80.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mundotoro TV" tvg-logo="http://boxlogos.top/LogosPT/MundotoroTV.png" group-title="VIP PORTUGAL",Mundotoro TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/114300.m3u8
-#EXTINF:-1 tvg-id="FIGHT NETWORK FHD" tvg-name="Fight Network" tvg-logo="http://www.logosmundo.net/logos/Novos/LOGOS%20ECRA%20TOTAL/fight_netowrk.png" group-title="VIP PORTUGAL",Fight Network
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/29357.m3u8
-#EXTINF:-1 tvg-id="Cancao Nova PT" tvg-name="Canção Nova" tvg-logo="https://i.imgur.com/1EGWuDA.png" group-title="VIP PORTUGAL",Canção Nova
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/25555.m3u8
-#EXTINF:-1 tvg-id="RTP ÁFRICA" tvg-name="Afro Music" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/AFRO%20MUSIC.png" group-title="VIP PORTUGAL",Afro Music
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/171.m3u8
-#EXTINF:-1 tvg-id="MCM POP" tvg-name="MCM Pop" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/MCM%20POP.png" group-title="VIP PORTUGAL",MCM Pop
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/174.m3u8
-#EXTINF:-1 tvg-id="MTV PORTUGAL" tvg-name="MTV Portugal" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/Mtv%20Portugal.png" group-title="VIP PORTUGAL",MTV Portugal
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/173.m3u8
-#EXTINF:-1 tvg-id="MTV LIVE FHD" tvg-name="MTV Live" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/Mtv%20Live.png" group-title="VIP PORTUGAL",MTV Live
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/29240.m3u8
-#EXTINF:-1 tvg-id="RTP 1" tvg-name="MTV 00's" tvg-logo="http://mylogos.xyz/LogosPT/MTV00s.png" group-title="VIP PORTUGAL",MTV 00's
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/181.m3u8
-#EXTINF:-1 tvg-id="MEZZO Live FHD" tvg-name="Mezzo Live" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/MEZZO%20HD.png" group-title="VIP PORTUGAL",Mezzo Live
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/29361.m3u8
-#EXTINF:-1 tvg-id="RTP 1" tvg-name="Blaze" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/Blaze%20HD.png" group-title="VIP PORTUGAL",Blaze
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/15353.m3u8
-#EXTINF:-1 tvg-id="TV RECORD" tvg-name="TV Record" tvg-logo="http://mylogos.xyz/LogosPT/RecordTV.png" group-title="VIP PORTUGAL",TV Record
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/162.m3u8
-#EXTINF:-1 tvg-id="ZAPVIVA" tvg-name="ZAP Viva" tvg-logo="http://www.logosmundo.net/logos/Novos/LOGOS%20ECRA%20TOTAL/zapviva.png" group-title="VIP PORTUGAL",ZAP Viva
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/26293.m3u8
-#EXTINF:-1 tvg-id="Euronews PT" tvg-name="EURONEWS ✬Portugal✬" tvg-logo="http://www.logosmundo.net/logos/Novos/LOGOS%20ECRA%20TOTAL/euronews.png" group-title="VIP PORTUGAL",EURONEWS ✬Portugal✬
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/29067.m3u8
-#EXTINF:-1 tvg-id="BBC ENTERTAINMENT" tvg-name="BBC Entertainment" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/BBC%20Entertainment.png" group-title="VIP PORTUGAL",BBC Entertainment
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/156.m3u8
-#EXTINF:-1 tvg-id="TPA INTERNACIONAL" tvg-name="TPA (Angola)" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/TPA%20INTERNACIONAL.png" group-title="VIP PORTUGAL",TPA (Angola)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://proxy.vipsemcloud.net:8080/live/pedro123mauricio/mauricio456pedro/26294.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="》》BEM VINDO AO SUPER TV 《《" tvg-logo="https://i.imgur.com/i8NmLl7.png" group-title="PORTUGAL",》》BEM VINDO AO SUPER TV 《《
+http://megatola2024.online:8080/Carlosneves/7549757806/149921
+#EXTINF:-1 tvg-id="RTPxx1" tvg-name="PT: RTP 1" tvg-logo="http://boxlogos.top/LogosPT/RTP1.png" group-title="PORTUGAL",PT: RTP 1
+http://megatola2024.online:8080/Carlosneves/7549757806/66572
+#EXTINF:-1 tvg-id="RTPxx1" tvg-name="PT: RTP 1 ʰᵈ ᴴ²⁶⁵" tvg-logo="http://boxlogos.top/LogosPT/RTP1.png" group-title="PORTUGAL",PT: RTP 1 ʰᵈ ᴴ²⁶⁵
+http://megatola2024.online:8080/Carlosneves/7549757806/71700
+#EXTINF:-1 tvg-id="RTPxx1" tvg-name="PT: RTP 1 ᶠʰᵈ" tvg-logo="http://boxlogos.top/LogosPT/RTP1.1080p.png" group-title="PORTUGAL",PT: RTP 1 ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66573
+#EXTINF:-1 tvg-id="RTxxP2" tvg-name="PT: RTP 2" tvg-logo="http://boxlogos.top/LogosPT/RTP2.png" group-title="PORTUGAL",PT: RTP 2
+http://megatola2024.online:8080/Carlosneves/7549757806/66574
+#EXTINF:-1 tvg-id="RTxxP2" tvg-name="PT: RTP 2 ʰᵈ ᴴ²⁶⁵" tvg-logo="http://boxlogos.top/LogosPT/RTP2.png" group-title="PORTUGAL",PT: RTP 2 ʰᵈ ᴴ²⁶⁵
+http://megatola2024.online:8080/Carlosneves/7549757806/71702
+#EXTINF:-1 tvg-id="RTxxP2" tvg-name="PT: RTP 2 ᶠʰᵈ" tvg-logo="http://boxlogos.top/LogosPT/RTP2.1080p.png" group-title="PORTUGAL",PT: RTP 2 ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66575
+#EXTINF:-1 tvg-id="RTP3" tvg-name="PT: RTP 3" tvg-logo="https://boxlogos.top/LogosPT/RTP3.png" group-title="PORTUGAL",PT: RTP 3
+http://megatola2024.online:8080/Carlosneves/7549757806/66587
+#EXTINF:-1 tvg-id="SIC" tvg-name="PT: SIC" tvg-logo="http://boxlogos.top/LogosPT/SIC.png" group-title="PORTUGAL",PT: SIC
+http://megatola2024.online:8080/Carlosneves/7549757806/66576
+#EXTINF:-1 tvg-id="SIC" tvg-name="PT: SIC ʰᵈ ᴴ²⁶⁵" tvg-logo="http://boxlogos.top/LogosPT/SIC.png" group-title="PORTUGAL",PT: SIC ʰᵈ ᴴ²⁶⁵
+http://megatola2024.online:8080/Carlosneves/7549757806/71708
+#EXTINF:-1 tvg-id="SIC" tvg-name="PT: SIC ᶠʰᵈ" tvg-logo="http://boxlogos.top/LogosPT/SIC.1080p.png" group-title="PORTUGAL",PT: SIC ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66577
+#EXTINF:-1 tvg-id="TVI" tvg-name="PT: TVI" tvg-logo="http://boxlogos.top/LogosPT/TVI.png" group-title="PORTUGAL",PT: TVI
+http://megatola2024.online:8080/Carlosneves/7549757806/66578
+#EXTINF:-1 tvg-id="TVID" tvg-name="PT: TVI  ʰᵈ ᴴ²⁶⁵" tvg-logo="http://boxlogos.top/LogosPT/TVI.png" group-title="PORTUGAL",PT: TVI  ʰᵈ ᴴ²⁶⁵
+http://megatola2024.online:8080/Carlosneves/7549757806/71734
+#EXTINF:-1 tvg-id="TVI" tvg-name="PT: TVI ᶠʰᵈ" tvg-logo="http://boxlogos.top/LogosPT/TVI.1080p.png" group-title="PORTUGAL",PT: TVI ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66579
+#EXTINF:-1 tvg-id="" tvg-name=""------NOTICIAS------"" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.N77EAKedXCBHHD1mRKfrlgHaE7&pid=Api&P=0&w=260&h=174" group-title="PORTUGAL","------NOTICIAS------"
+http://megatola2024.online:8080/Carlosneves/7549757806/145802
+#EXTINF:-1 tvg-id="CMTV" tvg-name="PT: CMTV" tvg-logo="http://boxlogos.top/LogosPT/CMtv.png" group-title="PORTUGAL",PT: CMTV
+http://megatola2024.online:8080/Carlosneves/7549757806/66581
+#EXTINF:-1 tvg-id="CMTV" tvg-name="PT: CMTV ᶠʰᵈ" tvg-logo="http://boxlogos.top/LogosPT/CMtv.1080p.png" group-title="PORTUGAL",PT: CMTV ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66582
+#EXTINF:-1 tvg-id="TVI24" tvg-name="PT:CNN PORTUGAL" tvg-logo="https://boxlogos.top/LogosPT/cnnPT.png" group-title="PORTUGAL",PT:CNN PORTUGAL
+http://megatola2024.online:8080/Carlosneves/7549757806/98315
+#EXTINF:-1 tvg-id="TVI24" tvg-name="PT:CNN PORTUGAL ᶠʰᵈ" tvg-logo="https://boxlogos.top/LogosPT/cnnPT.1080p.png" group-title="PORTUGAL",PT:CNN PORTUGAL ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/98316
+#EXTINF:-1 tvg-id="SICNHd" tvg-name="PT: SIC NOTICIAS" tvg-logo="https://boxlogos.top/LogosPT/Sic.Noticias.png" group-title="PORTUGAL",PT: SIC NOTICIAS
+http://megatola2024.online:8080/Carlosneves/7549757806/66585
+#EXTINF:-1 tvg-id="SICNHd" tvg-name="PT: SIC NOTICIAS ʰᵈ ᴴ²⁶⁵" tvg-logo="https://boxlogos.top/LogosPT/Sic.Noticias.png" group-title="PORTUGAL",PT: SIC NOTICIAS ʰᵈ ᴴ²⁶⁵
+http://megatola2024.online:8080/Carlosneves/7549757806/71706
+#EXTINF:-1 tvg-id="SICNHd" tvg-name="PT: SIC NOTICIAS ᶠʰᵈ" tvg-logo="https://boxlogos.top/LogosPT/Sic.Noticias.1080p.png" group-title="PORTUGAL",PT: SIC NOTICIAS ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66586
+#EXTINF:-1 tvg-id="NOW TV" tvg-name="PT: NEWS NOW" tvg-logo="http://boxlogos.top/LogosPT/NewsNow.png" group-title="PORTUGAL",PT: NEWS NOW
+http://megatola2024.online:8080/Carlosneves/7549757806/166538
+#EXTINF:-1 tvg-id="NOW TV" tvg-name="PT: NEWS NOW ᶠʰᵈ" tvg-logo="http://boxlogos.top/LogosPT/NewsNow.png" group-title="PORTUGAL",PT: NEWS NOW ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/166539
+#EXTINF:-1 tvg-id="" tvg-name="PT: V+ Tvi" tvg-logo="http://boxlogos.top/LogosPT/tviV+.png" group-title="PORTUGAL",PT: V+ Tvi
+http://megatola2024.online:8080/Carlosneves/7549757806/169135
+#EXTINF:-1 tvg-id="tviReserva1ficcao" tvg-name="PT: V+ TVI ᶠᴴᴰ" tvg-logo="http://boxlogos.top/LogosPT/tviV+.png" group-title="PORTUGAL",PT: V+ TVI ᶠᴴᴰ
+http://megatola2024.online:8080/Carlosneves/7549757806/169136
+#EXTINF:-1 tvg-id="PORTOhd" tvg-name="PT: PORTO CANAL" tvg-logo="https://boxlogos.top/LogosPT/Porto.Canal.png" group-title="PORTUGAL",PT: PORTO CANAL
+http://megatola2024.online:8080/Carlosneves/7549757806/66588
+#EXTINF:-1 tvg-id="PORTOhd" tvg-name="PT: PORTO CANAL ᶠʰᵈ" tvg-logo="https://boxlogos.top/LogosPT/Porto.Canal.1080p.png" group-title="PORTUGAL",PT: PORTO CANAL ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66589
+#EXTINF:-1 tvg-id="" tvg-name=""----GENERALISTAS----"" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.N77EAKedXCBHHD1mRKfrlgHaE7&pid=Api&P=0&w=260&h=174" group-title="PORTUGAL","----GENERALISTAS----"
+http://megatola2024.online:8080/Carlosneves/7549757806/145803
+#EXTINF:-1 tvg-id="SICMhd" tvg-name="PT: SIC MULHER" tvg-logo="https://boxlogos.top/LogosPT/SIC.Mulher.png" group-title="PORTUGAL",PT: SIC MULHER
+http://megatola2024.online:8080/Carlosneves/7549757806/66607
+#EXTINF:-1 tvg-id="SICMhd" tvg-name="PT: SIC MULHER ᶠʰᵈ" tvg-logo="https://boxlogos.top/LogosPT/SIC.Mulher.1080p.png" group-title="PORTUGAL",PT: SIC MULHER ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66608
+#EXTINF:-1 tvg-id="SICCARAShd" tvg-name="PT: SIC CARAS" tvg-logo="https://boxlogos.top/LogosPT/SIC.Caras.png" group-title="PORTUGAL",PT: SIC CARAS
+http://megatola2024.online:8080/Carlosneves/7549757806/66609
+#EXTINF:-1 tvg-id="SICCARAShd" tvg-name="PT: SIC CARAS ʰᵈ ᴴ²⁶⁵" tvg-logo="https://boxlogos.top/LogosPT/SIC.Caras.png" group-title="PORTUGAL",PT: SIC CARAS ʰᵈ ᴴ²⁶⁵
+http://megatola2024.online:8080/Carlosneves/7549757806/71704
+#EXTINF:-1 tvg-id="SicCaras.pt" tvg-name="PT: SIC CARAS ᶠʰᵈ" tvg-logo="https://boxlogos.top/LogosPT/SIC.Caras.1080p.png" group-title="PORTUGAL",PT: SIC CARAS ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66610
+#EXTINF:-1 tvg-id="SICR" tvg-name="PT: SIC RADICAL" tvg-logo="https://boxlogos.top/LogosPT/SIC.Radical.png" group-title="PORTUGAL",PT: SIC RADICAL
+http://megatola2024.online:8080/Carlosneves/7549757806/66611
+#EXTINF:-1 tvg-id="SICRhd" tvg-name="PT: SIC RADICAL ᶠʰᵈ" tvg-logo="https://boxlogos.top/LogosPT/SIC.Radical.1080p.png" group-title="PORTUGAL",PT: SIC RADICAL ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66612
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC NOVELAS ᶠʰᵈ"" tvg-logo="https://echoboomer.pt/wp-content/uploads/2023/03/sic-novelas.jpg" group-title="PORTUGAL",PT: SIC NOVELAS ᶠʰᵈ"
+http://megatola2024.online:8080/Carlosneves/7549757806/145797
+#EXTINF:-1 tvg-id="TVIReality" tvg-name="PT: TVI REALITY" tvg-logo="https://boxlogos.top/LogosPT/TVI.Reality.png" group-title="PORTUGAL",PT: TVI REALITY
+http://megatola2024.online:8080/Carlosneves/7549757806/66600
+#EXTINF:-1 tvg-id="TVIReality" tvg-name="PT: TVI REALITY ʰᵈ ᴴ²⁶⁵" tvg-logo="https://boxlogos.top/LogosPT/TVI.Reality.png" group-title="PORTUGAL",PT: TVI REALITY ʰᵈ ᴴ²⁶⁵
+http://megatola2024.online:8080/Carlosneves/7549757806/71737
+#EXTINF:-1 tvg-id="TVIReality" tvg-name="PT: TVI REALITY FHD" tvg-logo="https://boxlogos.top/LogosPT/TVI.Reality.1080p.png" group-title="PORTUGAL",PT: TVI REALITY FHD
+http://megatola2024.online:8080/Carlosneves/7549757806/66601
+#EXTINF:-1 tvg-id="TviReality.pt" tvg-name="PT: TVI Reality -Mosaico" tvg-logo="https://boxlogos.top/LogosPT/TVI.Reality.Mosaico.png" group-title="PORTUGAL",PT: TVI Reality -Mosaico
+http://megatola2024.online:8080/Carlosneves/7549757806/66602
+#EXTINF:-1 tvg-id="TviReality.pt" tvg-name="PT: TVI Reality - Cãmera 1" tvg-logo="https://boxlogos.top/LogosPT/TVI.Reality.Cam1.png" group-title="PORTUGAL",PT: TVI Reality - Cãmera 1
+http://megatola2024.online:8080/Carlosneves/7549757806/66603
+#EXTINF:-1 tvg-id="TviReality.pt" tvg-name="PT: TVI Reality - Cãmera 2" tvg-logo="https://boxlogos.top/LogosPT/TVI.Reality.Cam2.png" group-title="PORTUGAL",PT: TVI Reality - Cãmera 2
+http://megatola2024.online:8080/Carlosneves/7549757806/66604
+#EXTINF:-1 tvg-id="TviReality.pt" tvg-name="PT: TVI Reality - Cãmera 3" tvg-logo="https://boxlogos.top/LogosPT/TVI.Reality.Cam3.png" group-title="PORTUGAL",PT: TVI Reality - Cãmera 3
+http://megatola2024.online:8080/Carlosneves/7549757806/66605
+#EXTINF:-1 tvg-id="TviReality.pt" tvg-name="PT: TVI Reality - Cãmera 4" tvg-logo="https://boxlogos.top/LogosPT/TVI.Reality.Cam4.png" group-title="PORTUGAL",PT: TVI Reality - Cãmera 4
+http://megatola2024.online:8080/Carlosneves/7549757806/66606
+#EXTINF:-1 tvg-id="RTP Açores" tvg-name="PT: RTP ACORES" tvg-logo="https://boxlogos.top/LogosPT/RTP.Acores.png" group-title="PORTUGAL",PT: RTP ACORES
+http://megatola2024.online:8080/Carlosneves/7549757806/66613
+#EXTINF:-1 tvg-id="RTP Madeira" tvg-name="PT: RTP MADEIRA" tvg-logo="https://boxlogos.top/LogosPT/RTP.Madeira.png" group-title="PORTUGAL",PT: RTP MADEIRA
+http://megatola2024.online:8080/Carlosneves/7549757806/66614
+#EXTINF:-1 tvg-id="RTPM" tvg-name="PT: RTP MEMORIA" tvg-logo="https://boxlogos.top/LogosPT/RTP.Memoria.png" group-title="PORTUGAL",PT: RTP MEMORIA
+http://megatola2024.online:8080/Carlosneves/7549757806/66615
+#EXTINF:-1 tvg-id="RTPA" tvg-name="PT: RTP AFRICA" tvg-logo="https://boxlogos.top/LogosPT/RTP.Africa.png" group-title="PORTUGAL",PT: RTP AFRICA
+http://megatola2024.online:8080/Carlosneves/7549757806/66616
+#EXTINF:-1 tvg-id="CanaljQ" tvg-name="PT: CANAL Q" tvg-logo="https://boxlogos.top/LogosPT/CanalQ.png" group-title="PORTUGAL",PT: CANAL Q
+http://megatola2024.online:8080/Carlosneves/7549757806/66617
+#EXTINF:-1 tvg-id="TV Record HD" tvg-name="PT: TV RECORD" tvg-logo="https://boxlogos.top/LogosPT/RecordTV.png" group-title="PORTUGAL",PT: TV RECORD
+http://megatola2024.online:8080/Carlosneves/7549757806/66618
+#EXTINF:-1 tvg-id="TV Record HD" tvg-name="PT: TV RECORD ᶠʰᵈ" tvg-logo="https://boxlogos.top/LogosPT/RecordTV.1080p.png" group-title="PORTUGAL",PT: TV RECORD ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66619
+#EXTINF:-1 tvg-id="GLObbO" tvg-name="PT: GLOBO" tvg-logo="https://boxlogos.top/LogosPT/Globo.png" group-title="PORTUGAL",PT: GLOBO
+http://megatola2024.online:8080/Carlosneves/7549757806/66620
+#EXTINF:-1 tvg-id="GLObbO" tvg-name="PT: GLOBO ʰᵈ ᴴ²⁶⁵" tvg-logo="https://boxlogos.top/LogosPT/Globo.png" group-title="PORTUGAL",PT: GLOBO ʰᵈ ᴴ²⁶⁵
+http://megatola2024.online:8080/Carlosneves/7549757806/71691
+#EXTINF:-1 tvg-id="GLObbO" tvg-name="PT: GLOBO ᶠʰᵈ" tvg-logo="https://boxlogos.top/LogosPT/Globo.1080p.png" group-title="PORTUGAL",PT: GLOBO ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66621
+#EXTINF:-1 tvg-id="SIC Novelas" tvg-name="PT: GLOBO NOW" tvg-logo="https://boxlogos.top/LogosPT/Globo.Now.png" group-title="PORTUGAL",PT: GLOBO NOW
+http://megatola2024.online:8080/Carlosneves/7549757806/66622
+#EXTINF:-1 tvg-id="SIC Novelas" tvg-name="PT: GLOBO NOW ᶠʰᵈ" tvg-logo="https://boxlogos.top/LogosPT/Globo.Now.png" group-title="PORTUGAL",PT: GLOBO NOW ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66623
+#EXTINF:-1 tvg-id="" tvg-name=""------DESPORTO------"" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.N77EAKedXCBHHD1mRKfrlgHaE7&pid=Api&P=0&w=260&h=174" group-title="PORTUGAL","------DESPORTO------"
+http://megatola2024.online:8080/Carlosneves/7549757806/145801
+#EXTINF:-1 tvg-id="RTPxx1" tvg-name="PT: A BOLA TV" tvg-logo="https://boxlogos.top/LogosPT/aBolaTV.png" group-title="PORTUGAL",PT: A BOLA TV
+http://megatola2024.online:8080/Carlosneves/7549757806/66590
+#EXTINF:-1 tvg-id="RTPxx1" tvg-name="PT: A BOLA ʰᵈ ᴴ²⁶⁵" tvg-logo="https://boxlogos.top/LogosPT/aBolaTV.png" group-title="PORTUGAL",PT: A BOLA ʰᵈ ᴴ²⁶⁵
+http://megatola2024.online:8080/Carlosneves/7549757806/71656
+#EXTINF:-1 tvg-id="RTPxx1" tvg-name="PT: BOLA TV ᶠʰᵈ" tvg-logo="https://boxlogos.top/LogosPT/aBolaTV.1080p.png" group-title="PORTUGAL",PT: BOLA TV ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66591
+#EXTINF:-1 tvg-id="CANAL11" tvg-name="PT: Canal 11" tvg-logo="https://boxlogos.top/LogosPT/Canal11.png" group-title="PORTUGAL",PT: Canal 11
+http://megatola2024.online:8080/Carlosneves/7549757806/66679
+#EXTINF:-1 tvg-id="CANAL11" tvg-name="PT: CANAL 11 ʰᵈ ᴴ²⁶⁵" tvg-logo="https://boxlogos.top/LogosPT/Canal11.png" group-title="PORTUGAL",PT: CANAL 11 ʰᵈ ᴴ²⁶⁵
+http://megatola2024.online:8080/Carlosneves/7549757806/71668
+#EXTINF:-1 tvg-id="Canal11.pt" tvg-name="PT: CANAL 11 ᶠʰᵈ" tvg-logo="https://boxlogos.top/LogosPT/Canal11.1080p.png" group-title="PORTUGAL",PT: CANAL 11 ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66680
+#EXTINF:-1 tvg-id="SPORTV +" tvg-name="PT: SPORT TV +" tvg-logo="https://boxlogos.top/LogosPT/Sport.TV+.png" group-title="PORTUGAL",PT: SPORT TV +
+http://megatola2024.online:8080/Carlosneves/7549757806/66684
+#EXTINF:-1 tvg-id="SPORTV +" tvg-name="PT: SPORT TV + ʰᵈ ᴴ²⁶⁵" tvg-logo="https://boxlogos.top/LogosPT/Sport.TV+.H265.png" group-title="PORTUGAL",PT: SPORT TV + ʰᵈ ᴴ²⁶⁵
+http://megatola2024.online:8080/Carlosneves/7549757806/71710
+#EXTINF:-1 tvg-id="SPORTV +" tvg-name="PT: SPORT TV + ᶠʰᵈ" tvg-logo="https://boxlogos.top/LogosPT/Sport.TV+.1080P.png" group-title="PORTUGAL",PT: SPORT TV + ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66685
+#EXTINF:-1 tvg-id="SPORT.TV 1" tvg-name="PT: SPORT TV 1 SD" tvg-logo="https://boxlogos.top/LogosPT/Sport.TV1.png" group-title="PORTUGAL",PT: SPORT TV 1 SD
+http://megatola2024.online:8080/Carlosneves/7549757806/87381
+#EXTINF:-1 tvg-id="SPORT.TV 1 HD" tvg-name="PT: SPORT TV 1 4K ᴴ²⁶⁵" tvg-logo="https://boxlogos.top/LogosPT/Sport.TV1.png" group-title="PORTUGAL",PT: SPORT TV 1 4K ᴴ²⁶⁵
+http://megatola2024.online:8080/Carlosneves/7549757806/71711
+#EXTINF:-1 tvg-id="SPORT.TV 1 HD" tvg-name="PT: SPORT TV 1 ᴴᴰ" tvg-logo="https://boxlogos.top/LogosPT/Sport.TV1.png" group-title="PORTUGAL",PT: SPORT TV 1 ᴴᴰ
+http://megatola2024.online:8080/Carlosneves/7549757806/66687
+#EXTINF:-1 tvg-id="SPORT.TV 1" tvg-name="PT: SPORT TV 1 ʰᵈ ᴴ²⁶⁵" tvg-logo="https://boxlogos.top/LogosPT/Sport.TV1.H265.png" group-title="PORTUGAL",PT: SPORT TV 1 ʰᵈ ᴴ²⁶⁵
+http://megatola2024.online:8080/Carlosneves/7549757806/71712
+#EXTINF:-1 tvg-id="SPORT.TVJH 1 FULL HD" tvg-name="SPORT TV 1 ᶠʰᵈ" tvg-logo="https://boxlogos.top/LogosPT/Sport.TV1.1080p.png" group-title="PORTUGAL",SPORT TV 1 ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/86911
+#EXTINF:-1 tvg-id="SPORT.TVJH 2 FULL HD" tvg-name="PT: SPORT TV 2 SD" tvg-logo="https://boxlogos.top/LogosPT/Sport.TV2.png" group-title="PORTUGAL",PT: SPORT TV 2 SD
+http://megatola2024.online:8080/Carlosneves/7549757806/66689
+#EXTINF:-1 tvg-id="SPORT.TVJH 2 FULL HD" tvg-name="PT: SPORT TV 2 ᴴᴰ" tvg-logo="https://boxlogos.top/LogosPT/Sport.TV2.png" group-title="PORTUGAL",PT: SPORT TV 2 ᴴᴰ
+http://megatola2024.online:8080/Carlosneves/7549757806/66690
+#EXTINF:-1 tvg-id="SPORT.TV 2" tvg-name="PT: SPORT TV 2 ʰᵈ ᴴ²⁶⁵" tvg-logo="https://boxlogos.top/LogosPT/Sport.TV2.H265.png" group-title="PORTUGAL",PT: SPORT TV 2 ʰᵈ ᴴ²⁶⁵
+http://megatola2024.online:8080/Carlosneves/7549757806/71715
+#EXTINF:-1 tvg-id="SPORT.TVJH 2 FULL HD" tvg-name="PT: SPORT TV 2 ᶠʰᵈ" tvg-logo="https://boxlogos.top/LogosPT/Sport.TV2.1080P.png" group-title="PORTUGAL",PT: SPORT TV 2 ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/79664
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 ᶠʰᵈ ᴴ²⁶⁵" tvg-logo="https://boxlogos.top/LogosPT/Sport.TV2.H265.png" group-title="PORTUGAL",PT: SPORT TV 2 ᶠʰᵈ ᴴ²⁶⁵
+http://megatola2024.online:8080/Carlosneves/7549757806/71716
+#EXTINF:-1 tvg-id="SPORT.TV 3 HD" tvg-name="PT: SPORT TV 3 SD" tvg-logo="https://boxlogos.top/LogosPT/Sport.TV3.png" group-title="PORTUGAL",PT: SPORT TV 3 SD
+http://megatola2024.online:8080/Carlosneves/7549757806/66692
+#EXTINF:-1 tvg-id="SPORT.TV 3" tvg-name="PT: SPORT TV 3 ᴴᴰ" tvg-logo="https://boxlogos.top/LogosPT/Sport.TV3.png" group-title="PORTUGAL",PT: SPORT TV 3 ᴴᴰ
+http://megatola2024.online:8080/Carlosneves/7549757806/66693
+#EXTINF:-1 tvg-id="SPORT.TV 3" tvg-name="PT: SPORT TV 3 ʰᵈ ᴴ²⁶⁵" tvg-logo="https://boxlogos.top/LogosPT/Sport.TV3.H265.png" group-title="PORTUGAL",PT: SPORT TV 3 ʰᵈ ᴴ²⁶⁵
+http://megatola2024.online:8080/Carlosneves/7549757806/71717
+#EXTINF:-1 tvg-id="SPORT.TV KJ3 FULL HD" tvg-name="PT: SPORT TV 3 ᶠʰᵈ" tvg-logo="https://boxlogos.top/LogosPT/Sport.TV3.1080p.png" group-title="PORTUGAL",PT: SPORT TV 3 ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66694
+#EXTINF:-1 tvg-id="SPORT.TV 3 HD" tvg-name="PT: SPORT TV 3 ᶠʰᵈ ᴴ²⁶⁵" tvg-logo="https://boxlogos.top/LogosPT/Sport.TV3.H265.png" group-title="PORTUGAL",PT: SPORT TV 3 ᶠʰᵈ ᴴ²⁶⁵
+http://megatola2024.online:8080/Carlosneves/7549757806/71718
+#EXTINF:-1 tvg-id="SPORT.TV 4 HD" tvg-name="PT: SPORT TV 4 SD" tvg-logo="https://boxlogos.top/LogosPT/Sport.TV4.png" group-title="PORTUGAL",PT: SPORT TV 4 SD
+http://megatola2024.online:8080/Carlosneves/7549757806/66695
+#EXTINF:-1 tvg-id="SPORT.TV 4 HD" tvg-name="PT: SPORT TV 4 ʰᵈ ᴴ²⁶⁵" tvg-logo="https://boxlogos.top/LogosPT/Sport.TV4.H265.png" group-title="PORTUGAL",PT: SPORT TV 4 ʰᵈ ᴴ²⁶⁵
+http://megatola2024.online:8080/Carlosneves/7549757806/71719
+#EXTINF:-1 tvg-id="SPORT.TV 5 HD" tvg-name="PT: SPORT TV 4 ᶠʰᵈ" tvg-logo="https://boxlogos.top/LogosPT/Sport.TV4.1080p.png" group-title="PORTUGAL",PT: SPORT TV 4 ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66696
+#EXTINF:-1 tvg-id="SPORT.TV 5" tvg-name="PT: SPORT TV 5 SD" tvg-logo="https://boxlogos.top/LogosPT/Sport.TV5.png" group-title="PORTUGAL",PT: SPORT TV 5 SD
+http://megatola2024.online:8080/Carlosneves/7549757806/66697
+#EXTINF:-1 tvg-id="SPORT.TV 5 HD" tvg-name="PT: SPORT TV 5 ʰᵈ ᴴ²⁶⁵" tvg-logo="https://boxlogos.top/LogosPT/Sport.TV5.H265.png" group-title="PORTUGAL",PT: SPORT TV 5 ʰᵈ ᴴ²⁶⁵
+http://megatola2024.online:8080/Carlosneves/7549757806/71720
+#EXTINF:-1 tvg-id="SPORT.TV 5 HD" tvg-name="PT: SPORT TV 5 ᶠʰᵈ" tvg-logo="https://boxlogos.top/LogosPT/Sport.TV5.1080P.png" group-title="PORTUGAL",PT: SPORT TV 5 ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66698
+#EXTINF:-1 tvg-id="SPORT.TVHG 6 HD" tvg-name="PT: SPORT TV 6" tvg-logo="https://boxlogos.top/LogosPT/Sport.TV6.png" group-title="PORTUGAL",PT: SPORT TV 6
+http://megatola2024.online:8080/Carlosneves/7549757806/124284
+#EXTINF:-1 tvg-id="SPORT.TVHG 6 HD" tvg-name="PT: SPORT TV 6 ᶠʰᵈ ᴴ²⁶⁵" tvg-logo="https://boxlogos.top/LogosPT/Sport.TV6.H265.png" group-title="PORTUGAL",PT: SPORT TV 6 ᶠʰᵈ ᴴ²⁶⁵
+http://megatola2024.online:8080/Carlosneves/7549757806/124285
+#EXTINF:-1 tvg-id="SPORT.TVHG 6 FULL HD" tvg-name="SPORT TV 6 ᶠʰᵈ" tvg-logo="https://boxlogos.top/LogosPT/Sport.TV6.1080P.png" group-title="PORTUGAL",SPORT TV 6 ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/95748
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 7 SD" tvg-logo="http://boxlogos.top/LogosPT/Sport.TV7.png" group-title="PORTUGAL",PT: SPORT TV 7 SD
+http://megatola2024.online:8080/Carlosneves/7549757806/168942
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 7 ᶠʰᵈ" tvg-logo="http://boxlogos.top/LogosPT/Sport.TV7.png" group-title="PORTUGAL",PT: SPORT TV 7 ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/168943
+#EXTINF:-1 tvg-id="wsport" tvg-name="PT: W-Sport ᶠʰᵈ" tvg-logo="https://boxlogos.top/LogosPT/wsport.png" group-title="PORTUGAL",PT: W-Sport ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/146731
+#EXTINF:-1 tvg-id="NBA TV HD-POR" tvg-name="PT: SPORT TV NBA" tvg-logo="http://boxlogos.top/LogosPT/Sport.TV.NBA.png" group-title="PORTUGAL",PT: SPORT TV NBA
+http://megatola2024.online:8080/Carlosneves/7549757806/66681
+#EXTINF:-1 tvg-id="NBA TV HD-POR" tvg-name="PT: SPORT TV NBA ʰᵈ" tvg-logo="http://boxlogos.top/LogosPT/Sport.TV.NBA.png" group-title="PORTUGAL",PT: SPORT TV NBA ʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66682
+#EXTINF:-1 tvg-id="SIC Novelas" tvg-name="PT: SPORT TV NBA ʰᵈ ᴴ²⁶⁵" tvg-logo="http://boxlogos.top/LogosPT/Sport.TV.NBA.png" group-title="PORTUGAL",PT: SPORT TV NBA ʰᵈ ᴴ²⁶⁵
+http://megatola2024.online:8080/Carlosneves/7549757806/71721
+#EXTINF:-1 tvg-id="NBA TV HD-POR" tvg-name="PT: SPORT TV NBA ᶠʰᵈ" tvg-logo="https://boxlogos.top/LogosPT/Sport.TV.NBA.1080P.png" group-title="PORTUGAL",PT: SPORT TV NBA ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66683
+#EXTINF:-1 tvg-id="BTV1hd" tvg-name="PT: BTV Multicamaras FHD" tvg-logo="https://boxlogos.top/LogosPT/BenficaTV.1080p.png" group-title="PORTUGAL",PT: BTV Multicamaras FHD
+http://megatola2024.online:8080/Carlosneves/7549757806/172483
+#EXTINF:-1 tvg-id="BTV1hd" tvg-name="PT: BTV SD" tvg-logo="https://boxlogos.top/LogosPT/BenficaTV.png" group-title="PORTUGAL",PT: BTV SD
+http://megatola2024.online:8080/Carlosneves/7549757806/66717
+#EXTINF:-1 tvg-id="BTV1hd" tvg-name="PT: BTV ᴴᴰ" tvg-logo="https://boxlogos.top/LogosPT/BenficaTV.png" group-title="PORTUGAL",PT: BTV ᴴᴰ
+http://megatola2024.online:8080/Carlosneves/7549757806/66718
+#EXTINF:-1 tvg-id="BTV 1hd" tvg-name="PT: BENFICA TV ʰᵈ ᴴ²⁶⁵" tvg-logo="https://boxlogos.top/LogosPT/BenficaTV.H265.png" group-title="PORTUGAL",PT: BENFICA TV ʰᵈ ᴴ²⁶⁵
+http://megatola2024.online:8080/Carlosneves/7549757806/71665
+#EXTINF:-1 tvg-id="BTV1hd" tvg-name="PT: BTV ᶠʰᵈ" tvg-logo="https://boxlogos.top/LogosPT/BenficaTV.1080p.png" group-title="PORTUGAL",PT: BTV ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66719
+#EXTINF:-1 tvg-id="BTV 1hd" tvg-name="PT: BENFICA TV ᶠʰᵈ ᴴ²⁶⁵" tvg-logo="https://boxlogos.top/LogosPT/BenficaTV.H265.png" group-title="PORTUGAL",PT: BENFICA TV ᶠʰᵈ ᴴ²⁶⁵
+http://megatola2024.online:8080/Carlosneves/7549757806/71666
+#EXTINF:-1 tvg-id="BTV 1hd" tvg-name="PT: BENFICA TV 4K ᴴ²⁶⁵" tvg-logo="https://boxlogos.top/LogosPT/BenficaTV.H265.png" group-title="PORTUGAL",PT: BENFICA TV 4K ᴴ²⁶⁵
+http://megatola2024.online:8080/Carlosneves/7549757806/71664
+#EXTINF:-1 tvg-id="ELEVENSPORT 1" tvg-name="PT: DANZ 1 SD" tvg-logo="https://boxlogos.top/LogosPT/DAZN1.png" group-title="PORTUGAL",PT: DANZ 1 SD
+http://megatola2024.online:8080/Carlosneves/7549757806/66699
+#EXTINF:-1 tvg-id="ELEVENSPORT 1" tvg-name="PT: DANZ 1 ᴴᴰ" tvg-logo="https://boxlogos.top/LogosPT/DAZN1.png" group-title="PORTUGAL",PT: DANZ 1 ᴴᴰ
+http://megatola2024.online:8080/Carlosneves/7549757806/66700
+#EXTINF:-1 tvg-id="ELEVENSPORT 1" tvg-name="PT: DANZ 1 ʰᵈ ᴴ²⁶⁵" tvg-logo="https://boxlogos.top/LogosPT/DAZN1.png" group-title="PORTUGAL",PT: DANZ 1 ʰᵈ ᴴ²⁶⁵
+http://megatola2024.online:8080/Carlosneves/7549757806/71674
+#EXTINF:-1 tvg-id="ELEVENSPORT 1" tvg-name="PT: DANZ 1 ᶠʰᵈ" tvg-logo="https://boxlogos.top/LogosPT/DAZN1.png" group-title="PORTUGAL",PT: DANZ 1 ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66701
+#EXTINF:-1 tvg-id="ELEVENSPORT 1 HD" tvg-name="PT: DANZ  1 ᶠʰᵈ ᴴ²⁶⁵" tvg-logo="https://boxlogos.top/LogosPT/DAZN1.png" group-title="PORTUGAL",PT: DANZ  1 ᶠʰᵈ ᴴ²⁶⁵
+http://megatola2024.online:8080/Carlosneves/7549757806/71675
+#EXTINF:-1 tvg-id="ELEVENSPORT 2 HD" tvg-name="PT: DANZ 2 SD" tvg-logo="https://boxlogos.top/LogosPT/DAZN2.png" group-title="PORTUGAL",PT: DANZ 2 SD
+http://megatola2024.online:8080/Carlosneves/7549757806/66702
+#EXTINF:-1 tvg-id="ELEVENSPORT 2 HD" tvg-name="PT: DANZ 2 ᴴᴰ" tvg-logo="https://boxlogos.top/LogosPT/DAZN2.png" group-title="PORTUGAL",PT: DANZ 2 ᴴᴰ
+http://megatola2024.online:8080/Carlosneves/7549757806/79665
+#EXTINF:-1 tvg-id="ELEVENSPORT 2 HD" tvg-name="PT: DANZ 2 ʰᵈ ᴴ²⁶⁵" tvg-logo="https://boxlogos.top/LogosPT/DAZN2.png" group-title="PORTUGAL",PT: DANZ 2 ʰᵈ ᴴ²⁶⁵
+http://megatola2024.online:8080/Carlosneves/7549757806/71677
+#EXTINF:-1 tvg-id="ELEVENSPORT 2 HD" tvg-name="PT: DANZ 2 ᶠʰᵈ" tvg-logo="https://boxlogos.top/LogosPT/DAZN2.png" group-title="PORTUGAL",PT: DANZ 2 ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/86820
+#EXTINF:-1 tvg-id="ELEVENSPORT 2 HD" tvg-name="PT: DANZ 2 ᶠʰᵈ ᴴ²⁶⁵" tvg-logo="https://boxlogos.top/LogosPT/DAZN2.png" group-title="PORTUGAL",PT: DANZ 2 ᶠʰᵈ ᴴ²⁶⁵
+http://megatola2024.online:8080/Carlosneves/7549757806/71678
+#EXTINF:-1 tvg-id="ELEVENSPORT 3 HD" tvg-name="PT: DANZ 3 SD" tvg-logo="https://boxlogos.top/LogosPT/DAZN3.png" group-title="PORTUGAL",PT: DANZ 3 SD
+http://megatola2024.online:8080/Carlosneves/7549757806/66705
+#EXTINF:-1 tvg-id="ELEVENSPORT 3 HD" tvg-name="PT: DANZ 3 ᴴᴰ" tvg-logo="https://boxlogos.top/LogosPT/DAZN3.png" group-title="PORTUGAL",PT: DANZ 3 ᴴᴰ
+http://megatola2024.online:8080/Carlosneves/7549757806/66706
+#EXTINF:-1 tvg-id="ELEVENSPORT 3" tvg-name="PT: DANZ 3  ʰᵈ ᴴ²⁶⁵" tvg-logo="https://boxlogos.top/LogosPT/DAZN3.png" group-title="PORTUGAL",PT: DANZ 3  ʰᵈ ᴴ²⁶⁵
+http://megatola2024.online:8080/Carlosneves/7549757806/71679
+#EXTINF:-1 tvg-id="ELEVENSPORT 3" tvg-name="PT: DANZ 3 ᶠʰᵈ" tvg-logo="https://boxlogos.top/LogosPT/DAZN3.png" group-title="PORTUGAL",PT: DANZ 3 ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66707
+#EXTINF:-1 tvg-id="ELEVENSPORT 3" tvg-name="PT: DANZ 3 ᶠʰᵈ ᴴ²⁶⁵" tvg-logo="https://boxlogos.top/LogosPT/DAZN3.png" group-title="PORTUGAL",PT: DANZ 3 ᶠʰᵈ ᴴ²⁶⁵
+http://megatola2024.online:8080/Carlosneves/7549757806/71680
+#EXTINF:-1 tvg-id="ELEVENSPORT 4 HD" tvg-name="PT: DANZ 4 SD" tvg-logo="https://boxlogos.top/LogosPT/DAZN4.png" group-title="PORTUGAL",PT: DANZ 4 SD
+http://megatola2024.online:8080/Carlosneves/7549757806/66708
+#EXTINF:-1 tvg-id="ELEVENSPORT 4 HD" tvg-name="PT: DANZ 4 ᴴᴰ" tvg-logo="https://boxlogos.top/LogosPT/DAZN4.png" group-title="PORTUGAL",PT: DANZ 4 ᴴᴰ
+http://megatola2024.online:8080/Carlosneves/7549757806/66709
+#EXTINF:-1 tvg-id="ELEVENSPORT 4 HD" tvg-name="PT: DANZ 4 ᶠʰᵈ" tvg-logo="https://boxlogos.top/LogosPT/DAZN4.png" group-title="PORTUGAL",PT: DANZ 4 ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66710
+#EXTINF:-1 tvg-id="ELEVENSPORT 5" tvg-name="PT: DANZ 5 SD" tvg-logo="https://boxlogos.top/LogosPT/DAZN5.png" group-title="PORTUGAL",PT: DANZ 5 SD
+http://megatola2024.online:8080/Carlosneves/7549757806/66711
+#EXTINF:-1 tvg-id="ELEVENSPORT 5 HD" tvg-name="PT: DANZ 5 ᴴᴰ" tvg-logo="https://boxlogos.top/LogosPT/DAZN5.png" group-title="PORTUGAL",PT: DANZ 5 ᴴᴰ
+http://megatola2024.online:8080/Carlosneves/7549757806/66712
+#EXTINF:-1 tvg-id="ELEVENSPORT 5 HD" tvg-name="PT: DANZ 5 ᶠʰᵈ" tvg-logo="https://boxlogos.top/LogosPT/DAZN5.png" group-title="PORTUGAL",PT: DANZ 5 ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66713
+#EXTINF:-1 tvg-id="ELEVENSPORT 6 HD" tvg-name="PT: DANZ 6 SD" tvg-logo="https://boxlogos.top/LogosPT/DAZN6.png" group-title="PORTUGAL",PT: DANZ 6 SD
+http://megatola2024.online:8080/Carlosneves/7549757806/66714
+#EXTINF:-1 tvg-id="ELEVENSPORT 6 HD" tvg-name="PT: DANZ 6 ᴴᴰ" tvg-logo="https://boxlogos.top/LogosPT/DAZN6.png" group-title="PORTUGAL",PT: DANZ 6 ᴴᴰ
+http://megatola2024.online:8080/Carlosneves/7549757806/66715
+#EXTINF:-1 tvg-id="ELEVENSPORT 6 HD" tvg-name="PT: DANZ 6 ᶠʰᵈ" tvg-logo="https://boxlogos.top/LogosPT/DAZN6.png" group-title="PORTUGAL",PT: DANZ 6 ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66716
+#EXTINF:-1 tvg-id="SPORTINGTVHD" tvg-name="PT: SPORTING TV" tvg-logo="https://boxlogos.top/LogosPT/SportingTV.png" group-title="PORTUGAL",PT: SPORTING TV
+http://megatola2024.online:8080/Carlosneves/7549757806/66720
+#EXTINF:-1 tvg-id="SPORTINGTVHD" tvg-name="PT: SPORTING TV 1 ʰᵈ ᴴ²⁶⁵" tvg-logo="https://boxlogos.top/LogosPT/SportingTV.png" group-title="PORTUGAL",PT: SPORTING TV 1 ʰᵈ ᴴ²⁶⁵
+http://megatola2024.online:8080/Carlosneves/7549757806/71722
+#EXTINF:-1 tvg-id="SPORTINGTVHD" tvg-name="PT: SPORTING TV ᶠʰᵈ" tvg-logo="https://boxlogos.top/LogosPT/SportingTV.1080p.png" group-title="PORTUGAL",PT: SPORTING TV ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66721
+#EXTINF:-1 tvg-id="EuroSport HD" tvg-name="PT: EUROSPORT 1" tvg-logo="https://boxlogos.top/LogosPT/Eurosport1.png" group-title="PORTUGAL",PT: EUROSPORT 1
+http://megatola2024.online:8080/Carlosneves/7549757806/66722
+#EXTINF:-1 tvg-id="EuroSport HD" tvg-name="PT: EUROSPORT 1 ʰᵈ ᴴ²⁶⁵" tvg-logo="https://boxlogos.top/LogosPT/Eurosport1.png" group-title="PORTUGAL",PT: EUROSPORT 1 ʰᵈ ᴴ²⁶⁵
+http://megatola2024.online:8080/Carlosneves/7549757806/71681
+#EXTINF:-1 tvg-id="EuroSport HD" tvg-name="PT: EUROSPORT 1 ᶠʰᵈ" tvg-logo="https://boxlogos.top/LogosPT/Eurosport1.1080p.png" group-title="PORTUGAL",PT: EUROSPORT 1 ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66723
+#EXTINF:-1 tvg-id="EuroSport 2" tvg-name="PT: EUROSPORT 2" tvg-logo="https://boxlogos.top/LogosPT/Eurosport2.png" group-title="PORTUGAL",PT: EUROSPORT 2
+http://megatola2024.online:8080/Carlosneves/7549757806/66724
+#EXTINF:-1 tvg-id="EuroSport 2" tvg-name="PT: EUROSPORT 2 ᶠʰᵈ" tvg-logo="https://boxlogos.top/LogosPT/Eurosport2.1080p.png" group-title="PORTUGAL",PT: EUROSPORT 2 ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66725
+#EXTINF:-1 tvg-id="PFC" tvg-name="PT: PFC" tvg-logo="https://boxlogos.top/LogosPT/PFC.png" group-title="PORTUGAL",PT: PFC
+http://megatola2024.online:8080/Carlosneves/7549757806/66726
+#EXTINF:-1 tvg-id="RTPxx1" tvg-name="PT: REAL MADRID TV" tvg-logo="https://i.imgur.com/5V5yNq3.png" group-title="PORTUGAL",PT: REAL MADRID TV
+http://megatola2024.online:8080/Carlosneves/7549757806/66728
+#EXTINF:-1 tvg-id="" tvg-name="PT: WRC+ LIVE" tvg-logo="https://boxlogos.top/LogosPT/wrc.png" group-title="PORTUGAL",PT: WRC+ LIVE
+http://megatola2024.online:8080/Carlosneves/7549757806/108217
+#EXTINF:-1 tvg-id="Motorvision HD" tvg-name="PT: MOTORVISION" tvg-logo="https://boxlogos.top/LogosPT/MotorvisionTV.png" group-title="PORTUGAL",PT: MOTORVISION
+http://megatola2024.online:8080/Carlosneves/7549757806/66729
+#EXTINF:-1 tvg-id="Motorvision HD" tvg-name="PT: MOTORVISION ʰᵈ" tvg-logo="https://boxlogos.top/LogosPT/MotorvisionTV.png" group-title="PORTUGAL",PT: MOTORVISION ʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66730
+#EXTINF:-1 tvg-id="Motorvision HD" tvg-name="PT: MOTORVISION ᶠʰᵈ" tvg-logo="https://boxlogos.top/LogosPT/MotorvisionTV.1080p.png" group-title="PORTUGAL",PT: MOTORVISION ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66731
+#EXTINF:-1 tvg-id="Fuel Tv" tvg-name="PT: FUEL TV" tvg-logo="https://boxlogos.top/LogosPT/FuelTV.png" group-title="PORTUGAL",PT: FUEL TV
+http://megatola2024.online:8080/Carlosneves/7549757806/66733
+#EXTINF:-1 tvg-id="Fuel Tv" tvg-name="PT: FUEL TV ᶠʰᵈ" tvg-logo="https://boxlogos.top/LogosPT/FuelTV.png" group-title="PORTUGAL",PT: FUEL TV ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66734
+#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="PT: REDBULL TV ᶠʰᵈ" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/0d817f0109f2d3b50c6c3aa54898b014.png" group-title="PORTUGAL",PT: REDBULL TV ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66735
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP ARENA" tvg-logo="http://logovectorseek.com/wp-content/uploads/2019/08/rtp-arena-logo-vector.png" group-title="PORTUGAL",PT: RTP ARENA
+http://megatola2024.online:8080/Carlosneves/7549757806/146733
+#EXTINF:-1 tvg-id="" tvg-name=""----FIMES E SERIES----"" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.N77EAKedXCBHHD1mRKfrlgHaE7&pid=Api&P=0&w=260&h=174" group-title="PORTUGAL","----FIMES E SERIES----"
+http://megatola2024.online:8080/Carlosneves/7549757806/145799
+#EXTINF:-1 tvg-id="" tvg-name=" DIZI CHANNEL" tvg-logo="https://boxlogos.top/LogosPT/dizi.channel.png" group-title="PORTUGAL", DIZI CHANNEL
+http://megatola2024.online:8080/Carlosneves/7549757806/97352
+#EXTINF:-1 tvg-id="TVCg1" tvg-name="PT: TV CINE TOP" tvg-logo="https://boxlogos.top/LogosPT/tvcine.top.png" group-title="PORTUGAL",PT: TV CINE TOP
+http://megatola2024.online:8080/Carlosneves/7549757806/66643
+#EXTINF:-1 tvg-id="TVC1" tvg-name="PT: TV CINE TOP ᶠʰᵈ" tvg-logo="https://boxlogos.top/LogosPT/tvcine.top.1080p.png" group-title="PORTUGAL",PT: TV CINE TOP ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66644
+#EXTINF:-1 tvg-id="TVC3" tvg-name="PT: TV CINE EDITION" tvg-logo="https://boxlogos.top/LogosPT/tvcine.edition.png" group-title="PORTUGAL",PT: TV CINE EDITION
+http://megatola2024.online:8080/Carlosneves/7549757806/66645
+#EXTINF:-1 tvg-id="TVC2" tvg-name="PT: TV CINE EDITION ᶠʰᵈ" tvg-logo="https://boxlogos.top/LogosPT/tvcine.edition.1080p.png" group-title="PORTUGAL",PT: TV CINE EDITION ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66646
+#EXTINF:-1 tvg-id="TVCg3" tvg-name="PT: TV CINE EMOTION" tvg-logo="https://boxlogos.top/LogosPT/tvcine.emotion.png" group-title="PORTUGAL",PT: TV CINE EMOTION
+http://megatola2024.online:8080/Carlosneves/7549757806/66647
+#EXTINF:-1 tvg-id="TVC3" tvg-name="PT: TV CINE EMOTION ᶠʰᵈ" tvg-logo="https://boxlogos.top/LogosPT/tvcine.emotion.1080p.png" group-title="PORTUGAL",PT: TV CINE EMOTION ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66648
+#EXTINF:-1 tvg-id="TVC4" tvg-name="PT: TV CINE ACTION" tvg-logo="https://boxlogos.top/LogosPT/tvcine.action.png" group-title="PORTUGAL",PT: TV CINE ACTION
+http://megatola2024.online:8080/Carlosneves/7549757806/66649
+#EXTINF:-1 tvg-id="TVC4" tvg-name="PT: TV CINE ACTION ᶠʰᵈ" tvg-logo="https://boxlogos.top/LogosPT/tvcine.action.1080p.png" group-title="PORTUGAL",PT: TV CINE ACTION ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66650
+#EXTINF:-1 tvg-id="NOSStudiosHD" tvg-name="PT: NOS STUDIOS" tvg-logo="https://boxlogos.top/LogosPT/NosStudios.png" group-title="PORTUGAL",PT: NOS STUDIOS
+http://megatola2024.online:8080/Carlosneves/7549757806/66651
+#EXTINF:-1 tvg-id="NOSStudiosHD" tvg-name="PT: NOS STUDIOS ʰᵈ ᴴ²⁶⁵" tvg-logo="https://boxlogos.top/LogosPT/NosStudios.png" group-title="PORTUGAL",PT: NOS STUDIOS ʰᵈ ᴴ²⁶⁵
+http://megatola2024.online:8080/Carlosneves/7549757806/71698
+#EXTINF:-1 tvg-id="NOSStudiosHD" tvg-name="PT: NOS STUDIOS ᶠʰᵈ" tvg-logo="https://boxlogos.top/LogosPT/NosStudios.1080p.png" group-title="PORTUGAL",PT: NOS STUDIOS ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66652
+#EXTINF:-1 tvg-id="HOLLYHD" tvg-name="PT: HOLLYWOOD" tvg-logo="https://boxlogos.top/LogosPT/hollywood.png" group-title="PORTUGAL",PT: HOLLYWOOD
+http://megatola2024.online:8080/Carlosneves/7549757806/66653
+#EXTINF:-1 tvg-id="HOLLYHD" tvg-name="PT: HOLLYWOOD ʰᵈ ᴴ²⁶⁵" tvg-logo="https://boxlogos.top/LogosPT/hollywood.png" group-title="PORTUGAL",PT: HOLLYWOOD ʰᵈ ᴴ²⁶⁵
+http://megatola2024.online:8080/Carlosneves/7549757806/71693
+#EXTINF:-1 tvg-id="HOLLYHD" tvg-name="PT: HOLLYWOOD ᶠʰᵈ" tvg-logo="https://boxlogos.top/LogosPT/hollywood.1080p.png" group-title="PORTUGAL",PT: HOLLYWOOD ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66654
+#EXTINF:-1 tvg-id="HOLLYHD" tvg-name="PT: HOLLYWOOD ᶠʰᵈ ᴴ²⁶⁵" tvg-logo="https://boxlogos.top/LogosPT/hollywood.png" group-title="PORTUGAL",PT: HOLLYWOOD ᶠʰᵈ ᴴ²⁶⁵
+http://megatola2024.online:8080/Carlosneves/7549757806/71694
+#EXTINF:-1 tvg-id="AXN" tvg-name="PT: AXN" tvg-logo="https://boxlogos.top/LogosPT/axn.png" group-title="PORTUGAL",PT: AXN
+http://megatola2024.online:8080/Carlosneves/7549757806/66655
+#EXTINF:-1 tvg-id="AXN" tvg-name="PT: AXN ᶠʰᵈ" tvg-logo="https://boxlogos.top/LogosPT/axn.1080p.png" group-title="PORTUGAL",PT: AXN ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66656
+#EXTINF:-1 tvg-id="AXN White HD" tvg-name="PT: AXN WHITE" tvg-logo="https://boxlogos.top/LogosPT/axn.white.png" group-title="PORTUGAL",PT: AXN WHITE
+http://megatola2024.online:8080/Carlosneves/7549757806/66657
+#EXTINF:-1 tvg-id="AXN White HD" tvg-name="PT: AXN WHITE ᶠʰᵈ" tvg-logo="https://boxlogos.top/LogosPT/axn.white.1080p.png" group-title="PORTUGAL",PT: AXN WHITE ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66658
+#EXTINF:-1 tvg-id="AXN Black (PT)" tvg-name="PT: AXN MOVIES" tvg-logo="https://boxlogos.top/LogosPT/axn.movies.png" group-title="PORTUGAL",PT: AXN MOVIES
+http://megatola2024.online:8080/Carlosneves/7549757806/66659
+#EXTINF:-1 tvg-id="AXN White HD" tvg-name="PT: AXN MOVIES ᶠʰᵈ" tvg-logo="https://boxlogos.top/LogosPT/axn.movies.1080p.png" group-title="PORTUGAL",PT: AXN MOVIES ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66660
+#EXTINF:-1 tvg-id="FOXHD" tvg-name="PT: STAR CHANNEL" tvg-logo="https://boxlogos.top/LogosPT/Star_channel.png" group-title="PORTUGAL",PT: STAR CHANNEL
+http://megatola2024.online:8080/Carlosneves/7549757806/66661
+#EXTINF:-1 tvg-id="FOXHD" tvg-name="PT: STAR CHANNEL ᶠʰᵈ" tvg-logo="https://boxlogos.top/LogosPT/Star_channel.png" group-title="PORTUGAL",PT: STAR CHANNEL ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66662
+#EXTINF:-1 tvg-id="FOXMOVIESHD" tvg-name="PT: STAR MOVIES" tvg-logo="https://boxlogos.top/LogosPT/Star_movies.png" group-title="PORTUGAL",PT: STAR MOVIES
+http://megatola2024.online:8080/Carlosneves/7549757806/66663
+#EXTINF:-1 tvg-id="FOXMOVIESHD" tvg-name="PT: STAR MOVIES ᶠʰᵈ" tvg-logo="https://boxlogos.top/LogosPT/Star_movies.png" group-title="PORTUGAL",PT: STAR MOVIES ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66664
+#EXTINF:-1 tvg-id="FOXCRIMEHD" tvg-name="PT: STAR CRIME" tvg-logo="https://boxlogos.top/LogosPT/Star_Crime.png" group-title="PORTUGAL",PT: STAR CRIME
+http://megatola2024.online:8080/Carlosneves/7549757806/66665
+#EXTINF:-1 tvg-id="FOXCRIMEHD" tvg-name="PT: STAR CRIME ᶠʰᵈ" tvg-logo="https://boxlogos.top/LogosPT/Star_Crime.png" group-title="PORTUGAL",PT: STAR CRIME ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66666
+#EXTINF:-1 tvg-id="FXCOMEDY" tvg-name="PT: STAR COMEDY" tvg-logo="https://boxlogos.top/LogosPT/star_comedy.png" group-title="PORTUGAL",PT: STAR COMEDY
+http://megatola2024.online:8080/Carlosneves/7549757806/66667
+#EXTINF:-1 tvg-id="FXCOMEDY" tvg-name="PT: STAR COMEDY ᶠʰᵈ" tvg-logo="https://boxlogos.top/LogosPT/star_comedy.png" group-title="PORTUGAL",PT: STAR COMEDY ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66668
+#EXTINF:-1 tvg-id="FOXLIFEHD" tvg-name="PT: STAR LIFE" tvg-logo="https://boxlogos.top/LogosPT/Star_life.png" group-title="PORTUGAL",PT: STAR LIFE
+http://megatola2024.online:8080/Carlosneves/7549757806/66669
+#EXTINF:-1 tvg-id="FOXLIFEHD" tvg-name="PT: STAR LIFE ᶠʰᵈ" tvg-logo="https://boxlogos.top/LogosPT/Star_life.png" group-title="PORTUGAL",PT: STAR LIFE ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66670
+#EXTINF:-1 tvg-id="CINEMUNDO" tvg-name="PT: CINEMUNDO" tvg-logo="https://boxlogos.top/LogosPT/cinemundo.png" group-title="PORTUGAL",PT: CINEMUNDO
+http://megatola2024.online:8080/Carlosneves/7549757806/66671
+#EXTINF:-1 tvg-id="CINEMUNDO" tvg-name="PT: CINEMUNDO ʰᵈ ᴴ²⁶⁵" tvg-logo="https://boxlogos.top/LogosPT/cinemundo.png" group-title="PORTUGAL",PT: CINEMUNDO ʰᵈ ᴴ²⁶⁵
+http://megatola2024.online:8080/Carlosneves/7549757806/71670
+#EXTINF:-1 tvg-id="CINEMUNDO" tvg-name="PT: CINEMUNDO ᶠʰᵈ" tvg-logo="https://boxlogos.top/LogosPT/cinemundo.1080p.png" group-title="PORTUGAL",PT: CINEMUNDO ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66672
+#EXTINF:-1 tvg-id="SYFYHD" tvg-name="PT: SYFY" tvg-logo="https://boxlogos.top/LogosPT/Syfy.png" group-title="PORTUGAL",PT: SYFY
+http://megatola2024.online:8080/Carlosneves/7549757806/66673
+#EXTINF:-1 tvg-id="SYFYHD" tvg-name="PT: SYFY ᶠʰᵈ" tvg-logo="https://boxlogos.top/LogosPT/Syfy.1080p.png" group-title="PORTUGAL",PT: SYFY ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66674
+#EXTINF:-1 tvg-id="NOSStudiosHD" tvg-name="PT: SYFY ᶠʰᵈ ᴴ²⁶⁵" tvg-logo="https://boxlogos.top/LogosPT/Syfy.png" group-title="PORTUGAL",PT: SYFY ᶠʰᵈ ᴴ²⁶⁵
+http://megatola2024.online:8080/Carlosneves/7549757806/71723
+#EXTINF:-1 tvg-id="amc" tvg-name="PT: AMC" tvg-logo="https://boxlogos.top/LogosPT/AMC.png" group-title="PORTUGAL",PT: AMC
+http://megatola2024.online:8080/Carlosneves/7549757806/66675
+#EXTINF:-1 tvg-id="amc" tvg-name="PT: AMC ʰᵈ ᴴ²⁶⁵" tvg-logo="https://boxlogos.top/LogosPT/AMC.png" group-title="PORTUGAL",PT: AMC ʰᵈ ᴴ²⁶⁵
+http://megatola2024.online:8080/Carlosneves/7549757806/71657
+#EXTINF:-1 tvg-id="amc" tvg-name="PT: AMC ᶠʰᵈ" tvg-logo="https://boxlogos.top/LogosPT/AMC.1080p.png" group-title="PORTUGAL",PT: AMC ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66676
+#EXTINF:-1 tvg-id="" tvg-name=""------INFANTIL------"" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.N77EAKedXCBHHD1mRKfrlgHaE7&pid=Api&P=0&w=260&h=174" group-title="PORTUGAL","------INFANTIL------"
+http://megatola2024.online:8080/Carlosneves/7549757806/145800
+#EXTINF:-1 tvg-id="" tvg-name="PT: Lolly Kids  ᶠʰᵈ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkWewmGWPAQV_9cCwpfSvFX2RwDhcjCQHymA&usqp=CAU" group-title="PORTUGAL",PT: Lolly Kids  ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/99831
+#EXTINF:-1 tvg-id="PANDA" tvg-name="PT: CANAL PANDA" tvg-logo="https://boxlogos.top/LogosPT/CanalPanda.png" group-title="PORTUGAL",PT: CANAL PANDA
+http://megatola2024.online:8080/Carlosneves/7549757806/66626
+#EXTINF:-1 tvg-id="Discovery" tvg-name="PT: DISNEY CHANNEL" tvg-logo="http://boxlogos.top/LogosPT/Disney.Channel.png" group-title="PORTUGAL",PT: DISNEY CHANNEL
+http://megatola2024.online:8080/Carlosneves/7549757806/66627
+#EXTINF:-1 tvg-id="DISNEYJUNIOR" tvg-name="PT: DISNEY JUNIOR" tvg-logo="http://boxlogos.top/LogosPT/Disney.Junior.png" group-title="PORTUGAL",PT: DISNEY JUNIOR
+http://megatola2024.online:8080/Carlosneves/7549757806/66628
+#EXTINF:-1 tvg-id="Nicke" tvg-name="PT: NICKELODEON" tvg-logo="http://boxlogos.top/LogosPT/Nickelodeon.png" group-title="PORTUGAL",PT: NICKELODEON
+http://megatola2024.online:8080/Carlosneves/7549757806/66629
+#EXTINF:-1 tvg-id="BabyTV" tvg-name="PT: BABY TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/e09417bca0fcd305085588906c8d6475.png" group-title="PORTUGAL",PT: BABY TV
+http://megatola2024.online:8080/Carlosneves/7549757806/66630
+#EXTINF:-1 tvg-id="Nickeju" tvg-name="PT: NICK JR" tvg-logo="http://boxlogos.top/LogosPT/NickelodeonJunior.png" group-title="PORTUGAL",PT: NICK JR
+http://megatola2024.online:8080/Carlosneves/7549757806/66631
+#EXTINF:-1 tvg-id="CART" tvg-name="PT: CARTOON NETWORK" tvg-logo="http://master.meulogin.net:80/images/89827dcd9dc1ab6712cd1de825153706.png" group-title="PORTUGAL",PT: CARTOON NETWORK
+http://megatola2024.online:8080/Carlosneves/7549757806/66632
+#EXTINF:-1 tvg-id="dummy010" tvg-name="PT: KURIAKOS KIDS ᴴᴰ" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/05ad1060b11abe78c4958ca305b2d168.png" group-title="PORTUGAL",PT: KURIAKOS KIDS ᴴᴰ
+http://megatola2024.online:8080/Carlosneves/7549757806/66633
+#EXTINF:-1 tvg-id="KuriakosTV" tvg-name="PT: Kuriakos TV" tvg-logo="https://tvtolive.com/wp-content/uploads/Kuriakos-TV-tvtolive.com_.jpg" group-title="PORTUGAL",PT: Kuriakos TV
+http://megatola2024.online:8080/Carlosneves/7549757806/66634
+#EXTINF:-1 tvg-id="KuriakosTV" tvg-name="PT: KURIAKOS TV ᶠʰᵈ" tvg-logo="https://tvtolive.com/wp-content/uploads/Kuriakos-TV-tvtolive.com_.jpg" group-title="PORTUGAL",PT: KURIAKOS TV ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66635
+#EXTINF:-1 tvg-id="Biggs" tvg-name="PT: BIGGS" tvg-logo="http://irmaosdalinha.site:8080/images/a1a87716def5e66057f7d2e21ba37384.png" group-title="PORTUGAL",PT: BIGGS
+http://megatola2024.online:8080/Carlosneves/7549757806/66637
+#EXTINF:-1 tvg-id="Sic.pt" tvg-name="PT: SIC K" tvg-logo="http://boxlogos.top/LogosPT/SicK.png" group-title="PORTUGAL",PT: SIC K
+http://megatola2024.online:8080/Carlosneves/7549757806/66638
+#EXTINF:-1 tvg-id="SIC K" tvg-name="PT: SIC K ᶠʰᵈ" tvg-logo="http://boxlogos.top/LogosPT/SicK.png" group-title="PORTUGAL",PT: SIC K ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66639
+#EXTINF:-1 tvg-id="BOOMERANG" tvg-name="PT: BOOMERANG" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/1234659854b81ea4af21bd87412fdb78.png" group-title="PORTUGAL",PT: BOOMERANG
+http://megatola2024.online:8080/Carlosneves/7549757806/66640
+#EXTINF:-1 tvg-id="Tiji.pt" tvg-name="PT: TIJI" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6f1220559f045e407c07e94f05a7cfab.png" group-title="PORTUGAL",PT: TIJI
+http://megatola2024.online:8080/Carlosneves/7549757806/66641
+#EXTINF:-1 tvg-id="CaçaePesca" tvg-name="PT: CACA E PESCA" tvg-logo="https://i.imgur.com/XyCyVt7.jpg" group-title="PORTUGAL",PT: CACA E PESCA
+http://megatola2024.online:8080/Carlosneves/7549757806/66738
+#EXTINF:-1 tvg-id="CaçaePesca" tvg-name="PT: CACA E PESCA ᶠʰᵈ" tvg-logo="https://i.imgur.com/XyCyVt7.jpg" group-title="PORTUGAL",PT: CACA E PESCA ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66739
+#EXTINF:-1 tvg-id="CaçaVision" tvg-name="PT: CACAVISION" tvg-logo="https://i.imgur.com/uhZqHuE.png" group-title="PORTUGAL",PT: CACAVISION
+http://megatola2024.online:8080/Carlosneves/7549757806/66740
+#EXTINF:-1 tvg-id="S+ HD" tvg-name="PT: S+ ᶠʰᵈ" tvg-logo="https://i.imgur.com/bVSrVwO.png" group-title="PORTUGAL",PT: S+ ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66742
+#EXTINF:-1 tvg-id="" tvg-name="PT: FTV" tvg-logo="https://i.imgur.com/YWqDlsd.png" group-title="PORTUGAL",PT: FTV
+http://megatola2024.online:8080/Carlosneves/7549757806/66744
+#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="PT: GINX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.3H_9QHc5813MAnGojPC2vwHaDU&pid=Api&P=0&w=495&h=223" group-title="PORTUGAL",PT: GINX
+http://megatola2024.online:8080/Carlosneves/7549757806/66745
+#EXTINF:-1 tvg-id="" tvg-name="PT: HORSE TV" tvg-logo="https://www.chevalmag.com/wp-content/uploads/2021/10/900x800-horse-gris-_1_.jpg" group-title="PORTUGAL",PT: HORSE TV
+http://megatola2024.online:8080/Carlosneves/7549757806/107968
+#EXTINF:-1 tvg-id="" tvg-name="PT: NAUTICAL CHANEL" tvg-logo="https://lounea.fi/sites/default/files/styles/max_650x650/public/2021-07/Nautical_Channel_logo_142h.png" group-title="PORTUGAL",PT: NAUTICAL CHANEL
+http://megatola2024.online:8080/Carlosneves/7549757806/107969
+#EXTINF:-1 tvg-id="Toros TV" tvg-name="PT: TOROS TV" tvg-logo="https://i.imgur.com/Wx9NXtq.png" group-title="PORTUGAL",PT: TOROS TV
+http://megatola2024.online:8080/Carlosneves/7549757806/66746
+#EXTINF:-1 tvg-id="Toros TV" tvg-name="PT: TOROS TV ᶠʰᵈ" tvg-logo="https://i.imgur.com/Wx9NXtq.png" group-title="PORTUGAL",PT: TOROS TV ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66747
+#EXTINF:-1 tvg-id="RTPxx1" tvg-name="PT: MUNDO TOURO TV" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" group-title="PORTUGAL",PT: MUNDO TOURO TV
+http://megatola2024.online:8080/Carlosneves/7549757806/141701
+#EXTINF:-1 tvg-id="CI" tvg-name="PT: CRIME INVESTIGATION" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5922afa182b23da0f8e8d980a104b42c.png" group-title="PORTUGAL",PT: CRIME INVESTIGATION
+http://megatola2024.online:8080/Carlosneves/7549757806/66749
+#EXTINF:-1 tvg-id="TLC" tvg-name="PT: TLC" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/965e92f3c2bb1f3c202d789f9737d141.png" group-title="PORTUGAL",PT: TLC
+http://megatola2024.online:8080/Carlosneves/7549757806/66752
+#EXTINF:-1 tvg-id="Discovery" tvg-name="PT: DISCOVERY CHANNEL" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/2494761535aad69b6250769697fa97cf.png" group-title="PORTUGAL",PT: DISCOVERY CHANNEL
+http://megatola2024.online:8080/Carlosneves/7549757806/66753
+#EXTINF:-1 tvg-id="Discovery" tvg-name="PT:  DISCOVERY CHANNEL ᶠʰᵈ" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/2494761535aad69b6250769697fa97cf.png" group-title="PORTUGAL",PT:  DISCOVERY CHANNEL ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66754
+#EXTINF:-1 tvg-id="Discovery" tvg-name="PT: DISCOVERY CHANNEL ᶠʰᵈ ᴴ²⁶⁵" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/2494761535aad69b6250769697fa97cf.png" group-title="PORTUGAL",PT: DISCOVERY CHANNEL ᶠʰᵈ ᴴ²⁶⁵
+http://megatola2024.online:8080/Carlosneves/7549757806/71672
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="PT: Discovery Turbo HD" tvg-logo="http://master.meulogin.net:80/images/19be119bdc4a08de33cb443c5f72f5c9.png" group-title="PORTUGAL",PT: Discovery Turbo HD
+http://megatola2024.online:8080/Carlosneves/7549757806/66755
+#EXTINF:-1 tvg-id="ID" tvg-name="PT: ID INVESTIGATION DISCOVERY" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/54c21addf47bf3012a20c4aeb4b43b60.png" group-title="PORTUGAL",PT: ID INVESTIGATION DISCOVERY
+http://megatola2024.online:8080/Carlosneves/7549757806/66756
+#EXTINF:-1 tvg-id="NGC33" tvg-name="PT: NATIONAL GEOGRAPHIC ʰᵈ ᴴ²⁶⁵" tvg-logo="http://irmaosdalinha.site:8080/images/9904a4a817f2ea79a9a2eb2f819b0909.png" group-title="PORTUGAL",PT: NATIONAL GEOGRAPHIC ʰᵈ ᴴ²⁶⁵
+http://megatola2024.online:8080/Carlosneves/7549757806/71697
+#EXTINF:-1 tvg-id="ID" tvg-name="PT: ID INVESTIGATION DISCOVERY ᶠʰᵈ ᴴ²⁶⁵" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/54c21addf47bf3012a20c4aeb4b43b60.png" group-title="PORTUGAL",PT: ID INVESTIGATION DISCOVERY ᶠʰᵈ ᴴ²⁶⁵
+http://megatola2024.online:8080/Carlosneves/7549757806/71695
+#EXTINF:-1 tvg-id="NGC" tvg-name="PT: NATIONAL GEOGRAPHIC" tvg-logo="http://irmaosdalinha.site:8080/images/9904a4a817f2ea79a9a2eb2f819b0909.png" group-title="PORTUGAL",PT: NATIONAL GEOGRAPHIC
+http://megatola2024.online:8080/Carlosneves/7549757806/66757
+#EXTINF:-1 tvg-id="NGC" tvg-name="PT: NATIONAL GEOGRAPHIC ᶠʰᵈ" tvg-logo="http://irmaosdalinha.site:8080/images/9904a4a817f2ea79a9a2eb2f819b0909.png" group-title="PORTUGAL",PT: NATIONAL GEOGRAPHIC ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66758
+#EXTINF:-1 tvg-id="NGCWILD" tvg-name="PT: NATIONAL GEOGRAPHIC WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="PORTUGAL",PT: NATIONAL GEOGRAPHIC WILD
+http://megatola2024.online:8080/Carlosneves/7549757806/66759
+#EXTINF:-1 tvg-id="NGCWILD" tvg-name="PT: NATIONAL GEOGRAPHIC WILD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="PORTUGAL",PT: NATIONAL GEOGRAPHIC WILD HD
+http://megatola2024.online:8080/Carlosneves/7549757806/66760
+#EXTINF:-1 tvg-id="NGCWILD" tvg-name="PT: NATIONAL GEOGRAPHIC WILD ʰᵈ ᴴ²⁶⁵" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="PORTUGAL",PT: NATIONAL GEOGRAPHIC WILD ʰᵈ ᴴ²⁶⁵
+http://megatola2024.online:8080/Carlosneves/7549757806/71696
+#EXTINF:-1 tvg-id="NGCWILD" tvg-name="PT: NATIONAL GEOGRAPHIC WILD ᶠʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="PORTUGAL",PT: NATIONAL GEOGRAPHIC WILD ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66761
+#EXTINF:-1 tvg-id="DogTV" tvg-name="PT: DOG TV ᴴᴰ" tvg-logo="http://master.meulogin.net:80/images/5ae660ee8f961c6775cc522677d38812.png" group-title="PORTUGAL",PT: DOG TV ᴴᴰ
+http://megatola2024.online:8080/Carlosneves/7549757806/66762
+#EXTINF:-1 tvg-id="cbsreal" tvg-name="PT: CBS REALITY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQq-FuGmbDLBxj8SMIc6mTTAIuZhTIL2pHIDXtvjgLjaGinCGTp" group-title="PORTUGAL",PT: CBS REALITY
+http://megatola2024.online:8080/Carlosneves/7549757806/66763
+#EXTINF:-1 tvg-id="CASA E COZINH" tvg-name="PT: CASA E COZINHA" tvg-logo="https://voxpoptv.files.wordpress.com/2020/04/casa-e-cozinha-e1586014847747.jpg?w=592" group-title="PORTUGAL",PT: CASA E COZINHA
+http://megatola2024.online:8080/Carlosneves/7549757806/66596
+#EXTINF:-1 tvg-id="CASA E COZINH" tvg-name="PT: CASA COZINHA ʰᵈ ᴴ²⁶⁵" tvg-logo="https://voxpoptv.files.wordpress.com/2020/04/casa-e-cozinha-e1586014847747.jpg?w=592" group-title="PORTUGAL",PT: CASA COZINHA ʰᵈ ᴴ²⁶⁵
+http://megatola2024.online:8080/Carlosneves/7549757806/71669
+#EXTINF:-1 tvg-id="CASA E COZINH" tvg-name="PT: CASA E COZINHA fhd" tvg-logo="https://voxpoptv.files.wordpress.com/2020/04/casa-e-cozinha-e1586014847747.jpg?w=592" group-title="PORTUGAL",PT: CASA E COZINHA fhd
+http://megatola2024.online:8080/Carlosneves/7549757806/66597
+#EXTINF:-1 tvg-id="24 Kitchen" tvg-name="PT: 24 KITCHEN ᶠʰᵈ" tvg-logo="http://irmaosdalinha.site:8080/images/9d04986327b3967e519e4ad1f245ee35.png" group-title="PORTUGAL",PT: 24 KITCHEN ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66766
+#EXTINF:-1 tvg-id="24 Kitchen" tvg-name="PT: 24 KITCHEN ᶠʰᵈ ᴴ²⁶⁵" tvg-logo="http://irmaosdalinha.site:8080/images/9d04986327b3967e519e4ad1f245ee35.png" group-title="PORTUGAL",PT: 24 KITCHEN ᶠʰᵈ ᴴ²⁶⁵
+http://megatola2024.online:8080/Carlosneves/7549757806/71655
+#EXTINF:-1 tvg-id="FOODNETWORKHD" tvg-name="PT: FOOD NETWORK" tvg-logo="http://master.meulogin.net:80/images/446e91a141776eba9d2d63cc90396e11.png" group-title="PORTUGAL",PT: FOOD NETWORK
+http://megatola2024.online:8080/Carlosneves/7549757806/66767
+#EXTINF:-1 tvg-id="FOODNETWORKHD" tvg-name="PT: FOOD NETWORK ᶠʰᵈ" tvg-logo="http://master.meulogin.net:80/images/446e91a141776eba9d2d63cc90396e11.png" group-title="PORTUGAL",PT: FOOD NETWORK ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66768
+#EXTINF:-1 tvg-id="dummy012" tvg-name="PT: FATIMA TV ᶠʰᵈ" tvg-logo="https://i.imgur.com/8kP5Buj.jpg" group-title="PORTUGAL",PT: FATIMA TV ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66772
+#EXTINF:-1 tvg-id="Canção Nova" tvg-name="PT: CANCAO NOVA" tvg-logo="http://master.meulogin.net:80/images/408d8d584a3d301898666a3062d5a5f2.jpg" group-title="PORTUGAL",PT: CANCAO NOVA
+http://megatola2024.online:8080/Carlosneves/7549757806/66773
+#EXTINF:-1 tvg-id="AbE" tvg-name="PT: BLAZE" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e027706acbcb2366508d6fc982ccb966.png" group-title="PORTUGAL",PT: BLAZE
+http://megatola2024.online:8080/Carlosneves/7549757806/66774
+#EXTINF:-1 tvg-id="AbE" tvg-name="PT: BLAZE ᶠʰᵈ" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e027706acbcb2366508d6fc982ccb966.png" group-title="PORTUGAL",PT: BLAZE ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66775
+#EXTINF:-1 tvg-id="ARTV" tvg-name="PT: ARTE" tvg-logo="https://4.bp.blogspot.com/-Y4YWCzGWZ4s/TljR5KOLe-I/AAAAAAAAAZc/2J1YP2ILzqA/s1600/Arte.png" group-title="PORTUGAL",PT: ARTE
+http://megatola2024.online:8080/Carlosneves/7549757806/66776
+#EXTINF:-1 tvg-id="Localvisão" tvg-name="PT: LOCALVISAO TV ᴴᴰ" tvg-logo="https://yt3.ggpht.com/a/AGF-l78c_-r6z4773Fz67yjmII_Hfr7mrWr0pA-7Bw=s288-c-k-c0xffffffff-no-rj-mo" group-title="PORTUGAL",PT: LOCALVISAO TV ᴴᴰ
+http://megatola2024.online:8080/Carlosneves/7549757806/66777
+#EXTINF:-1 tvg-id="HIST" tvg-name="PT: HISTORIA" tvg-logo="http://irmaosdalinha.site:8080/images/883f629b9ddb1c7038c82064f3aefd82.png" group-title="PORTUGAL",PT: HISTORIA
+http://megatola2024.online:8080/Carlosneves/7549757806/66778
+#EXTINF:-1 tvg-id="HIST" tvg-name="PT: HISTORIA ᶠʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="PORTUGAL",PT: HISTORIA ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66779
+#EXTINF:-1 tvg-id="ODIS" tvg-name="PT: ODISSEIA" tvg-logo="https://i.imgur.com/O5bJ0gM.jpg" group-title="PORTUGAL",PT: ODISSEIA
+http://megatola2024.online:8080/Carlosneves/7549757806/66780
+#EXTINF:-1 tvg-id="ODIS" tvg-name="PT: ODISSEIA ʰᵈ ᴴ²⁶⁵" tvg-logo="https://i.imgur.com/O5bJ0gM.jpg" group-title="PORTUGAL",PT: ODISSEIA ʰᵈ ᴴ²⁶⁵
+http://megatola2024.online:8080/Carlosneves/7549757806/71699
+#EXTINF:-1 tvg-id="ODIS" tvg-name="PT: ODISSEIA ᶠʰᵈ" tvg-logo="https://i.imgur.com/O5bJ0gM.jpg" group-title="PORTUGAL",PT: ODISSEIA ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66781
+#EXTINF:-1 tvg-id="TRAVEL" tvg-name="PT: TRAVEL CHANNEL" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/e894e4c072eeb36e62f7e684cf53fd6f.png" group-title="PORTUGAL",PT: TRAVEL CHANNEL
+http://megatola2024.online:8080/Carlosneves/7549757806/66782
+#EXTINF:-1 tvg-id="TravelChannel.pt" tvg-name="PT: TRAVEL CHANNEL ᶠʰᵈ" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/e894e4c072eeb36e62f7e684cf53fd6f.png" group-title="PORTUGAL",PT: TRAVEL CHANNEL ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66783
+#EXTINF:-1 tvg-id="" tvg-name=""-----MUSICA-----"" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.N77EAKedXCBHHD1mRKfrlgHaE7&pid=Api&P=0&w=260&h=174" group-title="PORTUGAL","-----MUSICA-----"
+http://megatola2024.online:8080/Carlosneves/7549757806/66784
+#EXTINF:-1 tvg-id="" tvg-name="PT: Alma Lusa ᶠʰᵈ" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/regarder-alma-lusa.png" group-title="PORTUGAL",PT: Alma Lusa ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/146732
+#EXTINF:-1 tvg-id="Afro Music" tvg-name="PT: AFRO MUSIC" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/fe45740a890330a8688ae40e2a27ab2d.png" group-title="PORTUGAL",PT: AFRO MUSIC
+http://megatola2024.online:8080/Carlosneves/7549757806/66785
+#EXTINF:-1 tvg-id="iConcerts" tvg-name="PT: I CONCERTS ᶠʰᵈ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQXFuV6fswlVtEobIweSucDoDqU4shsf0CbJg&usqp=CAU" group-title="PORTUGAL",PT: I CONCERTS ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66786
+#EXTINF:-1 tvg-id="MCM POP" tvg-name="PT: MCM POP" tvg-logo="https://i.imgur.com/DDpkMfx.png" group-title="PORTUGAL",PT: MCM POP
+http://megatola2024.online:8080/Carlosneves/7549757806/66787
+#EXTINF:-1 tvg-id="MTV Portugal" tvg-name="PT: MTV PORTUGAL" tvg-logo="https://www.fragrantica.com.br/mdimg/dizajneri/o.2508.jpg" group-title="PORTUGAL",PT: MTV PORTUGAL
+http://megatola2024.online:8080/Carlosneves/7549757806/66789
+#EXTINF:-1 tvg-id="MTV Portugal" tvg-name="PT: MTV PORTUGAL ᶠʰᵈ" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/7aba055dc9b1bd6da7a808de8b51d300.png" group-title="PORTUGAL",PT: MTV PORTUGAL ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66790
+#EXTINF:-1 tvg-id="mtv live" tvg-name="PT: MTV LIVE ᶠʰᵈ" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/2fd03b160cbd6cf993329d6be134c42b.png" group-title="PORTUGAL",PT: MTV LIVE ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66791
+#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="PT: CLUBBING TV" tvg-logo="https://i.imgur.com/8tA9fSA.png" group-title="PORTUGAL",PT: CLUBBING TV
+http://megatola2024.online:8080/Carlosneves/7549757806/66792
+#EXTINF:-1 tvg-id="MezzoLiveHD" tvg-name="PT: MEZZO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/1280px-Mezzo_Logo.svg.png" group-title="PORTUGAL",PT: MEZZO
+http://megatola2024.online:8080/Carlosneves/7549757806/66793
+#EXTINF:-1 tvg-id="Trnace toca" tvg-name="PT: TRACE TOCA" tvg-logo="http://irmaosdalinha.site:8080/images/1eb43f9ec489588abd0c20d1d193e107.png" group-title="PORTUGAL",PT: TRACE TOCA
+http://megatola2024.online:8080/Carlosneves/7549757806/66794
+#EXTINF:-1 tvg-id="TraceUrban.pt" tvg-name="PT: TRACE URBAN" tvg-logo="http://irmaosdalinha.site:8080/images/1eb43f9ec489588abd0c20d1d193e107.png" group-title="PORTUGAL",PT: TRACE URBAN
+http://megatola2024.online:8080/Carlosneves/7549757806/66795
+#EXTINF:-1 tvg-id="Trace TV" tvg-name="PT: TRACE BRAZUCA" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trace-brazuca-fr.png" group-title="PORTUGAL",PT: TRACE BRAZUCA
+http://megatola2024.online:8080/Carlosneves/7549757806/66796
+#EXTINF:-1 tvg-id="MTV.pt" tvg-name="PT: MTV 00'S" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/09cc4c6c30d46d10fc0f05137b9203ed.png" group-title="PORTUGAL",PT: MTV 00'S
+http://megatola2024.online:8080/Carlosneves/7549757806/66797
+#EXTINF:-1 tvg-id="M6" tvg-name="PT: M6 ᶠʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/M6_1987_logo.svg/571px-M6_1987_logo.svg.png" group-title="PORTUGAL",PT: M6 ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66798
+#EXTINF:-1 tvg-id="TVEi" tvg-name="PT: TVE INTERNACIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTrenEu_CYSsOSwonhQjgP7by2-pGGDy9AWUhQhQ4yRxuqTxxca" group-title="PORTUGAL",PT: TVE INTERNACIONAL
+http://megatola2024.online:8080/Carlosneves/7549757806/66801
+#EXTINF:-1 tvg-id="EuroNews" tvg-name="PT: EURONEWS" tvg-logo="https://i.pinimg.com/originals/89/2e/f5/892ef5321c74784daa951f5c1b34d313.png" group-title="PORTUGAL",PT: EURONEWS
+http://megatola2024.online:8080/Carlosneves/7549757806/66805
+#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="PT: TV GALICIA" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GALICIATV.png" group-title="PORTUGAL",PT: TV GALICIA
+http://megatola2024.online:8080/Carlosneves/7549757806/66807
+#EXTINF:-1 tvg-id="France 24" tvg-name="PT: FRANCE 24" tvg-logo="https://i.imgur.com/fdMjHzF.jpg" group-title="PORTUGAL",PT: FRANCE 24
+http://megatola2024.online:8080/Carlosneves/7549757806/66808
+#EXTINF:-1 tvg-id="" tvg-name="PT: SKY NEWS" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/54b242215ebf5c890cfdc03b82aece0c.png" group-title="PORTUGAL",PT: SKY NEWS
+http://megatola2024.online:8080/Carlosneves/7549757806/66809
+#EXTINF:-1 tvg-id="Bloomberg (I)" tvg-name="PT: BLOOMBERG" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDACgcHiMeGSgjISMtKygwPGRBPDc3PHtYXUlkkYCZlo+AjIqgtObDoKrarYqMyP/L2u71////m8H////6/+b9//j/2wBDASstLTw1PHZBQXb4pYyl+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj/wAARCABuAG4DASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAIDBAUBBv/EAC0QAAICAgAFAgQGAwAAAAAAAAABAgMEEQUSEyExQXEUIjLRI1GRocHwQmHh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5kOLTsg514dsory49/4L3xGt4EsquLlytJxb097/wCgbARrl1KoT1rmSeiQAAAAAABnxcr4my+PJy9KfLve9mgAAAAAA4fDJZqxJLFrqceZ95PvvS/2PkXBsmtKStjNdRS/Pa+xfj4PEMat11X0xi3vxv8AgsfDJLCurVildc05Tl2XZ7AjK6+2ePiY8+n+EpTnrbS0SrsyMTNrovt61dqfLJrTTJ3YNu6bcexQvrgovfiSFGHfLKWTl2RnOC1CMPCApoeXxFTuhkdCtS1CKW/1K7M/I+AtUpct9NihKUfX+6L1hZeNKccO6Cqk98s19PseT4XL4GVMbFK2c1KU5eoFWTPOxXVc8hTdj04OPypss5srEz6IW5Duhc2mmtaZozcWeRClQlFdOak9nuVizuysa2Lio1Ntp+X4AwYlWRdkZcarujDqvckttvbLa827FWTVkNWTpScZfnvxv9UShg5lFt1tF1adk2+WS7NfcnRw58l7yp9S25ak16ewGKWdJUq5Z7d3npcny+xfdk5N2Zjwx7OmrqlLT7pedssji58IRpjfSoR7KfL82vYuniTlxGnI5o8kIcrXq33+4GWTypZEcGvJacI807Wu7/u0UZ9+bhThX8S5JralrTfubczHbzIW498Ksjl+mX+SOXxGu6eTGM7Vdao7koLtHv4A+jAAAAAAAAAAAAAAABRfh4+TJSuqUmvXbT/Y9x8SjG30a1Fvy97f7lwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/Z" group-title="PORTUGAL",PT: BLOOMBERG
+http://megatola2024.online:8080/Carlosneves/7549757806/66812
+#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="PT: Phoenix CNE" tvg-logo="https://4.bp.blogspot.com/-ff6T2m1FmQo/TljSeYnPZmI/AAAAAAAAAhs/ZO5UVy9kC7E/s1600/Phoenix+CNE.png" group-title="PORTUGAL",PT: Phoenix CNE
+http://megatola2024.online:8080/Carlosneves/7549757806/66824
+#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="PT: Phoenix InfoNews" tvg-logo="https://1.bp.blogspot.com/-03SUT0jzPSs/TljSeoW8PdI/AAAAAAAAAhw/sZ5hpqtqjhI/s1600/Phoenix+InfoNews+Channel.png" group-title="PORTUGAL",PT: Phoenix InfoNews
+http://megatola2024.online:8080/Carlosneves/7549757806/66825
+#EXTINF:-1 tvg-id="" tvg-name="PT: RT" tvg-logo="https://3.bp.blogspot.com/-WvIkIl85ldI/TljSjhh-1UI/AAAAAAAAAi4/XGoWPTmaBIM/s1600/RT.png" group-title="PORTUGAL",PT: RT
+http://megatola2024.online:8080/Carlosneves/7549757806/66826
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTL" tvg-logo="https://2.bp.blogspot.com/-E7-vehuAfFo/TljSj-jrn0I/AAAAAAAAAi8/mc-Vg-RhX_Y/s1600/RTL.png" group-title="PORTUGAL",PT: RTL
+http://megatola2024.online:8080/Carlosneves/7549757806/66827
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTR-Planeta" tvg-logo="https://3.bp.blogspot.com/-WvIkIl85ldI/TljSjhh-1UI/AAAAAAAAAi4/XGoWPTmaBIM/s1600/RT.png" group-title="PORTUGAL",PT: RTR-Planeta
+http://megatola2024.online:8080/Carlosneves/7549757806/66828
+#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="PT: Rai News 24" tvg-logo="https://4.bp.blogspot.com/-ZZGCzcbmnlg/TljSh9WiIYI/AAAAAAAAAig/7r8CNrWnTAw/s1600/Rai+News.png" group-title="PORTUGAL",PT: Rai News 24
+http://megatola2024.online:8080/Carlosneves/7549757806/66829
+#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="PT: Super RTL" tvg-logo="https://3.bp.blogspot.com/-kIS_gftj2xo/TljSt89xx9I/AAAAAAAAAlM/qxIl0qi0uXs/s1600/Super+RTL.png" group-title="PORTUGAL",PT: Super RTL
+http://megatola2024.online:8080/Carlosneves/7549757806/66830
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVR International" tvg-logo="https://3.bp.blogspot.com/-8ulq0soc2hw/WDrqLkBzWpI/AAAAAAAAFhs/vIQDwB22VEUTHvXToCmNfoTzRTPxJgSmgCLcB/s1600/TVR%2BInternational%2Blogo.png" group-title="PORTUGAL",PT: TVR International
+http://megatola2024.online:8080/Carlosneves/7549757806/66831
+#EXTINF:-1 tvg-id="BABY FIRST" tvg-name="PT: ZAP VIVA ᴴᴰ local" tvg-logo="https://i.imgur.com/SxLiB2A.png" group-title="PORTUGAL",PT: ZAP VIVA ᴴᴰ local
+http://megatola2024.online:8080/Carlosneves/7549757806/66832
+#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="PT: FIGHT NETWORK ᶠʰᵈ" tvg-logo="https://www.bing.com/th?id=AMMS_4d8a34dc2597a57a0c18fa98721b4f52&w=110&h=110&c=7&rs=1&qlt=95&pcl=f9f9f9&cdv=1&pid=16.1" group-title="PORTUGAL",PT: FIGHT NETWORK ᶠʰᵈ
+http://megatola2024.online:8080/Carlosneves/7549757806/66833
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI internacional" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR-ig_pBlylwT8F8zG_zgfUTGIiBjnMgBD7xA&usqp=CAU" group-title="PORTUGAL",PT: TVI internacional
+http://megatola2024.online:8080/Carlosneves/7549757806/66835
+#EXTINF:-1 tvg-id="RTPxx1" tvg-name="PT: EUROCHANNEL" tvg-logo="https://www.cableman.ru/sites/default/files/eurochannel_0.jpg?1527331141" group-title="PORTUGAL",PT: EUROCHANNEL
+http://megatola2024.online:8080/Carlosneves/7549757806/66836
+#EXTINF:-1 tvg-id="" tvg-name="PT: TCV Cabo Verde" tvg-logo="https://i.imgur.com/paCmHsM.png" group-title="PORTUGAL",PT: TCV Cabo Verde
+http://megatola2024.online:8080/Carlosneves/7549757806/66837
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX News" tvg-logo="https://rudermanfoundation.org/wp-content/uploads/2018/06/foxnews.png" group-title="PORTUGAL",PT: FOX News
+http://megatola2024.online:8080/Carlosneves/7549757806/66838
+#EXTINF:-1 tvg-id="" tvg-name="PT: Channel 1 Russia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg/599px-1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg.png" group-title="PORTUGAL",PT: Channel 1 Russia
+http://megatola2024.online:8080/Carlosneves/7549757806/66839
+#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="PT: RT DOCUMENTARIOS" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.WAb9vvWiF3c3Q_zCUXkb5QAAAA&pid=Api&P=0&w=234&h=196" group-title="PORTUGAL",PT: RT DOCUMENTARIOS
+http://megatola2024.online:8080/Carlosneves/7549757806/66743
+#EXTINF:-1 tvg-id="" tvg-name="S.TV 1 SD@" tvg-logo="https://i.imgur.com/i8NmLl7.png" group-title="»» SUPER TV DESPORTO ««",S.TV 1 SD@
+http://megatola2024.online:8080/Carlosneves/7549757806/85533
+#EXTINF:-1 tvg-id="" tvg-name="S.TV 1 h265@" tvg-logo="https://i.imgur.com/i8NmLl7.png" group-title="»» SUPER TV DESPORTO ««",S.TV 1 h265@
+http://megatola2024.online:8080/Carlosneves/7549757806/99832
+#EXTINF:-1 tvg-id="" tvg-name="S.TV 1 HD@" tvg-logo="https://i.imgur.com/i8NmLl7.png" group-title="»» SUPER TV DESPORTO ««",S.TV 1 HD@
+http://megatola2024.online:8080/Carlosneves/7549757806/85534
+#EXTINF:-1 tvg-id="" tvg-name="S.TV 2 SD@" tvg-logo="https://i.imgur.com/i8NmLl7.png" group-title="»» SUPER TV DESPORTO ««",S.TV 2 SD@
+http://megatola2024.online:8080/Carlosneves/7549757806/85535
+#EXTINF:-1 tvg-id="" tvg-name="S.TV 2 HD@" tvg-logo="https://i.imgur.com/i8NmLl7.png" group-title="»» SUPER TV DESPORTO ««",S.TV 2 HD@
+http://megatola2024.online:8080/Carlosneves/7549757806/85536
+#EXTINF:-1 tvg-id="" tvg-name="S.TV 3 SD@" tvg-logo="https://i.imgur.com/i8NmLl7.png" group-title="»» SUPER TV DESPORTO ««",S.TV 3 SD@
+http://megatola2024.online:8080/Carlosneves/7549757806/85537
+#EXTINF:-1 tvg-id="" tvg-name="S.TV 4 SD@" tvg-logo="https://i.imgur.com/i8NmLl7.png" group-title="»» SUPER TV DESPORTO ««",S.TV 4 SD@
+http://megatola2024.online:8080/Carlosneves/7549757806/85538
+#EXTINF:-1 tvg-id="" tvg-name="S.TV 5 SD@" tvg-logo="https://i.imgur.com/i8NmLl7.png" group-title="»» SUPER TV DESPORTO ««",S.TV 5 SD@
+http://megatola2024.online:8080/Carlosneves/7549757806/85539
+#EXTINF:-1 tvg-id="" tvg-name="SLB SD@" tvg-logo="https://i.imgur.com/i8NmLl7.png" group-title="»» SUPER TV DESPORTO ««",SLB SD@
+http://megatola2024.online:8080/Carlosneves/7549757806/85540
+#EXTINF:-1 tvg-id="" tvg-name="SLB HD@" tvg-logo="https://i.imgur.com/i8NmLl7.png" group-title="»» SUPER TV DESPORTO ««",SLB HD@
+http://megatola2024.online:8080/Carlosneves/7549757806/85541
+#EXTINF:-1 tvg-id="" tvg-name="E.1 SD@" tvg-logo="https://i.imgur.com/i8NmLl7.png" group-title="»» SUPER TV DESPORTO ««",E.1 SD@
+http://megatola2024.online:8080/Carlosneves/7549757806/85542
+#EXTINF:-1 tvg-id="" tvg-name="E.1 HD@" tvg-logo="https://i.imgur.com/i8NmLl7.png" group-title="»» SUPER TV DESPORTO ««",E.1 HD@
+http://megatola2024.online:8080/Carlosneves/7549757806/85543
+#EXTINF:-1 tvg-id="" tvg-name="E.2 SD@" tvg-logo="https://i.imgur.com/i8NmLl7.png" group-title="»» SUPER TV DESPORTO ««",E.2 SD@
+http://megatola2024.online:8080/Carlosneves/7549757806/85544
+#EXTINF:-1 tvg-id="" tvg-name="E.2 HD@" tvg-logo="https://i.imgur.com/i8NmLl7.png" group-title="»» SUPER TV DESPORTO ««",E.2 HD@
+http://megatola2024.online:8080/Carlosneves/7549757806/85545
+#EXTINF:-1 tvg-id="" tvg-name="E.3 SD@" tvg-logo="https://i.imgur.com/i8NmLl7.png" group-title="»» SUPER TV DESPORTO ««",E.3 SD@
+http://megatola2024.online:8080/Carlosneves/7549757806/85546
+#EXTINF:-1 tvg-id="" tvg-name="E.3 HD@" tvg-logo="https://i.imgur.com/i8NmLl7.png" group-title="»» SUPER TV DESPORTO ««",E.3 HD@
+http://megatola2024.online:8080/Carlosneves/7549757806/95731
