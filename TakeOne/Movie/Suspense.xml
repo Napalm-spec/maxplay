@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+<item>
+    <title>Lá Fora</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:16850939709aab5e2b6fb186af7b59c91226a113&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//idIyTfPczWkaOQZwyAA4m1jIIA6.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//fy5HuDMPAwiGtRQlRP0zqLN3zM4.jpg</fanart>
+    <info>Uma família vai morar em uma fazenda isolada para escapar de uma epidemia zumbi, mas os segredos do passado vão ganhar consequências dolorosas nesse novo mundo desolado.</info>
+    <genre>Suspense | Terror</genre>
+</item>    
+<item>
+    <title>Longlegs - Vínculo Mortal</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dab9236d42655324bc1b12fb3021038170f9b9b9&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//qnitqmtWkzxafIrUxYW85h97qtR.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//hDXuagNP746lfYDcNT0GkKHvQzA.jpg</fanart>
+    <info>A agente do FBI Lee Harker é designada para o caso de um serial killer que toma rumos inesperados, revelando indícios de ocultismo. Harker descobre uma conexão pessoal com o assassino e precisa detê-lo antes que ele mate novamente.</info>
+    <genre>Suspense | Terror</genre>
+</item>   
 <item>
     <title>Os Horrores do Caddo Lake</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0ce78030a0dd62b1bfc47d5d9a9adcd2cf1ce969&dn</link>
