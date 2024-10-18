@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>O Homem que Amava Discos Voadores</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4fd4397f26f98da783bb7a89747403e782552ba1&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//ndsXQkUIyzY7arHFpq9BKkQa9rB.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//gGPsSTjyVn2xCJQD6hOhOsoOvM7.jpg</fanart>
+    <info>No fim dos anos 1980, o jornalista José de Zer busca provas de vida extraterrestre na Argentina e acaba forjando evidências, levando a um circo midiático surreal.</info>
+    <genre>Comédia | Drama</genre>
+</item>
+<item>
+    <title>Felicidade é...</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b3ff235c626e6c3dccd319fd283773752be2248&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//482OkMU9gZL0rbwtxixkV5uzwBn.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//fhqXaFfPFb3utcqArskh4fNEjn.jpg</fanart>
+    <info>Princess não quer comemorar os quarenta anos, mas sua melhor amiga decide dar uma festa inesquecível e vira a vida dela de cabeça para baixo.</info>
+    <genre>Comédia | Drama | Romance</genre>
+</item>
 <item>
     <title>Caçula</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04304ae0bcf11df98a1d5ef9daf916110251bd75&dn</link>
