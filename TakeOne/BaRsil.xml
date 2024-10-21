@@ -66,20 +66,5 @@
 <externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Tvs-BR/SERVER-08.xml</externallink>
 </channel>
  
-<channel>
-<name>[B][COLOR white]SERVIDOR-9[/COLOR][/B]</name>
-<thumbnail>https://i.postimg.cc/QC5NZ9kH/SERVBR.jpg</thumbnail>
-<fanart>https://i.postimg.cc/qM3ML5qx/fanart.jpg</fanart>
-<info> SERVIDOR 9[COLOR lime]  BRASIL[/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Tvs-BR/SERVER-09.xml</externallink>
-</channel>
-
-<channel>
-<name>[B][COLOR white]SERVIDOR-10[/COLOR][/B]</name>
-<thumbnail>https://i.postimg.cc/QC5NZ9kH/SERVBR.jpg</thumbnail>
-<fanart>https://i.postimg.cc/qM3ML5qx/fanart.jpg</fanart>
-<info> SERVIDOR 10[COLOR lime]  BRASIL[/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Tvs-BR/SERVER-10.xml</externallink>
-</channel>  
   
 </channels>
