@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
 <item>
-    <title>Mobile Suit Gundam: Requiem for Vengeance 1ª Temporada</title>
+    <title>A Lenda de Vox Machina 1ª Temporada  [COLOR lime](COMPLETA)[/COLOR]</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e45fa427b12a4059a2ea9a132f608f770f194f0c&dn$$lsname= 01º E 03º EPISÓDIOS</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae0f8f877d4cf5b12a77109269c5f941072bd74b&dn$$lsname= 04º E 06º EPISÓDIOS</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:442be106ed2ffa65c0116116309d712d17849060&dn$$lsname= 07º E 09º EPISÓDIOS</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:273e7dee629a52668bc4a49abb832a0f8e964f36&dn$$lsname= 10º E 12º EPISÓDIOS</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/hgQ1sQybq3pvdQcaYE18TR3CqRL.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/zsy6D6MXkROv6ESN4i0cz7nCEb5.jpg</fanart>
+    <info> Tudo está em jogo na esperada Temporada 3 de A Lenda de Vox Machina. A destruição absoluta por parte do Conclave Cromático se alastra enquanto o Rei das Cinzas caça Vox Machina. Nosso amado grupo de desajustados precisa enfrentar demônio internos (e externos) para tentar salvar quem eles amam, Tal’Dorei e toda a Exandria.</info>
+    <genre>Ação | Animação | Fantasia</genre>
+</item>
+<item>
+    <title>Mobile Suit Gundam: Requiem for Vengeance 1ª Temporada  [COLOR lime](COMPLETA)[/COLOR]</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2a54e32a36679e8260e94599987176db870d58d6&dn</link>
     <thumbnail>https://image.tmdb.org/t/p/original/y3OBTgamWSyvUyzciL20yNkMMaC.jpg</thumbnail>
     <fanart>https://image.tmdb.org/t/p/original/jYq8uw7vRIDoptXMFqQblE903xn.jpg</fanart>
@@ -11,7 +21,7 @@
     <genre>Animação | Ficção</genre>
 </item>	
 <item>
-    <title>Tomb Raider: A Lenda de Lara Croft 1ª Temporada</title>
+    <title>Tomb Raider: A Lenda de Lara Croft 1ª Temporada  [COLOR lime](COMPLETA)[/COLOR]</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:684db1a183669da24a20350b4ca542fc3775d4df&dn</link>
     <thumbnail>https://image.tmdb.org/t/p/original/mIvbfZFLJGwNvJKJcnYIppSbWdI.jpg</thumbnail>
     <fanart>https://image.tmdb.org/t/p/original/uNssAqyHgYcRXEQYi51Lrm5jhRJ.jpg</fanart>
@@ -20,7 +30,7 @@
 </item>
 <item>
     <title>Saint Seiya: Knights of the Zodiac 1ª Temporada  [COLOR lime](COMPLETA)[/COLOR]</title>
-    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3VPHMDHYM6UDAMK7U7WAYARUR6NBQHCO&dn$$lsname= 01º  Temporada 720p</link>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3VPHMDHYM6UDAMK7U7WAYARUR6NBQHCO&dn</link>
     <thumbnail>https://image.tmdb.org/t/p/original/r3JUGK7NYSXt9Ug8Jmh4izLYGq2.jpg</thumbnail>
     <fanart>https://image.tmdb.org/t/p/original/dYcy6IkCU3izGQf2JDDLTAfamtl.jpg</fanart>
     <info>Seiya e Os Cavaleiros do Zodíaco estão de volta para proteger a reencarnação da deusa Atena, mas uma obscura profecia paira sobre todos eles.</info>
