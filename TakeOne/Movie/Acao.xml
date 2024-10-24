@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Dominique</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5349af7bf99fee58a6005e3b1ed861f1d6ab8612&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//29uKScAbQuKsMEdAn12a6BmvFn7.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//jT4KqFTrR2ofpUUwzKCIn4uYWXp.jpg</fanart>
+    <info>Dominique, uma assassina bem treinada, foge de seu passado problemático em uma tentativa de começar uma nova vida na América do Sul. No entanto, ela logo se encontra em uma cidade atormentada pela violência e corrupção. Enfrentando ataques brutais da polícia e da máfia, Dominique deve decidir se deve proteger a si mesma ou a uma família inocente que a acolheu.</info>
+    <genre>Ação | Drama | Suspense</genre>
+</item>
+<item>
+    <title>Hellboy e o Homem Torto</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56a05eee21d4160a2b0bad8287af09423e8bb4a6&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//rfzLtrGeH25k8t3WO8ceQzHi06J.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//g1z1ZvYKcmk9EnVOTYXR6vkNjkZ.jpg</fanart>
+    <info>Hellboy se une a um agente novato da B.P.D.P. na década de 1950 e são enviados para os Apalaches. Lá, descobrem uma remota e assombrada comunidade, dominada por bruxas e liderada pelo sinistro demônio local, conhecido como O Homem Torto. À medida que exploram os mistérios sombrios deste lugar isolado, Hellboy confronta segredos enterrados de seu próprio passado, levando-o a uma batalha épica contra forças malignas que ameaçam desencadear o caos sobre o mundo.</info>
+    <genre>Ação | Suspense | Terror</genre>
+</item>
+<item>
+    <title>Canário Negro</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a3bfa559e7f68c2d849095bf431739af43c31675&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//tiUWQnZvdyC0VyvXKExppClYiHO.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//begseNUKhZcc05Bc1UggaX5GeES.jpg</fanart>
+    <info>Avery Graves, uma importante agente da CIA, é chantageada por terroristas para que traia seu próprio país e salve seu marido sequestrado. Separada de sua equipe, ela recorre a seus contatos no submundo para sobreviver e ajudar a localizar a cobiçada inteligência que os sequestradores desejam. Traída a cada passo, ela precisa confiar em seu treinamento de ponta e em suas habilidades primitivas de luta em uma corrida mortal para entregar um resgate que pode desencadear uma crise global.</info>
+    <genre>Ação | Crime | Suspense</genre>
+</item>
 <item>
     <title>Através das Sombras</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ce3a87994c249cd2e92e4728dd167e7e8268f7e&dn</link>
