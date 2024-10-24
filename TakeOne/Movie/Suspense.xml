@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Jack: A Caixa Maldita 3 - A Ascensão</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ace22378229dd5358fa48ea421dbba31088b3b9&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/4NBsH4eaDYykvGMObg5r47K3lk0.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/8VS20PnbTc6Aza1ZjCxit9os3KD.jpg</fanart>
+    <info>Quando um assustador Jack-in-the-Box é descoberto e aberto nas dependências de uma escola exclusiva para meninas, seis corajosas estudantes logo entram em uma luta até o fim contra o demônio libertado.</info>
+    <genre>Suspense | Terror</genre>
+</item>
 <item>
     <title>Meu Querido Bobby: Era Tudo uma Farsa</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:550bf9fefa8ffaee86beb4f2c3d09d0ceb4f9f2f&dn</link>
