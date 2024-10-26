@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Like a Dragon: Yakuza 1ª Temporada 01º E 03º EPISÓDIOS</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b3dea9365ffa0c45a583f20e974f457d0e8300ea&dn$$lsname= 01º E 03º EPISÓDIOS</link>
+	<link>plugin://plugin.video.elementum/play?uri=$$lsname= 04º EPISÓDIO BREVEMENTE</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/hVVBBUbgWOZNLGFXVEBhoGuNGVZ.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/kxbgDdBk4ZzoFo08dzPkB1tQzK7.jpg</fanart>
+    <info>Situada na cidade fictícia de Kamurocho, a história desenrola-se em duas linhas que se cruzam: 1995 e 2005. Em 1995, quatro amigos ansiosos por escapar às suas vidas restritivas num orfanato mergulham no submundo controlado pela Yakuza de Kamurocho. Entretanto, em 2005, a amizade deles deteriora-se enquanto as tensões entre o Clã Tojo e a Aliança Omi estão no auge.</info>
+    <genre>Ação | Crime | Drama</genre>
+</item>
 <item>
     <title>Turma da Mônica: Origens 1ª Temporada  [COLOR lime](COMPLETA)[/COLOR]</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IYSCEX2OYPF7RYRZPVILWTQJULJCZH6H&dn</link>
