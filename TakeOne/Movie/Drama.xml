@@ -2,7 +2,14 @@
 <items>
 
 
-
+<item>
+    <title>O Voo Sequestrado</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6b6264aa95a4ad9a81992cba4b4b668cc9f928aa&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//jKa0CjwHAKm14H2dOdnvsvje2kP.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//l0YYwVi7tIcuSGc3ssxTL5kfiHi.jpg</fanart>
+    <info>Quatro homens sequestram um avião para tentar chamar atenção, gerar mudanças sociais e derrubar um governo militar.</info>
+    <genre>Drama | Suspense</genre>
+</item>
 <item>
     <title>Maníaco do Parque</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5GL7RSMZGQ54YTWDPESV4TFIAQ7GTTT2&dn</link>
