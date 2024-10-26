@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+
+<item>
+    <title>Os Vizinhos Green: O Filme – Ferispaço</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c93f657ca9ec4fd6cde190c8b715c5a8cf958a14&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//Anymw1udcCIdBstKbxMp77cwFyy.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//hu6bwaSRG8GZwH3yEVtRxrgAnjq.jpg</fanart>
+    <info>Em busca de aventuras, Cricket Green faz sua família colocar o "pé na estrada" rumo ao espaço sideral e acaba colocando em risco todos os habitantes da Cidade Grande.</info>
+    <genre>Animação | Aventura | Comédia</genre>
+</item>    
 <item>
     <title>O Menino e a Garça</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6cd8aba271391ccf01be038a96cc16009d35349d&dn</link>
