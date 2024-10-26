@@ -1,6 +1,40 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+
+<item>
+    <title>Terrifier 3</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:585F1F16A8F3DF6806384D4E931C7518691DF492&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//gU9ubNnaDKYBxs1DCSfiUIqHSMR.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//ouDkQ2BKH2ddxqYZ7b8DQxGtolc.jpg</fanart>
+    <info>O palhaço assassino Art está pronto para espalhar o caos sobre os moradores inocentes do Condado de Miles durante uma pacífica véspera de Natal.</info>
+    <genre>Suspense | Terror</genre>
+</item>
+<item>
+    <title>O Voo Sequestrado</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6b6264aa95a4ad9a81992cba4b4b668cc9f928aa&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//jKa0CjwHAKm14H2dOdnvsvje2kP.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//l0YYwVi7tIcuSGc3ssxTL5kfiHi.jpg</fanart>
+    <info>Quatro homens sequestram um avião para tentar chamar atenção, gerar mudanças sociais e derrubar um governo militar.</info>
+    <genre>Drama | Suspense</genre>
+</item>
+<item>
+    <title>Não Se Mexa</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:66544884ad1b921b9f7ed0fe6db84145dc08c3a9&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//yViacqKI37G5pL02tQ2cuEOUqdQ.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//yGjpT94EoeGQQh1vQ1KEXAQnGoB.jpg</fanart>
+    <info>Uma mulher em luto é injetada com uma substância paralisante. Agora, ela precisará escapar de um assassino impiedoso antes de perder completamente os movimentos.</info>
+    <genre>Suspense | Terror</genre>
+</item>
+<item>
+    <title>Os Vizinhos Green: O Filme – Ferispaço</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c93f657ca9ec4fd6cde190c8b715c5a8cf958a14&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//Anymw1udcCIdBstKbxMp77cwFyy.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//hu6bwaSRG8GZwH3yEVtRxrgAnjq.jpg</fanart>
+    <info>Em busca de aventuras, Cricket Green faz sua família colocar o "pé na estrada" rumo ao espaço sideral e acaba colocando em risco todos os habitantes da Cidade Grande.</info>
+    <genre>Animação | Aventura | Comédia</genre>
+</item>	
 <item>
     <title>Jack: A Caixa Maldita 3 - A Ascensão</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ace22378229dd5358fa48ea421dbba31088b3b9&dn</link>
