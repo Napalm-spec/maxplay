@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Meu Amigo Pinguim</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:053348df1f7b6b8eb137e52f7c9293ce9bf8a546&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//ftNBZMJWl9ECHtOwZ8p5Lmkksc5.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//jFqO57MeQX7lhzRMhOsiNyjQ7Kp.jpg</fanart>
+    <info>Inspirado em uma história real; uma aventura encantadora sobre um pinguim perdido resgatado de um derramamento de óleo, que transforma a vida de um pescador de coração partido.</info>
+    <genre>Drama</genre>
+</item>
 <item>
     <title>O Voo Sequestrado</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6b6264aa95a4ad9a81992cba4b4b668cc9f928aa&dn</link>
