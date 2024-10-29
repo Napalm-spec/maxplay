@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+
+<item>
+    <title>Coringa: Delírio a Dois</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12163fe413e64a3bca43017fe086ffdc3394206b&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//ud3gcdKienuJcViF2tZrIAbGOW8.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//uGmYqxh8flqkudioyFtD7IJSHxK.jpg</fanart>
+    <info>O comediante fracassado Arthur Fleck conhece o amor de sua vida, Harleen Quinzel, enquanto está encarcerado no Arkham State Hospital. Os dois embarcam em uma desventura romântica condenada.</info>
+    <genre>Drama | Suspense</genre>
+</item>	
 <item>
     <title>Meu Amigo Pinguim</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:053348df1f7b6b8eb137e52f7c9293ce9bf8a546&dn</link>
