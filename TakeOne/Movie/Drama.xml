@@ -2,7 +2,14 @@
 <items>
 
 
-
+<item>
+    <title>Silvio</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cdc1ce67e70f254af642211510451a0a5afc5ec3&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//8iu6Qf8v6KcIjfKRciGvjINn3PS.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//dT1SU5KyCFkqwLh1evf87CsJQvy.jpg</fanart>
+    <info>Além de felicidade, um baú também pode guardar muitos segredos. Baseado em fatos reais, Silvio Santos relembra sua história de vida e revela acontecimentos dos bastidores que nunca foram mostrados. Durante o sequestro que marcou o Brasil, o apresentador precisa lutar para proteger sua família e seu legado enquanto encara de frente um dos momentos mais desafiadores da sua vida.</info>
+    <genre>Drama</genre>
+</item>
 <item>
     <title>Coringa: Delírio a Dois</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12163fe413e64a3bca43017fe086ffdc3394206b&dn</link>
