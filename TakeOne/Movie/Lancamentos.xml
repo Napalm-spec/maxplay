@@ -2,7 +2,38 @@
 <items>
 
 
-
+<item>
+    <title>Corte no Tempo</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3226cc4799c879acd07c4b7fa5c4d3c9501fa97f&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//zzS5c2MoVRFnHLoDDCvkMKU7Rxc.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//qYvOcinXcnebhmCxYeivurh91T1.jpg</fanart>
+    <info>Uma adolescente viaja no tempo e vai parar no ano de 2003, dias antes de sua irmã ser assassinada. Será que ela vai mudar o passado ou destruir o futuro?</info>
+    <genre>Ficção | Suspense | Terror</genre>
+</item>
+<item>
+    <title>Apocalipse Z - O Princípio do Fim</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79e0f17fc13028c730abb4e523d9643e2736f7dc&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//lEgDKy3zDpEvk55xILevwZpj7bJ.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//jfww9XghjMlou1qJGcWAHTYtrO1.jpg</fanart>
+    <info>Uma doença semelhante à raiva começa a se espalhar pelo planeta, transformando as pessoas em criaturas agressivas. Manel vive isolado com seu gato, usando sua inteligência pra sobreviver, mas logo precisam partir em busca de comida. Apocalipse Z - O Princípio do Fim é uma história de sobrevivência, física e emocional. É repleta de ação e tensão, com uma epidemia contagiosa... e um gato rabugento.</info>
+    <genre>Ação | Fantasia | Terror</genre>
+</item>
+<item>
+    <title>Gigantes</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:001110882ddffdc58197639a8889ad656bfa9a0c&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//49aRjd0Xth6ypKNmS1WbltFvcPI.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//2h6qOO1fdlv3MtZKFOSobu1No9K.jpg</fanart>
+    <info>Quando um acidente ameaça a cidade onde moram, o jovem Alfonso e sua turma entram em ação para salvá-la, cheios de esperança, coragem e imaginação.</info>
+    <genre>Animação | Aventura</genre>
+</item>
+<item>
+    <title>Silvio</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cdc1ce67e70f254af642211510451a0a5afc5ec3&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//8iu6Qf8v6KcIjfKRciGvjINn3PS.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//dT1SU5KyCFkqwLh1evf87CsJQvy.jpg</fanart>
+    <info>Além de felicidade, um baú também pode guardar muitos segredos. Baseado em fatos reais, Silvio Santos relembra sua história de vida e revela acontecimentos dos bastidores que nunca foram mostrados. Durante o sequestro que marcou o Brasil, o apresentador precisa lutar para proteger sua família e seu legado enquanto encara de frente um dos momentos mais desafiadores da sua vida.</info>
+    <genre>Drama</genre>
+</item>
 <item>
     <title>Coringa: Delírio a Dois</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12163fe413e64a3bca43017fe086ffdc3394206b&dn</link>
