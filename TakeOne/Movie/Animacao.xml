@@ -2,7 +2,14 @@
 <items>
 
 
-
+<item>
+    <title>Gigantes</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:001110882ddffdc58197639a8889ad656bfa9a0c&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//49aRjd0Xth6ypKNmS1WbltFvcPI.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//2h6qOO1fdlv3MtZKFOSobu1No9K.jpg</fanart>
+    <info>Quando um acidente ameaça a cidade onde moram, o jovem Alfonso e sua turma entram em ação para salvá-la, cheios de esperança, coragem e imaginação.</info>
+    <genre>Animação | Aventura</genre>
+</item>
 <item>
     <title>Os Vizinhos Green: O Filme – Ferispaço</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c93f657ca9ec4fd6cde190c8b715c5a8cf958a14&dn</link>
