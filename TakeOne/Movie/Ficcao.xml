@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+<item>
+    <title>Corte no Tempo</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3226cc4799c879acd07c4b7fa5c4d3c9501fa97f&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//zzS5c2MoVRFnHLoDDCvkMKU7Rxc.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//qYvOcinXcnebhmCxYeivurh91T1.jpg</fanart>
+    <info>Uma adolescente viaja no tempo e vai parar no ano de 2003, dias antes de sua irmã ser assassinada. Será que ela vai mudar o passado ou destruir o futuro?</info>
+    <genre>Ficção | Suspense | Terror</genre>
+</item>    
 <item>
     <title>Afraid</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ddb1890d4e84478088571dd0a88adedf02d21d2c&dn</link>
