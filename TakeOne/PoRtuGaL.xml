@@ -49,13 +49,22 @@
 <info> SERVIDOR 6[COLOR lime]  PORTUBAL[/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Tvs-PT/SERVER-06.xml</externallink>
 </channel> 
-
+ 
 <channel>
-<name>[B][COLOR white]SERVIDOR-0000-teste[/COLOR][/B]</name>
+<name>[B][COLOR white]SERVIDOR-8[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/zf5zZGVf/SERVPT.jpg</thumbnail>
 <fanart>https://i.postimg.cc/qM3ML5qx/fanart.jpg</fanart>
 <info> SERVIDOR 6[COLOR lime]  PORTUBAL[/COLOR]</info>
-<externallink>http://willy.azteam.pro:8000/get.php?username=acruz&password=bB2YbrlTHZ&type=m3u_plus</externallink>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Tvs-PT/SERVER-07.xml</externallink>
+</channel>
+ 
+<channel>
+<name>[B][COLOR white]SERVIDOR-8[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/zf5zZGVf/SERVPT.jpg</thumbnail>
+<fanart>https://i.postimg.cc/qM3ML5qx/fanart.jpg</fanart>
+<info> SERVIDOR 6[COLOR lime]  PORTUBAL[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Tvs-PT/SERVER-08.xml</externallink>
 </channel> 
-  
+
+ 
 </channels>
