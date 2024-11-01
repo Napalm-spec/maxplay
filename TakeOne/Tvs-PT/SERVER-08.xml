@@ -1,0 +1,231 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="PT:) RTP 1 ᴴᴰ" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/RTP_1_HD.png" group-title="PORTUGAL",PT:) RTP 1 ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35066
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="PT:) RTP  1 ˢᵈ" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/RTP_1.png" group-title="PORTUGAL",PT:) RTP  1 ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35067
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="PT:) RTP 2 ᴴᴰ" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/RTP_2.png" group-title="PORTUGAL",PT:) RTP 2 ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35068
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="PT:) RTP 2 ˢᵈ" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/RTP_2.png" group-title="PORTUGAL",PT:) RTP 2 ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35069
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="PT:) SIC ᴴᴰ" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/SIC_HD.png" group-title="PORTUGAL",PT:) SIC ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35070
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="PT:) SIC ˢᵈ" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/SIC.png" group-title="PORTUGAL",PT:) SIC ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35071
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="PT:) TVI ᴴᴰ" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/TVI_HD.png" group-title="PORTUGAL",PT:) TVI ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35072
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="PT:) TVI ˢᵈ" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/TVI.png" group-title="PORTUGAL",PT:) TVI ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35073
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="PT:) SIC NOTICIAS ᴴᴰ" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/SIC_Not.png" group-title="PORTUGAL",PT:) SIC NOTICIAS ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35074
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="PT:) SIC NOTICIAS ˢᵈ" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/SIC_Not.png" group-title="PORTUGAL",PT:) SIC NOTICIAS ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35075
+#EXTINF:-1 tvg-id="cnnportugal.pt" tvg-name="PT:) CNN PORTUGAL" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/CNN_PORTUGAL_HD.png" group-title="PORTUGAL",PT:) CNN PORTUGAL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35076
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="PT:) CMTV ᴴᴰ" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/CM_TV.png" group-title="PORTUGAL",PT:) CMTV ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35077
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="PT:) CMTV" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/CM_TV.png" group-title="PORTUGAL",PT:) CMTV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35078
+#EXTINF:-1 tvg-id="rtp3.pt" tvg-name="PT:) RTP 3" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/RTP_3.png" group-title="PORTUGAL",PT:) RTP 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35079
+#EXTINF:-1 tvg-id="porto.pt" tvg-name="PT:) PORTO CANAL" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/Porto_Canal.png" group-title="PORTUGAL",PT:) PORTO CANAL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35081
+#EXTINF:-1 tvg-id="abolatv.pt" tvg-name="PT:) BOLA TV" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/A_Bola_TV.png" group-title="PORTUGAL",PT:) BOLA TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35082
+#EXTINF:-1 tvg-id="canal11.pt" tvg-name="PT:) CANAL 11" tvg-logo="http://afevora.fpf.pt/Portals/11/Imagens/Images/11.png" group-title="PORTUGAL",PT:) CANAL 11
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35083
+#EXTINF:-1 tvg-id="rtpmadeira.pt" tvg-name="PT:)  RTP MADEIRA" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/RTP_Madeira.png" group-title="PORTUGAL",PT:)  RTP MADEIRA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35084
+#EXTINF:-1 tvg-id="" tvg-name="PT:) RTP AFRICA" tvg-logo="" group-title="PORTUGAL",PT:) RTP AFRICA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/53118
+#EXTINF:-1 tvg-id="rtpacores.pt" tvg-name="PT:) RTP AÇORES" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/RTP_A%c3%83%c2%a7ores.png" group-title="PORTUGAL",PT:) RTP AÇORES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35085
+#EXTINF:-1 tvg-id="rtpmemoria.pt" tvg-name="PT:)  RTP MEMORIA" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/RTP_Memria.png" group-title="PORTUGAL",PT:)  RTP MEMORIA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35086
+#EXTINF:-1 tvg-id="tvireality.pt" tvg-name="PT:) TVI REALITy" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/TVI_REALITY.png" group-title="PORTUGAL",PT:) TVI REALITy
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35087
+#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="PT:)  SIC RADICAL" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/SIC_Radical.png" group-title="PORTUGAL",PT:)  SIC RADICAL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35093
+#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="PT:)  SIC MULHER" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/SIC_Mulher.png" group-title="PORTUGAL",PT:)  SIC MULHER
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35094
+#EXTINF:-1 tvg-id="fashiontv.pt" tvg-name="PT:) FASHION TV" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/Fashion_TV_Portugal.png" group-title="PORTUGAL",PT:) FASHION TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35095
+#EXTINF:-1 tvg-id="" tvg-name="PT:) SANTUARIO FATIMA" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/FATIMA_TV.PNG" group-title="PORTUGAL",PT:) SANTUARIO FATIMA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35096
+#EXTINF:-1 tvg-id="cancaonova.pt" tvg-name="PT:) CANCAO NOVA" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/Cancao_nova.png" group-title="PORTUGAL",PT:) CANCAO NOVA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35097
+#EXTINF:-1 tvg-id="siccaras.pt" tvg-name="PT:) SIC CARAS" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/SIC_Caras.png" group-title="PORTUGAL",PT:) SIC CARAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35098
+#EXTINF:-1 tvg-id="sick.pt" tvg-name="PT:)  SIC K" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/SIC_K.png" group-title="PORTUGAL",PT:)  SIC K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35099
+#EXTINF:-1 tvg-id="tvificcao.pt" tvg-name="PT:) TVI FIÇAO" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/TVI_ficÃ§Ã£o.png" group-title="PORTUGAL",PT:) TVI FIÇAO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35100
+#EXTINF:-1 tvg-id="1plus1.pt" tvg-name="PT:)  TV RECORD" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/TV_Record.png" group-title="PORTUGAL",PT:)  TV RECORD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35101
+#EXTINF:-1 tvg-id="globo.pt" tvg-name="PT:)  TV GLOBO" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/TV_Globo.png" group-title="PORTUGAL",PT:)  TV GLOBO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35102
+#EXTINF:-1 tvg-id="1plus1.pt" tvg-name="PT:) GLOBO NOW" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/Globo_Premium.png" group-title="PORTUGAL",PT:) GLOBO NOW
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35103
+#EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="PT:)  NBA" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/NBA_TV.png" group-title="PORTUGAL",PT:)  NBA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35104
+#EXTINF:-1 tvg-id="pfc.pt" tvg-name="PT:)  PFC" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/PFC.png" group-title="PORTUGAL",PT:)  PFC
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35120
+#EXTINF:-1 tvg-id="motorvision.pt" tvg-name="PT:)  MOTORVISION" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/Motorvision_HD.png" group-title="PORTUGAL",PT:)  MOTORVISION
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35121
+#EXTINF:-1 tvg-id="toros.pt" tvg-name="PT:) TOROS TV" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/Toros_TV.png" group-title="PORTUGAL",PT:) TOROS TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35122
+#EXTINF:-1 tvg-id="" tvg-name="PT:) MOTO GP" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/MOTOGP.png" group-title="PORTUGAL",PT:) MOTO GP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35124
+#EXTINF:-1 tvg-id="" tvg-name="PT:) FIGHT NETWORK" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/Fight_Network.png" group-title="PORTUGAL",PT:) FIGHT NETWORK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35125
+#EXTINF:-1 tvg-id="" tvg-name="PT:) TV+" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/Sport_TV_+.png" group-title="PORTUGAL",PT:) TV+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/53092
+#EXTINF:-1 tvg-id="" tvg-name="PT:) Ver 3 Grandes" tvg-logo="" group-title="PORTUGAL",PT:) Ver 3 Grandes
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/52295
+#EXTINF:-1 tvg-id="" tvg-name="PT:) Jogos" tvg-logo="" group-title="PORTUGAL",PT:) Jogos
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/53111
+#EXTINF:-1 tvg-id="" tvg-name="PT:) TV 1 HD" tvg-logo="" group-title="PORTUGAL",PT:) TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/53093
+#EXTINF:-1 tvg-id="" tvg-name="PT:) TV 1 SD" tvg-logo="http://going.kikakukikaku.xyz:2082/Logotipos/SportTV_1.png" group-title="PORTUGAL",PT:) TV 1 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/53094
+#EXTINF:-1 tvg-id="" tvg-name="PT:) TV 2 HD" tvg-logo="http://going.kikakukikaku.xyz:2082/Logotipos/SportTV_2.png" group-title="PORTUGAL",PT:) TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/53095
+#EXTINF:-1 tvg-id="" tvg-name="PT:) TV 2 SD" tvg-logo="http://going.kikakukikaku.xyz:2082/Logotipos/SportTV_2.png" group-title="PORTUGAL",PT:) TV 2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/53096
+#EXTINF:-1 tvg-id="" tvg-name="PT:) TV 3 HD" tvg-logo="http://going.kikakukikaku.xyz:2082/Logotipos/SportTV_3.png" group-title="PORTUGAL",PT:) TV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/53097
+#EXTINF:-1 tvg-id="" tvg-name="PT:) TV 3 SD" tvg-logo="http://going.kikakukikaku.xyz:2082/Logotipos/SportTV_3.png" group-title="PORTUGAL",PT:) TV 3 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/53098
+#EXTINF:-1 tvg-id="" tvg-name="PT:) TV 4 HD" tvg-logo="http://going.kikakukikaku.xyz:2082/Logotipos/SportTV_4.png" group-title="PORTUGAL",PT:) TV 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/53099
+#EXTINF:-1 tvg-id="" tvg-name="PT:) TV 5 HD" tvg-logo="http://going.kikakukikaku.xyz:2082/Logotipos/SportTV_5.png" group-title="PORTUGAL",PT:) TV 5 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/53100
+#EXTINF:-1 tvg-id="" tvg-name="PT:) TV 6 HD" tvg-logo="" group-title="PORTUGAL",PT:) TV 6 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/53101
+#EXTINF:-1 tvg-id="" tvg-name="PT:) TV 7 HD" tvg-logo="" group-title="PORTUGAL",PT:) TV 7 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/53104
+#EXTINF:-1 tvg-id="" tvg-name="PT:) DDZ 1" tvg-logo="" group-title="PORTUGAL",PT:) DDZ 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/53105
+#EXTINF:-1 tvg-id="" tvg-name="PT:) DDZ 2" tvg-logo="" group-title="PORTUGAL",PT:) DDZ 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/53106
+#EXTINF:-1 tvg-id="" tvg-name="PT:) DDZ 3" tvg-logo="" group-title="PORTUGAL",PT:) DDZ 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/53107
+#EXTINF:-1 tvg-id="" tvg-name="PT:) DDZ 4" tvg-logo="" group-title="PORTUGAL",PT:) DDZ 4
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/53108
+#EXTINF:-1 tvg-id="" tvg-name="PT:) DDZ 5" tvg-logo="" group-title="PORTUGAL",PT:) DDZ 5
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/53109
+#EXTINF:-1 tvg-id="" tvg-name="PT:) DDZ 6" tvg-logo="" group-title="PORTUGAL",PT:) DDZ 6
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/53110
+#EXTINF:-1 tvg-id="" tvg-name="PT:) BENF HD" tvg-logo="http://going.kikakukikaku.xyz:2082/Logotipos/BTV_1.png" group-title="PORTUGAL",PT:) BENF HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/53102
+#EXTINF:-1 tvg-id="" tvg-name="PT:) BENF SD" tvg-logo="http://going.kikakukikaku.xyz:2082/Logotipos/BTV_1.png" group-title="PORTUGAL",PT:) BENF SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/53103
+#EXTINF:-1 tvg-id="sportingtv.pt" tvg-name="PT:)  SPORTING TV" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/Sporting_TV.png" group-title="PORTUGAL",PT:)  SPORTING TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35126
+#EXTINF:-1 tvg-id="" tvg-name="PT:) TENNIS CHANNEL" tvg-logo="http://going.kikakukikaku.xyz:2082/Logotipos/C_More_Tennis.png" group-title="PORTUGAL",PT:) TENNIS CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/44383
+#EXTINF:-1 tvg-id="eurosport1.pt" tvg-name="PT:)  EUROSPORT 1" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/Eurosport_1.png" group-title="PORTUGAL",PT:)  EUROSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35127
+#EXTINF:-1 tvg-id="eurosport2.pt" tvg-name="PT:)  EUROSPORT 2" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/Eurosport_2.png" group-title="PORTUGAL",PT:)  EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35128
+#EXTINF:-1 tvg-id="cacaepesca.pt" tvg-name="PT:)  CACA E PESCA" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/Ca%c3%83%c2%a7a_e_Pesca.png" group-title="PORTUGAL",PT:)  CACA E PESCA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35129
+#EXTINF:-1 tvg-id="tvcinetop.pt" tvg-name="PT:)  TVCINE TOP" tvg-logo="" group-title="PORTUGAL",PT:)  TVCINE TOP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35130
+#EXTINF:-1 tvg-id="tvcinetop.pt" tvg-name="PT:) TVCINE TOP HD" tvg-logo="" group-title="PORTUGAL",PT:) TVCINE TOP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35131
+#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="PT:) TVCINE EDITION" tvg-logo="" group-title="PORTUGAL",PT:) TVCINE EDITION
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35132
+#EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-name="PT:) TVCINE EDITION HD" tvg-logo="" group-title="PORTUGAL",PT:) TVCINE EDITION HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35133
+#EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-name="PT:) TVCINE EMOTION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc-kuw3TAihzQVodTtAVlqGsjCo0QaN7DwRw&s" group-title="PORTUGAL",PT:) TVCINE EMOTION
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35134
+#EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-name="PT:) TVCINE EMOTION HD" tvg-logo="" group-title="PORTUGAL",PT:) TVCINE EMOTION HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35135
+#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="PT:) TVCINE ACTION" tvg-logo="" group-title="PORTUGAL",PT:) TVCINE ACTION
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35136
+#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="PT:) TVCINE ACTION ᴴᴰ" tvg-logo="" group-title="PORTUGAL",PT:) TVCINE ACTION ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35137
+#EXTINF:-1 tvg-id="nostudios.pt" tvg-name="PT:)  NOS STUDIOS ᴴᴰ" tvg-logo="https://www.nos.pt/particulares/PublishingImages/Banners/NOSStudios/thumbNOSStudios.png" group-title="PORTUGAL",PT:)  NOS STUDIOS ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35138
+#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="PT:)  HOLLYWOOD ᶠᴴᴰ" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/Canal_Hollywood_Portugal_HD.png" group-title="PORTUGAL",PT:)  HOLLYWOOD ᶠᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35139
+#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="PT:)  CINEMUNDO" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/Cinemundo_HD.png" group-title="PORTUGAL",PT:)  CINEMUNDO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35140
+#EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="PT:)  AXN WHITE ᴴᴰ" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/AXN_White_HD.png" group-title="PORTUGAL",PT:)  AXN WHITE ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35141
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="PT:)  AXN HD" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/AXN_HD.png" group-title="PORTUGAL",PT:)  AXN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35142
+#EXTINF:-1 tvg-id="foxmovies.pt" tvg-name="PT:)  STAR MOVIES" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/FOX_Movies.png" group-title="PORTUGAL",PT:)  STAR MOVIES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35144
+#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="PT:)  STAR LIFE ᴴᴰ" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/FOXlife.png" group-title="PORTUGAL",PT:)  STAR LIFE ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35145
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="PT:)  STAR ᴴᴰ" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/FOX_HD.png" group-title="PORTUGAL",PT:)  STAR ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35146
+#EXTINF:-1 tvg-id="1plus1.pt" tvg-name="PT:)  STAR CRIME" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/FOX_Crime.png" group-title="PORTUGAL",PT:)  STAR CRIME
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35147
+#EXTINF:-1 tvg-id="foxcomedy.pt" tvg-name="PT:)  STAR COMEDY" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/Fox_Comedy_Italia.png" group-title="PORTUGAL",PT:)  STAR COMEDY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35148
+#EXTINF:-1 tvg-id="amc.pt" tvg-name="PT:)  AMC ᴴᴰ" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/AMC_(HD).png" group-title="PORTUGAL",PT:)  AMC ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35149
+#EXTINF:-1 tvg-id="syfy.pt" tvg-name="PT:)  SYFY ᴴᴰ" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/SYFY_(East).png" group-title="PORTUGAL",PT:)  SYFY ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35150
+#EXTINF:-1 tvg-id="crimeinvestigation.pt" tvg-name="PT:) CRIME + INVESTIGATION" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/Crime_+_Investigation_Portugal.png" group-title="PORTUGAL",PT:) CRIME + INVESTIGATION
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35151
+#EXTINF:-1 tvg-id="investigationdiscovery.pt" tvg-name="PT:) INVESTIGATION DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/ID_INVESTIGATION_DISCOVERY.png" group-title="PORTUGAL",PT:) INVESTIGATION DISCOVERY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35152
+#EXTINF:-1 tvg-id="odisseia.pt" tvg-name="PT:) ODISSEIA" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/Odisseia.png" group-title="PORTUGAL",PT:) ODISSEIA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35153
+#EXTINF:-1 tvg-id="nationalgeographicwild.pt" tvg-name="PT:) NAT GEO WILD ᴴᴰ" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/Nat_Geo_Wild_HD.png" group-title="PORTUGAL",PT:) NAT GEO WILD ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35154
+#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-name="PT:) DISCOVERY CHANNEL" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/Discovery_Channel.png" group-title="PORTUGAL",PT:) DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35155
+#EXTINF:-1 tvg-id="nationalgeographic.pt" tvg-name="PT:) NATIONAL GEOGRAPHIC" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/National_Geographic_Channel_Portugal.png" group-title="PORTUGAL",PT:) NATIONAL GEOGRAPHIC
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35156
+#EXTINF:-1 tvg-id="tpainternational.pt" tvg-name="PT: TPA INTERNACIONAL" tvg-logo="http://going.kikakukikaku.xyz:2082/Logotipos/TPA_Internacional.png" group-title="PORTUGAL",PT: TPA INTERNACIONAL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/38375
+#EXTINF:-1 tvg-id="" tvg-name="PT:) M6" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/M6_HD.png" group-title="PORTUGAL",PT:) M6
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35157
+#EXTINF:-1 tvg-id="tlc.pt" tvg-name="PT:) TLC" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/TLC_HD.png" group-title="PORTUGAL",PT:) TLC
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35158
+#EXTINF:-1 tvg-id="24kitchen.pt" tvg-name="PT:) KITCHEN ᴴᴰ" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/24Kitchen.png" group-title="PORTUGAL",PT:) KITCHEN ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35159
+#EXTINF:-1 tvg-id="historia.pt" tvg-name="PT:) HISTORIA ˢᵈ" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/History_HD.png" group-title="PORTUGAL",PT:) HISTORIA ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35160
+#EXTINF:-1 tvg-id="euronews.pt" tvg-name="PT:) EURONEWS ˢᵈ" tvg-logo="http://going.kikakukikaku.xyz:2082/Logotipos/EuroNews.png" group-title="PORTUGAL",PT:) EURONEWS ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35161
+#EXTINF:-1 tvg-id="1plus1.pt" tvg-name="PT:) CBS REALITY ˢᵈ" tvg-logo="http://going.kikakukikaku.xyz:2082/Logotipos/CBS_Reality_Europe.png" group-title="PORTUGAL",PT:) CBS REALITY ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35162
+#EXTINF:-1 tvg-id="canalq.pt" tvg-name="PT:) CANAL Q ˢᵈ" tvg-logo="http://going.kikakukikaku.xyz:2082/Logotipos/Canal_Q.png" group-title="PORTUGAL",PT:) CANAL Q ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35163
+#EXTINF:-1 tvg-id="eentertainment.pt" tvg-name="PT:)  E! ENTERTAINMENT ˢᵈ" tvg-logo="http://going.kikakukikaku.xyz:2082/Logotipos/E!_Entertainment_HD.png" group-title="PORTUGAL",PT:)  E! ENTERTAINMENT ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35164
+#EXTINF:-1 tvg-id="1plus1.pt" tvg-name="PT:)  CAÇAVISION ˢᵈ" tvg-logo="https://portalnacional.com.pt/images/icons/tv/CACAV.png" group-title="PORTUGAL",PT:)  CAÇAVISION ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35165
+#EXTINF:-1 tvg-id="blaze.pt" tvg-name="PT:) BLAZE TV ˢᵈ" tvg-logo="https://i.pinimg.com/originals/65/7b/06/657b06a379644d4e7800be10b7d5cab7.png" group-title="PORTUGAL",PT:) BLAZE TV ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35166
+#EXTINF:-1 tvg-id="biggs.pt" tvg-name="PT:) BIGGS ˢᵈ" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/Biggs.png" group-title="PORTUGAL",PT:) BIGGS ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35167
+#EXTINF:-1 tvg-id="nickelodeon.pt" tvg-name="PT:) NICKELODEON ˢᵈ" tvg-logo="http://going.kikakukikaku.xyz:2082/Logotipos/NICKELODEON.png" group-title="PORTUGAL",PT:) NICKELODEON ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35168
+#EXTINF:-1 tvg-id="1plus1.pt" tvg-name="PT:) JIM JAM ˢᵈ" tvg-logo="http://going.kikakukikaku.xyz:2082/Logotipos/JimJam.png" group-title="PORTUGAL",PT:) JIM JAM ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35169
+#EXTINF:-1 tvg-id="disneyjunior.pt" tvg-name="PT:) DISNEY JUNIOR ˢᵈ" tvg-logo="http://going.kikakukikaku.xyz:2082/Logotipos/Disney_Junior.png" group-title="PORTUGAL",PT:) DISNEY JUNIOR ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35170
+#EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="PT:) DISNEY CHANNEL ˢᵈ" tvg-logo="http://going.kikakukikaku.xyz:2082/Logotipos/Disney_Channel.png" group-title="PORTUGAL",PT:) DISNEY CHANNEL ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35171
+#EXTINF:-1 tvg-id="cartoonnetwork.pt" tvg-name="PT:) CARTOON NETWORK ˢᵈ" tvg-logo="http://going.kikakukikaku.xyz:2082/Logotipos/Cartoon_Network.png" group-title="PORTUGAL",PT:) CARTOON NETWORK ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35172
+#EXTINF:-1 tvg-id="panda.pt" tvg-name="PT:) CANAL PANDA ˢᵈ" tvg-logo="http://going.kikakukikaku.xyz:2082/Logotipos/Canal_Panda_Portugal.png" group-title="PORTUGAL",PT:) CANAL PANDA ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35173
+#EXTINF:-1 tvg-id="babytv.pt" tvg-name="PT:) BABY TV ˢᵈ" tvg-logo="http://going.kikakukikaku.xyz:2082/Logotipos/Baby_TV.png" group-title="PORTUGAL",PT:) BABY TV ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35174
+#EXTINF:-1 tvg-id="nickjr.pt" tvg-name="PT:) NICK JUNIOR ˢᵈ" tvg-logo="http://going.kikakukikaku.xyz:2082/Logotipos/Nick_Jr._HD.png" group-title="PORTUGAL",PT:) NICK JUNIOR ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35175
+#EXTINF:-1 tvg-id="vh1.pt" tvg-name="PT:) VH1 ˢᵈ" tvg-logo="http://going.kikakukikaku.xyz:2082/Logotipos/VH1.png" group-title="PORTUGAL",PT:) VH1 ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35177
+#EXTINF:-1 tvg-id="mtv00s.pt" tvg-name="PT:) MTV BIGGEST POP" tvg-logo="http://going.kikakukikaku.xyz:2082/Logotipos/MTV_Music_24.png" group-title="PORTUGAL",PT:) MTV BIGGEST POP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35178
+#EXTINF:-1 tvg-id="mtv.pt" tvg-name="PT:) MTV PORTUGAL ˢᵈ" tvg-logo="http://going.kikakukikaku.xyz:2082/Logotipos/MTV_Portugal.png" group-title="PORTUGAL",PT:) MTV PORTUGAL ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35179
+#EXTINF:-1 tvg-id="mcmpop.pt" tvg-name="PT:) MCM POP ˢᵈ" tvg-logo="http://going.kikakukikaku.xyz:2082/Logotipos/MCM_Pop.png" group-title="PORTUGAL",PT:) MCM POP ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Vegeta.TV-TakeOne[/COLOR]&url=http://going.kikakukikaku.xyz:8080/alexandrepereira2/14032021/35180
