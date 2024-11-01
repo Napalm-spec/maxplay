@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>HAIKYU!! The Dumpster Battle</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e861f9967626f32ae0287995dc8902cc684274f6&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//ntRU0OA4etGGiMMmH1Yw0bnaMdW.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//xMM0RE6WjfmZKtffj2JReMjNhDC.jpg</fanart>
+    <info>Shoyo Hinata se junta ao clube de vôlei do Karasuno High para ser como seu ídolo, um ex-jogador do Karasuno conhecido como o “Pequeno Gigante”. Mas Hinata logo descobre que deve se juntar a seu inimigo do ensino médio, Tobio Kageyama. Seus estilos conflitantes se transformam em uma arma surpreendente, mas será que eles conseguirão derrotar seu rival Nekoma High na tão aguardada “Dumpster Battle”, o tão aguardado confronto final entre duas equipes adversárias?</info>
+    <genre>Animação | Drama | Esportes</genre>
+</item>
 <item>
     <title>Gigantes</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:001110882ddffdc58197639a8889ad656bfa9a0c&dn</link>
