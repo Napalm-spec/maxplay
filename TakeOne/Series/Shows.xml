@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+
+<item>
+    <title>Operação: Lioness 2ª Temporada  01º E 02º EPISÓDIOS</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77dc7f43e6bafc4ce1b0c3501f05c5ea0d0cb9d7&dn$$lsname= 01º EPISÓDIO</link>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c8eba41158bf4d013856daed84a61be7cb6f33ec&dn$$lsname= 02º EPISÓDIO</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/ajaXSmdAlYYhnvx1EIsvpfN949y.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/3Udwq6W7y4AIsuJDXV2YwowZ1gQ.jpg</fanart>
+    <info>Na série produzida por Nicole Kidman e Zoe Saldana, Cruz Manuelos (Laysla de Oliveira) é recrutada pela CIA para se infiltrar entre as mulheres de terroristas. Para sobreviver a diversas situações de vida ou morte e evitar ao máximo erros que podem custar sua própria segurança, e do país, ela é treinada e orientada por Joe (Zoe Saldana), a chefe da Operação Lioness.</info>
+    <genre>Drama | Guerra</genre>
+</item>
+
+<item>
+    <title>Special Ops: Lioness 1ª Temporada  [COLOR lime](COMPLETA)[/COLOR]</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TF6F2ONSW6G2J3O5OV5P7HM4N7BHWZC4&dn$$lsname= 01º E 02º EPISÓDIOS</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IKEA5FBROTNZSI3AG3DJVFSJIPPHSVJS&dn$$lsname= 03º EPISÓDIO</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZKXOVL2UYLS46ZAUX2VUXZTICSZLDABI&dn$$lsname= 04º EPISÓDIO</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DCOMDBYZ2Z4RXJYK242CQB3LA6DWLSNK&dn$$lsname= 05º EPISÓDIO</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:N27PFNC63VWBV6E4JPP6K25DPF73EP2C&dn$$lsname= 06º EPISÓDIO</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DXGJIIAPAP6MZK744CW4FTJDZP2UOWAB&dn$$lsname= 07º EPISÓDIO</link>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LWYHHXJ2YMWWC7XCSG2OIV2XBKUOHQA2&dn$$lsname= 08º EPISÓDIO</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/rXCzevakJoAN1qnZY0nAQPSLVRv.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/sa9vB0xb3OMU6iSMkig8RBbdESq.jpg</fanart>
+    <info>Em Operação Lioness, uma fuzileira naval marcada por traumas está determinada a fazer de tudo para derrubar uma organização terrorista.</info>
+    <genre>Ação | Drama | Suspense</genre>
+</item>	
 <item>
     <title>Like a Dragon: Yakuza 1ª Temporada 01º E 03º EPISÓDIOS</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b3dea9365ffa0c45a583f20e974f457d0e8300ea&dn$$lsname= 01º E 03º EPISÓDIOS</link>
