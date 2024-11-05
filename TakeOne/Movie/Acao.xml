@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Kill: O Massacre no Trem</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:17a667b14c097364ab848e234aaf5ca1a8c981bf&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//mxgrtJvngNhppjCwu2AvdCtvSXa.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//okVLmXL5y18dfN2R4ufMZEGaeCd.jpg</fanart>
+    <info>Uma viagem de trem por Nova Deli, capital da Índia. O cenário logo se transforma em um campo de batalha quando uma dupla de soldados enfrenta um exército de bandidos invasores.</info>
+    <genre>Ação | Crime | Suspense</genre>
+</item>
 <item>
     <title>Take Cover</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eefe39e4646bc51377bec9de81e1923a8602b3fb&dn</link>
