@@ -1,6 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+<item>
+    <title>Pedro Páramo</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d7a64ca75db9b6c9066065021046aeeebe2b9f9c&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//5yPy1HAPsH7pfEQFqBMhH3ZFBdX.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//rijaG2Z2XEeIUfWUn4fzmzTVCuK.jpg</fanart>
+    <info>Neste filme baseado no aclamado livro de Juan Rulfo, um homem procura o pai, Pedro Páramo, em uma cidade dominada pela violência e pela fúria de uma decepção amorosa.</info>
+    <genre>Drama | Mistério | Suspense</genre>
+</item>
+<item>
+    <title>Sintonia de Natal</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9c110e01ca5950af72cb9a22a1f6d98c636913d6&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//oMjYBzQmR4D4A4sajf846iDreGG.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//8jujdLr4OAQoWGgfNmaE4RR0mqb.jpg</fanart>
+    <info>Em busca do homem dos seus sonhos, uma romântica inveterada corre por Nova York para encontrar um ingresso para um show natalino esgotado do Pentatonix.</info>
+    <genre>Comédia | Romance</genre>
+</item>
+<item>
+    <title>A Face da Vingança</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0d51b3093ceeb04706d6cbaed6807eaa9c28b24d&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//tlMVU37EuUzgfc737cuusJMTQlr.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//dcZ8QpzVBRKPdYM6lPTucd2hFJM.jpg</fanart>
+    <info>Durante uma viagem para conhecer os pais de seu namorado, Erin é sequestrada por uma estranha organização de comércio de sangue. Mas os seus sequestradores não sabem o erro que cometeram ao capturarem uma mulher com problemas de raiva.</info>
+    <genre>Ação | Suspense | Terror</genre>
+</item>	
 <item>
     <title>Transformers: O Início</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:98d2e321c32eb52291f2b4f377317930e8fbd7cd&dn$$lsname= 1080p Dual Áudio</link>
