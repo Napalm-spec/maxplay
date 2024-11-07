@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+
+<item>
+    <title>Pacto de Redenção</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04ecd4cd4bb2445d8bc63d31a7e2870992c9beb8&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//1jVlr869bV5ulcrJzqNlJs5KTMx.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//2NPhBHfzhEmXl8csQ2dKmoxfj5e.jpg</fanart>
+    <info>Quando um assassino contratado tem uma forma de demência que evolui rapidamente, ele tem a oportunidade de se redimir salvando a vida do filho adulto com quem estava afastado.  Para conseguir fazer isso, ele deve correr contra a polícia que se aproxima dele, bem como contra o relógio de sua própria mente em rápida deterioração.</info>
+    <genre>Suspense</genre>
+</item>    
 <item>
     <title>A Porta do Porão</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4a4b9f65fed3b9e3ebd9bc7203ff67ee48ef3c6d&dn</link>
