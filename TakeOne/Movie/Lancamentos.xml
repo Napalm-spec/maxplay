@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+<item>
+    <title>O Último Garoto da Terra</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:98644788cc75fbc90caecd8a07561694013fd954&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//muqwfWK7m73uUftKj077sEhE1Iy.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//aeFdraxkJz05VW6JVQOnKT4hFwL.jpg</fanart>
+    <info>Em um futuro distante, um garoto enigmático se torna a figura central na busca por uma nova esperança. Quem é esse garoto? Por que todos estão procurando por ele? Às vezes, é melhor não saber certas respostas.</info>
+    <genre>Aventura | Ficção | Terror</genre>
+</item>	
 <item>
     <title>Pacto de Redenção</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04ecd4cd4bb2445d8bc63d31a7e2870992c9beb8&dn</link>
