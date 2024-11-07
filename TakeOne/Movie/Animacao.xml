@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+<item>
+    <title>Look Back</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a4912b51c536f5f5b27b56e73564fcb9e141d995&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//uawgC9JOtbBGXwWygb3lon8SaEL.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//2okfik8YwzSfdETpT5cUClSiGFO.jpg</fanart>
+    <info>Esta é a história de Fujino e Kyomoto. Enquanto uma tem confiança absoluta em seu talento, a outra é uma reclusa que nunca sai de casa. Mas o amor e a dedicação que ambas possuem por desenhar mangá acaba unindo essas duas jovens de uma pequena cidade do interior. Um fantástico conto sobre a juventude feito a partir de um olhar único e especial.</info>
+    <genre>Animação | Drama</genre>
+</item>    
 <item>
     <title>HAIKYU!! The Dumpster Battle</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e861f9967626f32ae0287995dc8902cc684274f6&dn</link>
