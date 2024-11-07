@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>10 Dias de um Homem Curioso</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80ba76555683a96bd319acef41dfb9afb1a468fe&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//oYfKed3vI58cNN86OxDZ1Ryrgft.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//iF9b95STc8hUbcoBon8QQBP5K6o.jpg</fanart>
+    <info>Depois que uma jovem desaparece em Istambul, um escritor entediado em busca de uma boa história decide procurá-la e acaba se envolvendo em um caso perigoso.</info>
+    <genre>Drama | Suspense</genre>
+</item>
 <item>
     <title>Silvio</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cdc1ce67e70f254af642211510451a0a5afc5ec3&dn</link>
