@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Pacto de Redenção</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04ecd4cd4bb2445d8bc63d31a7e2870992c9beb8&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//1jVlr869bV5ulcrJzqNlJs5KTMx.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//2NPhBHfzhEmXl8csQ2dKmoxfj5e.jpg</fanart>
+    <info>Quando um assassino contratado tem uma forma de demência que evolui rapidamente, ele tem a oportunidade de se redimir salvando a vida do filho adulto com quem estava afastado.  Para conseguir fazer isso, ele deve correr contra a polícia que se aproxima dele, bem como contra o relógio de sua própria mente em rápida deterioração.</info>
+    <genre>Crime | Suspense</genre>
+</item>
+<item>
+    <title>10 Dias de um Homem Curioso</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80ba76555683a96bd319acef41dfb9afb1a468fe&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//oYfKed3vI58cNN86OxDZ1Ryrgft.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//iF9b95STc8hUbcoBon8QQBP5K6o.jpg</fanart>
+    <info>Depois que uma jovem desaparece em Istambul, um escritor entediado em busca de uma boa história decide procurá-la e acaba se envolvendo em um caso perigoso.</info>
+    <genre>Drama | Suspense</genre>
+</item>
+<item>
+    <title>Look Back</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a4912b51c536f5f5b27b56e73564fcb9e141d995&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//uawgC9JOtbBGXwWygb3lon8SaEL.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//2okfik8YwzSfdETpT5cUClSiGFO.jpg</fanart>
+    <info>Esta é a história de Fujino e Kyomoto. Enquanto uma tem confiança absoluta em seu talento, a outra é uma reclusa que nunca sai de casa. Mas o amor e a dedicação que ambas possuem por desenhar mangá acaba unindo essas duas jovens de uma pequena cidade do interior. Um fantástico conto sobre a juventude feito a partir de um olhar único e especial.</info>
+    <genre>Animação | Drama</genre>
+</item>
 <item>
     <title>Pedro Páramo</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d7a64ca75db9b6c9066065021046aeeebe2b9f9c&dn</link>
