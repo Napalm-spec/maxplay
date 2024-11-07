@@ -84,13 +84,6 @@
     <genre>Terror</genre>
 </item>
  
-<item>
-    <title>testes</title>
-    <link>plugin://plugin.video.torrentmovies/?action=play&torrent_url=magnet:?xt=urn:btih:8b4e5b4f671fd5c07771da210ef1f7579371cada</link>
-    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//7UzrLLNAAU1JdBJdrqtC0CuSc8E.jpg</thumbnail>
-    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//8mnswbAAq9kvkUpzcbTfSrt1DpN.jpg</fanart>
-    <info>Rebecca Holland assume o comando da igreja de um pequeno vilarejo inglês e, durante um festejo local, sua filha desaparece. Enquanto os moradores e a polícia se unem para encontrar a menina, segredos sombrios do vilarejo emergem e Rebecca é obrigada a decidir o quanto está disposta a sacrificar para salvar a filha do mal.</info>
-    <genre>Terror</genre>
-</item>
+
  
 </items>
