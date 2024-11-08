@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+<item>
+    <title>Princesa  Adormecida</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5524d21c1f233c327f55ffeb23ae3e5794ec117c&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//2snH1Itt1Zs20KFLyIFqPOkyJaV.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//pabH21va5xVVorlscrwBQEl5Urv.jpg</fanart>
+    <info>Rosa é uma típica adolescente que sonha com liberdade e independência enquanto seus três tios, que a criaram como uma filha, a superprotegem a todo custo e não a deixam fazer nada. Aos 15 anos, ela descobre que o mundo que achava real nada mais era que um sonho. Rosa é mais que uma simples jovem que vai à escola e se diverte com sua melhor amiga e troca mensagens com o seu crush. Um mistério do passado volta à tona e uma vilã vingativa coloca sua vida em perigo.</info>
+    <genre>Comédia | Romance</genre>
+</item>    
 <item>
     <title>O Homem que Amava Discos Voadores</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4fd4397f26f98da783bb7a89747403e782552ba1&dn</link>
