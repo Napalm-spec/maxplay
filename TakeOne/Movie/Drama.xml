@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+
+<item>
+    <title>The Buckingham Murders</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e188e4fc6420c66380152800b3de3d1e04830a5e&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//11tcho0QL35VKS9ARLZLfqN7Poi.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//lCLU5qZIbqduKQ3jMGWEeTrAiOV.jpg</fanart>
+    <info>Fresh wounds are reopened when Jasmeet Bhamra, a cop and a single mother who recently lost her child in a shooting spree, transfers to High Wycombe and is assigned a case of a missing child.</info>
+    <genre>Drama | Suspense</genre>
+</item>    
 <item>
     <title>10 Dias de um Homem Curioso</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80ba76555683a96bd319acef41dfb9afb1a468fe&dn</link>
