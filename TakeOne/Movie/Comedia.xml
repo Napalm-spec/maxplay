@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Apenas Amigos</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cddfdcf67d3e4397a4408fc70bb022e46dd1cb1f&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//g5GChva3wQUHsf1esRbsk9QPBUg.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//r4i6GYvtq8BgVK4qeFT4tL59uy8.jpg</fanart>
+    <info>Joris está tentando aceitar seus relacionamentos familiares rompidos no 10º aniversário da morte de seu pai, quando conhece o de espírito livre, Yad.</info>
+    <genre>Comédia | Romance</genre>
+</item>
 <item>
     <title>Romance no Ar: Uma Garota Apaixonada</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:412782494e63af2e6e4fcacf6c4186de450d131d&dn</link>
