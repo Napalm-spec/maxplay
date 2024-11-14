@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Cuckoo: O medo chama</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:34cc2c9ab5850bcb8e2f24f7f87fb9ced6b1f22a&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//lDsMtziGyBEWZFxu2k20YRMJ4hS.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//1eoCL8fPUZKlho03XVeNzZ3nlds.jpg</fanart>
+    <info>Relutantemente, aos 17 anos, Gretchen deixa sua casa nos Estados Unidos para morar na Alemanha com seu pai Luis, que se casou com Beth, uma mulher mais nova. Juntos, eles se mudam para um resort nos Alpes. Ao chegarem à sua nova casa, eles são recebidos pelo Sr. König, o chefe do pai de Gretchen, que demonstra um interesse inexplicável por Alma, a meia-irmã muda da garota. Com o passar do tempo, Gretchen começa a ser assombrada por estranhos barulhos e visões sangrentas, até que descobre um segredo chocante que também envolve sua própria família, revelando algo de errado no local aparentemente tranquilo.</info>
+    <genre>Ficção | Mistério | Terror</genre>
+</item>
 <item>
     <title>Corte no Tempo</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3226cc4799c879acd07c4b7fa5c4d3c9501fa97f&dn</link>
