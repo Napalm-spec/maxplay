@@ -2,7 +2,14 @@
 <items>
 
 
-
+<item>
+    <title>Sim, Chef! É Natal!</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5caeda42e47d7b426d83392ed3b355e131bd5ecb&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//6BYLw1UUR1lGQyMJ5OgD6KVa6mm.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//vNcTGp7mWRmon3Hne9MbbE3Zgp7.jpg</fanart>
+    <info>A chef Alicia Gellar é convidada para uma competição culinária natalina onde os participantes fazem duplas com chefs famosos como mentores. Embora Alicia e seu mentor Logan tenham tido um começo difícil, logo sentem uma verdadeira conexão.</info>
+    <genre>Comédia</genre>
+</item>
 <item>
     <title>Um Amor Feito de Neve</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:28213cdaeb1702925329d8bf5d57b36cbabcfbb0&dn</link>
