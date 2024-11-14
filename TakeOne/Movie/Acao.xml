@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Arena Mortal</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:727ef1b00bfcca99ad5fda49f26b0c6368a90cd7&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//yk8ALQPd3lfYDGJ8U429oYFiBaY.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//5O0mkQGfOQM4OktFOCep9YmXK79.jpg</fanart>
+    <info>Em 2045, criminosos condenados terão a oportunidade de competir no evento esportivo televisionado número 1 do mundo, o Arena Wars. Eles devem sobreviver a 7 quartos e a 7 dos assassinos mais cruéis do país. Se vencerem, recuperarão a liberdade.</info>
+    <genre>Ação | Comédia | Ficção</genre>
+</item>
 <item>
     <title>Grande Sertão</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:946d552f9050cd50c6f10af39e359f66d4deb663&dn</link>
