@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+
+<item>
+    <title>Um Amor Feito de Neve</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:28213cdaeb1702925329d8bf5d57b36cbabcfbb0&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//w5YVZQSR8yTOUFTS46QSUhnsYgK.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//6neVLKBU4DaWAwpWFhfCpV6yuqN.jpg</fanart>
+    <info>Uma jovem viúva faz um boneco de neve ganhar vida. Mas será que ele consegue ajudá-la a redescobrir o romance e a alegria do Natal antes de derreter?</info>
+    <genre>Comédia | Romance</genre>
+</item>    
 <item>
     <title>Apenas Amigos</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cddfdcf67d3e4397a4408fc70bb022e46dd1cb1f&dn</link>
