@@ -2,7 +2,14 @@
 <items>
 
 
-
+<item>
+    <title>Grande Sertão</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:946d552f9050cd50c6f10af39e359f66d4deb663&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//zVtQgPN7KZn4f9oE2nVFVYx4Hqw.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//bgPkOllkc6tSLPTGSySm9hetMFs.jpg</fanart>
+    <info>A luta entre policiais e bandidos assumiu ares de uma guerra de verdade: a comunidade é cercada por um enorme muro, helicópteros rondam os céus, batalhões desfilam pelas ruas, os bandidos possuem um verdadeiro exército de guerreiros. Tudo isso se passa na gigantesca periferia urbana chamada de "Grande Sertão". O filme é uma adaptação do clássico literário homônimo de Guimarães Rosa.</info>
+    <genre>Ação | Aventura | Drama</genre>
+</item>
 <item>
     <title>Deadpool & Wolverine</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ef8c5693754b15e43958c10adea54057dc692949&dn</link>
