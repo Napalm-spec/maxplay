@@ -3,6 +3,71 @@
 
 
 <item>
+    <title>Apenas Amigos</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cddfdcf67d3e4397a4408fc70bb022e46dd1cb1f&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//g5GChva3wQUHsf1esRbsk9QPBUg.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//r4i6GYvtq8BgVK4qeFT4tL59uy8.jpg</fanart>
+    <info>Joris está tentando aceitar seus relacionamentos familiares rompidos no 10º aniversário da morte de seu pai, quando conhece o de espírito livre, Yad.</info>
+    <genre>Comédia | Romance</genre>
+</item>
+<item>
+    <title>Grande Sertão</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:946d552f9050cd50c6f10af39e359f66d4deb663&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//zVtQgPN7KZn4f9oE2nVFVYx4Hqw.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//bgPkOllkc6tSLPTGSySm9hetMFs.jpg</fanart>
+    <info>A luta entre policiais e bandidos assumiu ares de uma guerra de verdade: a comunidade é cercada por um enorme muro, helicópteros rondam os céus, batalhões desfilam pelas ruas, os bandidos possuem um verdadeiro exército de guerreiros. Tudo isso se passa na gigantesca periferia urbana chamada de "Grande Sertão". O filme é uma adaptação do clássico literário homônimo de Guimarães Rosa.</info>
+    <genre>Ação | Aventura | Drama</genre>
+</item>
+<item>
+    <title>Um Amor Feito de Neve</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:28213cdaeb1702925329d8bf5d57b36cbabcfbb0&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//w5YVZQSR8yTOUFTS46QSUhnsYgK.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//6neVLKBU4DaWAwpWFhfCpV6yuqN.jpg</fanart>
+    <info>Uma jovem viúva faz um boneco de neve ganhar vida. Mas será que ele consegue ajudá-la a redescobrir o romance e a alegria do Natal antes de derreter?</info>
+    <genre>Comédia | Romance</genre>
+</item>
+<item>
+    <title>O Retorno do Rei: Queda e Ascensão de Elvis Presley</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4adf766d428084b83aff3327c79d3b2add9eaea7&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//1caQcjEZwGHNPvGd4bUa4qshfbc.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//9o29QNQh1TT0zkZfcciFFA5sUNP.jpg</fanart>
+    <info>Ele tinha uma única chance para provar ao mundo que ainda era o rei do rock. Descubra a história por trás do triunfante especial de retorno de Elvis Presley em 1968.</info>
+    <genre>Documentário | Musical</genre>
+</item>
+<item>
+    <title>As Crianças Perdidas</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e3a0c1263738b6c00e285fbcb947f0df1092b05e&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//9BZRTcevG0923HCucLpVBUa5GMC.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//joAKJgeKpvFVsobMpaEVCZgbj4e.jpg</fanart>
+    <info>Após a queda de um avião, quatro crianças indígenas lutam para sobreviver na Amazônia colombiana usando sabedoria ancestral enquanto uma missão inédita tenta resgatá-las.</info>
+    <genre>Documentário</genre>
+</item>
+<item>
+    <title>Arena Mortal</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:727ef1b00bfcca99ad5fda49f26b0c6368a90cd7&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//yk8ALQPd3lfYDGJ8U429oYFiBaY.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//5O0mkQGfOQM4OktFOCep9YmXK79.jpg</fanart>
+    <info>Em 2045, criminosos condenados terão a oportunidade de competir no evento esportivo televisionado número 1 do mundo, o Arena Wars. Eles devem sobreviver a 7 quartos e a 7 dos assassinos mais cruéis do país. Se vencerem, recuperarão a liberdade.</info>
+    <genre>Ação | Comédia | Ficção</genre>
+</item>
+<item>
+    <title>Sim, Chef! É Natal!</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5caeda42e47d7b426d83392ed3b355e131bd5ecb&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//6BYLw1UUR1lGQyMJ5OgD6KVa6mm.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//vNcTGp7mWRmon3Hne9MbbE3Zgp7.jpg</fanart>
+    <info>A chef Alicia Gellar é convidada para uma competição culinária natalina onde os participantes fazem duplas com chefs famosos como mentores. Embora Alicia e seu mentor Logan tenham tido um começo difícil, logo sentem uma verdadeira conexão.</info>
+    <genre>Comédia</genre>
+</item>
+<item>
+    <title>Cuckoo: O medo chama</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:34cc2c9ab5850bcb8e2f24f7f87fb9ced6b1f22a&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//lDsMtziGyBEWZFxu2k20YRMJ4hS.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//1eoCL8fPUZKlho03XVeNzZ3nlds.jpg</fanart>
+    <info>Relutantemente, aos 17 anos, Gretchen deixa sua casa nos Estados Unidos para morar na Alemanha com seu pai Luis, que se casou com Beth, uma mulher mais nova. Juntos, eles se mudam para um resort nos Alpes. Ao chegarem à sua nova casa, eles são recebidos pelo Sr. König, o chefe do pai de Gretchen, que demonstra um interesse inexplicável por Alma, a meia-irmã muda da garota. Com o passar do tempo, Gretchen começa a ser assombrada por estranhos barulhos e visões sangrentas, até que descobre um segredo chocante que também envolve sua própria família, revelando algo de errado no local aparentemente tranquilo.</info>
+    <genre>Ficção | Mistério | Terror</genre>
+</item>
+	
+<item>
     <title>Deadpool & Wolverine</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ef8c5693754b15e43958c10adea54057dc692949&dn</link>
     <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//53YWSo75mSaw1vd2YEeX5kwkRos.jpg</thumbnail>
