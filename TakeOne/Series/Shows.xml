@@ -2,7 +2,31 @@
 <items>
 
 
-
+<item>
+    <title>Silo 2ª Temporada  01º EPISÓDIO</title>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80b9cb71922979ca1d11cce653da8163b76d3865&dn$$lsname= 01º EPISÓDIO</link>
+	<link>plugin://plugin.video.elementum/play?uri=$$lsname= 02º EPISÓDIO Brevemente</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/9rCsN9tcZHXXrQM4bcTpcyTkTIS.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/ormMH10vPB9gxAvYwhP93uqfeuX.jpg</fanart>
+    <info>Em um silo subterrâneo, os últimos dez mil sobreviventes da Terra tentam se manter protegidos contra o caos mortal do mundo lá fora. Porém, ninguém sabe quem ou porquê o abrigo foi criado, e toda vez que alguém tenta desvendar sua origem, acaba sofrendo consequências fatais.</info>
+    <genre>Drama | Ficção</genre>
+</item>
+<item>
+    <title>Silo 1ª Temporada  [COLOR lime](COMPLETA)[/COLOR]</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LVS6ANWHV25X4VH35VWZYNTDR75D2ZBW&dn$$lsname= 01º E 02º EPISÓDIOS</link>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MXDQHLSPIXQPX4UVVGFXEWQZNU2HUEDG&dn$$lsname= 03º EPISÓDIO</link>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NF6MKGMAQZB4WJWVKVQKT6XL4J34NLW6&dn$$lsname= 04º EPISÓDIO</link>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:GOSEEOIOAIGNJKXELRQUFVLMPETGWT2V&dn$$lsname= 05º EPISÓDIO</link>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:L7VT2ZWN4CLG5SSSNAB7ZFOOQHXFF4MP&dn$$lsname= 06º EPISÓDIO</link>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:T4TKTQ5CC7GX6HR4ZKKI4THC3RLEA656&dn$$lsname= 07º EPISÓDIO</link>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35MVZMEX43FQIIRRJDWJZEYQSOEM4PX5&dn$$lsname= 08º EPISÓDIO</link>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RR5QICKLBCQO4HBOEFSCQAECEUCOIMWX&dn$$lsname= 09º EPISÓDIO</link>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JKGYCEXZXNIQO2PH3JSOHV65FEZWSDXX&dn$$lsname= 10º EPISÓDIO</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/j9wyX1KxM9GDH3BRTaAe9MGTldj.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/n5FPNMJ0eRoiQrKGfUQQRAZeaxg.jpg</fanart>
+    <info>Num mundo do futuro, tóxico e em ruínas, milhares de pessoas vivem num gigantesco silo no subsolo. Após o seu xerife quebrar uma regra fundamental e residentes começarem a morrer misteriosamente, a engenheira Juliette começa a desvendar segredos chocantes e a verdade sobre o Silo.</info>
+    <genre>Drama | Ficção</genre>
+</item>	
 <item>
     <title>Operação: Lioness 2ª Temporada  01º AO 03º EPISÓDIOS</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77dc7f43e6bafc4ce1b0c3501f05c5ea0d0cb9d7&dn$$lsname= 01º EPISÓDIO</link>
