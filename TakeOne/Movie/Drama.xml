@@ -2,7 +2,14 @@
 <items>
 
 
-
+<item>
+    <title>Ainda Somos os Mesmos</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81a196fc94b01ec0d4e4f3733f8e58d88c4cfe25&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//zV9lYXZ7lO2TSL3HljbSvW5UVbf.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//5unGfOVIjgtDzYfGTXLFmn2tDTy.jpg</fanart>
+    <info>Em 1973, após o golpe de Pinochet, o Chile era um dos lugares mais perigosos do mundo. O único lugar aparentemente seguro eram as embaixadas. O filme é baseado em relatos reais de João Carlos Bona Garcia que ficou 42 dias dentro da Embaixada nessas condições “de não saber se estaria vivo no dia seguinte” e sobreviveu.</info>
+    <genre>Drama | História</genre>
+</item>
 <item>
     <title>The Buckingham Murders</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e188e4fc6420c66380152800b3de3d1e04830a5e&dn</link>
