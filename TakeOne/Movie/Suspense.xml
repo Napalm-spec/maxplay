@@ -2,7 +2,14 @@
 <items>
 
 
-
+<item>
+    <title>Infestação</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91ddd9e231c6286076d129c504ae693e86dc97fe&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/3dx1yPdVzxEr6rMn4cVSiljk1kX.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/fZ4ktexSshkMqzX3hvpWIRm7esb.jpg</fanart>
+    <info>Ele está brigando com a irmã por uma questão de herança e cortou relações com seu melhor amigo. Fascinado por animais exóticos, em um certo dia ele encontra uma aranha venenosa em um bazar e a leva para seu apartamento. Quando a aranha escapa e se reproduzem rapidamente, o prédio francês em ruínas é transformado em uma terrível armadilha de teias.</info>
+    <genre>Suspense | Terror</genre>
+</item>
 <item>
     <title>Pacto de Redenção</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04ecd4cd4bb2445d8bc63d31a7e2870992c9beb8&dn</link>
