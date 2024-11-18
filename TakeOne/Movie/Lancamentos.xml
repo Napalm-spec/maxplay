@@ -2,7 +2,14 @@
 <items>
 
 
-
+<item>
+    <title>Sob Custódia</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f79d436d6adbab22b65788e798b4e58a28e8fc06&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//ux3A0Y0UVBeHLEtKlNIs3uxz88t.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//feyY1epCcD0TLrZLCBnvlGlsMdJ.jpg</fanart>
+    <info>Uma mulher enigmática acorda dentro de uma delegacia abandonada no meio da noite sem se lembrar de como chegou lá. Dois detetives tentam reconstituir seus passos para acusá-la de um atropelamento.</info>
+    <genre>Crime | Mistério | Suspense</genre>
+</item>
 <item>
     <title>Between the Temples</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6b2191368a4ce13b3fd0b003348a07641c0b4e49&dn</link>
