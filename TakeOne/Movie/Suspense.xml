@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Sob Custódia</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f79d436d6adbab22b65788e798b4e58a28e8fc06&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//ux3A0Y0UVBeHLEtKlNIs3uxz88t.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//feyY1epCcD0TLrZLCBnvlGlsMdJ.jpg</fanart>
+    <info>Uma mulher enigmática acorda dentro de uma delegacia abandonada no meio da noite sem se lembrar de como chegou lá. Dois detetives tentam reconstituir seus passos para acusá-la de um atropelamento.</info>
+    <genre>Suspense</genre>
+</item>
 <item>
     <title>Infestação</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91ddd9e231c6286076d129c504ae693e86dc97fe&dn</link>
