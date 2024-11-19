@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+
+<item>
+    <title>Sorria 2</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:052e3fafc6a4d7c78580c8bbd701e6c3e0287d3f&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/ypHiYvSJmHIyRDRiosZuE595uir.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/3rxoUVI74z7rTWYSAC2q3Uax2nC.jpg</fanart>
+    <info>Prestes a embarcar numa nova digressão mundial, a sensação pop mundial Skye Riley começa a experienciar acontecimentos cada vez mais aterradores e inexplicáveis. Subjugada pela escalada de horrores e pelas pressões da fama, Skye é forçada a enfrentar o seu passado sombrio para recuperar o controlo da sua vida antes que esta se descontrole.</info>
+    <genre>Suspense | Terror</genre>
+</item>    
 <item>
     <title>Sob Custódia</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f79d436d6adbab22b65788e798b4e58a28e8fc06&dn</link>
