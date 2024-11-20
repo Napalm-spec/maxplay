@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+<item>
+    <title>No Ritmo do Natal</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e3344e9868c7ab734db85c9ba5ac68682d68c2f4&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//nDca3DKfHqD2NHZF8vmtOWYxqjc.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//cgH0j8T5NG5VBzok8erdP8mq0SI.jpg</fanart>
+    <info>Para salvar a casa de espetáculos dos pais, uma dançarina da Broadway organiza uma apresentação natalina só com homens. E, de quebra, ainda conhece um bofe incrível.</info>
+    <genre>Comédia | Romance</genre>
+</item>    
 <item>
     <title>Between the Temples</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6b2191368a4ce13b3fd0b003348a07641c0b4e49&dn</link>
