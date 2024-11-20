@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+<item>
+    <title>Presa</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1064b3aba4218db33c47bc4e9d483fc855d0c34e&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//gjoDv3uhQtbDiqt2AOYL7qZSI92.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//n3JeGELHa9V6k9mL81ItMxWLSS6.jpg</fanart>
+    <info>Um jovem casal é obrigado a deixar sua estação missionária cristã no deserto de Kalahari depois de ser ameaçado de morte por uma gangue de militantes extremistas.</info>
+    <genre>Ação | Suspense</genre>
+</item>
+<item>
+    <title>GTMAX</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a3c3ca2b32c334b85c05d4ce7921c813eb8155c&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//bx92hl70NUhojjO3eV6LqKllj4L.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//a9a4ljIoGorBrbRXndLUH612PHl.jpg</fanart>
+    <info>O irmão dela foi recrutado por uma famosa gangue de motoqueiros. Agora, essa ex-campeã de motocross fará de tudo para salvar sua família.</info>
+    <genre>Ação | Aventura | Drama</genre>
+</item>	
 <item>
     <title>Arena Mortal</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:727ef1b00bfcca99ad5fda49f26b0c6368a90cd7&dn</link>
