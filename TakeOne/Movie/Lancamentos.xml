@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
-
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1064b3aba4218db33c47bc4e9d483fc855d0c34e&dn</link>
 
 <item>
     <title>Presa</title>
-    <link>https://myfiles.debrid.it/flfjt4wqpt/magnets/Presa%202024%20WEB-DL%201080p%20x264%20DUAL%202.0/Presa%202024%20WEB-DL%201080p%20x264%20DUAL%202.0/Presa%202024%20WEB-DL%201080p%20x264%20DUAL%202.0.mkv</link>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1064b3aba4218db33c47bc4e9d483fc855d0c34e&dn$$lsname= TORRENT</link>
+    <link>https://myfiles.debrid.it/flfjt4wqpt/magnets/Presa%202024%20WEB-DL%201080p%20x264%20DUAL%202.0/Presa%202024%20WEB-DL%201080p%20x264%20DUAL%202.0/Presa%202024%20WEB-DL%201080p%20x264%20DUAL%202.0.mkv$$lsname= LINK DIRECTO</link>
     <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//gjoDv3uhQtbDiqt2AOYL7qZSI92.jpg</thumbnail>
     <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//n3JeGELHa9V6k9mL81ItMxWLSS6.jpg</fanart>
     <info>Um jovem casal é obrigado a deixar sua estação missionária cristã no deserto de Kalahari depois de ser ameaçado de morte por uma gangue de militantes extremistas.</info>
