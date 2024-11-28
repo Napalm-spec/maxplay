@@ -1,6 +1,6 @@
 subtitle="https://github.com/Napalm-spec/maxplay/raw/refs/heads/master/Legenda/Ser/Dune.Prophecy/Dune%20Prophecy%20-%20S01%20E01%20-%20The%20Hidden%20Hand.srt"
 language="Portuguese (Portugal)"
-flag="pb"
+flag="pt"
 rating="5"
 
 subtitle="https://github.com/Napalm-spec/maxplay/raw/refs/heads/master/Legenda/Ser/Dune.Prophecy/Dune%20Prophecy%20-%20S01%20E02%20-%20Two%20Wolves.srt"
