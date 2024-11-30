@@ -13,7 +13,7 @@ language="Portuguese (Brasil)"
 flag="pb"
 rating="5"
 
-subtitle="https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/Legenda/Ser/The.Count.Of.Monte-Cristo/The.Count.Of.Monte-Cristo.2024.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D.srt"
+subtitle="https://github.com/Napalm-spec/maxplay/raw/refs/heads/master/Legenda/Ser/The.Count.Of.Monte-Cristo/The.Count.Of.Monte-Cristo.2024.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D.srt"
 language="Portuguese (Brasil)"
 flag="pb"
 rating="5"
