@@ -3,7 +3,7 @@
 
 <item>
     <title>MaXXXine</title>
-    <magnet>plugin://plugin.video.magnetplayer/?action=play&magnet=magnet:?xt=urn:btih:580ad6b5b9e0d448b68438f17cf8a99e8f69fad6&dn</magnet>
+    <link>plugin://plugin.video.magnetplayer/?action=play&magnet=magnet:?xt=urn:btih:580ad6b5b9e0d448b68438f17cf8a99e8f69fad6&dn</link>
     <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//dmi277uSdCavkSLTVNBUMlyDYy0.jpg</thumbnail>
     <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//viKEEaaCaZ0hZ2nGuvIEozlLooL.jpg</fanart>
     <info>Na década de 1980, em Hollywood, a estrela de cinema adulto e aspirante a atriz Maxine Minx finalmente teve sua grande chance. Mas enquanto um misterioso assassino persegue as estrelas de Hollywood, um rasto de sangue ameaça revelar o seu passado sinistro.</info>
@@ -11,7 +11,7 @@
 </item>   
 <item>
     <title>Turno Maldito</title>
-    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:40d48f8a91ab156366bfcbc618c8252d62ffdee2&dn</link>
+    <link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:40d48f8a91ab156366bfcbc618c8252d62ffdee2&dn</link>
     <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//qpqwzvqD0VwwAQ31egAkWOBEl2m.jpg</thumbnail>
     <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//3JVNLc6zIy6oZyqJrbvuzwO2RB4.jpg</fanart>
     <info>Em uma madrugada monótona no trabalho, Bola e Geleia, dois funcionários de um posto de gasolina no meio do nada, começam a presenciar acontecimentos cada vez mais amedrontadores. Ao chamar seu chefe para ajudá-los, descobrirão que gerenciar um posto pode ser mais perigoso do que imaginavam.</info>
