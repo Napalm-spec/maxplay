@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
- <item>
+<item>
     <title>MaXXXine</title>
     <link>plugin://plugin.video.magnetplayer/?action=play&magnet=magnet:?xt=urn:btih:580ad6b5b9e0d448b68438f17cf8a99e8f69fad6&dn</link>
     <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//dmi277uSdCavkSLTVNBUMlyDYy0.jpg</thumbnail>
