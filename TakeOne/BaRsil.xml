@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
-
+https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Tvs-BR/SERVER-02.xml
 <channel>
 <name>[B][COLOR white]SERVIDOR-1[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/fWqY9Yfz/icon.png</thumbnail>
@@ -8,7 +8,13 @@
 <info> SERVIDOR 1[COLOR lime] BRASIL[/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Tvs-BR/SERVER-01.xml</externallink>
 </channel> 
-  
+ <channel>
+<name>[B][COLOR white]SERVIDOR-1[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/fWqY9Yfz/icon.png</thumbnail>
+<fanart>https://i.postimg.cc/m20MdRnK/fanart.jpg</fanart>
+<info> SERVIDOR 1[COLOR lime] BRASIL[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Tvs-BR/SERVER-02.xml</externallink>
+</channel>  
 
 
 
