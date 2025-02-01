@@ -3,24 +3,24 @@
 
 <channel>
 <name>[B][COLOR white]CANAIS BRASIL[/COLOR][/B]</name>
-<thumbnail>https://i.postimg.cc/5N7NzV77/BR.jpg</thumbnail>
-<fanart>https://i.postimg.cc/qM3ML5qx/fanart.jpg</fanart>
+<thumbnail>https://i.postimg.cc/fWqY9Yfz/icon.png</thumbnail>
+<fanart>https://i.postimg.cc/m20MdRnK/fanart.jpg</fanart>
 <info> SERVIDOR [COLOR lime] BRASIL[/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/BaRsil.xml</externallink>
 </channel> 
 
 <channel>
 <name>[B][COLOR white]CANAIS PORTUGAL[/COLOR][/B]</name>
-<thumbnail>https://i.postimg.cc/d12VZZpr/PT.jpg</thumbnail>
-<fanart>https://i.postimg.cc/qM3ML5qx/fanart.jpg</fanart>
+<thumbnail>https://i.postimg.cc/fWqY9Yfz/icon.png</thumbnail>
+<fanart>https://i.postimg.cc/m20MdRnK/fanart.jpg</fanart>
 <info> SERVIDOR [COLOR lime] PORTUGAL[/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/PoRtuGaL.xml</externallink>
 </channel>   
 
 <channel>
 <name>[B][COLOR white]PLUTO TV[/COLOR][/B]</name>
-<thumbnail>https://i.postimg.cc/G25bJK9y/PLUNTO.jpg</thumbnail>
-<fanart>https://i.postimg.cc/qM3ML5qx/fanart.jpg</fanart>
+<thumbnail>https://i.postimg.cc/fWqY9Yfz/icon.png</thumbnail>
+<fanart>https://i.postimg.cc/m20MdRnK/fanart.jpg</fanart>
 <info> PLUTO TV[COLOR lime]  BRASIL[/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Tvs-BR/PLUNTO.TV.BR.xml</externallink>
 </channel> 
