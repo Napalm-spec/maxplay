@@ -3,11 +3,11 @@
 
  
 <channel>
-<name>[B][COLOR yellow]   ==== BRASIL TV ====   [/COLOR][/B]</name>
-<thumbnail>https://i.postimg.cc/qvFwTg4T/VEMBINDOS.jpg</thumbnail>
-<fanart>https://i.postimg.cc/qM3ML5qx/fanart.jpg</fanart>
+<name>[COLOR yellow]   ==== BRASIL TV ====   [/COLOR]</name>
+<thumbnail>https://i.postimg.cc/fWqY9Yfz/icon.png</thumbnail>
+<fanart>https://i.postimg.cc/m20MdRnK/fanart.jpg</fanart>
 <info>
-[COLOR blue] Bem vindo ao addon BRASIL TV. [/COLOR]
+[COLOR blue] Bem vindo ao addon Brasil TV. [/COLOR]
 Se o Addon tiver presença em redes sociais, você pode relatar o problema lá.  
 Lembre-se de fornecer o máximo de detalhes possível ao relatar um link quebrado.
 Isso ajudará a equipe responsável a resolver o problema mais rapidamente. 
@@ -17,37 +17,45 @@ Isso ajudará a equipe responsável a resolver o problema mais rapidamente.
 
  
   <channel>
-<name>[B][COLOR lime]Brasil TV[/COLOR] - [COLOR white]TV AO VIVO  [/COLOR][/B]</name>
-<thumbnail>https://i.postimg.cc/8Pg1XCL7/TV.jpg</thumbnail>
-<fanart>https://i.postimg.cc/qM3ML5qx/fanart.jpg</fanart>
+<name>[COLOR lime]Brasil TV[/COLOR] - [COLOR white]TV ao Vivo  [/COLOR]</name>
+<thumbnail>https://i.postimg.cc/fWqY9Yfz/icon.png</thumbnail>
+<fanart>https://i.postimg.cc/m20MdRnK/fanart.jpg</fanart>
 <info> </info>
 <externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Canais.xml</externallink>
 </channel>
 
 <channel>
-<name>[B][COLOR lime]Brasil TV[/COLOR] - [COLOR white]FILMES TORRENT[/COLOR][/B]</name>
-<thumbnail>https://i.postimg.cc/gc8XNjn7/FILMES.jpg</thumbnail>
-<fanart>https://i.postimg.cc/qM3ML5qx/fanart.jpg</fanart>
+<name>[COLOR lime]Brasil TV[/COLOR] - [COLOR white]Filmes TORRENT[/COLOR]</name>
+<thumbnail>https://i.postimg.cc/fWqY9Yfz/icon.png</thumbnail>
+<fanart>https://i.postimg.cc/m20MdRnK/fanart.jpg</fanart>
 <info></info>
 <externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Filmes.xml</externallink>
 </channel>
  
 <channel>
-<name>[B][COLOR lime]Brasil TV[/COLOR] - [COLOR white]FILMES 4K TORRENT[/COLOR][/B]</name>
-<thumbnail>https://i.postimg.cc/KvmWYKLS/FILMES4K.jpg</thumbnail>
-<fanart>https://i.postimg.cc/qM3ML5qx/fanart.jpg</fanart>
+<name>[COLOR lime]Brasil TV[/COLOR] - [COLOR white]Filmes 4K TORRENT[/COLOR]</name>
+<thumbnail>https://i.postimg.cc/fWqY9Yfz/icon.png</thumbnail>
+<fanart>https://i.postimg.cc/m20MdRnK/fanart.jpg</fanart>
 <info>
 [COLOR lime]Dublado[/COLOR]
 [COLOR lime]Dual Áudio[/COLOR]
 </info>
 <externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/4K.xml</externallink>
 </channel>
+
+<channel>
+<name>[COLOR lime]Brasil TV[/COLOR] - [COLOR white]Coleções TORRENT[/COLOR]</name>
+<thumbnail>https://i.postimg.cc/fWqY9Yfz/icon.png</thumbnail>
+<fanart>https://i.postimg.cc/m20MdRnK/fanart.jpg</fanart>
+<info></info>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Series.xml</externallink>
+</channel>
  
 <channel>
-<name>[B][COLOR lime]Brasil TV[/COLOR] - [COLOR white]SÉRIES TORRENT[/COLOR][/B]</name>
-<thumbnail>https://i.postimg.cc/mZPYyTsz/SERIES.jpg</thumbnail>
-<fanart>https://i.postimg.cc/qM3ML5qx/fanart.jpg</fanart>
-<info>T</info>
+<name>[COLOR lime]Brasil TV[/COLOR] - [COLOR white]Séries TORRENT[/COLOR]</name>
+<thumbnail>https://i.postimg.cc/fWqY9Yfz/icon.png</thumbnail>
+<fanart>https://i.postimg.cc/m20MdRnK/fanart.jpg</fanart>
+<info></info>
 <externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Series.xml</externallink>
 </channel>
 
