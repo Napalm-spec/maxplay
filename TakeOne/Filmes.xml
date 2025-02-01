@@ -42,8 +42,6 @@
 <externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Movie/Comedia.xml</externallink>
 </channel>  
   
-  
-  
 <channel>
 <name>[B][COLOR white]DRAMA [/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/fWqY9Yfz/icon.png</thumbnail>
@@ -75,8 +73,16 @@
 <info></info>
 <externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Movie/Ficcao.xml</externallink>
 </channel>
- 
 
+ 
+<channel>
+<name>[B][COLOR white]MARVEL/DC[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/fWqY9Yfz/icon.png</thumbnail>
+<fanart>https://i.postimg.cc/m20MdRnK/fanart.jpg</fanart>
+<info></info>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Movie/Marvel%26DC.xml</externallink>
+</channel>
+ 
 <channel>
 <name>[B][COLOR white]SUSPENSE [/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/fWqY9Yfz/icon.png</thumbnail>
