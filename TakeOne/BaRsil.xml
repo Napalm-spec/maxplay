@@ -3,84 +3,13 @@
 
 <channel>
 <name>[B][COLOR white]SERVIDOR-1[/COLOR][/B]</name>
-<thumbnail>https://i.postimg.cc/QC5NZ9kH/SERVBR.jpg</thumbnail>
-<fanart>https://i.postimg.cc/qM3ML5qx/fanart.jpg</fanart>
+<thumbnail>https://i.postimg.cc/fWqY9Yfz/icon.png</thumbnail>
+<fanart>https://i.postimg.cc/m20MdRnK/fanart.jpg</fanart>
 <info> SERVIDOR 1[COLOR lime] BRASIL[/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Tvs-BR/SERVER-01.xml</externallink>
 </channel> 
   
-<channel>
-<name>[B][COLOR white]SERVIDOR-2[/COLOR][/B]</name>
-<thumbnail>https://i.postimg.cc/QC5NZ9kH/SERVBR.jpg</thumbnail>
-<fanart>https://i.postimg.cc/qM3ML5qx/fanart.jpg</fanart>
-<info> SERVIDOR 2[COLOR lime]  BRASIL[/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Tvs-BR/SERVER-02.xml</externallink>
-</channel>
 
-<channel>
-<name>[B][COLOR white]SERVIDOR-3[/COLOR][/B]</name>
-<thumbnail>https://i.postimg.cc/QC5NZ9kH/SERVBR.jpg</thumbnail>
-<fanart>https://i.postimg.cc/qM3ML5qx/fanart.jpg</fanart>
-<info> SERVIDOR 3[COLOR lime]  BRASIL[/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Tvs-BR/SERVER-03.xml</externallink>
-</channel>  
-
-<channel>
-<name>[B][COLOR white]SERVIDOR-4[/COLOR][/B]</name>
-<thumbnail>https://i.postimg.cc/QC5NZ9kH/SERVBR.jpg</thumbnail>
-<fanart>https://i.postimg.cc/qM3ML5qx/fanart.jpg</fanart>
-<info> SERVIDOR 4[COLOR lime]  BRASIL[/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Tvs-BR/SERVER-04.xml</externallink>
-</channel> 
-
-<channel>
-<name>[B][COLOR white]SERVIDOR-5[/COLOR][/B]</name>
-<thumbnail>https://i.postimg.cc/QC5NZ9kH/SERVBR.jpg</thumbnail>
-<fanart>https://i.postimg.cc/qM3ML5qx/fanart.jpg</fanart>
-<info> SERVIDOR 5[COLOR lime]  BRASIL[/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Tvs-BR/SERVER-05.xml</externallink>
-</channel>
-
-<channel>
-<name>[B][COLOR white]SERVIDOR-6[/COLOR][/B]</name>
-<thumbnail>https://i.postimg.cc/QC5NZ9kH/SERVBR.jpg</thumbnail>
-<fanart>https://i.postimg.cc/qM3ML5qx/fanart.jpg</fanart>
-<info> SERVIDOR 6[COLOR lime]  BRASIL[/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Tvs-BR/SERVER-06.xml</externallink>
-</channel>
-  
-
-<channel>
-<name>[B][COLOR white]SERVIDOR-7[/COLOR][/B]</name>
-<thumbnail>https://i.postimg.cc/QC5NZ9kH/SERVBR.jpg</thumbnail>
-<fanart>https://i.postimg.cc/qM3ML5qx/fanart.jpg</fanart>
-<info> SERVIDOR 7[COLOR lime]  BRASIL[/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Tvs-BR/SERVER-07.xml</externallink>
-</channel> 
- 
-<channel>
-<name>[B][COLOR white]SERVIDOR-8[/COLOR][/B]</name>
-<thumbnail>https://i.postimg.cc/QC5NZ9kH/SERVBR.jpg</thumbnail>
-<fanart>https://i.postimg.cc/qM3ML5qx/fanart.jpg</fanart>
-<info> SERVIDOR 8[COLOR lime]  BRASIL[/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Tvs-BR/SERVER-08.xml</externallink>
-</channel>
-
-<channel>
-<name>[B][COLOR white]SERVIDOR-9[/COLOR][/B]</name>
-<thumbnail>https://i.postimg.cc/QC5NZ9kH/SERVBR.jpg</thumbnail>
-<fanart>https://i.postimg.cc/qM3ML5qx/fanart.jpg</fanart>
-<info> SERVIDOR 9[COLOR lime]  BRASIL[/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Tvs-BR/SERVER-09.xml</externallink>
-</channel>
-  
-<channel>
-<name>[B][COLOR white]SERVIDOR-10[/COLOR][/B]</name>
-<thumbnail>https://i.postimg.cc/QC5NZ9kH/SERVBR.jpg</thumbnail>
-<fanart>https://i.postimg.cc/qM3ML5qx/fanart.jpg</fanart>
-<info> SERVIDOR 10[COLOR lime]  BRASIL[/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Tvs-BR/SERVER-11.xml</externallink>
-</channel> 
 
 
 
