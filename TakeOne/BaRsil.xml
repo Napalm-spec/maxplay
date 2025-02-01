@@ -29,7 +29,13 @@
 <info> SERVIDOR 1[COLOR lime] BRASIL[/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Tvs-BR/SERVER-04.xml</externallink>
 </channel>
-
+ <channel>
+<name>[B][COLOR white]SERVIDOR-5[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/fWqY9Yfz/icon.png</thumbnail>
+<fanart>https://i.postimg.cc/m20MdRnK/fanart.jpg</fanart>
+<info> SERVIDOR 1[COLOR lime] BRASIL[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Tvs-BR/SERVER-05.xml</externallink>
+</channel>
 
   
 </channels>
