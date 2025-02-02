@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+    <title>Os Dois Hemisférios de Lucca</title>
+    <link>magnet:?xt=urn:btih:4dcb959140c8931438905e49e82a8182b9c53370&dn</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/3LhAMOOYDkFGlupPnpDM9MDoWAg.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/xaorunhTOUftbpVPpgPVDjjES0.jpg</fanart>
+    <info>
+[COLOR blue]Ano:[/COLOR][COLOR white](2024)[/COLOR]
+[COLOR yellow]Duração:[/COLOR][COLOR white]1 H 36 Min.[/COLOR]
+[COLOR lime]Sinopse:[/COLOR]Para ajudar o filho Lucca, que tem paralisia cerebral, Bárbara leva a família à Índia em busca de um tratamento experimental.
+</info>
+    <genre>Drama</genre>
+</item>
 <item>
     <title>Ainda Somos os Mesmos</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81a196fc94b01ec0d4e4f3733f8e58d88c4cfe25&dn</link>
