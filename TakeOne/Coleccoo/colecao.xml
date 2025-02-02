@@ -1,1 +1,14 @@
-123
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>
+
+<channel>
+<name>[B][COLOR white]Sonic: Coleção [/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/fwFWhYXj8wY6gFACtecJbg229FI.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/8jfHKno4tRZ621Uzw4heEaJPgRM.jpg</fanart>
+<info></info>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Movie/Lancamentos.xml</externallink>
+</channel>
+
+
+
+</channels>  
