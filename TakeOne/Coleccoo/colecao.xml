@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
 
+
+
+
+<channel>
+<name>[B][COLOR white]Gladiador: Coleção [/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/r7uyUOB6fmmPumWwHiV7Hn2kUbL.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/w9TH623i2s6lenfxe7ZbEshpn8J.jpg</fanart>
+<info>Uma série de filmes de ação históricos épicos que mostram combates de gladiadores na Roma antiga.</info>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Coleccoo/Gladiador</externallink>
+</channel>  
 <channel>
 <name>[B][COLOR white]Sonic: Coleção [/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/fwFWhYXj8wY6gFACtecJbg229FI.jpg</thumbnail>
