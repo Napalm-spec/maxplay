@@ -5,11 +5,18 @@
 
 
 <channel>
+<name>[B][COLOR white]Avatar: Coleção [/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/r7uyUOB6fmmPumWwHiV7Hn2kUbL.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/w9TH623i2s6lenfxe7ZbEshpn8J.jpg</fanart>
+<info>A Coleção Avatar conta a história do mundo de Pandora, habitado pelos humanóides indígenas, os Na'vi. O protagonista principal, Jake Sully (Sam Worthington), é enviado para Pandora como um avatar - um híbrido de humano e Na'vi. Durante sua missão, Jake descobre a beleza e a complexidade do mundo Na'vi e estabelece uma conexão profunda com os habitantes do planeta. A coleção centra-se no conflito entre os humanos e os Na'vi e na luta para salvar o mundo de Pandora.</info>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Coleccoo/Avatar.xml</externallink>
+</channel>  
+<channel>
 <name>[B][COLOR white]Gladiador: Coleção [/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/r7uyUOB6fmmPumWwHiV7Hn2kUbL.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/w9TH623i2s6lenfxe7ZbEshpn8J.jpg</fanart>
 <info>Uma série de filmes de ação históricos épicos que mostram combates de gladiadores na Roma antiga.</info>
-<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Coleccoo/Gladiador</externallink>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Coleccoo/Gladiador.xml</externallink>
 </channel>  
 <channel>
 <name>[B][COLOR white]Sonic: Coleção [/COLOR][/B]</name>
