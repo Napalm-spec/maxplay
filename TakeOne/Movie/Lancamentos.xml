@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+ <item>
+    <title>TESTE2</title>
+    <link>plugin://plugin.video.resolverurl_player?url=https://voe.sx/e/vhsbn3843kqd</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/xqBSapk1nC35WlZ6PraMjOVMQBy.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/rMkbqIWdlMhSFH0MGTj10SzSJkN.jpg</fanart>
+    <info>
+[COLOR blue]Ano:[/COLOR][COLOR white](2025)[/COLOR]
+[COLOR yellow]Duração:[/COLOR][COLOR white]1 H 38 Min.[/COLOR]
+[COLOR lime]Sinopse:[/COLOR]Quando ele e a esposa grávida são atacados em casa, um ex-agente de elite se envolve em uma caçada perigosa ligada ao seu passado complicado.
+</info>
+    <genre>Ação | Drama | Suspense</genre>
+</item>
  <item>
     <title>TESTE</title>
     <link>plugin://plugin.video.resolverurl_player?url=https://voe.sx/e/0ok32fxhjuwy</link>
