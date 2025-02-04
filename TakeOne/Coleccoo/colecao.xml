@@ -3,7 +3,13 @@
 
 
 
-
+<channel>
+<name>[B][COLOR white]Alien vs. Predador: Coleção [/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/kocMDHzp5SWh0XUhC1nLdWuV65E.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/8ptWAyvPmLRHyJyfrVOVFUFMHUW.jpg</fanart>
+<info>Alien vs. Predador (também conhecida como AVP) é uma série de filmes de ficção científica que reúne as criaturas homônimas das séries Alien e Predador.</info>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Coleccoo/Alien.vs.Predador.xml</externallink>
+</channel> 
 <channel>
 <name>[B][COLOR white]Avatar: Coleção [/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/r7uyUOB6fmmPumWwHiV7Hn2kUbL.jpg</thumbnail>
