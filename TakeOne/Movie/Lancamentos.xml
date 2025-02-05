@@ -2,55 +2,7 @@
 <items>
 
 
- <item>
-    <title>TESTE 4</title>
-    <link>plugin://plugin.video.resolverurl_player?url=https://listeamed.net/e/qA3WOmMd992OKkz</link>
-    <thumbnail>https://image.tmdb.org/t/p/original/qh4H7H0XYv9TJ0ZSFsOc64NUG1W.jpg</thumbnail>
-    <fanart>https://image.tmdb.org/t/p/original/hZSOdJFLECTBO8PpYkVI3rPsY2D.jpg</fanart>
-    <info>
-[COLOR blue]Ano:[/COLOR][COLOR white](2025)[/COLOR]
-[COLOR yellow]Duração:[/COLOR][COLOR white]1 H 40 Min.[/COLOR]
-[COLOR lime]Sinopse:[/COLOR]Lainy planeja se casar e formar uma família. Mas quando tudo dá errado, ela coloca uma barriga falsa, inventa uma mentira e se apaixona pelo homem de seus sonhos.
-</info>
-    <genre>Comédia | Romance</genre>
-</item>   
-<item>
-    <title>TESTE 3</title>
-    <link>plugin://plugin.video.resolverurl_player?url=https://luluvdo.com/e/2wzx8teqxwbu</link>
-    <thumbnail>https://image.tmdb.org/t/p/original/qh4H7H0XYv9TJ0ZSFsOc64NUG1W.jpg</thumbnail>
-    <fanart>https://image.tmdb.org/t/p/original/hZSOdJFLECTBO8PpYkVI3rPsY2D.jpg</fanart>
-    <info>
-[COLOR blue]Ano:[/COLOR][COLOR white](2025)[/COLOR]
-[COLOR yellow]Duração:[/COLOR][COLOR white]1 H 40 Min.[/COLOR]
-[COLOR lime]Sinopse:[/COLOR]Lainy planeja se casar e formar uma família. Mas quando tudo dá errado, ela coloca uma barriga falsa, inventa uma mentira e se apaixona pelo homem de seus sonhos.
-</info>
-    <genre>Comédia | Romance</genre>
-</item>
-<item>
-    <title>TESTE 2</title>
-    <link>plugin://plugin.video.resolverurl_player?url=https://ghbrisk.com/e/fuedoht51lff</link>
-    <thumbnail>https://image.tmdb.org/t/p/original/qh4H7H0XYv9TJ0ZSFsOc64NUG1W.jpg</thumbnail>
-    <fanart>https://image.tmdb.org/t/p/original/hZSOdJFLECTBO8PpYkVI3rPsY2D.jpg</fanart>
-    <info>
-[COLOR blue]Ano:[/COLOR][COLOR white](2025)[/COLOR]
-[COLOR yellow]Duração:[/COLOR][COLOR white]1 H 40 Min.[/COLOR]
-[COLOR lime]Sinopse:[/COLOR]Lainy planeja se casar e formar uma família. Mas quando tudo dá errado, ela coloca uma barriga falsa, inventa uma mentira e se apaixona pelo homem de seus sonhos.
-</info>
-    <genre>Comédia | Romance</genre>
-</item>
-    
-<item>
-    <title>TESTE</title>
-    <link>plugin://plugin.video.resolverurl_player?url=https://voe.sx/e/0ok32fxhjuwy</link>
-    <thumbnail>https://image.tmdb.org/t/p/original/qh4H7H0XYv9TJ0ZSFsOc64NUG1W.jpg</thumbnail>
-    <fanart>https://image.tmdb.org/t/p/original/hZSOdJFLECTBO8PpYkVI3rPsY2D.jpg</fanart>
-    <info>
-[COLOR blue]Ano:[/COLOR][COLOR white](2025)[/COLOR]
-[COLOR yellow]Duração:[/COLOR][COLOR white]1 H 40 Min.[/COLOR]
-[COLOR lime]Sinopse:[/COLOR]Lainy planeja se casar e formar uma família. Mas quando tudo dá errado, ela coloca uma barriga falsa, inventa uma mentira e se apaixona pelo homem de seus sonhos.
-</info>
-    <genre>Comédia | Romance</genre>
-</item>
+
 <item>
     <title>Meio Grávida</title>
     <link>magnet:?xt=urn:btih:b402031cef378ea7cf23498382e72a3bc74f94c0&dn</link>
@@ -99,30 +51,7 @@
     </info>
     <genre>Comédia</genre>	
 </item>
-<item>
-    <title>Sonic 3: O Filme</title>
-    <link>magnet:?xt=urn:btih:aeecdea6debe2f7ffa20c904769d4ef0059cbfe7&dn</link>
-    <thumbnail>https://image.tmdb.org/t/p/original/tfM1T6tAivjvy0sLwt6Y9WvlmzB.jpg</thumbnail>
-    <fanart>https://image.tmdb.org/t/p/original/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg</fanart>
-    <info>
-    [COLOR blue]Ano:[/COLOR][COLOR white](2024)[/COLOR]
-    [COLOR yellow]Duração:[/COLOR][COLOR white]1 H 49 Min.[/COLOR]    
-    [COLOR lime]SINOPSE:[/COLOR]Sonic, Knuckles e Tails se reúnem contra um novo e poderoso adversário, Shadow, um vilão misterioso com poderes diferentes de tudo que eles já enfrentaram antes. Com suas habilidades superadas em todos os sentidos, a Equipe Sonic deve buscar uma aliança improvável na esperança de parar Shadow e proteger o planeta.
-    </info>
-    <genre>Ação | Comédia | Ficção</genre>	
-</item>
-<item>
-    <title>A Linha da Extinção</title>
-    <link>magnet:?xt=urn:btih:a3338f14c9e8fdd9507071345b668798b6ae9038&dn</link>
-    <thumbnail>https://image.tmdb.org/t/p/original/aJRTe0xSIMuvf8USGHHbouF8V7i.jpg</thumbnail>
-    <fanart>https://image.tmdb.org/t/p/original/kFuRs6RW2wxCg4ilYUIyEpPQA1Y.jpg</fanart>
-    <info>
-    [COLOR blue]Ano:[/COLOR][COLOR white](2024)[/COLOR]
-    [COLOR yellow]Duração:[/COLOR][COLOR white]1 H 31 Min.[/COLOR]    
-    [COLOR lime]SINOPSE:[/COLOR]Vivendo nas montanhas após o apocalipse, um pai solteiro e duas mulheres se aventuram fora de suas casas e enfrentam criaturas monstruosas para salvar a vida de uma criança.
-    </info>
-    <genre>Ação | Ficção | Suspense</genre>	
-</item>    
+   
 
 
 
