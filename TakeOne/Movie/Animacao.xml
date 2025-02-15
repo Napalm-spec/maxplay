@@ -2,7 +2,18 @@
 <items>
 
 
-
+<item>
+    <title>teste-1 resolverurl_player 3</title>
+    <link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.ps/e/gjgl0nvxawdkg04</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/ob2oIUL1gV4pNg7s9oGjNBSI2iF.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/1YL8ksfwm3p2Tgt1yaNVYYOvOKC.jpg</fanart>
+    <info>
+[COLOR blue]Ano:[/COLOR][COLOR white](2025)[/COLOR]
+[COLOR yellow]Duração:[/COLOR][COLOR white]1 H 31 Min.[/COLOR]
+[COLOR lime]Sinopse:[/COLOR]Quando marinheiros humanos são atacados por criaturas misteriosas das profundezas, só uma pessoa pode impedir a guerra entre a terra e o mar: o Witcher, Geralt de Rivia.
+</info>
+    <genre>Ação | Animação | Fantasia</genre>
+</item> 
 <item>
     <title>teste-1 resolverurl_player</title>
     <link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.ps/e/7kqg7m36cd4m6nm</link>
