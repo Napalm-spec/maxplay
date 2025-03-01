@@ -2,6 +2,19 @@
 <channels>
 
 <channel>
+<name>[COLOR yellow]   ==== BRASIL TV ====   [/COLOR]</name>
+<thumbnail>https://i.postimg.cc/fWqY9Yfz/icon.png</thumbnail>
+<fanart>https://i.postimg.cc/m20MdRnK/fanart.jpg</fanart>
+<info>
+[COLOR blue] Bem vindo ao addon Brasil TV. [/COLOR]
+Se o Addon tiver presença em redes sociais, você pode relatar o problema lá.  
+Lembre-se de fornecer o máximo de detalhes possível ao relatar um link quebrado.
+Isso ajudará a equipe responsável a resolver o problema mais rapidamente. 
+</info>
+<externallink>https://0.0.0</externallink>
+</channel>
+ 
+<channel>
 <name>[B][COLOR white]SERVIDOR-1[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/fWqY9Yfz/icon.png</thumbnail>
 <fanart>https://i.postimg.cc/m20MdRnK/fanart.jpg</fanart>
