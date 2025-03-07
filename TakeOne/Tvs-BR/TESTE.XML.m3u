@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 4K" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | 4K",SPORTV 4K
+https://embedcanaistv.live/espn6/video.m3u8
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 1 4K" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | 4K",SPORTV 1 4K
+http://embedcanaistv.live/espn6/video.m3u8
