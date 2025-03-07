@@ -91,5 +91,15 @@
 <externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Tvs-BR/SERVER-10.xml.m3u</externallink>
 </channel>
 
+ <channel>
+<name>[B][COLOR white]SERVIDOR-TESTE[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/fWqY9Yfz/icon.png</thumbnail>
+<fanart>https://i.postimg.cc/m20MdRnK/fanart.jpg</fanart>
+<info> SERVIDOR 10[COLOR lime] BRASIL[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Tvs-BR/TESTE</externallink>
+</channel>
+
+
+ 
  
 </channels>
