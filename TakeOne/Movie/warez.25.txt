@@ -9,5 +9,19 @@
 [COLOR yellow]Duração:[/COLOR][COLOR white]1h 35m[/COLOR]
 [COLOR lime]Sinopse:[/COLOR]Dois espiões desonestos saem da rede, casam-se e são atacados no seu esconderijo de cabine remota por várias agências de informação que procuram um disco rígido roubado.
 </info>
-    <genre>Ação, Comédia</genre>
+    <genre>Ação, Crime, Thriller</genre>
+</item>
+
+<item>
+    <title>Holland [COLOR orange](2025)[/COLOR]</title>
+    <link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.ps/e/9wkme6v4fqwv4l</link>
+    <subtitle>https://subs.warezcdn.link/245755-PTB.srt</subtitle>
+    <thumbnail>https://image.tmdb.org/t/p/original/39jIr3A4ScUeGxFdMeARYKNxTgU.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/sg7PpNrc1pTNtx4CoMLiLJY4iIQ.jpg</fanart>
+    <info>
+[COLOR blue]Ano:[/COLOR][COLOR white](2025)[/COLOR]
+[COLOR yellow]Duração:[/COLOR][COLOR white]1h 48m[/COLOR]
+[COLOR lime]Sinopse:[/COLOR]Nancy Vandergroot é uma professora e dona de casa que mora em Holland, uma cidade cheia de tulipas, com seu marido, o pilar da comunidade, e seu filho. No entanto, sua vida perfeita se transforma numa história assustadora, quando ela e um amigo suspeitam de um segredo e logo descobrem que nada em suas vidas é o que parece ser.
+</info>
+    <genre>Thriller, Mistério</genre>
 </item>
