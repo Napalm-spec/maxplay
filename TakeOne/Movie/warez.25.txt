@@ -1,5 +1,5 @@
 <item>
-    <title>Código Alarum [COLOR orange](2025)[/COLOR]</title>
+    <title>Código Alarum [COLOR orange](VERSÃO LEGENDADO)[/COLOR]</title>
     <link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.ps/e/pjpwogn3sgw8oo0</link>
     <subtitle>https://subs.warezcdn.link/245082-PTB.srt</subtitle>
     <thumbnail>https://image.tmdb.org/t/p/original/ckyYZf5cGTSOwF8LWIRqeThyh18.jpg</thumbnail>
@@ -11,11 +11,25 @@
 </info>
     <genre>Ação, Crime, Thriller</genre>
 </item>
-
+https://mixdrop.sb/e/8lozel19hed3p0
 <item>
-    <title>Holland [COLOR orange](2025)[/COLOR]</title>
+    <title>Holland [COLOR orange](VERSÃO LEGENDADO)[/COLOR]</title>
     <link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.ps/e/9wkme6v4fqwv4l</link>
     <subtitle>https://subs.warezcdn.link/245755-PTB.srt</subtitle>
+    <thumbnail>https://image.tmdb.org/t/p/original/39jIr3A4ScUeGxFdMeARYKNxTgU.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/sg7PpNrc1pTNtx4CoMLiLJY4iIQ.jpg</fanart>
+    <info>
+[COLOR blue]Ano:[/COLOR][COLOR white](2025)[/COLOR]
+[COLOR yellow]Duração:[/COLOR][COLOR white]1h 48m[/COLOR]
+[COLOR lime]Sinopse:[/COLOR]Nancy Vandergroot é uma professora e dona de casa que mora em Holland, uma cidade cheia de tulipas, com seu marido, o pilar da comunidade, e seu filho. No entanto, sua vida perfeita se transforma numa história assustadora, quando ela e um amigo suspeitam de um segredo e logo descobrem que nada em suas vidas é o que parece ser.
+</info>
+    <genre>Thriller, Mistério</genre>
+</item>
+
+<item>
+    <title>Holland [COLOR orange](VERSÃO DUBLADO)[/COLOR]</title>
+    <link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/8lozel19hed3p0</link>
+    <subtitle></subtitle>
     <thumbnail>https://image.tmdb.org/t/p/original/39jIr3A4ScUeGxFdMeARYKNxTgU.jpg</thumbnail>
     <fanart>https://image.tmdb.org/t/p/original/sg7PpNrc1pTNtx4CoMLiLJY4iIQ.jpg</fanart>
     <info>
