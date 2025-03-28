@@ -1,6 +1,6 @@
 <item>
     <title>Código Alarum [COLOR orange](2025)[/COLOR]</title>
-    <link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/pjpwogn3sgw8oo0</link>
+    <link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.ps/e/pjpwogn3sgw8oo0</link>
     <subtitle>https://subs.warezcdn.link/245082-PTB.srt</subtitle>
     <thumbnail>https://image.tmdb.org/t/p/original/ckyYZf5cGTSOwF8LWIRqeThyh18.jpg</thumbnail>
     <fanart>https://image.tmdb.org/t/p/original/qSOMdbZ6AOdHR999HWwVAh6ALFI.jpg</fanart>
