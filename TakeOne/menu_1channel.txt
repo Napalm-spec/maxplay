@@ -29,36 +29,10 @@ Atenciosamente,
 <thumbnail>https://i.postimg.cc/V6CLdgHX/neotv1.jpg</thumbnail>
 <fanart>https://i.postimg.cc/SKHxp0t4/fanart.jpg</fanart>
 <info> </info>
-<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Movie/warez.25.txt</externallink>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/warez.25.txt</externallink>
 </channel>
 
-<channel>
-<name>[B][COLOR lime]NEO TV[/COLOR] - [COLOR white]FILMES [/COLOR][/B]</name>
-<thumbnail>https://i.postimg.cc/NjCgDS31/FILMES.jpg</thumbnail>
-<fanart>https://i.postimg.cc/SKHxp0t4/fanart.jpg</fanart>
-<info></info>
-<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Filmes.xml</externallink>
-</channel>
- 
-<channel>
-<name>[B][COLOR lime]NEO TV[/COLOR] - [COLOR white]FILMES 4K[/COLOR][/B]</name>
-<thumbnail>https://i.postimg.cc/0jzcw6KZ/neotv4K.jpg</thumbnail>
-<fanart>https://i.postimg.cc/SKHxp0t4/fanart.jpg</fanart>
-<info>
-[COLOR lime]Dublado[/COLOR]
-[COLOR lime]Dual Áudio[/COLOR]
-[COLOR lime]Legendado[/COLOR]
-</info>
-<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/4K.xml</externallink>
-</channel>
- 
-<channel>
-<name>[B][COLOR lime]NEO TV[/COLOR] - [COLOR white]SÉRIES [/COLOR][/B]</name>
-<thumbnail>https://i.postimg.cc/0jCvwBGK/SERIES.jpg</thumbnail>
-<fanart>https://i.postimg.cc/SKHxp0t4/fanart.jpg</fanart>
-<info></info>
-<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Series.xml</externallink>
-</channel>
+
 
   
 </channels>
