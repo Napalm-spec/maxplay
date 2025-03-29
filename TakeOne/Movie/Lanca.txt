@@ -9,10 +9,7 @@
 [COLOR lime]Sinopse:[/COLOR]Após se encontrar com o recém-eleito presidente dos EUA, Thaddeus Ross, Sam se vê no meio de um incidente internacional. Ele deve descobrir o motivo por trás de uma conspiração global nefasta antes que o verdadeiro gênio faça o mundo inteiro ser dominado pelo vermelho.
 </info>
 <genre>Thriller, Mistério</genre>
-<rate>5.1</rate>
 <date>09.03.2025</date>
-<duration>5328</duration>
-<studio>PRIME VIDEO</studio>
 <externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/warez.25.txt</externallink>
 </channel>
 «««««««««««««««««««««««««
