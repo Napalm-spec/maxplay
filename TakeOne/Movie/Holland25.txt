@@ -8,7 +8,6 @@
 [COLOR blue]Gênero:[/COLOR] Thriller, Mistério
 [COLOR yellow]Duração:[/COLOR] 1h 48m
 [COLOR aquamarine]Lançamento:[/COLOR] 2025
-[COLOR orange]Qualidade:[/COLOR] 1080p
 [COLOR gold]Áudio:[/COLOR] Português | PT-BR 
 [COLOR green]IMDb:[/COLOR] 5,1
 </info>
@@ -24,7 +23,6 @@
 [COLOR blue]Gênero:[/COLOR] Thriller, Mistério
 [COLOR yellow]Duração:[/COLOR] 1h 48m
 [COLOR aquamarine]Lançamento:[/COLOR] (2025)
-[COLOR orange]Qualidade:[/COLOR] 1080p
 [COLOR gold]Áudio:[/COLOR] Inglês
 [COLOR red]Legenda:[/COLOR] PT-BR
 [COLOR green]IMDb:[/COLOR] 5,1
