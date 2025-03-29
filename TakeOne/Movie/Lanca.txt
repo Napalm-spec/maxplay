@@ -1,5 +1,20 @@
 <channels>
 
+
+<channel>
+<name>[COLOR blue]Os Altos e Baixos do Amor [/COLOR] [COLOR orange](2025)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/4AvT0zWGUcxVkEylAtKEjvY8brc.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/l2QSVFR5aLcW1Vl4cGKrQkEp6fY.jpg</fanart>
+<info>
+[B][COLOR yellow]Studio:[/COLOR]NETFIX[/B]
+[COLOR blue]Gênero:[/COLOR]Comédia, Romance, Ação
+[COLOR red]Duração:[/COLOR]1h 49m
+[COLOR lime]Sinopse:[/COLOR]Em plena noite de núpcias, um casal excêntrico é arrastado para uma perseguição caótica, fugindo de bandidos e da polícia numa busca frenética pelo misterioso “Charlie”.
+</info>
+<date>14/02/2025</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/DhoomDhaam25.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[COLOR blue]Os Altos e Baixos do Amor [/COLOR] [COLOR orange](2025)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/e2yAyz0PR43aIxnGjv9HJryHBys.jpg</thumbnail>
