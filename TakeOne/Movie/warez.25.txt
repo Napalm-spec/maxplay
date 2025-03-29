@@ -14,11 +14,14 @@
 [COLOR red]IMDb:[/COLOR] 5,1
 </info>
 <genre>Thriller, Mistério</genre>
-
+<rate>5.1</rate>
+<date>09.03.2025</date>
+<duration>5328</duration>
+<studio>PRIME VIDEO</studio>
 </item>
 +++++++++
 <item>
-<title>(Ver Video)[COLOR lime] VERSÃO LEGENDADO[/COLOR]<</title>
+<title>(Ver Video)[COLOR lime] VERSÃO LEGENDADO[/COLOR]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.ps/e/9wkme6v4fqwv4l</link>
 <subtitle>https://subs.warezcdn.link/245755-PTB.srt</subtitle>
 <thumbnail>https://image.tmdb.org/t/p/original/39jIr3A4ScUeGxFdMeARYKNxTgU.jpg</thumbnail>
@@ -33,5 +36,9 @@
 [COLOR green]IMDb:[/COLOR] 5,1
 </info>
 <genre>Thriller, Mistério</genre>
+<rate>5.1</rate>
+<date>09.03.2025</date>
+<duration>5328</duration>
+<studio>PRIME VIDEO</studio>
 </item>
 +++++++++
