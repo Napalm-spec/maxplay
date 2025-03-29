@@ -5,7 +5,10 @@
 <name>[B][COLOR lime]Filmes [/COLOR] - [COLOR white]2025  [/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/V6CLdgHX/neotv1.jpg</thumbnail>
 <fanart>https://i.postimg.cc/SKHxp0t4/fanart.jpg</fanart>
-<info> </info>
+<info> 
+[COLOR blue]Filmes Dublados[/COLOR]
+[COLOR yellow]Filmes Legendados[/COLOR]
+</info>
 <externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/Lanca.txt</externallink>
 </channel>
 
