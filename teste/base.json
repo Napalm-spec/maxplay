@@ -14,9 +14,9 @@
         },
 		{
             "type": "dir",
-            "title": "[COLOR green]•[/COLOR]Melhor Qualidade",
+            "title": "[COLOR green]•[/COLOR]Melhor Qualidade TESTE",
 			"thumbnail": "https://archive.org/download/1700740365675/1700740365675.png",
-            "link": "https://raw.githubusercontent.com/Gael1303/jen/main/list/hq.xml"
+            "link": "https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/teste/hq.xml"
         },
         {
             "type": "dir",
