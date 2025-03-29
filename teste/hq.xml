@@ -2,12 +2,12 @@
 	"items": [
 		{
 			"content": "movie",
-			"title": "Duna: Parte Dois [4K]",
-			"imdb_id": "tt15239678",
-			"thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e8pI4XkYgUMuSJ8cEFbJE18wc4e.jpg",
-			"fanart": "https://image.tmdb.org/t/p/original/87IVlclAfWL6mdicU1DDuxdwXwe.jpg",
-			"genre": "Ficção científica, Aventura",
-			"link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5727adf32ce141fa0be300a90d1a96eb79b2630f",
+			"title": "Código Alarum",
+			"imdb_id": "tt31456973",
+			"thumbnail": "https://image.tmdb.org/t/p/original/ckyYZf5cGTSOwF8LWIRqeThyh18.jpg",
+			"fanart": "https://image.tmdb.org/t/p/original/qSOMdbZ6AOdHR999HWwVAh6ALFI.jpg",
+			"genre": "Ação, Crime, Thriller",
+			"link": "plugin://plugin.video.resolverurl_player?url=https://mixdrop.ps/e/pjpwogn3sgw8oo0",
 			"type": "item"
 		},
 		{
