@@ -1,6 +1,22 @@
 <channels>
 
 
+
+
+<channel>
+<name>[COLOR blue]Invasão de Lua de Mel [/COLOR] [COLOR orange](2025)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/JRF2CsPVaqbjxJkZM0zAKfdoXH.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/tNibbPrVZYY40s8jAfFbkRciAEA.jpg</fanart>
+<info>
+[B][COLOR yellow]Studio:[/COLOR]NETFIX[/B]
+[COLOR blue]Gênero:[/COLOR]Comédia
+[COLOR red]Duração:[/COLOR]1h 35m
+[COLOR lime]Sinopse:[/COLOR]Trocado pelo ex da noiva em pleno altar, um jovem acaba passando a lua de mel com a mãe.
+</info>
+<date>12/02/2025</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/InvasAodeLuadeMel25.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[COLOR blue]Minha Culpa: Londres [/COLOR] [COLOR orange](2025)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/5nbSgP8f5LMCI0PwVRRaHJaUmR3.jpg</thumbnail>
