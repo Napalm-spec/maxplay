@@ -11,6 +11,16 @@
 </info>
 <externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/Lanca.txt</externallink>
 </channel>
+  <channel>
+<name>[B][COLOR lime]Filmes Diversos[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/dV7mLNFX/Filmes-Diversos-Zokos.jpg</thumbnail>
+<fanart>https://i.postimg.cc/tRfnTg18/deadpool-2-movie-cinema.jpg</fanart>
+<info> 
+[COLOR blue]Filmes Dublados[/COLOR]
+[COLOR yellow]Filmes Legendados[/COLOR]
+</info>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/Lanca.txt</externallink>
+</channel>
 
 
 
