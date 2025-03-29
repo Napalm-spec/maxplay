@@ -1,3 +1,17 @@
+<channel>
+<name>[COLOR blue]Star Trek: Seção 31 [/COLOR] [COLOR orange](2025)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/4lwW5zp8o2WZqynQtRs7jXDpQh1.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/czoiFndZswfFcQxbHxWUGcSpajM.jpg</fanart>
+<info>
+[COLOR yellow]Studio:[/COLOR]PRIME VIDEO
+[COLOR blue]Gênero:[/COLOR]Ficção científica, Aventura, Ação
+[COLOR red]Duração:[/COLOR]1h 36m
+[COLOR lime]Sinopse:[/COLOR]A Imperatriz Philippa Georgiou entra para uma divisão secreta da Frota Estelar. Com a missão de proteger a Federação dos Planetas Unidos, ela também deve enfrentar os erros de seu passado.
+</info>
+<date>22/01/2025</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/StarTrekSection3125.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <item>
 <title>(Ver Video)[COLOR lime] VERSÃO DUBLADO[/COLOR]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/mk9z0zjja37qw</link>
