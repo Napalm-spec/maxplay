@@ -3,7 +3,6 @@
 		{
 			"content": "movie",
 			"title": "Código Alarum",
-			"imdb_id": "tt31456973",
 			"thumbnail": "https://image.tmdb.org/t/p/original/ckyYZf5cGTSOwF8LWIRqeThyh18.jpg",
 			"fanart": "https://image.tmdb.org/t/p/original/qSOMdbZ6AOdHR999HWwVAh6ALFI.jpg",
 			"genre": "Ação, Crime, Thriller",
@@ -13,7 +12,6 @@
 		{
 			"content": "movie",
 			"title": "Duna [4K]",
-			"imdb_id": "tt1160419",
 			"thumbnail": "https://www.themoviedb.org/t/p/w500/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
 			"genre": "Ação, Aventura, Drama",
 			"link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4cd2ca7b3a05fca7dafa7e6945f63a7a3bd9759c",
@@ -22,7 +20,6 @@
 		{
 			"content": "movie",
 			"title": "Bad Boys: Até o Fim [4K]",
-			"imdb_id": "tt4919268",
 			"genre": "Ação",
 			"thumbnail": "https://en.yts-official.mx/movies/poster/bad-boys-ride-or-die-2024.jpg",
 			"link": [
@@ -45,7 +42,6 @@
 		{
 			"content": "movie",
 			"title": "Guerra Civil [4K]",
-			"imdb_id": "tt17279496",
 			"genre": "Action / Adventure / Thriller",
 			"thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3Use5sOQWXL3BvcaKqUH7eQ7I53.jpg",
 			"link": [
@@ -57,7 +53,6 @@
 		{
 			"content": "movie",
 			"title": "Planeta dos Macacos: O Reinado [4K]",
-			"imdb_id": "tt11389872",
 			"genre": "Guerra, Ação, Drama",
 			"thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dzDK2TMXsxrolGVdZwNGcOlZqrF.jpg",
 			"link": [
