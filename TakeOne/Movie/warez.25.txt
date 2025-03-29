@@ -4,16 +4,13 @@
 <subtitle>LEGENDAS</subtitle>
 <thumbnail>https://image.tmdb.org/t/p/original/39jIr3A4ScUeGxFdMeARYKNxTgU.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/sg7PpNrc1pTNtx4CoMLiLJY4iIQ.jpg</fanart>
-<duration>5328</duration>
-<studio>PRIME VIDEO</studio>
 <info>
 [COLOR blue]Gênero:[/COLOR] Thriller, Mistério
 [COLOR yellow]Duração:[/COLOR] 1h 48m
 [COLOR aquamarine]Lançamento:[/COLOR] 2025
-[COLOR orange]Qualidade:[/COLOR] WEB-DL
-[COLOR green]Formato:[/COLOR] MKV
+[COLOR orange]Qualidade:[/COLOR] 1080p
 [COLOR gold]Áudio:[/COLOR] Português | PT-BR 
-[COLOR red]IMDb:[/COLOR] 5,1
+[COLOR green]IMDb:[/COLOR] 5,1
 </info>
 </item>
 +++++++++
@@ -23,13 +20,11 @@
 <subtitle>https://subs.warezcdn.link/245755-PTB.srt</subtitle>
 <thumbnail>https://image.tmdb.org/t/p/original/39jIr3A4ScUeGxFdMeARYKNxTgU.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/sg7PpNrc1pTNtx4CoMLiLJY4iIQ.jpg</fanart>
-<duration>5328</duration>
-<studio>PRIME VIDEO</studio>
 <info>
 [COLOR blue]Gênero:[/COLOR] Thriller, Mistério
 [COLOR yellow]Duração:[/COLOR] 1h 48m
 [COLOR aquamarine]Lançamento:[/COLOR] (2025)
-[COLOR orange]Qualidade:[/COLOR] WEB-DL
+[COLOR orange]Qualidade:[/COLOR] 1080p
 [COLOR gold]Áudio:[/COLOR] Inglês
 [COLOR red]Legenda:[/COLOR] PT-BR
 [COLOR green]IMDb:[/COLOR] 5,1
