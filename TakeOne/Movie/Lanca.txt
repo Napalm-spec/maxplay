@@ -5,7 +5,7 @@
 <thumbnail>https://image.tmdb.org/t/p/original/3L3l6LsiLGHkTG4RFB2aBA6BttB.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/mkxGpqh4yOYqtENv01IrDcesFRf.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]PRIME VIDEO
+[COLOR yellow]Studio:[/COLOR]NETFIX
 [COLOR blue]Gênero:[/COLOR]Ação, Comédia
 [COLOR red]Duração:[/COLOR]1h 54m
 [COLOR lime]Sinopse:[/COLOR]Quinze anos depois de abandonar a CIA para formar uma família, os ex-agentes de elite Matt e Emily voltam ao mundo da espionagem ao terem seus disfarces revelados.
