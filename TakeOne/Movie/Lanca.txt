@@ -5,10 +5,10 @@
 <thumbnail>https://image.tmdb.org/t/p/original/39jIr3A4ScUeGxFdMeARYKNxTgU.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/sg7PpNrc1pTNtx4CoMLiLJY4iIQ.jpg</fanart>
 <info>
-[COLOR yellow]Duração:[/COLOR][COLOR white]1h 59m[/COLOR]
+[COLOR blue]Gênero:[/COLOR] Thriller, Mistério
+[COLOR yellow]Duração:[/COLOR] 1h 48m
 [COLOR lime]Sinopse:[/COLOR]Após se encontrar com o recém-eleito presidente dos EUA, Thaddeus Ross, Sam se vê no meio de um incidente internacional. Ele deve descobrir o motivo por trás de uma conspiração global nefasta antes que o verdadeiro gênio faça o mundo inteiro ser dominado pelo vermelho.
 </info>
-<genre>Thriller, Mistério</genre>
 <date>09.03.2025</date>
 <externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/warez.25.txt</externallink>
 </channel>
