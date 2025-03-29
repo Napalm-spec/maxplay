@@ -1,11 +1,10 @@
 <channels>
 
 <channel>
-<name>Código Alarum [COLOR orange](2025)[/COLOR]</name>
+<name>[COLOR blue]Código Alarum [/COLOR] [COLOR orange](2025)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/agWt9bJzr2m1HY3A5InxXveUyIe.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/bDIYX0ZSX4CXBEPtOOxwTiaUeFE.jpg</fanart>
 <info>
-[COLOR blue]Ano:[/COLOR][COLOR white](2025)[/COLOR]
 [COLOR yellow]Duração:[/COLOR][COLOR white]1h 59m[/COLOR]
 [COLOR lime]Sinopse:[/COLOR]Após se encontrar com o recém-eleito presidente dos EUA, Thaddeus Ross, Sam se vê no meio de um incidente internacional. Ele deve descobrir o motivo por trás de uma conspiração global nefasta antes que o verdadeiro gênio faça o mundo inteiro ser dominado pelo vermelho.
 </info>
