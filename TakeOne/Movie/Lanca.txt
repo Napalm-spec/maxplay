@@ -5,7 +5,7 @@
 <thumbnail>https://image.tmdb.org/t/p/original/3L3l6LsiLGHkTG4RFB2aBA6BttB.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/mkxGpqh4yOYqtENv01IrDcesFRf.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]NETFIX
+[B][COLOR yellow]Studio:[/COLOR]NETFIX[/B]
 [COLOR blue]Gênero:[/COLOR]Ação, Comédia
 [COLOR red]Duração:[/COLOR]1h 54m
 [COLOR lime]Sinopse:[/COLOR]Quinze anos depois de abandonar a CIA para formar uma família, os ex-agentes de elite Matt e Emily voltam ao mundo da espionagem ao terem seus disfarces revelados.
@@ -19,7 +19,7 @@
 <thumbnail>https://image.tmdb.org/t/p/original/bnciRmZZSdyqp7HcrAwNG0mObaP.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/haX32ZQxOgDWcJO5sTiTUEE1Ulr.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]PRIME VIDEO
+[B][COLOR yellow]Studio:[/COLOR]PRIME VIDEO[/B]
 [COLOR blue]Gênero:[/COLOR]Crime, Thriller
 [COLOR red]Duração:[/COLOR]1h 35m
 [COLOR lime]Sinopse:[/COLOR]Klara vai morrer hoje, a menos que mate o marido. O Assassino do Calendário deu a ela esse ultimato. Quando Jules começa seu turno da noite em uma linha direta para mulheres que estão indo sozinhas para casa, ele atende a ligação de Klara. Ele logo se torna sua última esperança de sobrevivência e corre contra o tempo para salvá-la.
@@ -33,7 +33,7 @@
 <thumbnail>https://image.tmdb.org/t/p/original/4lwW5zp8o2WZqynQtRs7jXDpQh1.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/czoiFndZswfFcQxbHxWUGcSpajM.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]PRIME VIDEO
+[B][COLOR yellow]Studio:[/COLOR]PARAMOUNT+[/B]
 [COLOR blue]Gênero:[/COLOR]Ficção científica, Aventura, Ação
 [COLOR red]Duração:[/COLOR]1h 36m
 [COLOR lime]Sinopse:[/COLOR]A Imperatriz Philippa Georgiou entra para uma divisão secreta da Frota Estelar. Com a missão de proteger a Federação dos Planetas Unidos, ela também deve enfrentar os erros de seu passado.
@@ -47,7 +47,7 @@
 <thumbnail>https://image.tmdb.org/t/p/original/yBJAA1oAF7RB7qLycJtYo9FPsQ0.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/sc1abgWNXc29wSBaerrjGBih06l.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]PRIME VIDEO
+[B][COLOR yellow]Studio:[/COLOR]PRIME VIDEO[/B]
 [COLOR blue]Gênero:[/COLOR] Comédia, Terror, Ficção científica, Thriller
 [COLOR red]Duração:[/COLOR] 1h 37m
 [COLOR lime]Sinopse:[/COLOR]Uma viagem de fim de semana se torna sangrenta e violenta quando uma androide subserviente, criada para a companhia humana, simplesmente enlouquece.
@@ -61,7 +61,7 @@
 <thumbnail>https://image.tmdb.org/t/p/original/39jIr3A4ScUeGxFdMeARYKNxTgU.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/sg7PpNrc1pTNtx4CoMLiLJY4iIQ.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]PRIME VIDEO
+[B][COLOR yellow]Studio:[/COLOR]PRIME VIDEO[/B]
 [COLOR blue]Gênero:[/COLOR] Thriller, Mistério
 [COLOR red]Duração:[/COLOR] 1h 48m
 [COLOR lime]Sinopse:[/COLOR]Após se encontrar com o recém-eleito presidente dos EUA, Thaddeus Ross, Sam se vê no meio de um incidente internacional. Ele deve descobrir o motivo por trás de uma conspiração global nefasta antes que o verdadeiro gênio faça o mundo inteiro ser dominado pelo vermelho.
