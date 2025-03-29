@@ -1,5 +1,20 @@
 <channels>
 
+
+<channel>
+<name>[COLOR blue]Entre Montanhas [/COLOR] [COLOR orange](2025)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xI8fGpn41WJgfazS4Qoppx6ZUN1.jpg</fanart>
+<info>
+[B][COLOR yellow]Studio:[/COLOR]APPLE TV+[/B]
+[COLOR blue]Gênero:[/COLOR]Romance, Ficção científica, Thriller
+[COLOR red]Duração:[/COLOR]2h 7m
+[COLOR lime]Sinopse:[/COLOR]Dois agentes altamente treinados se aproximam à distância após serem enviados para proteger lados opostos de um desfiladeiro misterioso. Quando um mal emerge, eles precisam trabalhar juntos para sobreviver ao que está lá dentro.
+</info>
+<date>03/01/2025</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/TheGorge25.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[COLOR blue]De Volta à Ação [/COLOR] [COLOR orange](2025)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/3L3l6LsiLGHkTG4RFB2aBA6BttB.jpg</thumbnail>
