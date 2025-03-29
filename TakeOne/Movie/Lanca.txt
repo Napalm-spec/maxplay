@@ -9,6 +9,11 @@
 [COLOR yellow]Duração:[/COLOR][COLOR white]1h 59m[/COLOR]
 [COLOR lime]Sinopse:[/COLOR]Após se encontrar com o recém-eleito presidente dos EUA, Thaddeus Ross, Sam se vê no meio de um incidente internacional. Ele deve descobrir o motivo por trás de uma conspiração global nefasta antes que o verdadeiro gênio faça o mundo inteiro ser dominado pelo vermelho.
 </info>
+<genre>Terror, Ficção científica, Thriller</genre>
+<rate>5.1</rate>
+<date>09.03.2025</date>
+<duration>5328</duration>
+<studio>PRIME VIDEO</studio>
 <externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.1083658-scoop.txt</externallink>
 </channel>
 «««««««««««««««««««««««««
