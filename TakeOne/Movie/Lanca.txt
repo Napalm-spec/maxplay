@@ -1,5 +1,21 @@
 <channels>
 
+
+
+<channel>
+<name>[COLOR blue]Umjolo: O Amor Não Tem Cura [/COLOR] [COLOR orange](2025)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/2JXvvx0JSKb3uZjLi7YRjZ9WgX9.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eT1udCQQAXVuLkb26911aUwg76L.jpg</fanart>
+<info>
+[B][COLOR yellow]Studio:[/COLOR]NETFIX[/B]
+[COLOR blue]Gênero:[/COLOR]Romance, Comédia, Drama
+[COLOR red]Duração:[/COLOR]1h 18m
+[COLOR lime]Sinopse:[/COLOR]Depois de perder o título por expor um escândalo, uma ex-miss decide escrever uma autobiografia. Mas sua vida amorosa ainda é uma página em branco.
+</info>
+<date>14/02/2025</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/UmjoloThereIsNoCure25.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[COLOR blue]A Garota Mais Linda do Mundo [/COLOR] [COLOR orange](2025)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/t8fgC2kom2ZSKP70tGLLvo3aCcD.jpg</thumbnail>
