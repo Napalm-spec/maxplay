@@ -1,6 +1,19 @@
 <channels>
 
-
+<channel>
+<name>[COLOR blue]Os Altos e Baixos do Amor [/COLOR] [COLOR orange](2025)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/e2yAyz0PR43aIxnGjv9HJryHBys.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/e8npsTfpBZa8T0TQqyZSwD9RNu2.jpg</fanart>
+<info>
+[B][COLOR yellow]Studio:[/COLOR]NETFIX[/B]
+[COLOR blue]Gênero:[/COLOR]Romance, Comédia, Drama
+[COLOR red]Duração:[/COLOR]1h 36m
+[COLOR lime]Sinopse:[/COLOR]Um casal de Estocolmo planeja se casar na ilha paradisíaca de Gotland, mas as imposições da família transformam o grande dia num desastre.
+</info>
+<date>03/01/2025</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/K%C3%A4rlekf%C3%A5rever25.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[COLOR blue]Entre Montanhas [/COLOR] [COLOR orange](2025)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg</thumbnail>
