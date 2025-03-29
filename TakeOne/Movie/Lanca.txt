@@ -1,6 +1,19 @@
 <channels>
 
-
+<channel>
+<name>[COLOR blue]A Garota Mais Linda do Mundo [/COLOR] [COLOR orange](2025)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/t8fgC2kom2ZSKP70tGLLvo3aCcD.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/wVLPPX2DXQmfkzDe6MOsJJfbKEX.jpg</fanart>
+<info>
+[B][COLOR yellow]Studio:[/COLOR]NETFIX[/B]
+[COLOR blue]Gênero:[/COLOR]Comédia, Drama, Romance
+[COLOR red]Duração:[/COLOR]2h 2m
+[COLOR lime]Sinopse:[/COLOR]Um playboy cria um reality de namoro para conquistar a tão sonhada herança e realizar o último desejo do pai: se casar com a mulher mais linda do mundo.
+</info>
+<date>14/02/2025</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/TheMostBeautifulGirlintheWorld25.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[COLOR blue]Viva os Noivos! [/COLOR] [COLOR orange](2025)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/4AvT0zWGUcxVkEylAtKEjvY8brc.jpg</thumbnail>
