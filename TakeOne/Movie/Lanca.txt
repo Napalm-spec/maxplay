@@ -70,6 +70,20 @@
 <externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/Holland25.txt</externallink>
 </channel>
 «««««««««««««««««««««««««
+<channel>
+<name>[COLOR blue]Umjolo: Entre Dois Amores [/COLOR] [COLOR orange](2025)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/gfNaw0IVm1BnprmCr6SmkN6tq42.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/22yzTjjiD0ZrR6BRSjVEKRTk6gF.jpg</fanart>
+<info>
+[B][COLOR yellow]Studio:[/COLOR]NETFIX[/B]
+[COLOR blue]Gênero:[/COLOR]Romance, Drama
+[COLOR red]Duração:[/COLOR]1h 14m
+[COLOR lime]Sinopse:[/COLOR]Entre as imposições da família e a vontade de ser livre, Mayi conhece um saxofonista muito charmoso e começa a questionar o próprio casamento.
+</info>
+<date>03/01/2025</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/UmjoloMyBeginningsMyEnd25.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 
 
 </channels>
