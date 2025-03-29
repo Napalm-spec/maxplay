@@ -1,7 +1,20 @@
 <channels>
 
 
-
+<channel>
+<name>[COLOR blue]Minha Culpa: Londres [/COLOR] [COLOR orange](2025)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/bioObjvmJdDRxnWM3TrQYaMUbAQ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/uJK0jjJ8QDOQw5lcNBwu059ht4D.jpg</fanart>
+<info>
+[B][COLOR yellow]Studio:[/COLOR]PRIME VIDEO[/B]
+[COLOR blue]Gênero:[/COLOR]Romance, Drama
+[COLOR red]Duração:[/COLOR]1h 59m
+[COLOR lime]Sinopse:[/COLOR]Noah, de 18 anos, se muda dos EUA para Londres com a mãe, que recentemente se apaixonou por William, um rico empresário britânico. Noah conhece o filho de William, o bad boy Nick, e logo descobre uma atração que nenhum dos dois consegue evitar. Enquanto Noah passa o verão tentando se ajustar à nova vida, seu passado devastador a atingirá em cheio justo quando se apaixona pela primeira vez.
+</info>
+<date>14/02/2025</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/MyFaultLondon25.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[COLOR blue]Umjolo: O Amor Não Tem Cura [/COLOR] [COLOR orange](2025)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/2JXvvx0JSKb3uZjLi7YRjZ9WgX9.jpg</thumbnail>
