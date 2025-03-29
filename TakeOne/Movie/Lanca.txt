@@ -2,7 +2,20 @@
 
 
 
-
+<channel>
+<name>[COLOR blue]Henry Danger: O Filme [/COLOR] [COLOR orange](2025)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/5YSQPQRP8LPjcfdhl9VA7f2TqOS.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/klgP7ICpXlCMz4px8vi0FqcufFG.jpg</fanart>
+<info>
+[B][COLOR yellow]Studio:[/COLOR]PARAMOUNT+[/B]
+[COLOR blue]Gênero:[/COLOR]Ação, Comédia, Família, Ficção científica
+[COLOR red]Duração:[/COLOR]1h 59m
+[COLOR lime]Sinopse:[/COLOR]Henry Danger conhece uma superfã - ansiosa para combater o crime com Kid Danger - que possui um dispositivo que pode abrir realidades alternativas. Enfrentando uma viagem alucinante, Henry precisará de seu melhor amigo Jasper e de sua nova companheira superfã para encontrar a saída ou ficar preso em outra dimensão para sempre.
+</info>
+<date>17/01/2025</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/tt7787524.25.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[COLOR blue]Invasão de Lua de Mel [/COLOR] [COLOR orange](2025)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/JRF2CsPVaqbjxJkZM0zAKfdoXH.jpg</thumbnail>
