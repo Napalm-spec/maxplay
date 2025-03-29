@@ -1,7 +1,7 @@
 <channels>
 
 <channel>
-<name>Código Alarum [COLOR orange](VERSÃO LEGENDADO)[/COLOR]</name>
+<name>Código Alarum [COLOR orange](2025)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/agWt9bJzr2m1HY3A5InxXveUyIe.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/bDIYX0ZSX4CXBEPtOOxwTiaUeFE.jpg</fanart>
 <info>
