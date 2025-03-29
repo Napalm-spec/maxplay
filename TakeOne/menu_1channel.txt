@@ -13,7 +13,7 @@
 </channel>
   <channel>
 <name>[B][COLOR lime]Filmes Diversos[/COLOR][/B]</name>
-<thumbnail>https://i.postimg.cc/dV7mLNFX/Filmes-Diversos-Zokos.jpg</thumbnail>
+<thumbnail>https://i.postimg.cc/D0Z55vVf/Diversos.jpg</thumbnail>
 <fanart>https://i.postimg.cc/tRfnTg18/deadpool-2-movie-cinema.jpg</fanart>
 <info> 
 [COLOR blue]Filmes Dublados[/COLOR]
