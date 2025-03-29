@@ -1,0 +1,46 @@
+{
+    "items": [
+        {
+            "type": "dir",
+            "title": "[COLOR green]•[/COLOR]Recomendações da Semana",
+			"thumbnail": "https://archive.org/download/1700740365556/1700740365656.png",
+            "link": "https://raw.githubusercontent.com/Gael1303/jen/main/list/fds.xml"
+        },
+        {
+            "type": "dir",
+            "title": "[COLOR green]•[/COLOR]Coletaneas",
+			"thumbnail": "https://archive.org/download/1700740365556/1700740365556.png",
+            "link": "https://raw.githubusercontent.com/Gael1303/jen/main/list/sgs.xml"
+        },
+		{
+            "type": "dir",
+            "title": "[COLOR green]•[/COLOR]Melhor Qualidade",
+			"thumbnail": "https://archive.org/download/1700740365675/1700740365675.png",
+            "link": "https://raw.githubusercontent.com/Gael1303/jen/main/list/hq.xml"
+        },
+        {
+            "type": "dir",
+            "title": "[COLOR red]•[/COLOR]Top 250 (Séries)",
+			"thumbnail": "https://ia801200.us.archive.org/12/items/1700740365675/1700740365686.png",
+            "link": "password//tmdb/tv/top_rated"
+        },
+		{
+            "type": "dir",
+            "title": "[COLOR green]•[/COLOR]TMDb Categorias",
+			"thumbnail": "https://archive.org/download/1700740365517/1700740365517.png",
+            "link": "file://scraper_list.json"    
+        },
+        {
+            "type": "item",
+            "title": "[COLOR slategrey]Info[/COLOR]",
+			"thumbnail": "https://archive.org/download/1700740365556/1700740365704.png",
+            "link": "message/https://raw.githubusercontent.com/Gael1303/cinerom/main/cineroom-scraper/info.xml"
+        },  
+	{
+            "type": "item",
+            "title": "[COLOR slategrey]Cache[/COLOR]",
+	    "thumbnail":"https://archive.org/download/1700740365525/1700740365525.png",
+            "link": "clear_cache"
+        }
+    ]
+}
