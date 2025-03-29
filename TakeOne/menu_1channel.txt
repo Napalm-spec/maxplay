@@ -3,7 +3,7 @@
  
   <channel>
 <name>[B][COLOR lime]Filmes Lançamentos[/COLOR][COLOR white] (2025)  [/COLOR][/B]</name>
-<thumbnail>https://i.postimg.cc/pXCKGbW3/FILMES.jpg</thumbnail>
+<thumbnail>https://i.postimg.cc/Hkhmtxfn/LANCAMENTOS.jpg</thumbnail>
 <fanart>https://i.postimg.cc/tRfnTg18/deadpool-2-movie-cinema.jpg</fanart>
 <info> 
 [COLOR blue]Filmes Dublados[/COLOR]
