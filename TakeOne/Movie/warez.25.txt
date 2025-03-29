@@ -13,11 +13,6 @@
 [COLOR gold]Áudio:[/COLOR] Português | PT-BR 
 [COLOR red]IMDb:[/COLOR] 5,1
 </info>
-<genre>Thriller, Mistério</genre>
-<rate>5.1</rate>
-<date>09.03.2025</date>
-<duration>5328</duration>
-<studio>PRIME VIDEO</studio>
 </item>
 +++++++++
 <item>
@@ -35,10 +30,5 @@
 [COLOR red]Legenda:[/COLOR] PT-BR
 [COLOR green]IMDb:[/COLOR] 5,1
 </info>
-<genre>Thriller, Mistério</genre>
-<rate>5.1</rate>
-<date>09.03.2025</date>
-<duration>5328</duration>
-<studio>PRIME VIDEO</studio>
 </item>
 +++++++++
