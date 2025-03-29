@@ -1,0 +1,33 @@
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO DUBLADO[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/r6kn13kxfn6vre</link>
+<subtitle>LEGENDAS</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/bnciRmZZSdyqp7HcrAwNG0mObaP.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/haX32ZQxOgDWcJO5sTiTUEE1Ulr.jpg</fanart>
+<info>
+[COLOR blue]Gênero:[/COLOR] Crime, Thriller
+[COLOR yellow]Duração:[/COLOR] 1h 35m
+[COLOR aquamarine]Lançamento:[/COLOR] 2025
+[COLOR orange]Qualidade:[/COLOR] 1080p
+[COLOR gold]Áudio:[/COLOR] Português | PT-BR 
+[COLOR green]IMDb:[/COLOR] 5,4
+</info>
+</item>
++++++++++
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO LEGENDADO[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/wlpd300jf1vxlk</link>
+<subtitle>https://subs.warezcdn.link/243573-PTB.srt</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/bnciRmZZSdyqp7HcrAwNG0mObaP.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/haX32ZQxOgDWcJO5sTiTUEE1Ulr.jpg</fanart>
+<info>
+[COLOR blue]Gênero:[/COLOR] Crime, Thriller
+[COLOR yellow]Duração:[/COLOR] 1h 35m
+[COLOR aquamarine]Lançamento:[/COLOR] (2025)
+[COLOR orange]Qualidade:[/COLOR] 1080p
+[COLOR gold]Áudio:[/COLOR] Inglês
+[COLOR red]Legenda:[/COLOR] PT-BR
+[COLOR green]IMDb:[/COLOR] 5,4
+</info>
+</item>
++++++++++
