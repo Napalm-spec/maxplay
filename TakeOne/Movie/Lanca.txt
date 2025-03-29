@@ -2,6 +2,20 @@
 
 
 <channel>
+<name>[COLOR blue]La Dolce Villa [/COLOR] [COLOR orange](2025)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/sEma5RN8aZ5Yu2Dkefyn5ULdlc1.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/s1ge9SG2zfJdMeZ69VMEbxeKuAE.jpg</fanart>
+<info>
+[B][COLOR yellow]Studio:[/COLOR]NETFIX[/B]
+[COLOR blue]Gênero:[/COLOR]Romance, Comédia
+[COLOR red]Duração:[/COLOR]1h 39m
+[COLOR lime]Sinopse:[/COLOR]Eric corre para a Itália para impedir a filha de comprar um casarão caindo aos pedaços na Toscana, mas acaba encontrando beleza, amor e um novo propósito.
+</info>
+<date>13/02/2025</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/LaDolceVilla25.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
 <name>[COLOR blue]Minha Culpa: Londres [/COLOR] [COLOR orange](2025)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/bioObjvmJdDRxnWM3TrQYaMUbAQ.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/uJK0jjJ8QDOQw5lcNBwu059ht4D.jpg</fanart>
