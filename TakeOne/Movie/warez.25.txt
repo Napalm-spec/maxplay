@@ -4,6 +4,7 @@
 <subtitle>LEGENDAS</subtitle>
 <thumbnail>https://image.tmdb.org/t/p/original/39jIr3A4ScUeGxFdMeARYKNxTgU.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/sg7PpNrc1pTNtx4CoMLiLJY4iIQ.jpg</fanart>
+<duration>5328</duration>
 <studio>PRIME VIDEO</studio>
 <info>
 [COLOR blue]Gênero:[/COLOR] Thriller, Mistério
@@ -22,6 +23,7 @@
 <subtitle>https://subs.warezcdn.link/245755-PTB.srt</subtitle>
 <thumbnail>https://image.tmdb.org/t/p/original/39jIr3A4ScUeGxFdMeARYKNxTgU.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/sg7PpNrc1pTNtx4CoMLiLJY4iIQ.jpg</fanart>
+<duration>5328</duration>
 <studio>PRIME VIDEO</studio>
 <info>
 [COLOR blue]Gênero:[/COLOR] Thriller, Mistério
