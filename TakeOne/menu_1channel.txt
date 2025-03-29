@@ -22,6 +22,16 @@
 <externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/Lanca.txt</externallink>
 </channel>
   <channel>
+<name>[B][COLOR lime]Filmes Animação[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/h4fwqB3W/Anima-o.jpg</thumbnail>
+<fanart>https://i.postimg.cc/tRfnTg18/deadpool-2-movie-cinema.jpg</fanart>
+<info> 
+[COLOR blue]Filmes Dublados[/COLOR]
+[COLOR yellow]Filmes Legendados[/COLOR]
+</info>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/Lanca.txt</externallink>
+</channel>
+  <channel>
 <name>[B][COLOR lime]Séries[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/hGvjSNqz/Series.jpg</thumbnail>
 <fanart>https://i.postimg.cc/tRfnTg18/deadpool-2-movie-cinema.jpg</fanart>
