@@ -6,7 +6,7 @@
 <thumbnail>https://i.postimg.cc/V6CLdgHX/neotv1.jpg</thumbnail>
 <fanart>https://i.postimg.cc/SKHxp0t4/fanart.jpg</fanart>
 <info> </info>
-<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/warez.25.txt</externallink>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/Lanca.txt</externallink>
 </channel>
 
 
