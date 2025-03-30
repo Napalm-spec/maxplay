@@ -1,0 +1,31 @@
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO DUBLADO[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/367ez94nsmzr9pj</link>
+<subtitle>LEGENDAS</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/6xzEwXNllYKxhRFCtWzRaYdA6gD.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/41mS8Nb6EhondEQtXAtKZSZ0CXm.jpg</fanart>
+<info>
+[COLOR blue]Gênero:[/COLOR] Drama, Fantasia, Thriller
+[COLOR yellow]Duração:[/COLOR] 1h 33m
+[COLOR aquamarine]Lançamento:[/COLOR] 2020
+[COLOR gold]Áudio:[/COLOR] Português | PT-BR 
+[COLOR green]IMDb:[/COLOR] 5,4
+</info>
+</item>
++++++++++
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO LEGENDADO[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/dkj3j9jxivn09l</link>
+<subtitle>https://subs.warezcdn.link/127767-PT.srt</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/6xzEwXNllYKxhRFCtWzRaYdA6gD.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/41mS8Nb6EhondEQtXAtKZSZ0CXm.jpg</fanart>
+<info>
+[COLOR blue]Gênero:[/COLOR] Drama, Fantasia, Thriller
+[COLOR yellow]Duração:[/COLOR] 1h 33m
+[COLOR aquamarine]Lançamento:[/COLOR] 2020
+[COLOR gold]Áudio:[/COLOR] Alemão
+[COLOR red]Legenda:[/COLOR] PT-BR
+[COLOR green]IMDb:[/COLOR] 5,4
+</info>
+</item>
++++++++++
