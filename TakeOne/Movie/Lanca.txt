@@ -1,6 +1,21 @@
 <channels>
 
 
+
+<channel>
+<name>[COLOR blue]Meio Grávida [/COLOR] [COLOR orange](2025)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/vQlL4olmOEFKENrrJPf2xLXGy4c.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/hZSOdJFLECTBO8PpYkVI3rPsY2D.jpg</fanart>
+<info>
+[B][COLOR yellow]Studio:[/COLOR]NETFIX[/B]
+[COLOR blue]Gênero:[/COLOR]Comédia, Romance
+[COLOR red]Duração:[/COLOR]1h 40m
+[COLOR lime]Sinopse:[/COLOR]Lainy planeja se casar e formar uma família. Mas quando tudo dá errado, ela coloca uma barriga falsa, inventa uma mentira e se apaixona pelo homem de seus sonhos.
+</info>
+<date>05/02/2025</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/tt30253036.25.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[COLOR blue]The Witcher: Sereias das Profundezas [/COLOR] [COLOR orange](2025)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/y0pR5aBVvPn5uncaZjl94ZEnuEF.jpg</thumbnail>
