@@ -1,6 +1,22 @@
 <channels>
 
 
+
+
+<channel>
+<name>[COLOR blue]Bridget Jones: Louca Pelo Garoto [/COLOR] [COLOR orange](2025)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/taEVBdVSqYo9YeN3ycw2SosklZL.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/zwSDvbnN51JqU1ULzPnEc22DkqV.jpg</fanart>
+<info>
+[COLOR yellow]Studio:[/COLOR]UNIVERSAL PICTURES
+[COLOR blue]Gênero:[/COLOR]Romance, Comédia, Drama
+[COLOR red]Duração:[/COLOR]2h 5m
+[COLOR lime]Sinopse:[/COLOR]Bridget Jones navega pela vida como viúva e mãe solteira com a ajuda de sua família, amigos e ex-amante, Daniel. De volta ao trabalho e aos aplicativos, ela é perseguida por um homem mais jovem e talvez - só talvez - pelo professor de ciências de seu filho.
+</info>
+<date>14/02/2025</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/tt32063050.25.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[COLOR blue]De Tyler Perry: Duplicidade [/COLOR] [COLOR orange](2025)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/xNINmmVZuRn2MWo34Mj42OjBntN.jpg</thumbnail>
