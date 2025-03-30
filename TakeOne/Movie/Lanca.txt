@@ -1,7 +1,7 @@
 <channels>
 
 <channel>
-<name>[COLOR blue]Lobisomem [/COLOR] [COLOR orange](2025)[/COLOR]</name>
+<name>[COLOR blue]Plankton: O Filme [/COLOR] [COLOR orange](2025)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/iqQw58Cbgh5r7XRYUZpJPDPQD0m.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/lsgT602GYV8ts97sKH1gWFtQs1k.jpg</fanart>
 <info>
