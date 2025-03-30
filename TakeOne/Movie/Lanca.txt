@@ -2,7 +2,7 @@
 
 
 <channel>
-<name>[COLOR blue]Lobisomem [/COLOR] [COLOR orange](2025)[/COLOR]</name>
+<name>[COLOR blue]Flight Risk [/COLOR] [COLOR orange](2025)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/6TvAde82U6TyEO0BTcLp35jwVgJ.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/rOMLLMGgDgGG6XeT3P8sUdUb8nl.jpg</fanart>
 <info>
@@ -86,7 +86,7 @@
 </channel>
 «««««««««««««««««««««««««
 <channel>
-<name>[COLOR blue]Minha Culpa: Londres [/COLOR] [COLOR orange](2025)[/COLOR]</name>
+<name>[COLOR blue]Capitão América: Admirável Mundo Novo [/COLOR] [COLOR orange](2025)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/5nbSgP8f5LMCI0PwVRRaHJaUmR3.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/ywe9S1cOyIhR5yWzK7511NuQ2YX.jpg</fanart>
 <info>
