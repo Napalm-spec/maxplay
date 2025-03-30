@@ -1,0 +1,16 @@
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO LEGENDADO[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/r6k1qrvvijemvl</link>
+<subtitle>https://subs.warezcdn.link/244710-PTB.srt</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/g1W1SJx1eSI636sByrEP0jKGZQw.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/m291MEBjhuRqb0nh9ojnm9gzScq.jpg</fanart>
+<info>
+[COLOR blue]Gênero:[/COLOR] Drama, Crime
+[COLOR yellow]Duração:[/COLOR] 1h 48m
+[COLOR aquamarine]Lançamento:[/COLOR] 2025
+[COLOR gold]Áudio:[/COLOR] Inglês
+[COLOR red]Legenda:[/COLOR] PT-BR
+[COLOR green]IMDb:[/COLOR] 8,7
+</info>
+</item>
++++++++++
