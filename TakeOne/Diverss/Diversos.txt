@@ -1,1 +1,21 @@
-1111
+<channels>
+
+
+
+<channel>
+<name>[COLOR blue]Freaks: Um de Nós [/COLOR] [COLOR orange](2020)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/6xzEwXNllYKxhRFCtWzRaYdA6gD.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/41mS8Nb6EhondEQtXAtKZSZ0CXm.jpg</fanart>
+<info>
+[COLOR yellow]Studio:[/COLOR]NETFIX
+[COLOR blue]Gênero:[/COLOR]Drama, Fantasia, Thriller
+[COLOR red]Duração:[/COLOR]1h 33m
+[COLOR lime]Sinopse:[/COLOR]Depois de encontrar um homem misterioso, uma cozinheira descobre que tem superpoderes e descortina uma conspiração de sabor amargo.
+</info>
+<date>02/09/2020</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Diverss/tt12875782.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+
+
+</channels>
