@@ -1,0 +1,34 @@
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO DUBLADO[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/nlvkom34hq9gdd</link>
+<subtitle>LEGENDAS</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/iqQw58Cbgh5r7XRYUZpJPDPQD0m.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/lsgT602GYV8ts97sKH1gWFtQs1k.jpg</fanart>
+<info>
+[COLOR blue]Gênero:[/COLOR] Animação, Aventura, Comédia, Família, Fantasia
+[COLOR yellow]Duração:[/COLOR] 1h 27m
+[COLOR aquamarine]Lançamento:[/COLOR] 2025
+[COLOR gold]Áudio:[/COLOR] Português | PT-BR 
+[COLOR green]IMDb:[/COLOR] 5,3
+</info>
+</item>
++++++++++
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO LEGENDADO[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/pjpwok60cee9lw</link>
+<subtitle>https://subs.warezcdn.link/245031-PTB.srt</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/iqQw58Cbgh5r7XRYUZpJPDPQD0m.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/lsgT602GYV8ts97sKH1gWFtQs1k.jpg</fanart>
+<info>
+[COLOR blue]Gênero:[/COLOR] Animação, Aventura, Comédia, Família, Fantasia
+[COLOR yellow]Duração:[/COLOR] 1h 27m
+[COLOR aquamarine]Lançamento:[/COLOR] (2025)
+[COLOR gold]Áudio:[/COLOR] Inglês
+[COLOR red]Legenda:[/COLOR] PT-BR
+[COLOR green]IMDb:[/COLOR] 5,3
+</info>
+</item>
++++++++++
+
+(Ver Video)[COLOR lime] VERSÃO DUBLADO [/COLOR][COLOR red]Brevemente[/COLOR]
+[B][COLOR red]BREVEMENTE DISPONÍVEL[/COLOR][/B]
