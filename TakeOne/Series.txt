@@ -1,16 +1,16 @@
 <channels>
 
 <channel>
-<name>[COLOR blue]Lobisomem [/COLOR] [COLOR orange](2025)[/COLOR]</name>
-<thumbnail>https://image.tmdb.org/t/p/original/iqQw58Cbgh5r7XRYUZpJPDPQD0m.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/lsgT602GYV8ts97sKH1gWFtQs1k.jpg</fanart>
+<name>[COLOR blue]Demolidor: Renascido [/COLOR] [COLOR orange](2025)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/g1W1SJx1eSI636sByrEP0jKGZQw.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/m291MEBjhuRqb0nh9ojnm9gzScq.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]NETFIX
-[COLOR blue]Gênero:[/COLOR]Animação, Aventura, Comédia, Família, Fantasia
-[COLOR red]Duração:[/COLOR]1h 27m
-[COLOR lime]Sinopse:[/COLOR]A emaranhada história de amor de Plankton e sua esposa-computador vira um desastre quando ela decide destruir o mundo sem ele.
+[COLOR yellow]Studio:[/COLOR]DISNEY+
+[COLOR blue]Gênero:[/COLOR]Drama, Crime
+[COLOR red]Duração:[/COLOR]50 Min.
+[COLOR lime]Sinopse:[/COLOR]Matt Murdock, um advogado cego com habilidades fantásticas, luta por justiça através de seu agitado escritório de advocacia, enquanto o ex-chefe do crime Wilson Fisk busca seus próprios empreendimentos políticos em Nova Iorque. Quando suas identidades passadas começam a emergir, seus caminhos se cruzam perigosamente.
 </info>
-<date>14/02/2025</date>
+<date>Drama, Crime</date>
 <externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/tt32560777.25.txt</externallink>
 </channel>
 «««««««««««««««««««««««««
