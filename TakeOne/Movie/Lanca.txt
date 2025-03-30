@@ -2,6 +2,21 @@
 
 
 
+
+<channel>
+<name>[COLOR blue]The Electric State [/COLOR] [COLOR orange](2025)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/sI2NiMU8o65hmIMY0JI9CjJ0p7f.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/Auapq8Lwn3RINLDHL0foPluOIq1.jpg</fanart>
+<info>
+[COLOR yellow]Studio:[/COLOR]NETFIX
+[COLOR blue]Gênero:[/COLOR]Ficção científica, Aventura, Ação
+[COLOR red]Duração:[/COLOR]2h 5m
+[COLOR lime]Sinopse:[/COLOR]Uma adolescente órfã pega a estrada com um robô misterioso em busca do irmão há muito tempo desaparecido, encontrando no caminho um contrabandista e seu ajudante hilário.
+</info>
+<date>14/03/2025</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/tt7766378.25.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[COLOR blue]Delicious [/COLOR] [COLOR orange](2025)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/o1ZIvviAEuIHcH9x6sv112mSvTR.jpg</thumbnail>
