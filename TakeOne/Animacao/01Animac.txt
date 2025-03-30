@@ -25,7 +25,7 @@
 [COLOR lime]Sinopse:[/COLOR]A emaranhada história de amor de Plankton e sua esposa-computador vira um desastre quando ela decide destruir o mundo sem ele.
 </info>
 <date>14/02/2025</date>
-<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/tt32560777.25.txt</externallink>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Animacao/tt32560777.25.txt</externallink>
 </channel>
 «««««««««««««««««««««««««
 <channel>
@@ -39,7 +39,7 @@
 [COLOR lime]Sinopse:[/COLOR]Quando marinheiros humanos são atacados por criaturas misteriosas das profundezas, só uma pessoa pode impedir a guerra entre a terra e o mar: o Witcher, Geralt de Rivia.
 </info>
 <date>11/02/2025</date>
-<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/tt15495150.25.txt</externallink>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Animacao/tt15495150.25.txt</externallink>
 </channel>
 «««««««««««««««««««««««««
 
