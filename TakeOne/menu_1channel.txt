@@ -19,7 +19,7 @@
 [COLOR blue]Filmes Dublados[/COLOR]
 [COLOR yellow]Filmes Legendados[/COLOR]
 </info>
-<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/Lanca.txt</externallink>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Diverss/Diversos.txt</externallink>
 </channel>
   <channel>
 <name>[B][COLOR lime]Filmes Animação[/COLOR][/B]</name>
@@ -29,7 +29,7 @@
 [COLOR blue]Filmes Dublados[/COLOR]
 [COLOR yellow]Filmes Legendados[/COLOR]
 </info>
-<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/Lanca.txt</externallink>
+<externallink>https://</externallink>
 </channel>
   <channel>
 <name>[B][COLOR lime]Séries[/COLOR][/B]</name>
@@ -39,7 +39,7 @@
 [COLOR blue]Filmes Dublados[/COLOR]
 [COLOR yellow]Filmes Legendados[/COLOR]
 </info>
-<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/Lanca.txt</externallink>
+<externallink>https://</externallink>
 </channel>
 
 
