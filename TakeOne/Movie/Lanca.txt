@@ -3,6 +3,20 @@
 
 <channel>
 <name>[COLOR blue]Lobisomem [/COLOR] [COLOR orange](2025)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/6TvAde82U6TyEO0BTcLp35jwVgJ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/rOMLLMGgDgGG6XeT3P8sUdUb8nl.jpg</fanart>
+<info>
+[B][COLOR yellow]Studio:[/COLOR]PRIME VIDEO[/B]
+[COLOR blue]Gênero:[/COLOR]Ação, Crime, Thriller
+[COLOR red]Duração:[/COLOR]1h 31m
+[COLOR lime]Sinopse:[/COLOR]Um piloto de avião transporta um agente federal e um fugitivo para julgamento através das montanhas do Alasca. A tensão aumenta quando verdades são reveladas e ninguém a bordo parecem ser quem realmente são.
+</info>
+<date>14/02/2025</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/tt10078772.25.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[COLOR blue]Lobisomem [/COLOR] [COLOR orange](2025)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/vtdEHG1j07PqLlVyhKNZRHTPKGt.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/wwARk7hRIfHfh2n2ubN6N7lvTne.jpg</fanart>
 <info>
