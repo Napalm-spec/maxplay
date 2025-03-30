@@ -1,3 +1,3 @@
 #EXTM3U
 #EXTINF:-1,SPORT.TV1ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Neo.TV[/COLOR]&url=http://premiumtop.top:8080/RicardoSilva2019/wV20a40l9T/39
+http://premiumtop.top:8080/RicardoSilva2019/wV20a40l9T/39
