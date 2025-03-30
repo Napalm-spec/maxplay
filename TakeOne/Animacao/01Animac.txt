@@ -1,1 +1,19 @@
-11111
+<channels>
+
+<channel>
+<name>[COLOR blue]Batman Ninja vs. Liga da Yakuza [/COLOR] [COLOR orange](2025)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/2YH0yygwp0OnvZNt4IOGLBRr6Zi.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/AuSip6e3uvQgPnnFQjzdTrOVPx7.jpg</fanart>
+<info>
+[COLOR yellow]Studio:[/COLOR]DC
+[COLOR blue]Gênero:[/COLOR]Animação, Ação
+[COLOR red]Duração:[/COLOR]1h 30m
+[COLOR lime]Sinopse:[/COLOR]Nesta continuação de Batman Ninja, a Família Batman volta ao presente e descobre que o Japão desapareceu, e agora uma ilha gigante chamada “Hinomoto” flutua nos céus de Gotham City. No topo estão os Yakuza, um grupo de indivíduos superpoderosos que reinam sem honra ou humanidade e se parecem estranhamente com a Liga da Justiça. Agora, cabe a Batman e seus aliados salvar Gotham!
+</info>
+<date>18/03/2025</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/tt32508210.25.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+
+
+</channels>
