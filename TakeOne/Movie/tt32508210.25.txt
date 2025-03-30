@@ -1,0 +1,31 @@
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO DUBLADO[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/mk96p973umk6pm</link>
+<subtitle>LEGENDAS</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/2YH0yygwp0OnvZNt4IOGLBRr6Zi.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/AuSip6e3uvQgPnnFQjzdTrOVPx7.jpg</fanart>
+<info>
+[COLOR blue]Gênero:[/COLOR] Animação, Ação
+[COLOR yellow]Duração:[/COLOR] 1h 30m
+[COLOR aquamarine]Lançamento:[/COLOR] 2025
+[COLOR gold]Áudio:[/COLOR] Português | PT-BR 
+[COLOR green]IMDb:[/COLOR] 6,1
+</info>
+</item>
++++++++++
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO LEGENDADO[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/pjp774g3tdm36x</link>
+<subtitle>https://subs.warezcdn.link/245004-PTB.srt</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/2YH0yygwp0OnvZNt4IOGLBRr6Zi.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/AuSip6e3uvQgPnnFQjzdTrOVPx7.jpg</fanart>
+<info>
+[COLOR blue]Gênero:[/COLOR] Animação, Ação
+[COLOR yellow]Duração:[/COLOR] 1h 30m
+[COLOR aquamarine]Lançamento:[/COLOR] (2025)
+[COLOR gold]Áudio:[/COLOR] Japonês
+[COLOR red]Legenda:[/COLOR] PT-BR
+[COLOR green]IMDb:[/COLOR] 6,1
+</info>
+</item>
++++++++++
