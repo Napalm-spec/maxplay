@@ -3,6 +3,20 @@
 
 
 <channel>
+<name>[COLOR blue]Um Terror de Parentes [/COLOR] [COLOR orange](2025)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/5lMu14IMuHo0hKYCwCIogt7IioX.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/h4peDpoepEmErFwBeoIE4yZ1pvJ.jpg</fanart>
+<info>
+[COLOR yellow]Studio:[/COLOR]NETFIX
+[COLOR blue]Gênero:[/COLOR]Terror, Comédia
+[COLOR red]Duração:[/COLOR]1h 34m
+[COLOR lime]Sinopse:[/COLOR]Um casal gay aluga uma casa rural para passar o fim de semana com seus pais, mas descobre que ela já é habitada por uma entidade antiga.
+</info>
+<date>13/03/2025</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/tt14041896.25.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
 <name>[COLOR blue]Batman Ninja vs. Liga da Yakuza [/COLOR] [COLOR orange](2025)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/2YH0yygwp0OnvZNt4IOGLBRr6Zi.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/AuSip6e3uvQgPnnFQjzdTrOVPx7.jpg</fanart>
