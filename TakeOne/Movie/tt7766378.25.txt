@@ -1,0 +1,31 @@
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO DUBLADO[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/z1gn7kj9ixm6wg</link>
+<subtitle>LEGENDAS</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/sI2NiMU8o65hmIMY0JI9CjJ0p7f.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/Auapq8Lwn3RINLDHL0foPluOIq1.jpg</fanart>
+<info>
+[COLOR blue]Gênero:[/COLOR] Ficção científica, Aventura, Ação
+[COLOR yellow]Duração:[/COLOR] 2h 5m
+[COLOR aquamarine]Lançamento:[/COLOR] 2025
+[COLOR gold]Áudio:[/COLOR] Português | PT-BR 
+[COLOR green]IMDb:[/COLOR] 5,9
+</info>
+</item>
++++++++++
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO LEGENDADO[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/r6k1onk3hz0jo</link>
+<subtitle>https://subs.warezcdn.link/245012-PTB.srt</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/sI2NiMU8o65hmIMY0JI9CjJ0p7f.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/Auapq8Lwn3RINLDHL0foPluOIq1.jpg</fanart>
+<info>
+[COLOR blue]Gênero:[/COLOR] Ficção científica, Aventura, Ação
+[COLOR yellow]Duração:[/COLOR] 2h 5m
+[COLOR aquamarine]Lançamento:[/COLOR] (2025)
+[COLOR gold]Áudio:[/COLOR] Inglês
+[COLOR red]Legenda:[/COLOR] PT-BR
+[COLOR green]IMDb:[/COLOR] 5,9
+</info>
+</item>
++++++++++
