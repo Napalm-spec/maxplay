@@ -1,6 +1,19 @@
 <channels>
 
-
+<channel>
+<name>[COLOR blue]Lobisomem [/COLOR] [COLOR orange](2025)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/iqQw58Cbgh5r7XRYUZpJPDPQD0m.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/lsgT602GYV8ts97sKH1gWFtQs1k.jpg</fanart>
+<info>
+[COLOR yellow]Studio:[/COLOR]NETFIX
+[COLOR blue]Gênero:[/COLOR]Animação, Aventura, Comédia, Família, Fantasia
+[COLOR red]Duração:[/COLOR]1h 27m
+[COLOR lime]Sinopse:[/COLOR]A emaranhada história de amor de Plankton e sua esposa-computador vira um desastre quando ela decide destruir o mundo sem ele.
+</info>
+<date>14/02/2025</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/tt32560777.25.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[COLOR blue]Flight Risk [/COLOR] [COLOR orange](2025)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/6TvAde82U6TyEO0BTcLp35jwVgJ.jpg</thumbnail>
