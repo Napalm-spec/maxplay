@@ -2,7 +2,20 @@
 
 
 
-
+<channel>
+<name>[COLOR blue]Pequena Sibéria [/COLOR] [COLOR orange](2025)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/lhg3YuybroN2gszAEanXLMtj473.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/2jllAxMf7dTMt1fw9A1slsaj6Fv.jpg</fanart>
+<info>
+[COLOR yellow]Studio:[/COLOR]NETFIX
+[COLOR blue]Gênero:[/COLOR]Comédia, Thriller, Drama
+[COLOR red]Duração:[/COLOR]1h 46m
+[COLOR lime]Sinopse:[/COLOR]A fé de um pastor é colocada à prova quando um meteorito cai na cidadezinha onde ele mora, na Finlândia, provocando um caos e desencadeando crimes.
+</info>
+<date>14/02/2025</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/tt31828346.25.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[COLOR blue]Bridget Jones: Louca Pelo Garoto [/COLOR] [COLOR orange](2025)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/taEVBdVSqYo9YeN3ycw2SosklZL.jpg</thumbnail>
