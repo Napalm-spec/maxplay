@@ -6,7 +6,7 @@
 <thumbnail>https://image.tmdb.org/t/p/original/d2K7Zhw9yRjzoa4HBbrjt7aqlgT.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/wHVkV7XML3IEFT355QlZ9uUc03V.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]NETFIX
+[COLOR yellow]Studio:[/COLOR]PRIME VIDEO
 [COLOR blue]Gênero:[/COLOR]Família, Aventura, Comédia
 [COLOR red]Duração:[/COLOR]1h 41m
 [COLOR lime]Sinopse:[/COLOR]A emaranhada história de amor de Plankton e sua esposa-computador vira um desastre quando ela decide destruir o mundo sem ele.
