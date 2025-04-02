@@ -1,7 +1,20 @@
 <channels>
 
 
-
+<channel>
+<name>[COLOR blue]Chico Bento e a Goiabeira Maraviosa [/COLOR] [COLOR orange](2025)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/d2K7Zhw9yRjzoa4HBbrjt7aqlgT.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/wHVkV7XML3IEFT355QlZ9uUc03V.jpg</fanart>
+<info>
+[COLOR yellow]Studio:[/COLOR]NETFIX
+[COLOR blue]Gênero:[/COLOR]Família, Aventura, Comédia
+[COLOR red]Duração:[/COLOR]1h 41m
+[COLOR lime]Sinopse:[/COLOR]A emaranhada história de amor de Plankton e sua esposa-computador vira um desastre quando ela decide destruir o mundo sem ele.
+</info>
+<date>09/01/2025</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/tt30868610.25.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[COLOR blue]Pequena Sibéria [/COLOR] [COLOR orange](2025)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/lhg3YuybroN2gszAEanXLMtj473.jpg</thumbnail>
