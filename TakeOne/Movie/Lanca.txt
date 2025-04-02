@@ -3,7 +3,7 @@
 
 
 <channel>
-<name>[COLOR blue]MMA - Meu Melhor Amigo [/COLOR] [COLOR orange](2025)[/COLOR]</name>
+<name>[COLOR blue]Amor Bandido [/COLOR] [COLOR orange](2025)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/sVHGPxHXIpOet5H7orIFMIjzeva.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/fNtmDJGvQWetrqzwnoh2PcI1C0x.jpg</fanart>
 <info>
