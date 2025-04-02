@@ -1,0 +1,31 @@
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO DUBLADO[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/03mkpn98hlzz01</link>
+<subtitle>LEGENDAS</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/5w4tc7RJOT104dHXQUla5xRQVPT.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/wk0vWuxCNKmFWHhaqEAtBVRhUkY.jpg</fanart>
+<info>
+[COLOR blue]Gênero:[/COLOR] Drama, Romance
+[COLOR yellow]Duração:[/COLOR] 1h 49m
+[COLOR aquamarine]Lançamento:[/COLOR] 2025
+[COLOR gold]Áudio:[/COLOR] Português | PT-BR 
+[COLOR green]IMDb:[/COLOR] 4,5
+</info>
+</item>
++++++++++
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO LEGENDADO[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/owxvpl4daqdl9m</link>
+<subtitle>https://subs.warezcdn.link/245886-PTB.srt</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/5w4tc7RJOT104dHXQUla5xRQVPT.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/wk0vWuxCNKmFWHhaqEAtBVRhUkY.jpg</fanart>
+<info>
+[COLOR blue]Gênero:[/COLOR] Drama, Romance
+[COLOR yellow]Duração:[/COLOR] 1h 49m
+[COLOR aquamarine]Lançamento:[/COLOR] 2025
+[COLOR gold]Áudio:[/COLOR] Indonésio
+[COLOR red]Legenda:[/COLOR] PT-BR
+[COLOR green]IMDb:[/COLOR] 4,5
+</info>
+</item>
++++++++++
