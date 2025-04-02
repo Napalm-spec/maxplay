@@ -1,7 +1,20 @@
 <channels>
 
 
-
+<channel>
+<name>[COLOR blue]Squad 36 [/COLOR] [COLOR orange](2025)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/rfQi2JzENT5MNJhN1nkIZMNWm4M.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/nkLzvhmQFTWrdKrW3gyUn3U14J0.jpg</fanart>
+<info>
+[COLOR yellow]Studio:[/COLOR]NETFIX
+[COLOR blue]Gênero:[/COLOR]Ação, Crime, Drama, Thriller
+[COLOR red]Duração:[/COLOR]2h 4m
+[COLOR lime]Sinopse:[/COLOR]Obrigado a sair de sua unidade de elite, um policial problemático decide investigar sozinho os assassinatos misteriosos que tiraram as vidas de seus colegas.
+</info>
+<date>28/02/2025</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/tt31032711.25.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[COLOR blue]MMA - Meu Melhor Amigo [/COLOR] [COLOR orange](2025)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/959Vbki8itfHoNbZnURFBi5pULa.jpg</thumbnail>
