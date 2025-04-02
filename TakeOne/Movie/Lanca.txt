@@ -21,19 +21,6 @@
 <thumbnail>https://image.tmdb.org/t/p/original/sVHGPxHXIpOet5H7orIFMIjzeva.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/fNtmDJGvQWetrqzwnoh2PcI1C0x.jpg</fanart>
 <info>
-[COLOR blue]Gênero:[/COLOR]Ação, Comédia, Romance
-[COLOR red]Duração:[/COLOR]1h 23m
-[COLOR lime]Sinopse:[/COLOR]Um corretor de imóveis é puxado de volta para a vida que deixou para trás depois que seu antigo parceiro no crime ressurge com uma mensagem sinistra. Com seu irmão chefe do crime também em seu encalço, ele deve confrontar seu passado e a história que ele nunca enterrou completamente.
-</info>
-<date>06/02/2025</date>
-<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/tt30788842.25.txt</externallink>
-</channel>
-«««««««««««««««««««««««««
-<channel>
-<name>[COLOR blue]Amor Bandido [/COLOR] [COLOR orange](2025)[/COLOR]</name>
-<thumbnail>https://image.tmdb.org/t/p/original/sVHGPxHXIpOet5H7orIFMIjzeva.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/fNtmDJGvQWetrqzwnoh2PcI1C0x.jpg</fanart>
-<info>
 [COLOR yellow]Studio:[/COLOR]NETFIX
 [COLOR blue]Gênero:[/COLOR]Ação, Comédia, Romance
 [COLOR red]Duração:[/COLOR]1h 23m
