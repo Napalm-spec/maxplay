@@ -1,6 +1,22 @@
 <channels>
 
 
+
+
+<channel>
+<name>[COLOR blue]O Caminho Errado [/COLOR] [COLOR orange](2025)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/sVHGPxHXIpOet5H7orIFMIjzeva.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fNtmDJGvQWetrqzwnoh2PcI1C0x.jpg</fanart>
+<info>
+[COLOR yellow]Studio:[/COLOR]NETFIX
+[COLOR blue]Gênero:[/COLOR]Comédia, Drama
+[COLOR red]Duração:[/COLOR]1h 34m
+[COLOR lime]Sinopse:[/COLOR]Em crise, a caótica mãe solo Emilie pede ajuda ao irmão. E ele tem um plano brilhante: participar de uma maratona de esqui cross-country.
+</info>
+<date>27/02/2025</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/tt31828532.25.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[COLOR blue]Squad 36 [/COLOR] [COLOR orange](2025)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/rfQi2JzENT5MNJhN1nkIZMNWm4M.jpg</thumbnail>
