@@ -1,0 +1,15 @@
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO DUBLADO[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/pjpwxr13ugw4wjz</link>
+<subtitle>LEGENDAS</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/d2K7Zhw9yRjzoa4HBbrjt7aqlgT.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/wHVkV7XML3IEFT355QlZ9uUc03V.jpg</fanart>
+<info>
+[COLOR blue]Gênero:[/COLOR] Família, Aventura, Comédia
+[COLOR yellow]Duração:[/COLOR] 1h 41m
+[COLOR aquamarine]Lançamento:[/COLOR] 2025
+[COLOR gold]Áudio:[/COLOR] Português | PT-BR 
+[COLOR green]IMDb:[/COLOR] 7,5
+</info>
+</item>
++++++++++
