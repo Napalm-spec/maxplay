@@ -12,7 +12,7 @@
 [COLOR red]Duração:[/COLOR]1h 23m
 [COLOR lime]Sinopse:[/COLOR]Um corretor de imóveis é puxado de volta para a vida que deixou para trás depois que seu antigo parceiro no crime ressurge com uma mensagem sinistra. Com seu irmão chefe do crime também em seu encalço, ele deve confrontar seu passado e a história que ele nunca enterrou completamente.
 </info>
-<date>16/01/2025</date>
+<date>06/02/2025</date>
 <externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/tt30788842.25.txt</externallink>
 </channel>
 «««««««««««««««««««««««««
