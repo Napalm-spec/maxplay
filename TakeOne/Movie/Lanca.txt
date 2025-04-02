@@ -2,7 +2,20 @@
 
 
 
-
+<channel>
+<name>[COLOR blue]Corações Prometidos [/COLOR] [COLOR orange](2025)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/5w4tc7RJOT104dHXQUla5xRQVPT.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/wk0vWuxCNKmFWHhaqEAtBVRhUkY.jpg</fanart>
+<info>
+[COLOR yellow]Studio:[/COLOR]NETFIX
+[COLOR blue]Gênero:[/COLOR]Drama, Romance
+[COLOR red]Duração:[/COLOR]1h 49m
+[COLOR lime]Sinopse:[/COLOR]O futuro de uma jovem é prejudicado por um acordo secreto que transforma sua vida em caos, mas pode ser o único jeito de salvar sua família.
+</info>
+<date>31/03/2025</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/tt31107212.25.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[COLOR blue]Amor Bandido [/COLOR] [COLOR orange](2025)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/sVHGPxHXIpOet5H7orIFMIjzeva.jpg</thumbnail>
