@@ -1,0 +1,31 @@
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO DUBLADO[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/4dpgepq8b7xexp</link>
+<subtitle>LEGENDAS</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/gspluUUTwGMT33rR6YietqRIjok.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/oDvBfDVgF6uthIPdRfC6zqqbvcE.jpg</fanart>
+<info>
+[COLOR blue]Gênero:[/COLOR] Comédia, Música
+[COLOR yellow]Duração:[/COLOR] 1h 30m
+[COLOR aquamarine]Lançamento:[/COLOR] 2025
+[COLOR gold]Áudio:[/COLOR] Português | PT-BR 
+[COLOR green]IMDb:[/COLOR] 4,9
+</info>
+</item>
++++++++++
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO LEGENDADO[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/q1m4j70qi60zd4</link>
+<subtitle>https://subs.warezcdn.link/245917-PTB.srt</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/gspluUUTwGMT33rR6YietqRIjok.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/oDvBfDVgF6uthIPdRfC6zqqbvcE.jpg</fanart>
+<info>
+[COLOR blue]Gênero:[/COLOR] Comédia, Música
+[COLOR yellow]Duração:[/COLOR] 1h 30m
+[COLOR aquamarine]Lançamento:[/COLOR] 2025
+[COLOR gold]Áudio:[/COLOR] Francês
+[COLOR red]Legenda:[/COLOR] PT-BR
+[COLOR green]IMDb:[/COLOR] 4,9
+</info>
+</item>
++++++++++
