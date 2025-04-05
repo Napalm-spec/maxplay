@@ -18,8 +18,8 @@
 «««««««««««««««««««««««««
 <channel>
 <name>[COLOR blue]Amor Bandido [/COLOR] [COLOR orange](2025)[/COLOR]</name>
-<thumbnail>https://image.tmdb.org/t/p/original/sVHGPxHXIpOet5H7orIFMIjzeva.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/fNtmDJGvQWetrqzwnoh2PcI1C0x.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/us125MW4IQOiGbnl77NgOJVEgMn.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/aGgr2Q07AcyiWPGODoofgZDUEHp.jpg</fanart>
 <info>
 [COLOR yellow]Studio:[/COLOR]NETFIX
 [COLOR blue]Gênero:[/COLOR]Ação, Comédia, Romance
