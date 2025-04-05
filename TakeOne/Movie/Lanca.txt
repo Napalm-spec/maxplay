@@ -1,7 +1,20 @@
 <channels>
 
 
-
+<channel>
+<name>[COLOR blue]DJ à Paisana [/COLOR] [COLOR orange](2025)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/gspluUUTwGMT33rR6YietqRIjok.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/oDvBfDVgF6uthIPdRfC6zqqbvcE.jpg</fanart>
+<info>
+[COLOR yellow]Studio:[/COLOR]NETFIX
+[COLOR blue]Gênero:[/COLOR]Comédia, Música
+[COLOR red]Duração:[/COLOR]1h 30m
+[COLOR lime]Sinopse:[/COLOR]Recrutado pela polícia para ajudar a desmantelar uma gangue ligada ao seu rival, um DJ em decadência vê nisto uma chance de voltar ao topo em grande estilo.
+</info>
+<date>02/04/2025</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/tt35434840.25.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[COLOR blue]Corações Prometidos [/COLOR] [COLOR orange](2025)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/5w4tc7RJOT104dHXQUla5xRQVPT.jpg</thumbnail>
