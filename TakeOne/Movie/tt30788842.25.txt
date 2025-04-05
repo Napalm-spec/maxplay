@@ -2,8 +2,8 @@
 <title>(Ver Video)[COLOR lime] VERSÃO DUBLADO[/COLOR]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/wlp36pjoie9lrr</link>
 <subtitle>LEGENDAS</subtitle>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/us125MW4IQOiGbnl77NgOJVEgMn.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/aGgr2Q07AcyiWPGODoofgZDUEHp.jpg</fanart>
 <info>
 [COLOR blue]Gênero:[/COLOR] Ação, Comédia, Romance
 [COLOR yellow]Duração:[/COLOR] 1h 23m
@@ -17,8 +17,8 @@
 <title>(Ver Video)[COLOR lime] VERSÃO LEGENDADO[/COLOR]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/z1g6pwr1s8mqmj</link>
 <subtitle>https://subs.warezcdn.link/244618-PTB.srt</subtitle>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/us125MW4IQOiGbnl77NgOJVEgMn.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/aGgr2Q07AcyiWPGODoofgZDUEHp.jpg</fanart>
 <info>
 [COLOR blue]Gênero:[/COLOR] Ação, Comédia, Romance
 [COLOR yellow]Duração:[/COLOR] 1h 23m
