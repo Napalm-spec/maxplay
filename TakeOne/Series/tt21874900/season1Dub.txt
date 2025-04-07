@@ -1,0 +1,16 @@
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO DUBLADO[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=</link>
+<subtitle>LEGENDAS</subtitle>
+<thumbnail>https://image.tmdb.org</thumbnail>
+<fanart>https://image.tmdb.org</fanart>
+<info>
+[COLOR blue]EPISÓDIO 01[/COLOR]
+Matt Murdock desiste da máscara. Wilson Fisk almeja novos patamares.
+</info>
+</item>
++++++++++
+
+
+(Ver Video)[COLOR lime] VERSÃO DUBLADO [/COLOR][COLOR red]Brevemente[/COLOR]
+[B][COLOR red]BREVEMENTE DISPONÍVEL[/COLOR][/B]
