@@ -6,7 +6,7 @@
 <fanart>https://image.tmdb.org/t/p/original/m291MEBjhuRqb0nh9ojnm9gzScq.jpg</fanart>
 <info>
 A 1ª temporada de Demolidor: Renascido começou a ser exibida em 4 de março de 2025.
-2025 • 9 Episódios
+[COLOR blue]2025 • 9 Episódios[/COLOR]
 </info>
 <externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Series/tt18923754/Season1Dub.txt</externallink>
 </channel>
@@ -17,7 +17,7 @@ A 1ª temporada de Demolidor: Renascido começou a ser exibida em 4 de março de
 <fanart>https://image.tmdb.org/t/p/original/m291MEBjhuRqb0nh9ojnm9gzScq.jpg</fanart>
 <info>
 A 1ª temporada de Demolidor: Renascido começou a ser exibida em 4 de março de 2025.
-2025 • 9 Episódios
+[COLOR blue]2025 • 9 Episódios[/COLOR]
 </info>
 <externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Series/tt18923754/season1LEG.txt</externallink>
 </channel>
