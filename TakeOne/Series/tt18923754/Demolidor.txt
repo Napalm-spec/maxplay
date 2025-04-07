@@ -5,7 +5,8 @@
 <thumbnail>https://image.tmdb.org/t/p/original/g1W1SJx1eSI636sByrEP0jKGZQw.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/m291MEBjhuRqb0nh9ojnm9gzScq.jpg</fanart>
 <info>
-[COLOR lime]Sinopse:[/COLOR]Matt Murdock, um advogado cego com habilidades fantásticas, luta por justiça através de seu agitado escritório de advocacia, enquanto o ex-chefe do crime Wilson Fisk busca seus próprios empreendimentos políticos em Nova Iorque. Quando suas identidades passadas começam a emergir, seus caminhos se cruzam perigosamente.
+A 1ª temporada de Demolidor: Renascido começou a ser exibida em 4 de março de 2025.
+2025 • 9 Episódios
 </info>
 <date>14/02/2025</date>
 <externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Series/tt18923754/Season1Dub.txt</externallink>
@@ -16,7 +17,8 @@
 <thumbnail>https://image.tmdb.org/t/p/original/g1W1SJx1eSI636sByrEP0jKGZQw.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/m291MEBjhuRqb0nh9ojnm9gzScq.jpg</fanart>
 <info>
-[COLOR lime]Sinopse:[/COLOR]Matt Murdock, um advogado cego com habilidades fantásticas, luta por justiça através de seu agitado escritório de advocacia, enquanto o ex-chefe do crime Wilson Fisk busca seus próprios empreendimentos políticos em Nova Iorque. Quando suas identidades passadas começam a emergir, seus caminhos se cruzam perigosamente.
+A 1ª temporada de Demolidor: Renascido começou a ser exibida em 4 de março de 2025.
+2025 • 9 Episódios
 </info>
 <date>14/02/2025</date>
 <externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Series/tt18923754/season1LEG.txt</externallink>
