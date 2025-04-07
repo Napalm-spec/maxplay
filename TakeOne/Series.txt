@@ -1,5 +1,20 @@
 <channels>
 
+
+<channel>
+<name>[COLOR blue]Mil Golpes [/COLOR] [COLOR orange](2025)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/7w9LpfUa5uTAa9jyU9nwoT9g4yC.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/7Zvg9d7GbTIFx9mRczcaos2XZhf.jpg</fanart>
+<info>
+[COLOR yellow]Studio:[/COLOR]DISNEY+
+[COLOR blue]Gênero:[/COLOR]Drama
+[COLOR red]Duração:[/COLOR]52m
+[COLOR lime]Sinopse:[/COLOR]Hezekiah e Alec, dois amigos da Jamaica, acabam envolvidos no mundo dos crimes de East End, em Londres. Lá, eles conhecem Mary Carr, Rainha de uma gangue de mulheres conhecida como Quarenta Elefantes, rivais de Sugar Goodson, chefão criminoso e boxeador talentoso.
+</info>
+<date>07/04/2025</date>
+<externallink>https://raw.githubusercontent.com</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[COLOR blue]Demolidor: Renascido [/COLOR] [COLOR orange](2025)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/g1W1SJx1eSI636sByrEP0jKGZQw.jpg</thumbnail>
