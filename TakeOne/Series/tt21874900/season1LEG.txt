@@ -1,0 +1,72 @@
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO DUBLADO[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/4dpg6x88iqk9e68</link>
+<subtitle>https://subs.warezcdn.link/244485-PTB.srt</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/7w9LpfUa5uTAa9jyU9nwoT9g4yC.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/7Zvg9d7GbTIFx9mRczcaos2XZhf.jpg</fanart>
+<info>
+[COLOR blue]EPISÓDIO 01[/COLOR]
+Hezekiah e Alec chegam a Londres para conquistar fortunas e conhecem a sedutora criminosa Mary Carr.
+</info>
+</item>
++++++++++
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO DUBLADO[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/r6ke8v6viv69kw</link>
+<subtitle>https://subs.warezcdn.link/244486-PTB.srt</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/7w9LpfUa5uTAa9jyU9nwoT9g4yC.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/7Zvg9d7GbTIFx9mRczcaos2XZhf.jpg</fanart>
+<info>
+[COLOR blue]EPISÓDIO 02[/COLOR]
+Começa a rivalidade de Hezekiah e Sugar, e Mary leva o plano de seu roubo para outro nível.
+</info>
+</item>
++++++++++
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO DUBLADO[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/1npw3d48ho7x6j</link>
+<subtitle>https://subs.warezcdn.link/244487-PTB.srt</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/7w9LpfUa5uTAa9jyU9nwoT9g4yC.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/7Zvg9d7GbTIFx9mRczcaos2XZhf.jpg</fanart>
+<info>
+[COLOR blue]EPISÓDIO 03[/COLOR]
+Um bombardeio estremece Wapping, assustando Hezekiah e atrapalhando os planos de Mary e Sugar.
+</info>
+</item>
++++++++++
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO DUBLADO[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/k0ljqg0vh439px</link>
+<subtitle>https://subs.warezcdn.link/244488-PTB.srt</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/7w9LpfUa5uTAa9jyU9nwoT9g4yC.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/7Zvg9d7GbTIFx9mRczcaos2XZhf.jpg</fanart>
+<info>
+[COLOR blue]EPISÓDIO 04[/COLOR]
+Chega a noite do roubo de Mary Carr e todas as peças estão posicionadas, incluindo Hezekiah e Lao.
+</info>
+</item>
++++++++++
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO DUBLADO[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/owxvmvxda6jrlk</link>
+<subtitle>https://subs.warezcdn.link/244527-PTB.srt</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/7w9LpfUa5uTAa9jyU9nwoT9g4yC.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/7Zvg9d7GbTIFx9mRczcaos2XZhf.jpg</fanart>
+<info>
+[COLOR blue]EPISÓDIO 05[/COLOR]
+Enquanto Hezekiah ascende no mundo do boxe, Mary sofre as consequências das ações de Lao no roubo.
+</info>
+</item>
++++++++++
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO DUBLADO[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/owxvk8n3brz9kl</link>
+<subtitle>https://subs.warezcdn.link/244535-PTB.srt</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/7w9LpfUa5uTAa9jyU9nwoT9g4yC.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/7Zvg9d7GbTIFx9mRczcaos2XZhf.jpg</fanart>
+<info>
+[COLOR blue]EPISÓDIO 06[/COLOR]
+Hezekiah se prepara para lutar pelo seu título enquanto o tempo de Mary se esgota.
+</info>
+</item>
++++++++++
