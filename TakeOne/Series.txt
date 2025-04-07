@@ -12,7 +12,7 @@
 [COLOR lime]Sinopse:[/COLOR]Hezekiah e Alec, dois amigos da Jamaica, acabam envolvidos no mundo dos crimes de East End, em Londres. Lá, eles conhecem Mary Carr, Rainha de uma gangue de mulheres conhecida como Quarenta Elefantes, rivais de Sugar Goodson, chefão criminoso e boxeador talentoso.
 </info>
 <date>07/04/2025</date>
-<externallink>https://raw.githubusercontent.com</externallink>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Series/tt21874900/MilGolpes.txt</externallink>
 </channel>
 «««««««««««««««««««««««««
 <channel>
