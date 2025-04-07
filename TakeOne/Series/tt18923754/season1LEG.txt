@@ -10,3 +10,75 @@ Matt Murdock desiste da máscara. Wilson Fisk almeja novos patamares.
 </info>
 </item>
 +++++++++
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO LEGENDADO[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/364e1m48hjovr7</link>
+<subtitle>https://subs.warezcdn.link/244711-PTB.srt</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/g1W1SJx1eSI636sByrEP0jKGZQw.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/m291MEBjhuRqb0nh9ojnm9gzScq.jpg</fanart>
+<info>
+[COLOR blue]EPISÓDIO 02[/COLOR]
+Matt Murdock ganha um novo cliente que é mais do que diz ser. Fisk aprende o poder da ótica.
+</info>
+</item>
++++++++++
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO LEGENDADO[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/dkj807roup68z7</link>
+<subtitle>https://subs.warezcdn.link/244712-PTB.srt</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/g1W1SJx1eSI636sByrEP0jKGZQw.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/m291MEBjhuRqb0nh9ojnm9gzScq.jpg</fanart>
+<info>
+[COLOR blue]EPISÓDIO 03[/COLOR]
+O julgamento de Hector Ayala começa. Os antigos parceiros de Fisk buscam reivindicar seu manto vago.
+</info>
+</item>
++++++++++
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO LEGENDADO[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/8loe0n18i6411eo</link>
+<subtitle>https://subs.warezcdn.link/244713-PTB.srt</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/g1W1SJx1eSI636sByrEP0jKGZQw.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/m291MEBjhuRqb0nh9ojnm9gzScq.jpg</fanart>
+<info>
+[COLOR blue]EPISÓDIO 04[/COLOR]
+As metades mais sombrias de Matt Murdock e Wilson Fisk lutam para se libertar.
+</info>
+</item>
++++++++++
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO LEGENDADO[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/pjp731v0srme8e</link>
+<subtitle>https://subs.warezcdn.link/245670-PTB.srt</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/g1W1SJx1eSI636sByrEP0jKGZQw.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/m291MEBjhuRqb0nh9ojnm9gzScq.jpg</fanart>
+<info>
+[COLOR blue]EPISÓDIO 05[/COLOR]
+Um dia na vida de Matt Murdock se torna intenso, forçando ele a se juntar a um rosto conhecido.
+</info>
+</item>
++++++++++
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO LEGENDADO[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/67o14k14tk88gp</link>
+<subtitle>https://subs.warezcdn.link/245671-PTB.srt</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/g1W1SJx1eSI636sByrEP0jKGZQw.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/m291MEBjhuRqb0nh9ojnm9gzScq.jpg</fanart>
+<info>
+[COLOR blue]EPISÓDIO 06[/COLOR]
+Quando um serial killer aterroriza as ruas de Nova lorque, a cidade precisa de um salvador.
+</info>
+</item>
++++++++++
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO LEGENDADO[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/wlp17q19ugw4zj</link>
+<subtitle>https://subs.warezcdn.link/245915-PTB.srt</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/g1W1SJx1eSI636sByrEP0jKGZQw.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/m291MEBjhuRqb0nh9ojnm9gzScq.jpg</fanart>
+<info>
+[COLOR blue]EPISÓDIO 07[/COLOR]
+O Demolidor está de volta e corre contra Fisk para impedir que o Muso mate novamente.
+</info>
+</item>
++++++++++
