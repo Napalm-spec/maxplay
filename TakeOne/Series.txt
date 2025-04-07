@@ -9,6 +9,9 @@
 [COLOR yellow]Studio:[/COLOR]DISNEY+
 [COLOR blue]Gênero:[/COLOR]Drama
 [COLOR red]Duração:[/COLOR]52m
+[COLOR aquamarine]Lançamento:[/COLOR] 2025
+[COLOR gold]Áudio:[/COLOR] Português | Inglês
+[COLOR green]IMDb:[/COLOR] 7,4
 [COLOR lime]Sinopse:[/COLOR]Hezekiah e Alec, dois amigos da Jamaica, acabam envolvidos no mundo dos crimes de East End, em Londres. Lá, eles conhecem Mary Carr, Rainha de uma gangue de mulheres conhecida como Quarenta Elefantes, rivais de Sugar Goodson, chefão criminoso e boxeador talentoso.
 </info>
 <date>07/04/2025</date>
@@ -24,11 +27,11 @@
 [COLOR blue]Gênero:[/COLOR] Thriller, Mistério
 [COLOR yellow]Duração:[/COLOR] 48m
 [COLOR aquamarine]Lançamento:[/COLOR] 2025
-[COLOR gold]Áudio:[/COLOR] Português | PT-BR 
+[COLOR gold]Áudio:[/COLOR] Português | Inglês 
 [COLOR green]IMDb:[/COLOR] 8,7
 [COLOR lime]Sinopse:[/COLOR]Matt Murdock, um advogado cego com habilidades fantásticas, luta por justiça através de seu agitado escritório de advocacia, enquanto o ex-chefe do crime Wilson Fisk busca seus próprios empreendimentos políticos em Nova Iorque. Quando suas identidades passadas começam a emergir, seus caminhos se cruzam perigosamente.
 </info>
-<date</date>
+<date>07/04/2025</date>
 <externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Series/tt18923754/Demolidor.txt</externallink>
 </channel>
 «««««««««««««««««««««««««
