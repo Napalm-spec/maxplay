@@ -1,28 +1,5 @@
 <channels>
 
-
-<channel>
-<name>[COLOR blue]Mil Golpes 1ª Temporada [/COLOR] [COLOR orange](VERSÃO DUBLADO)[/COLOR]</name>
-<thumbnail>https://image.tmdb.org/t/p/original/7w9LpfUa5uTAa9jyU9nwoT9g4yC.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/7Zvg9d7GbTIFx9mRczcaos2XZhf.jpg</fanart>
-<info>
-A 1ª temporada de Mil Golpes começou a ser exibida em 21 de fevereiro de 2025.
-2025 • 6 Episódios
-</info>
-<externallink>https://raw.githubusercontent.com</externallink>
-</channel>
-«««««««««««««««««««««««««
-<channel>
-<name>[COLOR blue]Mil Golpes 1ª Temporada [/COLOR] [COLOR orange](VERSÃO LEGENDADO)[/COLOR]</name>
-<thumbnail>https://image.tmdb.org/t/p/original/7w9LpfUa5uTAa9jyU9nwoT9g4yC.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/7Zvg9d7GbTIFx9mRczcaos2XZhf.jpg</fanart>
-<info>
-A 1ª temporada de Mil Golpes começou a ser exibida em 21 de fevereiro de 2025.
-2025 • 6 Episódios
-</info>
-<externallink>https://raw.githubusercontent.com</externallink>
-</channel>
-«««««««««««««««««««««««««
 <channel>
 <name>[COLOR blue]Demolidor: Renascido 1ª Temporada [/COLOR] [COLOR orange](VERSÃO DUBLADO)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/g1W1SJx1eSI636sByrEP0jKGZQw.jpg</thumbnail>
