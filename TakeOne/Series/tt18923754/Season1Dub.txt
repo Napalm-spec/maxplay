@@ -5,11 +5,8 @@
 <thumbnail>https://image.tmdb.org/t/p/original/g1W1SJx1eSI636sByrEP0jKGZQw.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/m291MEBjhuRqb0nh9ojnm9gzScq.jpg</fanart>
 <info>
-[COLOR blue]Gênero:[/COLOR] Drama, Crime
-[COLOR yellow]Duração:[/COLOR] 48m
-[COLOR aquamarine]Lançamento:[/COLOR] 2025
-[COLOR gold]Áudio:[/COLOR] Português | PT-BR 
-[COLOR green]IMDb:[/COLOR] 8,7
+[COLOR blue]EPISÓDIO 01[/COLOR]
+Matt Murdock desiste da máscara. Wilson Fisk almeja novos patamares.
 </info>
 </item>
 +++++++++
