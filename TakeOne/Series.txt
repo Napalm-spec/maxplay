@@ -22,7 +22,7 @@
 <info>
 [COLOR yellow]Studio:[/COLOR]DISNEY+
 [COLOR blue]Gênero:[/COLOR] Thriller, Mistério
-[COLOR yellow]Duração:[/COLOR] 1h 48m
+[COLOR yellow]Duração:[/COLOR] 48m
 [COLOR aquamarine]Lançamento:[/COLOR] 2025
 [COLOR gold]Áudio:[/COLOR] Português | PT-BR 
 [COLOR green]IMDb:[/COLOR] 8,7
