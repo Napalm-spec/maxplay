@@ -2,7 +2,20 @@
 
 
 
-
+<channel>
+<name>[COLOR blue]O Maravilhoso Mágico de Oz - Parte 1 [/COLOR] [COLOR orange](2025)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/s4pK8Cpna56SbYbmFGgKyBvLj7A.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ejbakRnwPh75RhlMrlL4miFb8UD.jpg</fanart>
+<info>
+[COLOR yellow]Studio:[/COLOR]NETFIX
+[COLOR blue]Gênero:[/COLOR]Drama, Fantasia
+[COLOR red]Duração:[/COLOR]1h 44m
+[COLOR lime]Sinopse:[/COLOR]Levada por um furacão a um mundo mágico e desconhecido, Ellie decide seguir a estrada de tijolos amarelos rumo à Cidade Esmeralda, onde acredita que o poderoso Mágico poderá ajudá-la a voltar para casa. No caminho, ela encontra grandes amigos: o Espantalho, que sonha em ter um cérebro; o Homem de Lata, que deseja um coração; e o Leão Covarde, que busca coragem. Juntos, eles enfrentam desafios em uma história encantadora que celebra a amizade, a coragem e a força dos sonhos.
+</info>
+<date>01/01/2025</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/tt24218194.txt/externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[COLOR blue]Mickey 17 [/COLOR] [COLOR orange](2025)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/rqMl7ngnuRM4ZltatYQeSArG7gM.jpg</thumbnail>
