@@ -2,7 +2,7 @@
 
 <channel>
 <name>[COLOR blue]CANAIS DOCUMENTÁRIOS [/COLOR]</name>
-<thumbnail>https://image.tmdb.org/t/p/original/7w9LpfUa5uTAa9jyU9nwoT9g4yC.jpg</thumbnail>
+<thumbnail>https://sesctv.org.br/wp-content/uploads/2018/06/documentarios.png</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/7Zvg9d7GbTIFx9mRczcaos2XZhf.jpg</fanart>
 <info>
 [COLOR yellow]Studio:[/COLOR]DISNEY+
