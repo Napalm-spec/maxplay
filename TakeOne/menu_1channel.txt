@@ -1,7 +1,7 @@
 <channels>
 
    <channel>
-<name>[B][COLOR lime]Canais TV[/COLOR][COLOR white] (2025)  [/COLOR][/B]</name>
+<name>[B][COLOR lime]Canais TV[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/1z7mH46c/CANAISTV.jpg</thumbnail>
 <fanart>https://i.postimg.cc/tRfnTg18/deadpool-2-movie-cinema.jpg</fanart>
 <info> 
