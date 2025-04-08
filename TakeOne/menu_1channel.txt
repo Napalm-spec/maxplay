@@ -1,9 +1,18 @@
 <channels>
 
- 
+   <channel>
+<name>[B][COLOR lime]Canais TV[/COLOR][COLOR white] (2025)  [/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/1z7mH46c/CANAISTV.jpg</thumbnail>
+<fanart>https://i.postimg.cc/tRfnTg18/deadpool-2-movie-cinema.jpg</fanart>
+<info> 
+[COLOR blue]Filmes Dublados[/COLOR]
+[COLOR yellow]Filmes Legendados[/COLOR]
+</info>
+<externallink>https://</externallink>
+</channel>
   <channel>
 <name>[B][COLOR lime]Filmes Lançamentos[/COLOR][COLOR white] (2025)  [/COLOR][/B]</name>
-<thumbnail>https://i.postimg.cc/Hkhmtxfn/LANCAMENTOS.jpg</thumbnail>
+<thumbnail>https://i.postimg.cc/Dy42c2y1/LANCAMENTOS.jpg</thumbnail>
 <fanart>https://i.postimg.cc/tRfnTg18/deadpool-2-movie-cinema.jpg</fanart>
 <info> 
 [COLOR blue]Filmes Dublados[/COLOR]
@@ -13,7 +22,7 @@
 </channel>
   <channel>
 <name>[B][COLOR lime]Filmes Diversos[/COLOR][/B]</name>
-<thumbnail>https://i.postimg.cc/D0Z55vVf/Diversos.jpg</thumbnail>
+<thumbnail>https://i.postimg.cc/FF8vz2gz/DIVERSOS.jpg</thumbnail>
 <fanart>https://i.postimg.cc/tRfnTg18/deadpool-2-movie-cinema.jpg</fanart>
 <info> 
 [COLOR blue]Filmes Dublados[/COLOR]
@@ -23,7 +32,7 @@
 </channel>
   <channel>
 <name>[B][COLOR lime]Filmes Animação[/COLOR][/B]</name>
-<thumbnail>https://i.postimg.cc/h4fwqB3W/Anima-o.jpg</thumbnail>
+<thumbnail>https://i.postimg.cc/YCwwfYPw/ANIMACAO.jpg</thumbnail>
 <fanart>https://i.postimg.cc/tRfnTg18/deadpool-2-movie-cinema.jpg</fanart>
 <info> 
 [COLOR blue]Filmes Dublados[/COLOR]
@@ -32,8 +41,28 @@
 <externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Animacao/01Animac.txt</externallink>
 </channel>
   <channel>
+<name>[B][COLOR lime]Filmes Marvel[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/76RFC2zd/MARVEL.jpg</thumbnail>
+<fanart>https://i.postimg.cc/tRfnTg18/deadpool-2-movie-cinema.jpg</fanart>
+<info> 
+[COLOR blue]Filmes Dublados[/COLOR]
+[COLOR yellow]Filmes Legendados[/COLOR]
+</info>
+<externallink>https://</externallink>
+</channel>
+  <channel>
+<name>[B][COLOR lime]Filmes DC[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/4xZx4Dst/DC.jpg</thumbnail>
+<fanart>https://i.postimg.cc/tRfnTg18/deadpool-2-movie-cinema.jpg</fanart>
+<info> 
+[COLOR blue]Filmes Dublados[/COLOR]
+[COLOR yellow]Filmes Legendados[/COLOR]
+</info>
+<externallink>https://</externallink>
+</channel>
+  <channel>
 <name>[B][COLOR lime]Séries[/COLOR][/B]</name>
-<thumbnail>https://i.postimg.cc/hGvjSNqz/Series.jpg</thumbnail>
+<thumbnail>https://i.postimg.cc/jSQY8CVn/SERIES.jpg</thumbnail>
 <fanart>https://i.postimg.cc/tRfnTg18/deadpool-2-movie-cinema.jpg</fanart>
 <info> 
 [COLOR blue]Filmes Dublados[/COLOR]
