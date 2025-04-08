@@ -1,6 +1,22 @@
 <channels>
 
 
+
+
+<channel>
+<name>[COLOR blue]Mickey 17 [/COLOR] [COLOR orange](2025)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/rqMl7ngnuRM4ZltatYQeSArG7gM.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/hNA73rnG4PjSwgojaC2gbO1f8Rt.jpg</fanart>
+<info>
+[COLOR yellow]Studio:[/COLOR]NETFIX
+[COLOR blue]Gênero:[/COLOR]Ficção científica, Comédia, Aventura
+[COLOR red]Duração:[/COLOR]2h 16m
+[COLOR lime]Sinopse:[/COLOR]Mickey faz parte de um programa espacial de colonização e sempre é enviado para missões perigosas, quase suicidas. Se morrer, ele é clonado e boa parte de suas memórias são recuperadas. Mas, após seis mortes, ele começa a entender o porquê de seu cargo nunca ter sido ocupado antes.
+</info>
+<date>06/03/2025</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/tt12299608.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[COLOR blue]DJ à Paisana [/COLOR] [COLOR orange](2025)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/gspluUUTwGMT33rR6YietqRIjok.jpg</thumbnail>
