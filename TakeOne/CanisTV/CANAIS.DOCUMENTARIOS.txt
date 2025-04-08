@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Animal Planet FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/922/wYHvP7.png" group-title="CANAIS DOCUMENTÁRIOS",Animal Planet FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262964
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Animal Planet HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/922/wYHvP7.png" group-title="CANAIS DOCUMENTÁRIOS",Animal Planet HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262963
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Animal Planet SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/922/wYHvP7.png" group-title="CANAIS DOCUMENTÁRIOS",Animal Planet SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262962
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/wDEDYg.png" group-title="CANAIS DOCUMENTÁRIOS",Fish TV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262985
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/wDEDYg.png" group-title="CANAIS DOCUMENTÁRIOS",Fish TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262984
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/wDEDYg.png" group-title="CANAIS DOCUMENTÁRIOS",Fish TV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262983
+#EXTINF:-1 tvg-id="history.2.br" tvg-name="H2 FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/JKU0Ir.png" group-title="CANAIS DOCUMENTÁRIOS",H2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262991
+#EXTINF:-1 tvg-id="history.2.br" tvg-name="H2 HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/JKU0Ir.png" group-title="CANAIS DOCUMENTÁRIOS",H2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262990
+#EXTINF:-1 tvg-id="history.2.br" tvg-name="H2 SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/JKU0Ir.png" group-title="CANAIS DOCUMENTÁRIOS",H2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262989
+#EXTINF:-1 tvg-id="history.br" tvg-name="History Channel FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/5QbC6N.png" group-title="CANAIS DOCUMENTÁRIOS",History Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262988
+#EXTINF:-1 tvg-id="history.br" tvg-name="History Channel HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/5QbC6N.png" group-title="CANAIS DOCUMENTÁRIOS",History Channel HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262987
+#EXTINF:-1 tvg-id="history.br" tvg-name="History Channel SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/5QbC6N.png" group-title="CANAIS DOCUMENTÁRIOS",History Channel SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262986
+#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="National Geographic HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/ZwiPeb.png" group-title="CANAIS DOCUMENTÁRIOS",National Geographic HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262996
+#EXTINF:-1 tvg-id="prime.box.brazil.br" tvg-name="Prime Box Brazil FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/922/llUm4U.png" group-title="CANAIS DOCUMENTÁRIOS",Prime Box Brazil FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1263000
+#EXTINF:-1 tvg-id="prime.box.brazil.br" tvg-name="Prime Box Brazil HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/922/llUm4U.png" group-title="CANAIS DOCUMENTÁRIOS",Prime Box Brazil HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262999
+#EXTINF:-1 tvg-id="prime.box.brazil.br" tvg-name="Prime Box Brazil SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/922/llUm4U.png" group-title="CANAIS DOCUMENTÁRIOS",Prime Box Brazil SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262998
