@@ -1,0 +1,31 @@
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO DUBLADO[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/nlp8wx94hljom0r</link>
+<subtitle>LEGENDAS</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/s4pK8Cpna56SbYbmFGgKyBvLj7A.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ejbakRnwPh75RhlMrlL4miFb8UD.jpg</fanart>
+<info>
+[COLOR blue]Gênero:[/COLOR] Drama, Fantasia
+[COLOR yellow]Duração:[/COLOR] 1h 44m
+[COLOR aquamarine]Lançamento:[/COLOR] 2025
+[COLOR gold]Áudio:[/COLOR] Português | PT-BR 
+[COLOR green]IMDb:[/COLOR] 5,8
+</info>
+</item>
++++++++++
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO LEGENDADO[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/9wv4jnn8a3zggxq</link>
+<subtitle>https://subs.warezcdn.link</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/s4pK8Cpna56SbYbmFGgKyBvLj7A.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ejbakRnwPh75RhlMrlL4miFb8UD.jpg</fanart>
+<info>
+[COLOR blue]Gênero:[/COLOR] Drama, Fantasia
+[COLOR yellow]Duração:[/COLOR] 1h 44m
+[COLOR aquamarine]Lançamento:[/COLOR] 2025
+[COLOR gold]Áudio:[/COLOR] Inglês
+[COLOR red]Legenda:[/COLOR] PT-BR
+[COLOR green]IMDb:[/COLOR] 5,8
+</info>
+</item>
++++++++++
