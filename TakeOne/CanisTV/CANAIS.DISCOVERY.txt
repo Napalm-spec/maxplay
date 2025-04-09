@@ -1,43 +1,43 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="discovery.br" tvg-name="Discovery Channel FHD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/AIpj9X.png" group-title="CANAIS DISCOVERY",Discovery Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262967
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262967
 #EXTINF:-1 tvg-id="discovery.br" tvg-name="Discovery Channel HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/AIpj9X.png" group-title="CANAIS DISCOVERY",Discovery Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262966
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262966
 #EXTINF:-1 tvg-id="discovery.br" tvg-name="Discovery Channel SD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/AIpj9X.png" group-title="CANAIS DISCOVERY",Discovery Channel SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262965
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262965
 #EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="Discovery H&H FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/HlY8PW.png" group-title="CANAIS DISCOVERY",Discovery H&H FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262970
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262970
 #EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="Discovery H&H HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/HlY8PW.png" group-title="CANAIS DISCOVERY",Discovery H&H HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262969
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262969
 #EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="Discovery H&H SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/HlY8PW.png" group-title="CANAIS DISCOVERY",Discovery H&H SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262968
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262968
 #EXTINF:-1 tvg-id="discovery.sciene.br" tvg-name="Discovery Science FHD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/KGY4Ms.png" group-title="CANAIS DISCOVERY",Discovery Science FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262973
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262973
 #EXTINF:-1 tvg-id="discovery.science.br" tvg-name="Discovery Science HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/KGY4Ms.png" group-title="CANAIS DISCOVERY",Discovery Science HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262972
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262972
 #EXTINF:-1 tvg-id="discovery.science.br" tvg-name="Discovery Science SD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/KGY4Ms.png" group-title="CANAIS DISCOVERY",Discovery Science SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262971
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262971
 #EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="Discovery Theater FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/oZHa2I.png" group-title="CANAIS DISCOVERY",Discovery Theater FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262976
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262976
 #EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="Discovery Theater HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/oZHa2I.png" group-title="CANAIS DISCOVERY",Discovery Theater HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262975
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262975
 #EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="Discovery Theater SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/oZHa2I.png" group-title="CANAIS DISCOVERY",Discovery Theater SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262974
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262974
 #EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="Discovery Turbo FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/uyPnmV.png" group-title="CANAIS DISCOVERY",Discovery Turbo FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262979
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262979
 #EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="Discovery Turbo HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/uyPnmV.png" group-title="CANAIS DISCOVERY",Discovery Turbo HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262978
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262978
 #EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="Discovery Turbo SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/uyPnmV.png" group-title="CANAIS DISCOVERY",Discovery Turbo SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262977
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262977
 #EXTINF:-1 tvg-id="discovery.world.br" tvg-name="Discovery World FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/dyuGgl.png" group-title="CANAIS DISCOVERY",Discovery World FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262982
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262982
 #EXTINF:-1 tvg-id="discovery.world.br" tvg-name="Discovery World HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/dyuGgl.png" group-title="CANAIS DISCOVERY",Discovery World HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262981
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262981
 #EXTINF:-1 tvg-id="discovery.world.br" tvg-name="Discovery World SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/dyuGgl.png" group-title="CANAIS DISCOVERY",Discovery World SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262980
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262980
 #EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="ID - Investigation Discovery FHD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/UjcFBb.png" group-title="CANAIS DISCOVERY",ID - Investigation Discovery FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262994
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262994
 #EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="ID - Investigation Discovery HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/UjcFBb.png" group-title="CANAIS DISCOVERY",ID - Investigation Discovery HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262993
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262993
 #EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="ID - Investigation Discovery SD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/UjcFBb.png" group-title="CANAIS DISCOVERY",ID - Investigation Discovery SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262992
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262992
