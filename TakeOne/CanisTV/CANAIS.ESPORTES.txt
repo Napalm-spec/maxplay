@@ -1,106 +1,106 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports FHD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/WHWkVN.png" group-title="CANAIS ESPORTES",Band Sports FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909058
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909058
 #EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/WHWkVN.png" group-title="CANAIS ESPORTES",Band Sports HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909056
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909056
 #EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/WHWkVN.png" group-title="CANAIS ESPORTES",Band Sports HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909057
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909057
 #EXTINF:-1 tvg-id="bandsports.br" tvg-name="BandSports SD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/WHWkVN.png" group-title="CANAIS ESPORTES",BandSports SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909059
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909059
 #EXTINF:-1 tvg-id="combate.br" tvg-name="Combate FHD" tvg-logo="https://imagizer.imageshack.com/img923/8510/tM7GEt.png" group-title="CANAIS ESPORTES",Combate FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909060
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909060
 #EXTINF:-1 tvg-id="combate.br" tvg-name="Combate HD" tvg-logo="https://imagizer.imageshack.com/img923/8510/tM7GEt.png" group-title="CANAIS ESPORTES",Combate HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909061
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909061
 #EXTINF:-1 tvg-id="combate.br" tvg-name="Combate SD" tvg-logo="https://imagizer.imageshack.com/img923/8510/tM7GEt.png" group-title="CANAIS ESPORTES",Combate SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909062
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909062
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="ESPN 2 FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/cyuWDd.png" group-title="CANAIS ESPORTES",ESPN 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909041
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909041
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="ESPN 2 HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/cyuWDd.png" group-title="CANAIS ESPORTES",ESPN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909042
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909042
 #EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="ESPN 2 SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/cyuWDd.png" group-title="CANAIS ESPORTES",ESPN 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909043
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909043
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="ESPN 4 FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/JNs4Dg.png" group-title="CANAIS ESPORTES",ESPN 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909047
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909047
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="ESPN 4 HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/JNs4Dg.png" group-title="CANAIS ESPORTES",ESPN 4 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909048
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909048
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="ESPN 4 SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/JNs4Dg.png" group-title="CANAIS ESPORTES",ESPN 4 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909049
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909049
 #EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="ESPN 5  SD" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/7/7e/Fox_Sports_2_logo.png/revision/latest?cb=20150605231953" group-title="CANAIS ESPORTES",ESPN 5  SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909040
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909040
 #EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="ESPN 5 FHD" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/7/7e/Fox_Sports_2_logo.png/revision/latest?cb=20150605231953" group-title="CANAIS ESPORTES",ESPN 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909038
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909038
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="ESPN 5 HD" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/7/7e/Fox_Sports_2_logo.png/revision/latest?cb=20150605231953" group-title="CANAIS ESPORTES",ESPN 5 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909039
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909039
 #EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN Extra FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/UAoPlB.png" group-title="CANAIS ESPORTES",ESPN Extra FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909050
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909050
 #EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN Extra HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/UAoPlB.png" group-title="CANAIS ESPORTES",ESPN Extra HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909051
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909051
 #EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN Extra SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/UAoPlB.png" group-title="CANAIS ESPORTES",ESPN Extra SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909052
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909052
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/Qy3Pvx.png" group-title="CANAIS ESPORTES",ESPN HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909054
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909054
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD¹" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/Qy3Pvx.png" group-title="CANAIS ESPORTES",ESPN HD¹
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2976070
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2976070
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/Qy3Pvx.png" group-title="CANAIS ESPORTES",ESPN SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909055
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909055
 #EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/73crmZ.png" group-title="CANAIS SPORTV",SporTV 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909004
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909004
 #EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/73crmZ.png" group-title="CANAIS SPORTV",SporTV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909005
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909005
 #EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/73crmZ.png" group-title="CANAIS SPORTV",SporTV 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909006
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909006
 #EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/CaPuNh.png" group-title="CANAIS SPORTV",SporTV 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909007
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909007
 #EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/CaPuNh.png" group-title="CANAIS SPORTV",SporTV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909008
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909008
 #EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/CaPuNh.png" group-title="CANAIS SPORTV",SporTV 3 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909009
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909009
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/A6RGQN.png" group-title="CANAIS SPORTV",SporTV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909010
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909010
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/A6RGQN.png" group-title="CANAIS SPORTV",SporTV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909011
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909011
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/A6RGQN.png" group-title="CANAIS SPORTV",SporTV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909012
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909012
 #EXTINF:-1 tvg-id="premiere.2.br" tvg-name="Premiere 2 FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/jbsMeh.png" group-title="CANAIS PREMIERE",Premiere 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909015
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909015
 #EXTINF:-1 tvg-id="premiere.2.br" tvg-name="Premiere 2 HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/jbsMeh.png" group-title="CANAIS PREMIERE",Premiere 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909016
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909016
 #EXTINF:-1 tvg-id="premiere.2.br" tvg-name="Premiere 2 SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/jbsMeh.png" group-title="CANAIS PREMIERE",Premiere 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909017
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909017
 #EXTINF:-1 tvg-id="premiere.3.br" tvg-name="Premiere 3 FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/kNe8YK.png" group-title="CANAIS PREMIERE",Premiere 3 FHD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909018
 #EXTINF:-1 tvg-id="premiere.3.br" tvg-name="Premiere 3 HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/kNe8YK.png" group-title="CANAIS PREMIERE",Premiere 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909019
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909019
 #EXTINF:-1 tvg-id="premiere.3.br" tvg-name="Premiere 3 SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/kNe8YK.png" group-title="CANAIS PREMIERE",Premiere 3 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909020
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909020
 #EXTINF:-1 tvg-id="premiere.4.br" tvg-name="Premiere 4 FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/dxZgq6.png" group-title="CANAIS PREMIERE",Premiere 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909021
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909021
 #EXTINF:-1 tvg-id="premiere.4.br" tvg-name="Premiere 4 HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/dxZgq6.png" group-title="CANAIS PREMIERE",Premiere 4 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909022
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909022
 #EXTINF:-1 tvg-id="premiere.4.br" tvg-name="Premiere 4 SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/dxZgq6.png" group-title="CANAIS PREMIERE",Premiere 4 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909023
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909023
 #EXTINF:-1 tvg-id="premiere.5.br" tvg-name="Premiere 5 FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/y7gI6S.png" group-title="CANAIS PREMIERE",Premiere 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909024
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909024
 #EXTINF:-1 tvg-id="premiere.5.br" tvg-name="Premiere 5 HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/y7gI6S.png" group-title="CANAIS PREMIERE",Premiere 5 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909025
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909025
 #EXTINF:-1 tvg-id="premiere.5.br" tvg-name="Premiere 5 SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/y7gI6S.png" group-title="CANAIS PREMIERE",Premiere 5 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909026
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909026
 #EXTINF:-1 tvg-id="premiere.6.br" tvg-name="Premiere 6 FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/0RQIRP.png" group-title="CANAIS PREMIERE",Premiere 6 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909027
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909027
 #EXTINF:-1 tvg-id="premiere.6.br" tvg-name="Premiere 6 HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/0RQIRP.png" group-title="CANAIS PREMIERE",Premiere 6 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909028
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909028
 #EXTINF:-1 tvg-id="premiere.6.br" tvg-name="Premiere 6 SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/0RQIRP.png" group-title="CANAIS PREMIERE",Premiere 6 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909029
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909029
 #EXTINF:-1 tvg-id="premiere.7.br" tvg-name="Premiere 7 FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/YJbbQ6.png" group-title="CANAIS PREMIERE",Premiere 7 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909030
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909030
 #EXTINF:-1 tvg-id="premiere.7.br" tvg-name="Premiere 7 HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/YJbbQ6.png" group-title="CANAIS PREMIERE",Premiere 7 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909031
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909031
 #EXTINF:-1 tvg-id="premiere.7.br" tvg-name="Premiere 7 SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/YJbbQ6.png" group-title="CANAIS PREMIERE",Premiere 7 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909032
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909032
 #EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="Premiere Clubes FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png" group-title="CANAIS PREMIERE",Premiere Clubes FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909035
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909035
 #EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="Premiere Clubes HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png" group-title="CANAIS PREMIERE",Premiere Clubes HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909036
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909036
 #EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="Premiere Clubes SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png" group-title="CANAIS PREMIERE",Premiere Clubes SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909037
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/2909037
 
