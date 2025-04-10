@@ -6,7 +6,7 @@
 <thumbnail>https://image.tmdb.org/t/p/original/jI6KVCPJhOMSuXp9Fb0NZlfHeLV.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/r82l4PupHBoNw3qMZxmOHN1ZgQJ.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]NETFIX
+[COLOR yellow]Studio:[/COLOR]DISNEY+
 [COLOR blue]Gênero:[/COLOR]Música, Drama, Ficção científica
 [COLOR red]Duração:[/COLOR]1h 46m
 [COLOR lime]Sinopse:[/COLOR]Ambientada em um futuro pós-apocalíptico, O'Dessa é uma ópera rock sobre uma garota da fazenda em uma missão para recuperar uma herança de família. Sua jornada a leva para uma cidade perigosa, onde ela deve usar o poder do destino e da música para salvar a alma de seu verdadeiro amor.
