@@ -26,7 +26,7 @@
 [COLOR lime]Sinopse:[/COLOR]Levada por um furacão a um mundo mágico e desconhecido, Ellie decide seguir a estrada de tijolos amarelos rumo à Cidade Esmeralda, onde acredita que o poderoso Mágico poderá ajudá-la a voltar para casa. No caminho, ela encontra grandes amigos: o Espantalho, que sonha em ter um cérebro; o Homem de Lata, que deseja um coração; e o Leão Covarde, que busca coragem. Juntos, eles enfrentam desafios em uma história encantadora que celebra a amizade, a coragem e a força dos sonhos.
 </info>
 <date>01/01/2025</date>
-<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/tt24218194.txt/externallink>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/tt24218194.txt</externallink>
 </channel>
 «««««««««««««««««««««««««
 <channel>
