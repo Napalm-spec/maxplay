@@ -1,7 +1,20 @@
 <channels>
 
 
-
+<channel>
+<name>[COLOR blue]O'Dessa [/COLOR] [COLOR orange](2025)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/jI6KVCPJhOMSuXp9Fb0NZlfHeLV.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/r82l4PupHBoNw3qMZxmOHN1ZgQJ.jpg</fanart>
+<info>
+[COLOR yellow]Studio:[/COLOR]NETFIX
+[COLOR blue]Gênero:[/COLOR]Música, Drama, Ficção científica
+[COLOR red]Duração:[/COLOR]1h 46m
+[COLOR lime]Sinopse:[/COLOR]Ambientada em um futuro pós-apocalíptico, O'Dessa é uma ópera rock sobre uma garota da fazenda em uma missão para recuperar uma herança de família. Sua jornada a leva para uma cidade perigosa, onde ela deve usar o poder do destino e da música para salvar a alma de seu verdadeiro amor.
+</info>
+<date>20/03/2025</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/tt26304178.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[COLOR blue]O Maravilhoso Mágico de Oz - Parte 1 [/COLOR] [COLOR orange](2025)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/s4pK8Cpna56SbYbmFGgKyBvLj7A.jpg</thumbnail>
