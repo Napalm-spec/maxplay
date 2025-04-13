@@ -1,0 +1,31 @@
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO DUBLADO[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/3644pm88um6prw3</link>
+<subtitle>LEGENDAS</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/qnngKqAcqfH2pBxDoKu5lxzSbTo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/i0MqzkcCsEsZC5WHSY7SACAcJdh.jpg</fanart>
+<info>
+[COLOR blue]Gênero:[/COLOR] Ficção científica, Aventura, Ação
+[COLOR yellow]Duração:[/COLOR] 2h 18m
+[COLOR aquamarine]Lançamento:[/COLOR] 2003
+[COLOR gold]Áudio:[/COLOR] Português | PT-BR 
+[COLOR green]IMDb:[/COLOR] 5,6
+</info>
+</item>
++++++++++
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO LEGENDADO[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/36440vz6u1z6rr</link>
+<subtitle>https://subs.warezcdn.link/1774-PT.srt</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/qnngKqAcqfH2pBxDoKu5lxzSbTo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/i0MqzkcCsEsZC5WHSY7SACAcJdh.jpg</fanart>
+<info>
+[COLOR blue]Gênero:[/COLOR] Ficção científica, Aventura, Ação
+[COLOR yellow]Duração:[/COLOR] 2h 18m
+[COLOR aquamarine]Lançamento:[/COLOR] 2003
+[COLOR gold]Áudio:[/COLOR] Inglês
+[COLOR red]Legenda:[/COLOR] PT-BR
+[COLOR green]IMDb:[/COLOR] 5,6
+</info>
+</item>
++++++++++
