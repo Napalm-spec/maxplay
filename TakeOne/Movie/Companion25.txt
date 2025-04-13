@@ -1,7 +1,9 @@
 <item>
 <title>(Ver Video)[COLOR lime] VERSÃO DUBLADO[/COLOR]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/03meq8r4ikoepx7</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/03meq8r4ikoepx7$$lsname=[COLOR blue] A RODA DO TEMPO - 1ª TEMPORADA COMPLETA (2021) [/COLOR]</link>
 <subtitle>LEGENDAS</subtitle>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/67oez6kwcr7dwp$$lsname=[COLOR blue] A RODA DO TEMPO - 1ª TEMPORADA COMPLETA (2021) [/COLOR]</link>
+<subtitle>https://subs.warezcdn.link/245065-PTB.srt</subtitle>
 <thumbnail>https://image.tmdb.org/t/p/original/yBJAA1oAF7RB7qLycJtYo9FPsQ0.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/sc1abgWNXc29wSBaerrjGBih06l.jpg</fanart>
 <info>
