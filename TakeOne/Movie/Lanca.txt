@@ -1,6 +1,21 @@
 <channels>
 
 
+
+<channel>
+<name>[COLOR blue]G20 [/COLOR] [COLOR orange](2025)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/5EKH6vtNzAvvTjkquT0wQ4lM3JA.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/k32XKMjmXMGeydykD32jfER3BVI.jpg</fanart>
+<info>
+[COLOR yellow]Studio:[/COLOR]PRIME VIDEO
+[COLOR blue]Gênero:[/COLOR]Ação, Mistério, Drama
+[COLOR red]Duração:[/COLOR]1h 50m
+[COLOR lime]Sinopse:[/COLOR]Quando a Cúpula do G20 é atacada, a presidente dos EUA Danielle Sutton torna-se o principal alvo. Nesta aventura repleta de ação e suspense, após conseguir evitar ser capturada pelos invasores, a presidente precisa ser mais esperta do que o inimigo para proteger sua família, defender seu país e salvaguardar os líderes mundiais.
+</info>
+<date>10/04/2025</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/tt23476986.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[COLOR blue]O'Dessa [/COLOR] [COLOR orange](2025)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/jI6KVCPJhOMSuXp9Fb0NZlfHeLV.jpg</thumbnail>
