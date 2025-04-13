@@ -2,11 +2,71 @@
 <title>(Ver Video)[COLOR lime] VERSÃO DUBLADO[/COLOR]</title>
 <link>plugin://plugin.video.resolverurl_player?url=</link>
 <subtitle>LEGENDAS</subtitle>
-<thumbnail>https://image.tmdb.org</thumbnail>
-<fanart>https://image.tmdb.org</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/7w9LpfUa5uTAa9jyU9nwoT9g4yC.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/7Zvg9d7GbTIFx9mRczcaos2XZhf.jpg</fanart>
 <info>
 [COLOR blue]EPISÓDIO 01[/COLOR]
-Matt Murdock desiste da máscara. Wilson Fisk almeja novos patamares.
+Hezekiah e Alec chegam a Londres para conquistar fortunas e conhecem a sedutora criminosa Mary Carr.
+</info>
+</item>
++++++++++
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO DUBLADO[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=</link>
+<subtitle>LEGENDAS</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/7w9LpfUa5uTAa9jyU9nwoT9g4yC.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/7Zvg9d7GbTIFx9mRczcaos2XZhf.jpg</fanart>
+<info>
+[COLOR blue]EPISÓDIO 01[/COLOR]
+Hezekiah e Alec chegam a Londres para conquistar fortunas e conhecem a sedutora criminosa Mary Carr.
+</info>
+</item>
++++++++++
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO DUBLADO[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=</link>
+<subtitle>LEGENDAS</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/7w9LpfUa5uTAa9jyU9nwoT9g4yC.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/7Zvg9d7GbTIFx9mRczcaos2XZhf.jpg</fanart>
+<info>
+[COLOR blue]EPISÓDIO 01[/COLOR]
+Hezekiah e Alec chegam a Londres para conquistar fortunas e conhecem a sedutora criminosa Mary Carr.
+</info>
+</item>
++++++++++
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO DUBLADO[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=</link>
+<subtitle>LEGENDAS</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/7w9LpfUa5uTAa9jyU9nwoT9g4yC.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/7Zvg9d7GbTIFx9mRczcaos2XZhf.jpg</fanart>
+<info>
+[COLOR blue]EPISÓDIO 01[/COLOR]
+Hezekiah e Alec chegam a Londres para conquistar fortunas e conhecem a sedutora criminosa Mary Carr.
+</info>
+</item>
++++++++++
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO DUBLADO[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=</link>
+<subtitle>LEGENDAS</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/7w9LpfUa5uTAa9jyU9nwoT9g4yC.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/7Zvg9d7GbTIFx9mRczcaos2XZhf.jpg</fanart>
+<info>
+[COLOR blue]EPISÓDIO 01[/COLOR]
+Hezekiah e Alec chegam a Londres para conquistar fortunas e conhecem a sedutora criminosa Mary Carr.
+</info>
+</item>
++++++++++
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO DUBLADO[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=</link>
+<subtitle>LEGENDAS</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/7w9LpfUa5uTAa9jyU9nwoT9g4yC.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/7Zvg9d7GbTIFx9mRczcaos2XZhf.jpg</fanart>
+<info>
+[COLOR blue]EPISÓDIO 01[/COLOR]
+Hezekiah e Alec chegam a Londres para conquistar fortunas e conhecem a sedutora criminosa Mary Carr.
 </info>
 </item>
 +++++++++
