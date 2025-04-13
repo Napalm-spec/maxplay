@@ -82,3 +82,19 @@ O Demolidor está de volta e corre contra Fisk para impedir que o Muso mate nova
 </info>
 </item>
 +++++++++
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO LEGENDADO[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/4drk9o3ohwpjv3</link>
+<subtitle>https://subs.warezcdn.link/246151-PTB.srt</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/g1W1SJx1eSI636sByrEP0jKGZQw.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/m291MEBjhuRqb0nh9ojnm9gzScq.jpg</fanart>
+<info>
+[COLOR blue]EPISÓDIO 08[/COLOR]
+O Demolidor está de volta e corre contra Fisk para impedir que o Muso mate novamente.
+</info>
+</item>
++++++++++
+
+
+
+
