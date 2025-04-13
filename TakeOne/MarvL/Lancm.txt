@@ -1,0 +1,18 @@
+<channels>
+
+<channel>
+<name>[COLOR blue] [/COLOR] [COLOR orange](2003)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/qnngKqAcqfH2pBxDoKu5lxzSbTo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/i0MqzkcCsEsZC5WHSY7SACAcJdh.jpg</fanart>
+<info>
+[COLOR blue]Gênero:[/COLOR]Ficção científica, Aventura, Ação
+[COLOR red]Duração:[/COLOR]2h 18m
+[COLOR lime]Sinopse:[/COLOR]Bruce Banner é um cientista e trabalha ao lado de sua grande paixão, a bela Betty Ross, em um projeto que envolve a reconstituição de tecidos com a utilização da radiação gama. O problema todo começa quando, após ter seus genes alterados por um acidente envolvendo a radiação gama, Bruce Banner passa a se transformar em um ser gigantesco e verde que expressa no corpo todos os seus demônios mais íntimos e pessoais.
+</info>
+<date>11/07/2003</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/MarvL/tt0286716.Hulk.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+
+
+</channels>
