@@ -48,7 +48,7 @@
 [COLOR blue]Filmes Dublados[/COLOR]
 [COLOR yellow]Filmes Legendados[/COLOR]
 </info>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/MarvL/Lancm.txt</externallink>
 </channel>
   <channel>
 <name>[B][COLOR lime]Filmes DC[/COLOR][/B]</name>
