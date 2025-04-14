@@ -1,19 +1,20 @@
 <channels>
-CANAIS ESPORTES
 
 
+<channel>
+<name>[COLOR blue]CANAIS ABERTOS[/COLOR]</name>
+<thumbnail>https://sesctv.org.br/wp-content/uploads/2018/06/documentarios.png</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/7Zvg9d7GbTIFx9mRczcaos2XZhf.jpg</fanart>
+<info>
+</info>
+<date>07/04/2025</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/CanisTV/CANAIS.ABERTOS.txt</externallink>
+</channel>
 <channel>
 <name>[COLOR blue]CANAIS ESPORTES [/COLOR]</name>
 <thumbnail>https://sesctv.org.br/wp-content/uploads/2018/06/documentarios.png</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/7Zvg9d7GbTIFx9mRczcaos2XZhf.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]DISNEY+
-[COLOR blue]Gênero:[/COLOR]Drama
-[COLOR red]Duração:[/COLOR]52m
-[COLOR aquamarine]Lançamento:[/COLOR] 2025
-[COLOR gold]Áudio:[/COLOR] Português | Inglês
-[COLOR green]IMDb:[/COLOR] 7,4
-[COLOR lime]Sinopse:[/COLOR]Hezekiah e Alec, dois amigos da Jamaica, acabam envolvidos no mundo dos crimes de East End, em Londres. Lá, eles conhecem Mary Carr, Rainha de uma gangue de mulheres conhecida como Quarenta Elefantes, rivais de Sugar Goodson, chefão criminoso e boxeador talentoso.
 </info>
 <date>07/04/2025</date>
 <externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/CanisTV/CANAIS.ESPORTES.txt</externallink>
@@ -24,13 +25,6 @@ CANAIS ESPORTES
 <thumbnail>https://sesctv.org.br/wp-content/uploads/2018/06/documentarios.png</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/7Zvg9d7GbTIFx9mRczcaos2XZhf.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]DISNEY+
-[COLOR blue]Gênero:[/COLOR]Drama
-[COLOR red]Duração:[/COLOR]52m
-[COLOR aquamarine]Lançamento:[/COLOR] 2025
-[COLOR gold]Áudio:[/COLOR] Português | Inglês
-[COLOR green]IMDb:[/COLOR] 7,4
-[COLOR lime]Sinopse:[/COLOR]Hezekiah e Alec, dois amigos da Jamaica, acabam envolvidos no mundo dos crimes de East End, em Londres. Lá, eles conhecem Mary Carr, Rainha de uma gangue de mulheres conhecida como Quarenta Elefantes, rivais de Sugar Goodson, chefão criminoso e boxeador talentoso.
 </info>
 <date>07/04/2025</date>
 <externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/CanisTV/CANAIS.DOCUMENTARIOS.txt</externallink>
@@ -41,13 +35,6 @@ CANAIS ESPORTES
 <thumbnail>https://sesctv.org.br/wp-content/uploads/2018/06/documentarios.png</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/7Zvg9d7GbTIFx9mRczcaos2XZhf.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]DISNEY+
-[COLOR blue]Gênero:[/COLOR]Drama
-[COLOR red]Duração:[/COLOR]52m
-[COLOR aquamarine]Lançamento:[/COLOR] 2025
-[COLOR gold]Áudio:[/COLOR] Português | Inglês
-[COLOR green]IMDb:[/COLOR] 7,4
-[COLOR lime]Sinopse:[/COLOR]Hezekiah e Alec, dois amigos da Jamaica, acabam envolvidos no mundo dos crimes de East End, em Londres. Lá, eles conhecem Mary Carr, Rainha de uma gangue de mulheres conhecida como Quarenta Elefantes, rivais de Sugar Goodson, chefão criminoso e boxeador talentoso.
 </info>
 <date>07/04/2025</date>
 <externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/CanisTV/CANAIS.DISCOVERY.txt</externallink>
