@@ -1,6 +1,19 @@
 <channels>
 
-
+<channel>
+<name>[COLOR blue]Novocaine: À Prova de Dor [/COLOR] [COLOR orange](2025)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/xEXDIJFenYgRwpsJs1mx6hr1DKy.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/sNx1A3822kEbqeUxvo5A08o4N7o.jpg</fanart>
+<info>
+[COLOR yellow]Studio:[/COLOR]NETFIX
+[COLOR blue]Gênero:[/COLOR]Ação, Comédia, Thriller
+[COLOR red]Duração:[/COLOR]1h 50m
+[COLOR lime]Sinopse:[/COLOR]Quando a garota de seus sonhos é sequestrada, Nathan, um homem comum, transforma sua condição de não sentir dor em sua maior força para recuperar a amada das garras dos criminosos.
+</info>
+<date>13/03/2025</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/tt29603959.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[COLOR blue]Frozen Hot Boys [/COLOR] [COLOR orange](2025)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/t7Nw65USxEF31NMCjOYoBvlMCWu.jpg</thumbnail>
