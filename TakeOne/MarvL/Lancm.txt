@@ -1,5 +1,20 @@
 <channels>
 
+
+
+<channel>
+<name>[COLOR blue]Homem de Ferro [/COLOR] [COLOR orange](2008)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/7w6s8TdJ0Wdayz2MCHZA5wIk9nq.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/cdsjxSR55VS80IiJfrQ9i9pWqrp.jpg</fanart>
+<info>
+[COLOR blue]Gênero:[/COLOR]Ação, Ficção científica, Aventura
+[COLOR red]Duração:[/COLOR]2h 6m
+[COLOR lime]Sinopse:[/COLOR]Tony Stark é um industrial bilionário, que também é um brilhante inventor. Ao ser sequestrado ele é obrigado por terroristas a construir uma arma devastadora mas, ao invés disto, constrói uma armadura de alta tecnologia que permite que fuja de seu cativeiro. A partir de então ele passa a usá-la para combater o crime, sob o alter ego do Homem de Ferro.
+</info>
+<date>01/05/2008</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/MarvL/tt0371746.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[COLOR blue]Hulk [/COLOR] [COLOR orange](2003)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/qnngKqAcqfH2pBxDoKu5lxzSbTo.jpg</thumbnail>
