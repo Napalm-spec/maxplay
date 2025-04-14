@@ -1,7 +1,7 @@
 <channels>
 
 <channel>
-<name>[COLOR blue] [/COLOR] [COLOR orange](2003)[/COLOR]</name>
+<name>[COLOR blue]Hulk [/COLOR] [COLOR orange](2003)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/qnngKqAcqfH2pBxDoKu5lxzSbTo.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/i0MqzkcCsEsZC5WHSY7SACAcJdh.jpg</fanart>
 <info>
