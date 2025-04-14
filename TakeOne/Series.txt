@@ -1,6 +1,22 @@
 <channels>
 
-
+<channel>
+<name>[COLOR blue]Casa de Davi [/COLOR] [COLOR orange](2025)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/bmycU4qWKXuiVKxduAsRZLsXmNh.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/zuK80w6WgR5fPq6dxu3NJ4uRN5b.jpg</fanart>
+<info>
+[COLOR yellow]Studio:[/COLOR]PRIME VIDEO
+[COLOR blue]Gênero:[/COLOR]Drama
+[COLOR red]Duração:[/COLOR]52m
+[COLOR aquamarine]Lançamento:[/COLOR] 2025
+[COLOR gold]Áudio:[/COLOR] Português | Inglês
+[COLOR green]IMDb:[/COLOR] 7,2
+[COLOR lime]Sinopse:[/COLOR]Conta a história da ascensão do ícone bíblico Davi, que se torna o mais famoso rei de Israel. O outrora poderoso rei Saul é vítima de seu próprio orgulho. Seguindo as ordens de Deus, o profeta Samuel unge um pária adolescente como o novo rei.
+</info>
+<date>14/04/2025</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Series/tt30955673/Menu.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[COLOR blue]Mil Golpes [/COLOR] [COLOR orange](2025)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/7w9LpfUa5uTAa9jyU9nwoT9g4yC.jpg</thumbnail>
