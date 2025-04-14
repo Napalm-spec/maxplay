@@ -1,0 +1,29 @@
+<channels>
+
+
+<channel>
+<name>[COLOR blue]Casa de Davi 1ª Temporada [/COLOR] [COLOR orange](VERSÃO DUBLADO)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/bmycU4qWKXuiVKxduAsRZLsXmNh.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/zuK80w6WgR5fPq6dxu3NJ4uRN5b.jpg</fanart>
+<info>
+A 1ª temporada de Casa de Davi começou a ser exibida em 27 de fevereiro de 2025.
+[COLOR blue]2025 • 8 Episódios[/COLOR]
+</info>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Series/tt30955673/season1Dub.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[COLOR blue]Casa de Davi 1ª Temporada [/COLOR] [COLOR orange](VERSÃO LEGENDADO)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/bmycU4qWKXuiVKxduAsRZLsXmNh.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/zuK80w6WgR5fPq6dxu3NJ4uRN5b.jpg</fanart>
+<info>
+A 1ª temporada de Casa de Davi começou a ser exibida em 27 de fevereiro de 2025.
+[COLOR blue]2025 • 8 Episódios[/COLOR]
+</info>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Series/tt30955673/season1LEG.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+
+
+
+</channels>
