@@ -16,7 +16,7 @@
 <item>
 <title>(Ver Video)[COLOR lime] VERSÃO LEGENDADO[/COLOR]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/el1x66jrhq838l</link>
-<subtitle>https://subs.warezcdn.link</subtitle>
+<subtitle>https://subs.warezcdn.link/246184-PTB.srt</subtitle>
 <thumbnail>https://image.tmdb.org/t/p/original/5EKH6vtNzAvvTjkquT0wQ4lM3JA.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/k32XKMjmXMGeydykD32jfER3BVI.jpg</fanart>
 <info>
