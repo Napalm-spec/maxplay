@@ -1,0 +1,96 @@
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO LEGENDADO[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/9wkz0zg4c9lpx1</link>
+<subtitle>https://subs.warezcdn.link/244613-PTB.srt</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/bmycU4qWKXuiVKxduAsRZLsXmNh.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/zuK80w6WgR5fPq6dxu3NJ4uRN5b.jpg</fanart>
+<info>
+[COLOR blue]EPISÓDIO 01[/COLOR]
+Mil anos antes de Cristo, Saul, o primeiro rei Israel, perde a graça de Deus e consequentemente a própria sanidade. Ao mesmo tempo, longe do palácio, o lendário profeta Samuel toma conhecimento de um talentoso jovem pastor chamado Davi. Tem início, então, uma das maiores histórias já contadas.
+</info>
+</item>
++++++++++
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO LEGENDADO[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/wlp0rrjja438lx</link>
+<subtitle>https://subs.warezcdn.link/244614-PTB.srt</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/bmycU4qWKXuiVKxduAsRZLsXmNh.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/zuK80w6WgR5fPq6dxu3NJ4uRN5b.jpg</fanart>
+<info>
+[COLOR blue]EPISÓDIO 02[/COLOR]
+A família de Saul, com grande preocupação, acompanha o estado mental do rei se deteriorar e se prepara para fazer tudo o que puder em defesa de seu reino. Davi está ávido por uma vida fora de casa, mas o que encontra do outro lado das colinas de Belém é perigo, além de suas piores expectativas.
+</info>
+</item>
++++++++++
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO LEGENDADO[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/pjpxqq98s46wqe</link>
+<subtitle>https://subs.warezcdn.link/244615-PTB.srt</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/bmycU4qWKXuiVKxduAsRZLsXmNh.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/zuK80w6WgR5fPq6dxu3NJ4uRN5b.jpg</fanart>
+<info>
+[COLOR blue]EPISÓDIO 03[/COLOR]
+A corte precisa lidar com as consequências da loucura de Saul, Samuel foge de um vendedor sinistro e uma sombra nefasta convoca um aliado lendário para seu plano de conquistar Israel. Nos campos de Belém, Davi tem um encontro que mudará o curso da história para sempre.
+</info>
+</item>
++++++++++
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO LEGENDADO[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/1npeqkvdukq6dl7</link>
+<subtitle>https://subs.warezcdn.link/244717-PTB.srt</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/bmycU4qWKXuiVKxduAsRZLsXmNh.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/zuK80w6WgR5fPq6dxu3NJ4uRN5b.jpg</fanart>
+<info>
+[COLOR blue]EPISÓDIO 04[/COLOR]
+Um membro do palácio enfrenta graves alegações que forçam a família real a reagir. Samuel sofre uma grave perda e é confrontado com as consequências de sua profecia. Davi descobre um novo mundo, onde encontra segredos, perigos, mas, acima de tudo, amor.
+</info>
+</item>
++++++++++
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO LEGENDADO[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/pjpwe7d0c7x31p</link>
+<subtitle>https://subs.warezcdn.link/244718-PTB.srt</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/bmycU4qWKXuiVKxduAsRZLsXmNh.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/zuK80w6WgR5fPq6dxu3NJ4uRN5b.jpg</fanart>
+<info>
+[COLOR blue]EPISÓDIO 05[/COLOR]
+A rainha Ainoã promove um banquete para receber um grupo importante de convidados. A política na corte é repleta de falsidades, e cada protagonista tem sua própria missão secreta. Davi aprende a comandar sua nova vida e se aproxima de seu destino.
+</info>
+</item>
++++++++++
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO LEGENDADO[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/r6k1q19vi1gp63</link>
+<subtitle>https://subs.warezcdn.link/244719-PTB.srt</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/bmycU4qWKXuiVKxduAsRZLsXmNh.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/zuK80w6WgR5fPq6dxu3NJ4uRN5b.jpg</fanart>
+<info>
+[COLOR blue]EPISÓDIO 06[/COLOR]
+Forças sombrias se fortalecem fora do reino de Saul, enquanto os inimigos de Israel convocam guerreiros lendários há muito considerados mitos. Um relacionamento na corte complica as vidas dos heróis severamente, e a rainha Ainoã tem de tomar medidas drásticas para ajudar o rei.
+</info>
+</item>
++++++++++
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO LEGENDADO[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/q1mkjogqhx3gmx</link>
+<subtitle>https://subs.warezcdn.link/245777-PTB.srt</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/bmycU4qWKXuiVKxduAsRZLsXmNh.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/zuK80w6WgR5fPq6dxu3NJ4uRN5b.jpg</fanart>
+<info>
+[COLOR blue]EPISÓDIO 07[/COLOR]
+Reis, heróis e vilões disputam a coroa em um confronto final. A guerra é inevitável e, nos antigos campos de batalha, os combatentes se preparam para uma luta colossal que decidirá o destino de Israel para sempre.
+</info>
+</item>
++++++++++
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO LEGENDADO[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/vkpww7k1aq14e7</link>
+<subtitle>https://subs.warezcdn.link/245945-PTB.srt</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/bmycU4qWKXuiVKxduAsRZLsXmNh.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/zuK80w6WgR5fPq6dxu3NJ4uRN5b.jpg</fanart>
+<info>
+[COLOR blue]EPISÓDIO 08[/COLOR]
+Um choque de forças épico coloca uma profecia em xeque. Uma das batalhas mais lendárias na história da humanidade é iminente, e os heróis têm de encarar seus inimigos mais poderosos e mortais. Como essa história monumental se desenrolará? Quem sairá vitorioso na luta pelo reino?
+</info>
+</item>
++++++++++
