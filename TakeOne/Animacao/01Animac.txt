@@ -1,5 +1,21 @@
 <channels>
 
+
+
+<channel>
+<name>[COLOR blue]Barbie e Teresa: Receita Para Amizade [/COLOR] [COLOR orange](2025)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/3qJO7F0Pwz67WhAIbHSs2U5Q0qs.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/2P3tqwWDTdJVh3lVo8i2REBkrgy.jpg</fanart>
+<info>
+[COLOR yellow]Studio:[/COLOR]NETFIX
+[COLOR blue]Gênero:[/COLOR]Animação, Família, Comédia
+[COLOR red]Duração:[/COLOR]1h 1m
+[COLOR lime]Sinopse:[/COLOR]Um grupo de amigas ajuda Teresa a recriar uma querida receita de família para a inauguração do restaurante da prima dela em Nova York.
+</info>
+<date>06/03/2025</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Animacao/tt33550838.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[COLOR blue]Batman Ninja vs. Liga da Yakuza [/COLOR] [COLOR orange](2025)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/2YH0yygwp0OnvZNt4IOGLBRr6Zi.jpg</thumbnail>
