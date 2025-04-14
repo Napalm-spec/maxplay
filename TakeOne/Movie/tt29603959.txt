@@ -1,0 +1,31 @@
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO DUBLADO[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/l7e8zwzvc09evl</link>
+<subtitle>LEGENDAS</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/xEXDIJFenYgRwpsJs1mx6hr1DKy.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/sNx1A3822kEbqeUxvo5A08o4N7o.jpg</fanart>
+<info>
+[COLOR blue]Gênero:[/COLOR] Ação, Comédia, Thriller
+[COLOR yellow]Duração:[/COLOR] 1h 50m
+[COLOR aquamarine]Lançamento:[/COLOR] 2025
+[COLOR gold]Áudio:[/COLOR] Português | PT-BR 
+[COLOR green]IMDb:[/COLOR] 6,6
+</info>
+</item>
++++++++++
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO LEGENDADO[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/36p4107ohkojpw</link>
+<subtitle>https://subs.warezcdn.link/246262-PTB.srt</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/xEXDIJFenYgRwpsJs1mx6hr1DKy.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/sNx1A3822kEbqeUxvo5A08o4N7o.jpg</fanart>
+<info>
+[COLOR blue]Gênero:[/COLOR] Ação, Comédia, Thriller
+[COLOR yellow]Duração:[/COLOR] 1h 50m
+[COLOR aquamarine]Lançamento:[/COLOR] 2025
+[COLOR gold]Áudio:[/COLOR] Inglês
+[COLOR red]Legenda:[/COLOR] PT-BR
+[COLOR green]IMDb:[/COLOR] 6,6
+</info>
+</item>
++++++++++
