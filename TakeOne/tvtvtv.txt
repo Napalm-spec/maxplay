@@ -1,6 +1,17 @@
 <channels>
 
 
+
+<channel>
+<name>[COLOR blue]CANAIS FILMES E SERIES[/COLOR]</name>
+<thumbnail>https://sesctv.org.br/wp-content/uploads/2018/06/documentarios.png</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/7Zvg9d7GbTIFx9mRczcaos2XZhf.jpg</fanart>
+<info>
+</info>
+<date>15/04/2025</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/CanisTV/CANAIS.FILMES.E.SERIES.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[COLOR blue]CANAIS ABERTOS[/COLOR]</name>
 <thumbnail>https://sesctv.org.br/wp-content/uploads/2018/06/documentarios.png</thumbnail>
@@ -10,6 +21,7 @@
 <date>07/04/2025</date>
 <externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/CanisTV/CANAIS.ABERTOS.txt</externallink>
 </channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[COLOR blue]CANAIS ESPORTES [/COLOR]</name>
 <thumbnail>https://sesctv.org.br/wp-content/uploads/2018/06/documentarios.png</thumbnail>
