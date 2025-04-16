@@ -82,3 +82,27 @@ O Demolidor está de volta e corre contra Fisk para impedir que o Muso mate nova
 </info>
 </item>
 +++++++++
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO DUBLADO[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/jdpjgqnvhq0wv4</link>
+<subtitle>LEGENDAS</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/g1W1SJx1eSI636sByrEP0jKGZQw.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/m291MEBjhuRqb0nh9ojnm9gzScq.jpg</fanart>
+<info>
+[COLOR blue]EPISÓDIO 08[/COLOR]
+Em seu primeiro baile Preto e Branco, o prefeito Fisk estreita seu controle sobre Nova lorque.
+</info>
+</item>
++++++++++
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO DUBLADO[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/1nmmdnvdikq3l3e</link>
+<subtitle>LEGENDAS</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/g1W1SJx1eSI636sByrEP0jKGZQw.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/m291MEBjhuRqb0nh9ojnm9gzScq.jpg</fanart>
+<info>
+[COLOR blue]EPISÓDIO 09[/COLOR]
+Fisk se torna o Prefeito Rei do Crime, e o Demolidor se solta enquanto o caos toma a cidade.
+</info>
+</item>
++++++++++
