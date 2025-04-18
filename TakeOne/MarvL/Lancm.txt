@@ -39,7 +39,7 @@
 [COLOR red]Duração:[/COLOR]1h 55m
 [COLOR lime]Sinopse:[/COLOR]Como filho de Odin, rei dos deuses nórdicos, Thor logo herdará o trono de Asgard de seu idoso pai. Porém, no dia de sua coroação, Thor reage com brutalidade quando os inimigos dos deuses entram no palácio violando o tratado. Como punição, Odin manda Thor para a Terra. Enquanto seu irmão Loki conspira em Asgard, Thor, agora sem seus poderes, enfrenta sua maior ameaça..
 </info>
-<date>16/01/2025</date>
+<date>28/04/2011</date>
 <externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/MarvL/tt0800369.txt</externallink>
 </channel>
 «««««««««««««««««««««««««
