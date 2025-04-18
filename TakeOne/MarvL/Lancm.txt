@@ -1,7 +1,20 @@
 <channels>
 
 
-
+<channel>
+<name>[COLOR blue]Capitão América: Admirável Mundo Novo [/COLOR] [COLOR orange](2025)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/5nbSgP8f5LMCI0PwVRRaHJaUmR3.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ywe9S1cOyIhR5yWzK7511NuQ2YX.jpg</fanart>
+<info>
+[COLOR yellow]Studio:[/COLOR]MARVEL
+[COLOR blue]Gênero:[/COLOR]Ação, Thriller, Ficção científica
+[COLOR red]Duração:[/COLOR]1h 59m
+[COLOR lime]Sinopse:[/COLOR]Após se encontrar com o recém-eleito presidente dos EUA, Thaddeus Ross, Sam se vê no meio de um incidente internacional. Ele deve descobrir o motivo por trás de uma conspiração global nefasta antes que o verdadeiro gênio faça o mundo inteiro ser dominado pelo vermelho.
+</info>
+<date>13/02/2025</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/CaptainAmericaBraveNewWorld25.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[COLOR blue]Homem de Ferro 2 [/COLOR] [COLOR orange](2010)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/bMYuDvz2Zl0pNWIbt9GQqZt1CH.jpg</thumbnail>
@@ -28,20 +41,6 @@
 </info>
 <date>12/06/2008</date>
 <externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/MarvL/tt0800080.txt</externallink>
-</channel>
-«««««««««««««««««««««««««
-<channel>
-<name>[COLOR blue]Capitão América: Admirável Mundo Novo [/COLOR] [COLOR orange](2025)[/COLOR]</name>
-<thumbnail>https://image.tmdb.org/t/p/original/5nbSgP8f5LMCI0PwVRRaHJaUmR3.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/ywe9S1cOyIhR5yWzK7511NuQ2YX.jpg</fanart>
-<info>
-[COLOR yellow]Studio:[/COLOR]MARVEL
-[COLOR blue]Gênero:[/COLOR]Ação, Thriller, Ficção científica
-[COLOR red]Duração:[/COLOR]1h 59m
-[COLOR lime]Sinopse:[/COLOR]Após se encontrar com o recém-eleito presidente dos EUA, Thaddeus Ross, Sam se vê no meio de um incidente internacional. Ele deve descobrir o motivo por trás de uma conspiração global nefasta antes que o verdadeiro gênio faça o mundo inteiro ser dominado pelo vermelho.
-</info>
-<date>13/02/2025</date>
-<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/CaptainAmericaBraveNewWorld25.txt</externallink>
 </channel>
 «««««««««««««««««««««««««
 <channel>
