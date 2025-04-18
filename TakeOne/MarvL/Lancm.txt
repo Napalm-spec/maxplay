@@ -1,5 +1,21 @@
 <channels>
 
+
+
+<channel>
+<name>[COLOR blue]Homem de Ferro 2 [/COLOR] [COLOR orange](2025)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/bMYuDvz2Zl0pNWIbt9GQqZt1CH.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/7lmBufEG7P7Y1HClYK3gCxYrkgS.jpg</fanart>
+<info>
+[COLOR yellow]Studio:[/COLOR]MARVEL STUDIOS
+[COLOR blue]Gênero:[/COLOR]Aventura, Ação, Ficção científica
+[COLOR red]Duração:[/COLOR]2h 4m
+[COLOR lime]Sinopse:[/COLOR]Em um mundo ciente da existência do Homem de Ferro, o inventor bilionário Tony Stark sofre pressão de todos os lados para compartilhar sua tecnologia com as forças armadas. Ele resiste para divulgar os segredos de sua inigualável armadura, com medo de que estas informações caiam nas mãos erradas.
+</info>
+<date>29/04/2010</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/MarvL/tt1228705.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[COLOR blue]O Incrível Hulk [/COLOR] [COLOR orange](2025)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/vcFeElC8eXI668WSIxcDNkJSBxv.jpg</thumbnail>
