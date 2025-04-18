@@ -3,7 +3,7 @@
 
 
 <channel>
-<name>[COLOR blue]Homem de Ferro 2 [/COLOR] [COLOR orange](2025)[/COLOR]</name>
+<name>[COLOR blue]Homem de Ferro 2 [/COLOR] [COLOR orange](2010)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/bMYuDvz2Zl0pNWIbt9GQqZt1CH.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/7lmBufEG7P7Y1HClYK3gCxYrkgS.jpg</fanart>
 <info>
@@ -17,7 +17,7 @@
 </channel>
 «««««««««««««««««««««««««
 <channel>
-<name>[COLOR blue]O Incrível Hulk [/COLOR] [COLOR orange](2025)[/COLOR]</name>
+<name>[COLOR blue]O Incrível Hulk [/COLOR] [COLOR orange](2008)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/vcFeElC8eXI668WSIxcDNkJSBxv.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/jPu8yiadqgzwFPGKJmGo637ASVP.jpg</fanart>
 <info>
