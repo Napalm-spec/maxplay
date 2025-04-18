@@ -16,7 +16,7 @@
 </channel>
 «««««««««««««««««««««««««
 <channel>
-<name>[COLOR blueCapitão América: O Primeiro Vingador] [/COLOR] [COLOR orange](2011)[/COLOR]</name>
+<name>[COLOR blue]Capitão América: O Primeiro Vingador [/COLOR] [COLOR orange](2011)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/AqnvU0lPV3LW1XcjmjkQk3w1PxL.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/yFuKvT4Vm3sKHdFY4eG6I4ldAnn.jpg</fanart>
 <info>
