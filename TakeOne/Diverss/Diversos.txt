@@ -1,7 +1,20 @@
 <channels>
 
 
-
+<channel>
+<name>[COLOR blue]Ameaça Profunda [/COLOR] [COLOR orange](2020)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/6vaqTxkRnoGwjeLqyZbVuVR7Snv.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ww7eC3BqSbFsyE5H5qMde8WkxJ2.jpg</fanart>
+<info>
+[COLOR yellow]Studio:[/COLOR]PRIME VIDEO
+[COLOR blue]Gênero:[/COLOR]Terror, Ficção científica, Ação, Aventura
+[COLOR red]Duração:[/COLOR]1h 35m
+[COLOR lime]Sinopse:[/COLOR]Um grupo de pesquisadores se encontra em um laboratório subaquático a 11 mil metros de profundidade, quando um terremoto causa a destruição do veículo e expõe a equipe ao risco de morte. Eles são obrigados a caminhar nas profundezas marítimas, com quantidade insuficiente de oxigênio, para tentarem sobreviver.
+</info>
+<date>09/01/2020</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Diverss/tt5774060.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[COLOR blue]Freaks: Um de Nós [/COLOR] [COLOR orange](2020)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/6xzEwXNllYKxhRFCtWzRaYdA6gD.jpg</thumbnail>
