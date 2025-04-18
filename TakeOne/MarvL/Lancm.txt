@@ -6,7 +6,7 @@
 <thumbnail>https://image.tmdb.org/t/p/original/5nbSgP8f5LMCI0PwVRRaHJaUmR3.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/ywe9S1cOyIhR5yWzK7511NuQ2YX.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]MARVEL
+[COLOR yellow]Studio:[/COLOR]MARVEL STUDIOS
 [COLOR blue]Gênero:[/COLOR]Ação, Thriller, Ficção científica
 [COLOR red]Duração:[/COLOR]1h 59m
 [COLOR lime]Sinopse:[/COLOR]Após se encontrar com o recém-eleito presidente dos EUA, Thaddeus Ross, Sam se vê no meio de um incidente internacional. Ele deve descobrir o motivo por trás de uma conspiração global nefasta antes que o verdadeiro gênio faça o mundo inteiro ser dominado pelo vermelho.
@@ -48,7 +48,7 @@
 <thumbnail>https://image.tmdb.org/t/p/original/7w6s8TdJ0Wdayz2MCHZA5wIk9nq.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/cdsjxSR55VS80IiJfrQ9i9pWqrp.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]MARVEL
+[COLOR yellow]Studio:[/COLOR]MARVEL STUDIOS
 [COLOR blue]Gênero:[/COLOR]Ação, Ficção científica, Aventura
 [COLOR red]Duração:[/COLOR]2h 6m
 [COLOR lime]Sinopse:[/COLOR]Tony Stark é um industrial bilionário, que também é um brilhante inventor. Ao ser sequestrado ele é obrigado por terroristas a construir uma arma devastadora mas, ao invés disto, constrói uma armadura de alta tecnologia que permite que fuja de seu cativeiro. A partir de então ele passa a usá-la para combater o crime, sob o alter ego do Homem de Ferro.
@@ -62,7 +62,7 @@
 <thumbnail>https://image.tmdb.org/t/p/original/qnngKqAcqfH2pBxDoKu5lxzSbTo.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/i0MqzkcCsEsZC5WHSY7SACAcJdh.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]MARVEL
+[COLOR yellow]Studio:[/COLOR]MARVEL STUDIOS
 [COLOR blue]Gênero:[/COLOR]Ficção científica, Aventura, Ação
 [COLOR red]Duração:[/COLOR]2h 18m
 [COLOR lime]Sinopse:[/COLOR]Bruce Banner é um cientista e trabalha ao lado de sua grande paixão, a bela Betty Ross, em um projeto que envolve a reconstituição de tecidos com a utilização da radiação gama. O problema todo começa quando, após ter seus genes alterados por um acidente envolvendo a radiação gama, Bruce Banner passa a se transformar em um ser gigantesco e verde que expressa no corpo todos os seus demônios mais íntimos e pessoais.
