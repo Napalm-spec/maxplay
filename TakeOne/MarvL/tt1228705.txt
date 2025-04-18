@@ -7,7 +7,7 @@
 <info>
 [COLOR blue]Gênero:[/COLOR] Aventura, Ação, Ficção científica
 [COLOR yellow]Duração:[/COLOR] 2h 4m
-[COLOR aquamarine]Lançamento:[/COLOR] 2025
+[COLOR aquamarine]Lançamento:[/COLOR] 2010
 [COLOR gold]Áudio:[/COLOR] Português | PT-BR 
 [COLOR green]IMDb:[/COLOR] 6,9
 </info>
@@ -22,7 +22,7 @@
 <info>
 [COLOR blue]Gênero:[/COLOR] Aventura, Ação, Ficção científica
 [COLOR yellow]Duração:[/COLOR] 2h 4m
-[COLOR aquamarine]Lançamento:[/COLOR] 2025
+[COLOR aquamarine]Lançamento:[/COLOR] 2010
 [COLOR gold]Áudio:[/COLOR] Inglês
 [COLOR red]Legenda:[/COLOR] PT-BR
 [COLOR green]IMDb:[/COLOR] 6,9
