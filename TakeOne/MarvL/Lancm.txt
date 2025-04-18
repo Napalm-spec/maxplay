@@ -16,6 +16,20 @@
 </channel>
 «««««««««««««««««««««««««
 <channel>
+<name>[COLOR blueCapitão América: O Primeiro Vingador] [/COLOR] [COLOR orange](2011)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/AqnvU0lPV3LW1XcjmjkQk3w1PxL.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/yFuKvT4Vm3sKHdFY4eG6I4ldAnn.jpg</fanart>
+<info>
+[COLOR yellow]Studio:[/COLOR]NETFIX
+[COLOR blue]Gênero:[/COLOR]Ação, Aventura, Ficção científica
+[COLOR red]Duração:[/COLOR]2h 4m
+[COLOR lime]Sinopse:[/COLOR]Durante a Segunda Guerra Mundial, Steve Rogers é um homem doente, do Brooklyn, que se transforma no super soldado Capitão América para ajudar nos esforços de guerra. Rogers deve parar o Caveira Vermelha, o implacável chefe de armas de Adolf Hitler e líder de uma organização que pretende usar um misterioso mecanismo de incalculáveis poderes para dominar o mundo.
+</info>
+<date>04/08/2011</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/MarvL/tt0458339.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
 <name>[COLOR blue]Thor [/COLOR] [COLOR orange](2011)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/jWnbuXuzMIl3FDIs0qY9ZdDPxCl.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/cDJ61O1STtbWNBwefuqVrRe3d7l.jpg</fanart>
