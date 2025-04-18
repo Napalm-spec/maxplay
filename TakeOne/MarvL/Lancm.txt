@@ -1,6 +1,19 @@
 <channels>
 
-
+<channel>
+<name>[COLOR blue]O Incrível Hulk [/COLOR] [COLOR orange](2025)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/vcFeElC8eXI668WSIxcDNkJSBxv.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jPu8yiadqgzwFPGKJmGo637ASVP.jpg</fanart>
+<info>
+[COLOR yellow]Studio:[/COLOR]MARVEL STUDIOS
+[COLOR blue]Gênero:[/COLOR]Família, Drama
+[COLOR red]Duração:[/COLOR]1h 47m
+[COLOR lime]Sinopse:[/COLOR]Vivendo escondido e longe de Betty Ross, a mulher que ama, o cientista Bruce Banner busca um meio de retirar a radiação gama que está em seu sangue. Ao mesmo tempo ele precisa fugir da perseguição do general Ross, seu grande inimigo, e da máquina militar que tenta capturá-lo, na intenção de explorar o poder que faz com que Banner se transforme no Hulk.
+</info>
+<date>12/06/2008</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/MarvL/tt0800080.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[COLOR blue]Capitão América: Admirável Mundo Novo [/COLOR] [COLOR orange](2025)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/5nbSgP8f5LMCI0PwVRRaHJaUmR3.jpg</thumbnail>
