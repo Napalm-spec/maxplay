@@ -1,0 +1,31 @@
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO DUBLADO[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/z1g848vxtxzde6</link>
+<subtitle>LEGENDAS</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/6vaqTxkRnoGwjeLqyZbVuVR7Snv.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ww7eC3BqSbFsyE5H5qMde8WkxJ2.jpg</fanart>
+<info>
+[COLOR blue]Gênero:[/COLOR] Terror, Ficção científica, Ação, Aventura
+[COLOR yellow]Duração:[/COLOR] 1h 35m
+[COLOR aquamarine]Lançamento:[/COLOR] 2020
+[COLOR gold]Áudio:[/COLOR] Português | PT-BR 
+[COLOR green]IMDb:[/COLOR] 5,9
+</info>
+</item>
++++++++++
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO LEGENDADO[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/9wk03pv0i3ne7zr</link>
+<subtitle>https://subs.warezcdn.link/111979-PT.srt</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/6vaqTxkRnoGwjeLqyZbVuVR7Snv.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ww7eC3BqSbFsyE5H5qMde8WkxJ2.jpg</fanart>
+<info>
+[COLOR blue]Gênero:[/COLOR] Terror, Ficção científica, Ação, Aventura
+[COLOR yellow]Duração:[/COLOR] 1h 35m
+[COLOR aquamarine]Lançamento:[/COLOR] 2020
+[COLOR gold]Áudio:[/COLOR] Inglês
+[COLOR red]Legenda:[/COLOR] PT-BR
+[COLOR green]IMDb:[/COLOR] 5,9
+</info>
+</item>
++++++++++
