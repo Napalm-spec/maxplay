@@ -2,7 +2,7 @@
 
 
 <channel>
-<name>[COLOR blue]Casa de Davi 1ª Temporada [/COLOR] [COLOR orange](VERSÃO DUBLADO)[/COLOR]</name>
+<name>[COLOR blue]1ª Temporada [/COLOR] [COLOR orange](VERSÃO DUBLADO)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/bmycU4qWKXuiVKxduAsRZLsXmNh.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/zuK80w6WgR5fPq6dxu3NJ4uRN5b.jpg</fanart>
 <info>
@@ -13,7 +13,7 @@ A 1ª temporada de Casa de Davi começou a ser exibida em 27 de fevereiro de 202
 </channel>
 «««««««««««««««««««««««««
 <channel>
-<name>[COLOR blue]Casa de Davi 1ª Temporada [/COLOR] [COLOR orange](VERSÃO LEGENDADO)[/COLOR]</name>
+<name>[COLOR blue]1ª Temporada [/COLOR] [COLOR orange](VERSÃO LEGENDADO)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/bmycU4qWKXuiVKxduAsRZLsXmNh.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/zuK80w6WgR5fPq6dxu3NJ4uRN5b.jpg</fanart>
 <info>
