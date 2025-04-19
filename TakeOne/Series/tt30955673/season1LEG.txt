@@ -1,5 +1,5 @@
 <item>
-<title>(Ver Video)[COLOR lime] VERSÃO LEGENDADO[/COLOR]</title>
+<title>(Ver Video)Ep 01[COLOR lime] VERSÃO LEGENDADO[/COLOR]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/9wkz0zg4c9lpx1</link>
 <subtitle>https://subs.warezcdn.link/244613-PTB.srt</subtitle>
 <thumbnail>https://image.tmdb.org/t/p/original/bmycU4qWKXuiVKxduAsRZLsXmNh.jpg</thumbnail>
@@ -11,7 +11,7 @@ Mil anos antes de Cristo, Saul, o primeiro rei Israel, perde a graça de Deus e 
 </item>
 +++++++++
 <item>
-<title>(Ver Video)[COLOR lime] VERSÃO LEGENDADO[/COLOR]</title>
+<title>(Ver Video)Ep 02[COLOR lime] VERSÃO LEGENDADO[/COLOR]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/wlp0rrjja438lx</link>
 <subtitle>https://subs.warezcdn.link/244614-PTB.srt</subtitle>
 <thumbnail>https://image.tmdb.org/t/p/original/bmycU4qWKXuiVKxduAsRZLsXmNh.jpg</thumbnail>
@@ -23,7 +23,7 @@ A família de Saul, com grande preocupação, acompanha o estado mental do rei s
 </item>
 +++++++++
 <item>
-<title>(Ver Video)[COLOR lime] VERSÃO LEGENDADO[/COLOR]</title>
+<title>(Ver Video)Ep 03[COLOR lime] VERSÃO LEGENDADO[/COLOR]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/pjpxqq98s46wqe</link>
 <subtitle>https://subs.warezcdn.link/244615-PTB.srt</subtitle>
 <thumbnail>https://image.tmdb.org/t/p/original/bmycU4qWKXuiVKxduAsRZLsXmNh.jpg</thumbnail>
@@ -35,7 +35,7 @@ A corte precisa lidar com as consequências da loucura de Saul, Samuel foge de u
 </item>
 +++++++++
 <item>
-<title>(Ver Video)[COLOR lime] VERSÃO LEGENDADO[/COLOR]</title>
+<title>(Ver Video)Ep 04[COLOR lime] VERSÃO LEGENDADO[/COLOR]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/1npeqkvdukq6dl7</link>
 <subtitle>https://subs.warezcdn.link/244717-PTB.srt</subtitle>
 <thumbnail>https://image.tmdb.org/t/p/original/bmycU4qWKXuiVKxduAsRZLsXmNh.jpg</thumbnail>
@@ -47,7 +47,7 @@ Um membro do palácio enfrenta graves alegações que forçam a família real a 
 </item>
 +++++++++
 <item>
-<title>(Ver Video)[COLOR lime] VERSÃO LEGENDADO[/COLOR]</title>
+<title>(Ver Video)Ep 05[COLOR lime] VERSÃO LEGENDADO[/COLOR]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/pjpwe7d0c7x31p</link>
 <subtitle>https://subs.warezcdn.link/244718-PTB.srt</subtitle>
 <thumbnail>https://image.tmdb.org/t/p/original/bmycU4qWKXuiVKxduAsRZLsXmNh.jpg</thumbnail>
@@ -59,7 +59,7 @@ A rainha Ainoã promove um banquete para receber um grupo importante de convidad
 </item>
 +++++++++
 <item>
-<title>(Ver Video)[COLOR lime] VERSÃO LEGENDADO[/COLOR]</title>
+<title>(Ver Video)Ep 06[COLOR lime] VERSÃO LEGENDADO[/COLOR]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/r6k1q19vi1gp63</link>
 <subtitle>https://subs.warezcdn.link/244719-PTB.srt</subtitle>
 <thumbnail>https://image.tmdb.org/t/p/original/bmycU4qWKXuiVKxduAsRZLsXmNh.jpg</thumbnail>
@@ -71,7 +71,7 @@ Forças sombrias se fortalecem fora do reino de Saul, enquanto os inimigos de Is
 </item>
 +++++++++
 <item>
-<title>(Ver Video)[COLOR lime] VERSÃO LEGENDADO[/COLOR]</title>
+<title>(Ver Video)Ep 07[COLOR lime] VERSÃO LEGENDADO[/COLOR]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/q1mkjogqhx3gmx</link>
 <subtitle>https://subs.warezcdn.link/245777-PTB.srt</subtitle>
 <thumbnail>https://image.tmdb.org/t/p/original/bmycU4qWKXuiVKxduAsRZLsXmNh.jpg</thumbnail>
@@ -83,7 +83,7 @@ Reis, heróis e vilões disputam a coroa em um confronto final. A guerra é inev
 </item>
 +++++++++
 <item>
-<title>(Ver Video)[COLOR lime] VERSÃO LEGENDADO[/COLOR]</title>
+<title>(Ver Video)Ep 08[COLOR lime] VERSÃO LEGENDADO[/COLOR]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/vkpww7k1aq14e7</link>
 <subtitle>https://subs.warezcdn.link/245945-PTB.srt</subtitle>
 <thumbnail>https://image.tmdb.org/t/p/original/bmycU4qWKXuiVKxduAsRZLsXmNh.jpg</thumbnail>
