@@ -1,7 +1,7 @@
 <channels>
 
 <channel>
-<name>[COLOR blue]Demolidor: Renascido 1ª Temporada [/COLOR] [COLOR orange](VERSÃO DUBLADO)[/COLOR]</name>
+<name>[COLOR blue]1ª Temporada [/COLOR] [COLOR orange](VERSÃO DUBLADO)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/g1W1SJx1eSI636sByrEP0jKGZQw.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/m291MEBjhuRqb0nh9ojnm9gzScq.jpg</fanart>
 <info>
@@ -12,7 +12,7 @@ A 1ª temporada de Demolidor: Renascido começou a ser exibida em 4 de março de
 </channel>
 «««««««««««««««««««««««««
 <channel>
-<name>[COLOR blue]Demolidor: Renascido 1ª Temporada [/COLOR] [COLOR orange](VERSÃO LEGENDADO)[/COLOR]</name>
+<name>[COLOR blue]1ª Temporada [/COLOR] [COLOR orange](VERSÃO LEGENDADO)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/g1W1SJx1eSI636sByrEP0jKGZQw.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/m291MEBjhuRqb0nh9ojnm9gzScq.jpg</fanart>
 <info>
