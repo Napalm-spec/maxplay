@@ -86,6 +86,19 @@
 </channel>
 «««««««««««««««««««««««««
 <channel>
+<name>[COLOR blue]Quarteto Fantástico [/COLOR] [COLOR orange](2005)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/5qLP3JVg8NE3zdZd48lqhx7iN5Q.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/nDYz0HDfEiNVCBwhCDay8Ud0n7M.jpg</fanart>
+<info>
+[COLOR blue]Gênero:[/COLOR]Ação, Fantasia, Ficção científica
+[COLOR red]Duração:[/COLOR]1h 46m
+[COLOR lime]Sinopse:[/COLOR]O cientista Reed Richards convence seu arrogante colega Victor von Doom a financiar seus experimentos com energia cósmica. Na estação espacial Von Doom, a tripulação, incluindo o astronauta Ben Grimm, a pesquisadora Sue Storm e o piloto Johnny Storm, é exposta a uma tempestade cósmica misteriosa que dá superpoderes a eles. Eles tentam lidar com suas transformações enquanto o detestável von Doom jura vingança.
+</info>
+<date>28/07/2005</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/MarvL/tt0120667.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
 <name>[COLOR blue]Hulk [/COLOR] [COLOR orange](2003)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/qnngKqAcqfH2pBxDoKu5lxzSbTo.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/i0MqzkcCsEsZC5WHSY7SACAcJdh.jpg</fanart>
