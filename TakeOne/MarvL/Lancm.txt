@@ -6,7 +6,6 @@
 <thumbnail>https://image.tmdb.org/t/p/original/5nbSgP8f5LMCI0PwVRRaHJaUmR3.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/ywe9S1cOyIhR5yWzK7511NuQ2YX.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]MARVEL STUDIOS
 [COLOR blue]Gênero:[/COLOR]Ação, Thriller, Ficção científica
 [COLOR red]Duração:[/COLOR]1h 59m
 [COLOR lime]Sinopse:[/COLOR]Após se encontrar com o recém-eleito presidente dos EUA, Thaddeus Ross, Sam se vê no meio de um incidente internacional. Ele deve descobrir o motivo por trás de uma conspiração global nefasta antes que o verdadeiro gênio faça o mundo inteiro ser dominado pelo vermelho.
@@ -20,7 +19,6 @@
 <thumbnail>https://image.tmdb.org/t/p/original/AqnvU0lPV3LW1XcjmjkQk3w1PxL.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/yFuKvT4Vm3sKHdFY4eG6I4ldAnn.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]MARVEL STUDIOS
 [COLOR blue]Gênero:[/COLOR]Ação, Aventura, Ficção científica
 [COLOR red]Duração:[/COLOR]2h 4m
 [COLOR lime]Sinopse:[/COLOR]Durante a Segunda Guerra Mundial, Steve Rogers é um homem doente, do Brooklyn, que se transforma no super soldado Capitão América para ajudar nos esforços de guerra. Rogers deve parar o Caveira Vermelha, o implacável chefe de armas de Adolf Hitler e líder de uma organização que pretende usar um misterioso mecanismo de incalculáveis poderes para dominar o mundo.
@@ -34,7 +32,6 @@
 <thumbnail>https://image.tmdb.org/t/p/original/jWnbuXuzMIl3FDIs0qY9ZdDPxCl.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/cDJ61O1STtbWNBwefuqVrRe3d7l.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]MARVEL STUDIOS
 [COLOR blue]Gênero:[/COLOR]Aventura, Fantasia, Ação
 [COLOR red]Duração:[/COLOR]1h 55m
 [COLOR lime]Sinopse:[/COLOR]Como filho de Odin, rei dos deuses nórdicos, Thor logo herdará o trono de Asgard de seu idoso pai. Porém, no dia de sua coroação, Thor reage com brutalidade quando os inimigos dos deuses entram no palácio violando o tratado. Como punição, Odin manda Thor para a Terra. Enquanto seu irmão Loki conspira em Asgard, Thor, agora sem seus poderes, enfrenta sua maior ameaça..
@@ -48,7 +45,6 @@
 <thumbnail>https://image.tmdb.org/t/p/original/bMYuDvz2Zl0pNWIbt9GQqZt1CH.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/7lmBufEG7P7Y1HClYK3gCxYrkgS.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]MARVEL STUDIOS
 [COLOR blue]Gênero:[/COLOR]Aventura, Ação, Ficção científica
 [COLOR red]Duração:[/COLOR]2h 4m
 [COLOR lime]Sinopse:[/COLOR]Em um mundo ciente da existência do Homem de Ferro, o inventor bilionário Tony Stark sofre pressão de todos os lados para compartilhar sua tecnologia com as forças armadas. Ele resiste para divulgar os segredos de sua inigualável armadura, com medo de que estas informações caiam nas mãos erradas.
@@ -62,7 +58,6 @@
 <thumbnail>https://image.tmdb.org/t/p/original/vcFeElC8eXI668WSIxcDNkJSBxv.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/jPu8yiadqgzwFPGKJmGo637ASVP.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]MARVEL STUDIOS
 [COLOR blue]Gênero:[/COLOR]Família, Drama
 [COLOR red]Duração:[/COLOR]1h 47m
 [COLOR lime]Sinopse:[/COLOR]Vivendo escondido e longe de Betty Ross, a mulher que ama, o cientista Bruce Banner busca um meio de retirar a radiação gama que está em seu sangue. Ao mesmo tempo ele precisa fugir da perseguição do general Ross, seu grande inimigo, e da máquina militar que tenta capturá-lo, na intenção de explorar o poder que faz com que Banner se transforme no Hulk.
@@ -76,7 +71,6 @@
 <thumbnail>https://image.tmdb.org/t/p/original/7w6s8TdJ0Wdayz2MCHZA5wIk9nq.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/cdsjxSR55VS80IiJfrQ9i9pWqrp.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]MARVEL STUDIOS
 [COLOR blue]Gênero:[/COLOR]Ação, Ficção científica, Aventura
 [COLOR red]Duração:[/COLOR]2h 6m
 [COLOR lime]Sinopse:[/COLOR]Tony Stark é um industrial bilionário, que também é um brilhante inventor. Ao ser sequestrado ele é obrigado por terroristas a construir uma arma devastadora mas, ao invés disto, constrói uma armadura de alta tecnologia que permite que fuja de seu cativeiro. A partir de então ele passa a usá-la para combater o crime, sob o alter ego do Homem de Ferro.
@@ -103,7 +97,6 @@
 <thumbnail>https://image.tmdb.org/t/p/original/qnngKqAcqfH2pBxDoKu5lxzSbTo.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/i0MqzkcCsEsZC5WHSY7SACAcJdh.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]MARVEL STUDIOS
 [COLOR blue]Gênero:[/COLOR]Ficção científica, Aventura, Ação
 [COLOR red]Duração:[/COLOR]2h 18m
 [COLOR lime]Sinopse:[/COLOR]Bruce Banner é um cientista e trabalha ao lado de sua grande paixão, a bela Betty Ross, em um projeto que envolve a reconstituição de tecidos com a utilização da radiação gama. O problema todo começa quando, após ter seus genes alterados por um acidente envolvendo a radiação gama, Bruce Banner passa a se transformar em um ser gigantesco e verde que expressa no corpo todos os seus demônios mais íntimos e pessoais.
