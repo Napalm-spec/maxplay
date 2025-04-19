@@ -1,5 +1,5 @@
 <item>
-<title>(Ver Video)[COLOR lime] VERSÃO DUBLADO[/COLOR]</title>
+<title>(Ver Video)Ep 01[COLOR lime] VERSÃO DUBLADO[/COLOR]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/jdj6mvvvfve108</link>
 <subtitle>LEGENDAS</subtitle>
 <thumbnail>https://image.tmdb.org/t/p/original/g1W1SJx1eSI636sByrEP0jKGZQw.jpg</thumbnail>
@@ -11,7 +11,7 @@ Matt Murdock desiste da máscara. Wilson Fisk almeja novos patamares.
 </item>
 +++++++++
 <item>
-<title>(Ver Video)[COLOR lime] VERSÃO DUBLADO[/COLOR]</title>
+<title>(Ver Video)Ep 02[COLOR lime] VERSÃO DUBLADO[/COLOR]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/k0ld3vl3ulqpgz</link>
 <subtitle>LEGENDAS</subtitle>
 <thumbnail>https://image.tmdb.org/t/p/original/g1W1SJx1eSI636sByrEP0jKGZQw.jpg</thumbnail>
@@ -23,7 +23,7 @@ Matt Murdock ganha um novo cliente que é mais do que diz ser. Fisk aprende o po
 </item>
 +++++++++
 <item>
-<title>(Ver Video)[COLOR lime] VERSÃO DUBLADO[/COLOR]</title>
+<title>(Ver Video)Ep 03[COLOR lime] VERSÃO DUBLADO[/COLOR]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/l780z01vcqrx64g</link>
 <subtitle>LEGENDAS</subtitle>
 <thumbnail>https://image.tmdb.org/t/p/original/g1W1SJx1eSI636sByrEP0jKGZQw.jpg</thumbnail>
@@ -35,7 +35,7 @@ O julgamento de Hector Ayala começa. Os antigos parceiros de Fisk buscam reivin
 </item>
 +++++++++
 <item>
-<title>(Ver Video)[COLOR lime] VERSÃO DUBLADO[/COLOR]</title>
+<title>(Ver Video)Ep 04[COLOR lime] VERSÃO DUBLADO[/COLOR]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/wlp3ezk9h99gpg</link>
 <subtitle>LEGENDAS</subtitle>
 <thumbnail>https://image.tmdb.org/t/p/original/g1W1SJx1eSI636sByrEP0jKGZQw.jpg</thumbnail>
@@ -47,7 +47,7 @@ As metades mais sombrias de Matt Murdock e Wilson Fisk lutam para se libertar.
 </item>
 +++++++++
 <item>
-<title>(Ver Video)[COLOR lime] VERSÃO DUBLADO[/COLOR]</title>
+<title>(Ver Video)Ep 05[COLOR lime] VERSÃO DUBLADO[/COLOR]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/364lk3rohojl8</link>
 <subtitle>LEGENDAS</subtitle>
 <thumbnail>https://image.tmdb.org/t/p/original/g1W1SJx1eSI636sByrEP0jKGZQw.jpg</thumbnail>
@@ -59,7 +59,7 @@ Um dia na vida de Matt Murdock se torna intenso, forçando ele a se juntar a um 
 </item>
 +++++++++
 <item>
-<title>(Ver Video)[COLOR lime] VERSÃO DUBLADO[/COLOR]</title>
+<title>(Ver Video)Ep 06[COLOR lime] VERSÃO DUBLADO[/COLOR]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/364lk388upvd8p</link>
 <subtitle>LEGENDAS</subtitle>
 <thumbnail>https://image.tmdb.org/t/p/original/g1W1SJx1eSI636sByrEP0jKGZQw.jpg</thumbnail>
@@ -71,7 +71,7 @@ Quando um serial killer aterroriza as ruas de Nova lorque, a cidade precisa de u
 </item>
 +++++++++
 <item>
-<title>(Ver Video)[COLOR lime] VERSÃO DUBLADO[/COLOR]</title>
+<title>(Ver Video)Ep 07[COLOR lime] VERSÃO DUBLADO[/COLOR]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/q1m4n49qaw0046</link>
 <subtitle>LEGENDAS</subtitle>
 <thumbnail>https://image.tmdb.org/t/p/original/g1W1SJx1eSI636sByrEP0jKGZQw.jpg</thumbnail>
@@ -83,7 +83,7 @@ O Demolidor está de volta e corre contra Fisk para impedir que o Muso mate nova
 </item>
 +++++++++
 <item>
-<title>(Ver Video)[COLOR lime] VERSÃO DUBLADO[/COLOR]</title>
+<title>(Ver Video)Ep 08[COLOR lime] VERSÃO DUBLADO[/COLOR]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/jdpjgqnvhq0wv4</link>
 <subtitle>LEGENDAS</subtitle>
 <thumbnail>https://image.tmdb.org/t/p/original/g1W1SJx1eSI636sByrEP0jKGZQw.jpg</thumbnail>
@@ -95,7 +95,7 @@ Em seu primeiro baile Preto e Branco, o prefeito Fisk estreita seu controle sobr
 </item>
 +++++++++
 <item>
-<title>(Ver Video)[COLOR lime] VERSÃO DUBLADO[/COLOR]</title>
+<title>(Ver Video)Ep 09[COLOR lime] VERSÃO DUBLADO[/COLOR]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/1nmmdnvdikq3l3e</link>
 <subtitle>LEGENDAS</subtitle>
 <thumbnail>https://image.tmdb.org/t/p/original/g1W1SJx1eSI636sByrEP0jKGZQw.jpg</thumbnail>
