@@ -9,7 +9,6 @@
 <thumbnail>https://image.tmdb.org/t/p/original/6FRFIogh3zFnVWn7Z6zcYnIbRcX.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/fTrQsdMS2MUw00RnzH0r3JWHhts.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]AMAZON MGM STUDIOS
 [COLOR blue]Gênero:[/COLOR]Ação, Crime, Thriller
 [COLOR red]Duração:[/COLOR]1h 56m
 [COLOR lime]Sinopse:[/COLOR]Ele quer viver uma vida simples e ser um bom pai para sua filha. Mas quando a filha adolescente de seu chefe, Jenny, desaparece, ele é chamado para reempregar as habilidades que o tornaram uma figura lendária nas operações secretas.
@@ -23,7 +22,6 @@
 <thumbnail>https://image.tmdb.org/t/p/original/xEXDIJFenYgRwpsJs1mx6hr1DKy.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/sNx1A3822kEbqeUxvo5A08o4N7o.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]NETFIX
 [COLOR blue]Gênero:[/COLOR]Ação, Comédia, Thriller
 [COLOR red]Duração:[/COLOR]1h 50m
 [COLOR lime]Sinopse:[/COLOR]Quando a garota de seus sonhos é sequestrada, Nathan, um homem comum, transforma sua condição de não sentir dor em sua maior força para recuperar a amada das garras dos criminosos.
@@ -37,7 +35,6 @@
 <thumbnail>https://image.tmdb.org/t/p/original/t7Nw65USxEF31NMCjOYoBvlMCWu.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/dU8AiVmPfhKGUHNcnK6hBC1nYzZ.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]NETFIX
 [COLOR blue]Gênero:[/COLOR]Drama, Comédia
 [COLOR red]Duração:[/COLOR]1h 57m
 [COLOR lime]Sinopse:[/COLOR]Para reencontrar o pai, a professora de um centro de reabilitação juvenil convence um grupo a participar de uma competição de esculturas de neve no Japão.
@@ -51,7 +48,6 @@
 <thumbnail>https://image.tmdb.org/t/p/original/5EKH6vtNzAvvTjkquT0wQ4lM3JA.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/k32XKMjmXMGeydykD32jfER3BVI.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]PRIME VIDEO
 [COLOR blue]Gênero:[/COLOR]Ação, Mistério, Drama
 [COLOR red]Duração:[/COLOR]1h 50m
 [COLOR lime]Sinopse:[/COLOR]Quando a Cúpula do G20 é atacada, a presidente dos EUA Danielle Sutton torna-se o principal alvo. Nesta aventura repleta de ação e suspense, após conseguir evitar ser capturada pelos invasores, a presidente precisa ser mais esperta do que o inimigo para proteger sua família, defender seu país e salvaguardar os líderes mundiais.
@@ -65,7 +61,6 @@
 <thumbnail>https://image.tmdb.org/t/p/original/jI6KVCPJhOMSuXp9Fb0NZlfHeLV.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/r82l4PupHBoNw3qMZxmOHN1ZgQJ.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]DISNEY+
 [COLOR blue]Gênero:[/COLOR]Música, Drama, Ficção científica
 [COLOR red]Duração:[/COLOR]1h 46m
 [COLOR lime]Sinopse:[/COLOR]Ambientada em um futuro pós-apocalíptico, O'Dessa é uma ópera rock sobre uma garota da fazenda em uma missão para recuperar uma herança de família. Sua jornada a leva para uma cidade perigosa, onde ela deve usar o poder do destino e da música para salvar a alma de seu verdadeiro amor.
@@ -79,7 +74,6 @@
 <thumbnail>https://image.tmdb.org/t/p/original/s4pK8Cpna56SbYbmFGgKyBvLj7A.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/ejbakRnwPh75RhlMrlL4miFb8UD.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]NETFIX
 [COLOR blue]Gênero:[/COLOR]Drama, Fantasia
 [COLOR red]Duração:[/COLOR]1h 44m
 [COLOR lime]Sinopse:[/COLOR]Levada por um furacão a um mundo mágico e desconhecido, Ellie decide seguir a estrada de tijolos amarelos rumo à Cidade Esmeralda, onde acredita que o poderoso Mágico poderá ajudá-la a voltar para casa. No caminho, ela encontra grandes amigos: o Espantalho, que sonha em ter um cérebro; o Homem de Lata, que deseja um coração; e o Leão Covarde, que busca coragem. Juntos, eles enfrentam desafios em uma história encantadora que celebra a amizade, a coragem e a força dos sonhos.
@@ -93,7 +87,6 @@
 <thumbnail>https://image.tmdb.org/t/p/original/rqMl7ngnuRM4ZltatYQeSArG7gM.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/hNA73rnG4PjSwgojaC2gbO1f8Rt.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]NETFIX
 [COLOR blue]Gênero:[/COLOR]Ficção científica, Comédia, Aventura
 [COLOR red]Duração:[/COLOR]2h 16m
 [COLOR lime]Sinopse:[/COLOR]Mickey faz parte de um programa espacial de colonização e sempre é enviado para missões perigosas, quase suicidas. Se morrer, ele é clonado e boa parte de suas memórias são recuperadas. Mas, após seis mortes, ele começa a entender o porquê de seu cargo nunca ter sido ocupado antes.
@@ -107,7 +100,6 @@
 <thumbnail>https://image.tmdb.org/t/p/original/gspluUUTwGMT33rR6YietqRIjok.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/oDvBfDVgF6uthIPdRfC6zqqbvcE.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]NETFIX
 [COLOR blue]Gênero:[/COLOR]Comédia, Música
 [COLOR red]Duração:[/COLOR]1h 30m
 [COLOR lime]Sinopse:[/COLOR]Recrutado pela polícia para ajudar a desmantelar uma gangue ligada ao seu rival, um DJ em decadência vê nisto uma chance de voltar ao topo em grande estilo.
@@ -121,7 +113,6 @@
 <thumbnail>https://image.tmdb.org/t/p/original/5w4tc7RJOT104dHXQUla5xRQVPT.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/wk0vWuxCNKmFWHhaqEAtBVRhUkY.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]NETFIX
 [COLOR blue]Gênero:[/COLOR]Drama, Romance
 [COLOR red]Duração:[/COLOR]1h 49m
 [COLOR lime]Sinopse:[/COLOR]O futuro de uma jovem é prejudicado por um acordo secreto que transforma sua vida em caos, mas pode ser o único jeito de salvar sua família.
@@ -135,7 +126,6 @@
 <thumbnail>https://image.tmdb.org/t/p/original/us125MW4IQOiGbnl77NgOJVEgMn.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/aGgr2Q07AcyiWPGODoofgZDUEHp.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]NETFIX
 [COLOR blue]Gênero:[/COLOR]Ação, Comédia, Romance
 [COLOR red]Duração:[/COLOR]1h 23m
 [COLOR lime]Sinopse:[/COLOR]Um corretor de imóveis é puxado de volta para a vida que deixou para trás depois que seu antigo parceiro no crime ressurge com uma mensagem sinistra. Com seu irmão chefe do crime também em seu encalço, ele deve confrontar seu passado e a história que ele nunca enterrou completamente.
@@ -149,7 +139,6 @@
 <thumbnail>https://image.tmdb.org/t/p/original/sVHGPxHXIpOet5H7orIFMIjzeva.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/fNtmDJGvQWetrqzwnoh2PcI1C0x.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]NETFIX
 [COLOR blue]Gênero:[/COLOR]Comédia, Drama
 [COLOR red]Duração:[/COLOR]1h 34m
 [COLOR lime]Sinopse:[/COLOR]Em crise, a caótica mãe solo Emilie pede ajuda ao irmão. E ele tem um plano brilhante: participar de uma maratona de esqui cross-country.
@@ -163,7 +152,6 @@
 <thumbnail>https://image.tmdb.org/t/p/original/rfQi2JzENT5MNJhN1nkIZMNWm4M.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/nkLzvhmQFTWrdKrW3gyUn3U14J0.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]NETFIX
 [COLOR blue]Gênero:[/COLOR]Ação, Crime, Drama, Thriller
 [COLOR red]Duração:[/COLOR]2h 4m
 [COLOR lime]Sinopse:[/COLOR]Obrigado a sair de sua unidade de elite, um policial problemático decide investigar sozinho os assassinatos misteriosos que tiraram as vidas de seus colegas.
@@ -177,7 +165,6 @@
 <thumbnail>https://image.tmdb.org/t/p/original/959Vbki8itfHoNbZnURFBi5pULa.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/3t9d2RwQd0g3zPhZ9Yo5SANNJOH.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]GLOBO FILMES
 [COLOR blue]Gênero:[/COLOR]Família, Drama
 [COLOR red]Duração:[/COLOR]1h 47m
 [COLOR lime]Sinopse:[/COLOR]Max, um grande campeão de MMA que está enfrentando o fim de sua carreira, está afastado do ringue enquanto se recupera de uma lesão séria no ombro. Quando descobre ser pai de um menino autista de 8 anos, ele precisa enfrentar dois desafios: compreender seu filho, conquistar seu carinho e ressignificar seus valores e se preparar para a maior luta da carreira, a sua última chance de uma grande volta.
@@ -191,7 +178,6 @@
 <thumbnail>https://image.tmdb.org/t/p/original/d2K7Zhw9yRjzoa4HBbrjt7aqlgT.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/wHVkV7XML3IEFT355QlZ9uUc03V.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]PRIME VIDEO
 [COLOR blue]Gênero:[/COLOR]Família, Aventura, Comédia
 [COLOR red]Duração:[/COLOR]1h 41m
 [COLOR lime]Sinopse:[/COLOR]A emaranhada história de amor de Plankton e sua esposa-computador vira um desastre quando ela decide destruir o mundo sem ele.
@@ -205,7 +191,6 @@
 <thumbnail>https://image.tmdb.org/t/p/original/lhg3YuybroN2gszAEanXLMtj473.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/2jllAxMf7dTMt1fw9A1slsaj6Fv.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]NETFIX
 [COLOR blue]Gênero:[/COLOR]Comédia, Thriller, Drama
 [COLOR red]Duração:[/COLOR]1h 46m
 [COLOR lime]Sinopse:[/COLOR]A fé de um pastor é colocada à prova quando um meteorito cai na cidadezinha onde ele mora, na Finlândia, provocando um caos e desencadeando crimes.
@@ -219,7 +204,6 @@
 <thumbnail>https://image.tmdb.org/t/p/original/taEVBdVSqYo9YeN3ycw2SosklZL.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/zwSDvbnN51JqU1ULzPnEc22DkqV.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]UNIVERSAL PICTURES
 [COLOR blue]Gênero:[/COLOR]Romance, Comédia, Drama
 [COLOR red]Duração:[/COLOR]2h 5m
 [COLOR lime]Sinopse:[/COLOR]Bridget Jones navega pela vida como viúva e mãe solteira com a ajuda de sua família, amigos e ex-amante, Daniel. De volta ao trabalho e aos aplicativos, ela é perseguida por um homem mais jovem e talvez - só talvez - pelo professor de ciências de seu filho.
@@ -233,7 +217,6 @@
 <thumbnail>https://image.tmdb.org/t/p/original/xNINmmVZuRn2MWo34Mj42OjBntN.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/nT0tpSovSldMoKQywsf46R9dXbe.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]PRIME VIDEO
 [COLOR blue]Gênero:[/COLOR]Thriller, Drama
 [COLOR red]Duração:[/COLOR]1h 49m
 [COLOR lime]Sinopse:[/COLOR]A poderosa advogada Marley enfrenta o caso mais pessoal de sua carreira ao ficar encarregada de descobrir a verdade por trás do assassinato do marido de sua melhor amiga, Fela. Com a ajuda do namorado, um ex-policial que agora trabalha como detetive particular, Marley tenta desvendar o que realmente aconteceu, mas encontra um labirinto de mentiras e traição.
@@ -247,7 +230,6 @@
 <thumbnail>https://image.tmdb.org/t/p/original/5lMu14IMuHo0hKYCwCIogt7IioX.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/h4peDpoepEmErFwBeoIE4yZ1pvJ.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]NETFIX
 [COLOR blue]Gênero:[/COLOR]Terror, Comédia
 [COLOR red]Duração:[/COLOR]1h 34m
 [COLOR lime]Sinopse:[/COLOR]Um casal gay aluga uma casa rural para passar o fim de semana com seus pais, mas descobre que ela já é habitada por uma entidade antiga.
@@ -261,7 +243,6 @@
 <thumbnail>https://image.tmdb.org/t/p/original/2YH0yygwp0OnvZNt4IOGLBRr6Zi.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/AuSip6e3uvQgPnnFQjzdTrOVPx7.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]DC
 [COLOR blue]Gênero:[/COLOR]Animação, Ação
 [COLOR red]Duração:[/COLOR]1h 30m
 [COLOR lime]Sinopse:[/COLOR]Nesta continuação de Batman Ninja, a Família Batman volta ao presente e descobre que o Japão desapareceu, e agora uma ilha gigante chamada “Hinomoto” flutua nos céus de Gotham City. No topo estão os Yakuza, um grupo de indivíduos superpoderosos que reinam sem honra ou humanidade e se parecem estranhamente com a Liga da Justiça. Agora, cabe a Batman e seus aliados salvar Gotham!
@@ -275,7 +256,6 @@
 <thumbnail>https://image.tmdb.org/t/p/original/sI2NiMU8o65hmIMY0JI9CjJ0p7f.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/Auapq8Lwn3RINLDHL0foPluOIq1.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]NETFIX
 [COLOR blue]Gênero:[/COLOR]Ficção científica, Aventura, Ação
 [COLOR red]Duração:[/COLOR]2h 5m
 [COLOR lime]Sinopse:[/COLOR]Uma adolescente órfã pega a estrada com um robô misterioso em busca do irmão há muito tempo desaparecido, encontrando no caminho um contrabandista e seu ajudante hilário.
@@ -289,7 +269,6 @@
 <thumbnail>https://image.tmdb.org/t/p/original/o1ZIvviAEuIHcH9x6sv112mSvTR.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/6iU9A1TtZKFB8222erj0UD0iYYn.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]NETFIX
 [COLOR blue]Gênero:[/COLOR]Thriller, Drama
 [COLOR red]Duração:[/COLOR]1h 42m
 [COLOR lime]Sinopse:[/COLOR]De férias no interior da França, uma família alemã se envolve com uma funcionária do hotel, que tem intenções sinistras.
@@ -303,7 +282,6 @@
 <thumbnail>https://image.tmdb.org/t/p/original/iqQw58Cbgh5r7XRYUZpJPDPQD0m.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/lsgT602GYV8ts97sKH1gWFtQs1k.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]NETFIX
 [COLOR blue]Gênero:[/COLOR]Animação, Aventura, Comédia, Família, Fantasia
 [COLOR red]Duração:[/COLOR]1h 27m
 [COLOR lime]Sinopse:[/COLOR]A emaranhada história de amor de Plankton e sua esposa-computador vira um desastre quando ela decide destruir o mundo sem ele.
@@ -317,7 +295,6 @@
 <thumbnail>https://image.tmdb.org/t/p/original/6TvAde82U6TyEO0BTcLp35jwVgJ.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/rOMLLMGgDgGG6XeT3P8sUdUb8nl.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]PRIME VIDEO
 [COLOR blue]Gênero:[/COLOR]Ação, Crime, Thriller
 [COLOR red]Duração:[/COLOR]1h 31m
 [COLOR lime]Sinopse:[/COLOR]Um piloto de avião transporta um agente federal e um fugitivo para julgamento através das montanhas do Alasca. A tensão aumenta quando verdades são reveladas e ninguém a bordo parecem ser quem realmente são.
@@ -331,7 +308,6 @@
 <thumbnail>https://image.tmdb.org/t/p/original/vtdEHG1j07PqLlVyhKNZRHTPKGt.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/wwARk7hRIfHfh2n2ubN6N7lvTne.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]UNIVERSAL PICTURES
 [COLOR blue]Gênero:[/COLOR]Terror, Thriller
 [COLOR red]Duração:[/COLOR]1h 42m
 [COLOR lime]Sinopse:[/COLOR]Um homem deve proteger a si mesmo e sua família quando eles são perseguidos, aterrorizados e assombrados por um lobisomem mortal à noite durante a lua cheia. Mas conforme a noite avança, o homem começa a se comportar de forma estranha.
@@ -345,7 +321,6 @@
 <thumbnail>https://image.tmdb.org/t/p/original/vQlL4olmOEFKENrrJPf2xLXGy4c.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/hZSOdJFLECTBO8PpYkVI3rPsY2D.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]NETFIX
 [COLOR blue]Gênero:[/COLOR]Comédia, Romance
 [COLOR red]Duração:[/COLOR]1h 40m
 [COLOR lime]Sinopse:[/COLOR]Lainy planeja se casar e formar uma família. Mas quando tudo dá errado, ela coloca uma barriga falsa, inventa uma mentira e se apaixona pelo homem de seus sonhos.
@@ -359,7 +334,6 @@
 <thumbnail>https://image.tmdb.org/t/p/original/y0pR5aBVvPn5uncaZjl94ZEnuEF.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/1YL8ksfwm3p2Tgt1yaNVYYOvOKC.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]NETFIX
 [COLOR blue]Gênero:[/COLOR]Animação, Fantasia, Ação
 [COLOR red]Duração:[/COLOR]1h 31m
 [COLOR lime]Sinopse:[/COLOR]Quando marinheiros humanos são atacados por criaturas misteriosas das profundezas, só uma pessoa pode impedir a guerra entre a terra e o mar: o Witcher, Geralt de Rivia.
@@ -373,7 +347,6 @@
 <thumbnail>https://image.tmdb.org/t/p/original/5YSQPQRP8LPjcfdhl9VA7f2TqOS.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/klgP7ICpXlCMz4px8vi0FqcufFG.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]PARAMOUNT+
 [COLOR blue]Gênero:[/COLOR]Ação, Comédia, Família, Ficção científica
 [COLOR red]Duração:[/COLOR]1h 59m
 [COLOR lime]Sinopse:[/COLOR]Henry Danger conhece uma superfã - ansiosa para combater o crime com Kid Danger - que possui um dispositivo que pode abrir realidades alternativas. Enfrentando uma viagem alucinante, Henry precisará de seu melhor amigo Jasper e de sua nova companheira superfã para encontrar a saída ou ficar preso em outra dimensão para sempre.
@@ -387,7 +360,6 @@
 <thumbnail>https://image.tmdb.org/t/p/original/JRF2CsPVaqbjxJkZM0zAKfdoXH.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/tNibbPrVZYY40s8jAfFbkRciAEA.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]NETFIX
 [COLOR blue]Gênero:[/COLOR]Comédia
 [COLOR red]Duração:[/COLOR]1h 35m
 [COLOR lime]Sinopse:[/COLOR]Trocado pelo ex da noiva em pleno altar, um jovem acaba passando a lua de mel com a mãe.
@@ -401,7 +373,6 @@
 <thumbnail>https://image.tmdb.org/t/p/original/5nbSgP8f5LMCI0PwVRRaHJaUmR3.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/ywe9S1cOyIhR5yWzK7511NuQ2YX.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]MARVEL
 [COLOR blue]Gênero:[/COLOR]Ação, Thriller, Ficção científica
 [COLOR red]Duração:[/COLOR]1h 59m
 [COLOR lime]Sinopse:[/COLOR]Após se encontrar com o recém-eleito presidente dos EUA, Thaddeus Ross, Sam se vê no meio de um incidente internacional. Ele deve descobrir o motivo por trás de uma conspiração global nefasta antes que o verdadeiro gênio faça o mundo inteiro ser dominado pelo vermelho.
@@ -415,7 +386,6 @@
 <thumbnail>https://image.tmdb.org/t/p/original/sEma5RN8aZ5Yu2Dkefyn5ULdlc1.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/s1ge9SG2zfJdMeZ69VMEbxeKuAE.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]NETFIX
 [COLOR blue]Gênero:[/COLOR]Romance, Comédia
 [COLOR red]Duração:[/COLOR]1h 39m
 [COLOR lime]Sinopse:[/COLOR]Eric corre para a Itália para impedir a filha de comprar um casarão caindo aos pedaços na Toscana, mas acaba encontrando beleza, amor e um novo propósito.
@@ -429,7 +399,6 @@
 <thumbnail>https://image.tmdb.org/t/p/original/bioObjvmJdDRxnWM3TrQYaMUbAQ.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/uJK0jjJ8QDOQw5lcNBwu059ht4D.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]PRIME VIDEO
 [COLOR blue]Gênero:[/COLOR]Romance, Drama
 [COLOR red]Duração:[/COLOR]1h 59m
 [COLOR lime]Sinopse:[/COLOR]Noah, de 18 anos, se muda dos EUA para Londres com a mãe, que recentemente se apaixonou por William, um rico empresário britânico. Noah conhece o filho de William, o bad boy Nick, e logo descobre uma atração que nenhum dos dois consegue evitar. Enquanto Noah passa o verão tentando se ajustar à nova vida, seu passado devastador a atingirá em cheio justo quando se apaixona pela primeira vez.
@@ -443,7 +412,6 @@
 <thumbnail>https://image.tmdb.org/t/p/original/2JXvvx0JSKb3uZjLi7YRjZ9WgX9.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/eT1udCQQAXVuLkb26911aUwg76L.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]NETFIX
 [COLOR blue]Gênero:[/COLOR]Romance, Comédia, Drama
 [COLOR red]Duração:[/COLOR]1h 18m
 [COLOR lime]Sinopse:[/COLOR]Depois de perder o título por expor um escândalo, uma ex-miss decide escrever uma autobiografia. Mas sua vida amorosa ainda é uma página em branco.
@@ -457,7 +425,6 @@
 <thumbnail>https://image.tmdb.org/t/p/original/t8fgC2kom2ZSKP70tGLLvo3aCcD.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/wVLPPX2DXQmfkzDe6MOsJJfbKEX.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]NETFIX
 [COLOR blue]Gênero:[/COLOR]Comédia, Drama, Romance
 [COLOR red]Duração:[/COLOR]2h 2m
 [COLOR lime]Sinopse:[/COLOR]Um playboy cria um reality de namoro para conquistar a tão sonhada herança e realizar o último desejo do pai: se casar com a mulher mais linda do mundo.
@@ -471,7 +438,6 @@
 <thumbnail>https://image.tmdb.org/t/p/original/4AvT0zWGUcxVkEylAtKEjvY8brc.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/l2QSVFR5aLcW1Vl4cGKrQkEp6fY.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]NETFIX
 [COLOR blue]Gênero:[/COLOR]Comédia, Romance, Ação
 [COLOR red]Duração:[/COLOR]1h 49m
 [COLOR lime]Sinopse:[/COLOR]Em plena noite de núpcias, um casal excêntrico é arrastado para uma perseguição caótica, fugindo de bandidos e da polícia numa busca frenética pelo misterioso “Charlie”.
@@ -485,7 +451,6 @@
 <thumbnail>https://image.tmdb.org/t/p/original/e2yAyz0PR43aIxnGjv9HJryHBys.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/e8npsTfpBZa8T0TQqyZSwD9RNu2.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]NETFIX
 [COLOR blue]Gênero:[/COLOR]Romance, Comédia, Drama
 [COLOR red]Duração:[/COLOR]1h 36m
 [COLOR lime]Sinopse:[/COLOR]Um casal de Estocolmo planeja se casar na ilha paradisíaca de Gotland, mas as imposições da família transformam o grande dia num desastre.
@@ -499,7 +464,6 @@
 <thumbnail>https://image.tmdb.org/t/p/original/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/xI8fGpn41WJgfazS4Qoppx6ZUN1.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]APPLE TV+
 [COLOR blue]Gênero:[/COLOR]Romance, Ficção científica, Thriller
 [COLOR red]Duração:[/COLOR]2h 7m
 [COLOR lime]Sinopse:[/COLOR]Dois agentes altamente treinados se aproximam à distância após serem enviados para proteger lados opostos de um desfiladeiro misterioso. Quando um mal emerge, eles precisam trabalhar juntos para sobreviver ao que está lá dentro.
@@ -513,7 +477,6 @@
 <thumbnail>https://image.tmdb.org/t/p/original/3L3l6LsiLGHkTG4RFB2aBA6BttB.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/mkxGpqh4yOYqtENv01IrDcesFRf.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]NETFIX
 [COLOR blue]Gênero:[/COLOR]Ação, Comédia
 [COLOR red]Duração:[/COLOR]1h 54m
 [COLOR lime]Sinopse:[/COLOR]Quinze anos depois de abandonar a CIA para formar uma família, os ex-agentes de elite Matt e Emily voltam ao mundo da espionagem ao terem seus disfarces revelados.
@@ -527,7 +490,6 @@
 <thumbnail>https://image.tmdb.org/t/p/original/bnciRmZZSdyqp7HcrAwNG0mObaP.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/haX32ZQxOgDWcJO5sTiTUEE1Ulr.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]PRIME VIDEO
 [COLOR blue]Gênero:[/COLOR]Crime, Thriller
 [COLOR red]Duração:[/COLOR]1h 35m
 [COLOR lime]Sinopse:[/COLOR]Klara vai morrer hoje, a menos que mate o marido. O Assassino do Calendário deu a ela esse ultimato. Quando Jules começa seu turno da noite em uma linha direta para mulheres que estão indo sozinhas para casa, ele atende a ligação de Klara. Ele logo se torna sua última esperança de sobrevivência e corre contra o tempo para salvá-la.
@@ -541,7 +503,6 @@
 <thumbnail>https://image.tmdb.org/t/p/original/4lwW5zp8o2WZqynQtRs7jXDpQh1.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/czoiFndZswfFcQxbHxWUGcSpajM.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]PARAMOUNT+
 [COLOR blue]Gênero:[/COLOR]Ficção científica, Aventura, Ação
 [COLOR red]Duração:[/COLOR]1h 36m
 [COLOR lime]Sinopse:[/COLOR]A Imperatriz Philippa Georgiou entra para uma divisão secreta da Frota Estelar. Com a missão de proteger a Federação dos Planetas Unidos, ela também deve enfrentar os erros de seu passado.
@@ -555,7 +516,6 @@
 <thumbnail>https://image.tmdb.org/t/p/original/yBJAA1oAF7RB7qLycJtYo9FPsQ0.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/sc1abgWNXc29wSBaerrjGBih06l.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]PRIME VIDEO
 [COLOR blue]Gênero:[/COLOR] Comédia, Terror, Ficção científica, Thriller
 [COLOR red]Duração:[/COLOR] 1h 37m
 [COLOR lime]Sinopse:[/COLOR]Uma viagem de fim de semana se torna sangrenta e violenta quando uma androide subserviente, criada para a companhia humana, simplesmente enlouquece.
@@ -569,7 +529,6 @@
 <thumbnail>https://image.tmdb.org/t/p/original/39jIr3A4ScUeGxFdMeARYKNxTgU.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/sg7PpNrc1pTNtx4CoMLiLJY4iIQ.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]PRIME VIDEO
 [COLOR blue]Gênero:[/COLOR] Thriller, Mistério
 [COLOR red]Duração:[/COLOR] 1h 48m
 [COLOR lime]Sinopse:[/COLOR]Após se encontrar com o recém-eleito presidente dos EUA, Thaddeus Ross, Sam se vê no meio de um incidente internacional. Ele deve descobrir o motivo por trás de uma conspiração global nefasta antes que o verdadeiro gênio faça o mundo inteiro ser dominado pelo vermelho.
@@ -583,7 +542,6 @@
 <thumbnail>https://image.tmdb.org/t/p/original/gfNaw0IVm1BnprmCr6SmkN6tq42.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/22yzTjjiD0ZrR6BRSjVEKRTk6gF.jpg</fanart>
 <info>
-[COLOR yellow]Studio:[/COLOR]NETFIX
 [COLOR blue]Gênero:[/COLOR]Romance, Drama
 [COLOR red]Duração:[/COLOR]1h 14m
 [COLOR lime]Sinopse:[/COLOR]Entre as imposições da família e a vontade de ser livre, Mayi conhece um saxofonista muito charmoso e começa a questionar o próprio casamento.
