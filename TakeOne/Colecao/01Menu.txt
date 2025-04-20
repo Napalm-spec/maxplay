@@ -1,7 +1,7 @@
 <channels>
 
 <channel>
-<name>[COLOR blue]Asterix & Obelix: Coleção [/COLOR] [COLOR orange](2025)[/COLOR]</name>
+<name>[COLOR blue]Asterix & Obelix: Coleção [/COLOR] [COLOR orange](1999)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/AlUO83mpTu9OBOnEiwVgZJoeVvs.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/yyAeUIazKIeH4czT42P32ov8td3.jpg</fanart>
 <info>
