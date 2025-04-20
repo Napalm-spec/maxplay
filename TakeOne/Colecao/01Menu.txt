@@ -1,7 +1,7 @@
 <channels>
 
 <channel>
-<name>[COLOR blue]Asterix & Obelix Contra César [/COLOR] [COLOR orange](2002)[/COLOR]</name>
+<name>[COLOR blue]Astérix e Obélix: Missão Cleópatra [/COLOR] [COLOR orange](2002)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/sJ4zNakOuWcsW6ssH1qk80JehQ2.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/aNjN12FPTVIRo548TQdaYtjJ8XC.jpg</fanart>
 <info>
