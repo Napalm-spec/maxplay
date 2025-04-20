@@ -1,9 +1,9 @@
 <channels>
 
 <channel>
-<name>[COLOR blue]Asterix & Obelix Contra César [/COLOR] [COLOR orange](1999)[/COLOR]</name>
-<thumbnail>https://image.tmdb.org/t/p/original/sJ4zNakOuWcsW6ssH1qk80JehQ2.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/1FxwuCdaMmCEsl3hSlafKRHR8Th.jpg</fanart>
+<name>[COLOR blue]Asterix & Obelix: Coleção [/COLOR] [COLOR orange](1999)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/akRbsoHDERWHXO9LKqGvlZBKYR8.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/yyAeUIazKIeH4czT42P32ov8td3.jpg</fanart>
 <info>
 [COLOR gold]Coleção de filmes live action de Asterix e Obelix.[/COLOR]
 </info>
