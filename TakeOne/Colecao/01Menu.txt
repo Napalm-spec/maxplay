@@ -1,9 +1,9 @@
 <channels>
 
 <channel>
-<name>[COLOR blue] [/COLOR] [COLOR orange](2025)[/COLOR]</name>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<name>[COLOR blue]Asterix & Obelix: Coleção [/COLOR] [COLOR orange](2025)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/AlUO83mpTu9OBOnEiwVgZJoeVvs.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/yyAeUIazKIeH4czT42P32ov8td3.jpg</fanart>
 <info>
 [COLOR blue]Gênero:[/COLOR]Família, Drama
 [COLOR red]Duração:[/COLOR]1h 47m
