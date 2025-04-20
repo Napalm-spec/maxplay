@@ -1,6 +1,18 @@
 <channels>
 
-
+<channel>
+<name>[COLOR blue] [/COLOR] [COLOR orange](2002)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/1OSSechq5Gqj2Ut8jX1t1qk3Usz.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/wVyHzMadmXs5FsQWnRjg3oGTIjY.jpg</fanart>
+<info>
+[COLOR blue]Gênero:[/COLOR]Família, Aventura, Comédia
+[COLOR red]Duração:[/COLOR]1h 50m
+[COLOR lime]Sinopse:[/COLOR]Asterix e Obelix voltam em uma nova aventura. 50 anos A.C. Júlio César tem um enorme desejo de conquista e a frente de suas legiões gloriosas, ele decide invadir a Grã-Bretanha, e em pouco tempo domina todo o território, faltando apenas a pequena aldeia de Breton. Seu povo resiste bravamente, mas vai enfraquecendo e eles, então, decidem buscar a ajuda de Asterix, Obelix e seu barril de poção mágica.
+</info>
+<date>18/10/2012</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Colecao/Ast%C3%A9rix/tt1597522.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[COLOR blue]Asterix nos Jogos Olímpicos [/COLOR] [COLOR orange](2008)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/nO9RUrNyA5o1CNyv1HH0a4aEjbq.jpg</thumbnail>
