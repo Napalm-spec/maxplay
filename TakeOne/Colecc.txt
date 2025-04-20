@@ -5,8 +5,7 @@
 <thumbnail>https://image.tmdb.org/t/p/original/sJ4zNakOuWcsW6ssH1qk80JehQ2.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/1FxwuCdaMmCEsl3hSlafKRHR8Th.jpg</fanart>
 <info>
-[COLOR blue]VERSÃO DUBLADO[/COLOR]
-[COLOR gold]VERSÃO LEGENDADO[/COLOR]
+[COLOR gold]Coleção de filmes live action de Asterix e Obelix.[/COLOR]
 </info>
 <date>09/07/1999</date>
 <externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Colecao/01Menu.txt</externallink>
