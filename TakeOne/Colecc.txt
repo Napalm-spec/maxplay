@@ -6,9 +6,8 @@
 <fanart>https://image.tmdb.org/t/p/original/yyAeUIazKIeH4czT42P32ov8td3.jpg</fanart>
 <info>
 [COLOR gold]Coleção de filmes live action de Asterix e Obelix.[/COLOR]
-</info>
-<date>09/07/1999</date>
-<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Colecao/01Menu.txt</externallink>
+</info>>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Colecao/Ast%C3%A9rix/01.txt</externallink>
 </channel>
 «««««««««««««««««««««««««
 
