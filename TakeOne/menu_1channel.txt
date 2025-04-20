@@ -61,6 +61,16 @@
 <externallink>https://</externallink>
 </channel>
   <channel>
+<name>[B][COLOR lime]Coleção[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/4xZx4Dst/DC.jpg</thumbnail>
+<fanart>https://i.postimg.cc/tRfnTg18/deadpool-2-movie-cinema.jpg</fanart>
+<info> 
+[COLOR blue]Filmes Dublados[/COLOR]
+[COLOR yellow]Filmes Legendados[/COLOR]
+</info>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Colecc.txt</externallink>
+</channel>
+  <channel>
 <name>[B][COLOR lime]Séries[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/jSQY8CVn/SERIES.jpg</thumbnail>
 <fanart>https://i.postimg.cc/tRfnTg18/deadpool-2-movie-cinema.jpg</fanart>
