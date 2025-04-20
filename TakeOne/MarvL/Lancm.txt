@@ -80,6 +80,19 @@
 </channel>
 «««««««««««««««««««««««««
 <channel>
+<name>[COLOR blue]Quarteto Fantástico e o Surfista Prateado [/COLOR] [COLOR orange](2007)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/f3ldtPF7SESMcyAIyIJHBLlBBkr.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/pQDm7OkY7GAtDwGUcBEysHfMsNv.jpg</fanart>
+<info>
+[COLOR blue]Gênero:[/COLOR]Ficção científica, Aventura, Ação
+[COLOR red]Duração:[/COLOR]1h 32m
+[COLOR lime]Sinopse:[/COLOR]Reed Richards (Ioan Gruffudd) e Susan Storm (Jessica Alba) estão prestes a se casar. Porém, durante a cerimônia, algo estranho surge nos céus de Nova York. Trata-se do Surfista Prateado (Doug Jones), um ser alienígena que possui grandes poderes e que trabalha como arauto de Galactus, o destruidor de planetas. O Surfista veio à Terra para prepará-la para ser destruída por seu mestre, mas para atingir seu objetivo precisará enfrentar o Quarteto Fantástico.
+</info>
+<date>15/06/2007</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/MarvL/tt0486576.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
 <name>[COLOR blue]Quarteto Fantástico [/COLOR] [COLOR orange](2005)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/5qLP3JVg8NE3zdZd48lqhx7iN5Q.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/nDYz0HDfEiNVCBwhCDay8Ud0n7M.jpg</fanart>
