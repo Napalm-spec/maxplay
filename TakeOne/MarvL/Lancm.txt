@@ -106,6 +106,19 @@
 </channel>
 «««««««««««««««««««««««««
 <channel>
+<name>[COLOR blue]Homem-Aranha 2 [/COLOR] [COLOR orange](2004)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/aGuvNAaaZuWXYQQ6N2v7DeuP6mB.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/8G6HCS82vNxgg5wp7oBDSk32XpF.jpg</fanart>
+<info>
+[COLOR blue]Gênero:[/COLOR]Ação, Aventura, Ficção científica
+[COLOR red]Duração:[/COLOR]2h 7m
+[COLOR lime]Sinopse:[/COLOR]Dois anos se passaram desde que o tranquilo Peter Parker separou-se do grande amor de sua vida, Mary Jane Watson, e decidiu assumir o compromisso e a responsabilidade de seguir sendo o Homem-Aranha. Peter enfrenta novos desafios enquanto aprende a lidar com "seu dom e sua maldição", tentando desesperadamente harmonizar suas duas identidades: A do super-herói aracnídeo, o Homem-Aranha, e a do estudante universitário.
+</info>
+<date>15/07/2004</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/MarvL/tt0316654.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
 <name>[COLOR blue]Hulk [/COLOR] [COLOR orange](2003)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/qnngKqAcqfH2pBxDoKu5lxzSbTo.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/i0MqzkcCsEsZC5WHSY7SACAcJdh.jpg</fanart>
