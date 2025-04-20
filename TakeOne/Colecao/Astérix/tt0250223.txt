@@ -1,0 +1,31 @@
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO DUBLADO[/COLOR][COLOR red]Brevemente[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=</link>
+<subtitle>LEGENDAS</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/aNjN12FPTVIRo548TQdaYtjJ8XC.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1Cuaush5VwesuZJzJRy2ptfalCh.jpg</fanart>
+<info>
+[COLOR blue]Gênero:[/COLOR] Família, Fantasia, Comédia, Aventura
+[COLOR yellow]Duração:[/COLOR] 1h 47m
+[COLOR aquamarine]Lançamento:[/COLOR] 2002
+[COLOR gold]Áudio:[/COLOR] Português | PT-BR 
+[COLOR green]IMDb:[/COLOR] 6,7
+</info>
+</item>
++++++++++
+<item>
+<title>(Ver Video)[COLOR lime] VERSÃO LEGENDADO[/COLOR]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/nlp6rzzkb4pzvd</link>
+<subtitle>https://subs.warezcdn.link/4283-PT.srt</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/aNjN12FPTVIRo548TQdaYtjJ8XC.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1Cuaush5VwesuZJzJRy2ptfalCh.jpg</fanart>
+<info>
+[COLOR blue]Gênero:[/COLOR] Família, Fantasia, Comédia, Aventura
+[COLOR yellow]Duração:[/COLOR] 1h 47m
+[COLOR aquamarine]Lançamento:[/COLOR] 2002
+[COLOR gold]Áudio:[/COLOR] Francês
+[COLOR red]Legenda:[/COLOR] PT-BR
+[COLOR green]IMDb:[/COLOR] 6,7
+</info>
+</item>
++++++++++
