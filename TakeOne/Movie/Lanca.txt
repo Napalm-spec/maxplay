@@ -3,7 +3,19 @@
 
 
 
-
+<channel>
+<name>[COLOR blue]Desafios [/COLOR] [COLOR orange](2025)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/4a9LbItyOb9K9VFXtbLR87Hj4uA.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eExaW68UXzJMDQP9Ekyc3wn9h1Z.jpg</fanart>
+<info>
+[COLOR blue]Gênero:[/COLOR]Drama, Thriller
+[COLOR red]Duração:[/COLOR]2h 25m
+[COLOR lime]Sinopse:[/COLOR]Durante uma partida histórica de críquete, três pessoas comuns precisam tomar decisões que podem não ter volta.
+</info>
+<date>04/04/2025</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/tt27477888.Desafios.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[COLOR blue]Resgate Implacável [/COLOR] [COLOR orange](2025)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/6FRFIogh3zFnVWn7Z6zcYnIbRcX.jpg</thumbnail>
