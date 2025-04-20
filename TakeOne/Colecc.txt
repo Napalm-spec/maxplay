@@ -1,7 +1,7 @@
 <channels>
 
 <channel>
-<name>[COLOR blue] [/COLOR] [COLOR orange](2025)[/COLOR]</name>
+<name>[COLOR blue]Asterix & Obelix: Coleção [/COLOR] [COLOR orange](2025)[/COLOR]</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info>
