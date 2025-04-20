@@ -5,7 +5,7 @@
 <thumbnail>https://image.tmdb.org/t/p/original/AlUO83mpTu9OBOnEiwVgZJoeVvs.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/yyAeUIazKIeH4czT42P32ov8td3.jpg</fanart>
 <info>
-[COLOR blue]Gênero:[/COLOR]Família, Drama
+[COLOR blue]Gênero:[/COLOR]Família, Aventura, Comédia, Fantasia
 [COLOR red]Duração:[/COLOR]1h 47m
 [COLOR lime]Sinopse:[/COLOR]Max, um grande campeão de MMA que está enfrentando o fim de sua carreira, está afastado do ringue enquanto se recupera de uma lesão séria no ombro. Quando descobre ser pai de um menino autista de 8 anos, ele precisa enfrentar dois desafios: compreender seu filho, conquistar seu carinho e ressignificar seus valores e se preparar para a maior luta da carreira, a sua última chance de uma grande volta.
 </info>
