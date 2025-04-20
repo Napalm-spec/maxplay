@@ -1,1 +1,31 @@
-111
+<channels>
+
+<channel>
+<name>[COLOR blue]Astérix e Obélix: Missão Cleópatra [/COLOR] [COLOR orange](2002)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/sJ4zNakOuWcsW6ssH1qk80JehQ2.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/aNjN12FPTVIRo548TQdaYtjJ8XC.jpg</fanart>
+<info>
+[COLOR blue]Gênero:[/COLOR]Família, Fantasia, Comédia, Aventura
+[COLOR red]Duração:[/COLOR]1h 47m
+[COLOR lime]Sinopse:[/COLOR]Cleópatra, rainha do Egito, acredita que pode construir um templo em tempo recorde e faz uma aposta com Júlio César. Seu arquiteto, no entanto, precisa da ajuda de Asterix e Obelix para lutar contra romanos que tentam impedir a construção.
+</info>
+<date>01/03/2002</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Colecao/Ast%C3%A9rix/tt0250223.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[COLOR blue]Asterix & Obelix Contra César [/COLOR] [COLOR orange](1999)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/sJ4zNakOuWcsW6ssH1qk80JehQ2.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1FxwuCdaMmCEsl3hSlafKRHR8Th.jpg</fanart>
+<info>
+[COLOR blue]Gênero:[/COLOR]Família, Aventura, Comédia, Fantasia
+[COLOR red]Duração:[/COLOR]1h 49m
+[COLOR lime]Sinopse:[/COLOR]A pequena aldeia de Asterix e Obelix é a pedra no sapato do imperador Júlio César: de toda a França, a aldeia gaulesa é o único local que não é controlado pelo Império Romano. O maior problema, segundo os comandantes da legião romana, é a força descomunal dos gauleses, conseguida através de uma poção mágica preparada pelo druida Panoramix. Entretanto, o comandante Detritus tem um plano para derrotar os gauleses: capturar Obelix e o druida Panoramix.
+</info>
+<date>16/01/2025</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Colecao/Ast%C3%A9rix/tt0133385.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+
+
+</channels>
