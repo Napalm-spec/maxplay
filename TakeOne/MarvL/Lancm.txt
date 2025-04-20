@@ -93,6 +93,19 @@
 </channel>
 «««««««««««««««««««««««««
 <channel>
+<name>[COLOR blue]Homem-Aranha 3 [/COLOR] [COLOR orange](2007)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/9BWVD70pofOapudGVdu7Wf90MKC.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/w1oD1MzHjnBJc5snKupIQaSBLIh.jpg</fanart>
+<info>
+[COLOR blue]Gênero:[/COLOR]Ação, Aventura, Ficção científica
+[COLOR red]Duração:[/COLOR]2h 19m
+[COLOR lime]Sinopse:[/COLOR]O relacionamento entre Peter Parker e Mary Jane parece estar dando certo, mas outros problemas começam a surgir. A roupa de Homem-Aranha torna-se preta e acaba controlando Peter, que apesar de aumentar seus poderes, revela o lado obscuro de sua personalidade. Os vilões Venon e Homem-Areia tentam destruir o super-herói.
+</info>
+<date>03/05/2007</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/MarvL/tt0413300.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
 <name>[COLOR blue]Quarteto Fantástico [/COLOR] [COLOR orange](2005)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/5qLP3JVg8NE3zdZd48lqhx7iN5Q.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/nDYz0HDfEiNVCBwhCDay8Ud0n7M.jpg</fanart>
