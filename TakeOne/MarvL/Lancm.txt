@@ -118,6 +118,20 @@
 <externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/MarvL/tt0286716.Hulk.txt</externallink>
 </channel>
 «««««««««««««««««««««««««
+<channel>
+<name>[COLOR blue]Homem-Aranha [/COLOR] [COLOR orange](2002)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/qJzloL8O9YHhiWBrhlPfKAtZu2I.jpg</fanart>
+<info>
+[COLOR blue]Gênero:[/COLOR]Ação, Ficção científica
+[COLOR red]Duração:[/COLOR]2h 1m
+[COLOR lime]Sinopse:[/COLOR]Peter Parker é um jovem estudioso que vive com seus tios, Ben e May, desde que seus pais faleceram. Peter tem dificuldade em se relacionar com seus colegas, por ser tímido e por eles o considerarem um nerd. Até que, em uma demonstração científica, um acidente inesperado faz com que uma aranha modificada geneticamente pique Peter. A partir de então seu corpo é quimicamente alterado pela picada da aranha.
+</info>
+<date>21/06/2002</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/MarvL/tt0145487.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+
 
 
 </channels>
