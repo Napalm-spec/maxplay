@@ -10,7 +10,7 @@
 [COLOR lime]Sinopse:[/COLOR]Max, um grande campeão de MMA que está enfrentando o fim de sua carreira, está afastado do ringue enquanto se recupera de uma lesão séria no ombro. Quando descobre ser pai de um menino autista de 8 anos, ele precisa enfrentar dois desafios: compreender seu filho, conquistar seu carinho e ressignificar seus valores e se preparar para a maior luta da carreira, a sua última chance de uma grande volta.
 </info>
 <date>16/01/2025</date>
-<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/tt27477888.Desafios.txt</externallink>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Colecao/Ast%C3%A9rix/01.txt</externallink>
 </channel>
 «««««««««««««««««««««««««
 
