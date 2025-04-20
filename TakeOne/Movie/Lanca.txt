@@ -2,7 +2,19 @@
 
 
 
-
+<channel>
+<name>[COLOR blue]Alexandre e a Viagem Terrível, Horrível, Espantosa e Horrorosa [/COLOR] [COLOR orange](2025)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/rGBR0j4nbE07HJdpjQikmoWnUZY.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/nS0mczuuFoYZayqM3eAZI5cQOJd.jpg</fanart>
+<info>
+[COLOR blue]Gênero:[/COLOR]Comédia, Família
+[COLOR red]Duração:[/COLOR]1h 34m
+[COLOR lime]Sinopse:[/COLOR]As férias de Alexander e a família para a Cidade do México dá errado quando descobrem uma maldição.
+</info>
+<date>16/01/2025</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/tt13782222.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[COLOR blue]Desafios [/COLOR] [COLOR orange](2025)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/4a9LbItyOb9K9VFXtbLR87Hj4uA.jpg</thumbnail>
