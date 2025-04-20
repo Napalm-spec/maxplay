@@ -2,8 +2,8 @@
 
 <channel>
 <name>[COLOR blue]Astérix e Obélix: Missão Cleópatra [/COLOR] [COLOR orange](2002)[/COLOR]</name>
-<thumbnail>https://image.tmdb.org/t/p/original/sJ4zNakOuWcsW6ssH1qk80JehQ2.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/aNjN12FPTVIRo548TQdaYtjJ8XC.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/aNjN12FPTVIRo548TQdaYtjJ8XC.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1Cuaush5VwesuZJzJRy2ptfalCh.jpg</fanart>
 <info>
 [COLOR blue]Gênero:[/COLOR]Família, Fantasia, Comédia, Aventura
 [COLOR red]Duração:[/COLOR]1h 47m
