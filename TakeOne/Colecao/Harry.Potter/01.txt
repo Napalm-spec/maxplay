@@ -1,0 +1,19 @@
+<channels>
+
+<channel>
+<name>[COLOR blue]Harry Potter e a Pedra Filosofal [/COLOR] [COLOR orange](2001)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/4rtsbE9aQ1qw4gv7yYwaNYfWFoS.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dBbeTxaK0tDs72R18T4Y3azpf2N.jpg</fanart>
+<info>
+[COLOR blue]Gênero:[/COLOR]Aventura, Fantasia
+[COLOR red]Duração:[/COLOR]2h 32m
+[COLOR lime]Sinopse:[/COLOR]Harry Potter é um garoto órfão que vive infeliz com seus tios, os Dursley. Em seu aniversário de 11 anos ele recebe uma carta que mudará sua vida: um convite para ingressar em Hogwarts.
+</info>
+<date>30/11/2001</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Colecao/Harry.Potter/tt0241527.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+
+
+
+</channels>
