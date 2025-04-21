@@ -1,7 +1,20 @@
 <channels>
 
 <channel>
-<name>[COLOR blue] [/COLOR] [COLOR orange](2002)[/COLOR]</name>
+<name>[COLOR blue]Asterix e Obelix no Reino do Meio [/COLOR] [COLOR orange](2023)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/8KH9wGLcrb90KYR1DiPgm2ISjyu.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/n9wlAmb4vEgZHghtqsXXj95PocJ.jpg</fanart>
+<info>
+[COLOR blue]Gênero:[/COLOR]Família, Comédia, Aventura
+[COLOR red]Duração:[/COLOR]1h 51m
+[COLOR lime]Sinopse:[/COLOR]Os heróis Asterix e Obelix vão até a China para ajudar a Princesa So Hi a salvar a Imperatriz e suas terras de um abominável príncipe.
+</info>
+<date>06/04/2023</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Colecao/Ast%C3%A9rix/tt11210390.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[COLOR blue]Astérix e Obélix: A Serviço de sua Majestade [/COLOR] [COLOR orange](2012)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/1OSSechq5Gqj2Ut8jX1t1qk3Usz.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/wVyHzMadmXs5FsQWnRjg3oGTIjY.jpg</fanart>
 <info>
