@@ -1,5 +1,16 @@
 <channels>
 
+
+<channel>
+<name>[COLOR blue]Harry Potter: Coleção [/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/5m8RGRYDhnR6TQANkePx9lrv8fG.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/4gV0rKUjB1nLUdZB4zIltLvNZZr.jpg</fanart>
+<info>
+[COLOR gold]Assista o fenômeno cinematográfico de uma vida em toda sua brilhante e alta definição. Redescubra o mundo de Harry Potter através de 7 filmes e de um processo de produção que durou uma década inteira.[/COLOR]
+</info>>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Colecao/Harry.Potter/01.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[COLOR blue]Asterix & Obelix: Coleção [/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/akRbsoHDERWHXO9LKqGvlZBKYR8.jpg</thumbnail>
