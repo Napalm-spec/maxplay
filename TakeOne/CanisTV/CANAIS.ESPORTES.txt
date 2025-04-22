@@ -93,3 +93,71 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/557
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 SD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 3 SD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/556
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="Band Sports 4K UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/BANDSPORTS.png" group-title="Canais | Esportes",Band Sports 4K UHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/234278
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="Band Sports FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/BANDSPORTS.png" group-title="Canais | Esportes",Band Sports FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/235
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="Band Sports H265" tvg-logo="http://beststorage4you.com:80/logoscanais/BANDSPORTS.png" group-title="Canais | Esportes",Band Sports H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/118755
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="Band Sports UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/BANDSPORTS.png" group-title="Canais | Esportes",Band Sports UHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/21225
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="Band Sports HD" tvg-logo="http://beststorage4you.com:80/logoscanais/BANDSPORTS.png" group-title="Canais | Esportes",Band Sports HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/233
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="Band Sports HD²" tvg-logo="http://beststorage4you.com:80/logoscanais/BANDSPORTS.png" group-title="Canais | Esportes",Band Sports HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/234
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="Band Sports SD" tvg-logo="http://beststorage4you.com:80/logoscanais/BANDSPORTS.png" group-title="Canais | Esportes",Band Sports SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/232
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/COMBATE.png" group-title="Canais | Esportes",Combate FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/240
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate H265" tvg-logo="http://beststorage4you.com:80/logoscanais/COMBATE.png" group-title="Canais | Esportes",Combate H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/118753
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/COMBATE.png" group-title="Canais | Esportes",Combate UHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/21232
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate HD" tvg-logo="http://beststorage4you.com:80/logoscanais/COMBATE.png" group-title="Canais | Esportes",Combate HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/238
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate HD²" tvg-logo="http://beststorage4you.com:80/logoscanais/COMBATE.png" group-title="Canais | Esportes",Combate HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/239
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate SD" tvg-logo="http://beststorage4you.com:80/logoscanais/COMBATE.png" group-title="Canais | Esportes",Combate SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/237
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/FISHTV.png" group-title="Canais | Esportes",Fish TV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/249
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV HD" tvg-logo="http://beststorage4you.com:80/logoscanais/FISHTV.png" group-title="Canais | Esportes",Fish TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/248
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV SD" tvg-logo="http://beststorage4you.com:80/logoscanais/FISHTV.png" group-title="Canais | Esportes",Fish TV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/247
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="ESPN 6 FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/ESPN.png" group-title="Canais | Esportes",ESPN 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/245
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="ESPN 6 4K" tvg-logo="http://beststorage4you.com:80/logoscanais/ESPN.png" group-title="Canais | Esportes",ESPN 6 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/21317
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="ESPN 6 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/ESPN.png" group-title="Canais | Esportes",ESPN 6 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/243
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="ESPN 6 SD" tvg-logo="http://beststorage4you.com:80/logoscanais/ESPN.png" group-title="Canais | Esportes",ESPN 6 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/242
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/OFF.png" group-title="Canais | Esportes",OFF FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/253
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="http://beststorage4you.com:80/logoscanais/OFF.png" group-title="Canais | Esportes",OFF HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/252
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF SD" tvg-logo="http://beststorage4you.com:80/logoscanais/OFF.png" group-title="Canais | Esportes",OFF SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/251
+#EXTINF:-1 tvg-id="Ufcfightpass.br" tvg-name="UFC Fight Pass FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/UFCFIGHTPASS.png" group-title="Canais | Esportes",UFC Fight Pass FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/250112
+#EXTINF:-1 tvg-id="Ufcfightpass.br" tvg-name="UFC Fight Pass HD" tvg-logo="http://beststorage4you.com:80/logoscanais/UFCFIGHTPASS.png" group-title="Canais | Esportes",UFC Fight Pass HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/250107
+#EXTINF:-1 tvg-id="Ufcfightpass.br" tvg-name="UFC Fight Pass SD" tvg-logo="http://beststorage4you.com:80/logoscanais/UFCFIGHTPASS.png" group-title="Canais | Esportes",UFC Fight Pass SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/250111
+#EXTINF:-1 tvg-id="Ufcfightpass.br" tvg-name="UFC Fight Pass" tvg-logo="http://beststorage4you.com:80/logoscanais/UFCFIGHTPASS.png" group-title="Canais | Esportes",UFC Fight Pass
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/290595
+#EXTINF:-1 tvg-name="Prime Esportes 1 FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/primeE.png" group-title="Canais | Esportes",Prime Esportes 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/537115
+#EXTINF:-1 tvg-name="Prime Esportes 1 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/primeE.png" group-title="Canais | Esportes",Prime Esportes 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/537116
+#EXTINF:-1 tvg-name="Prime Esportes 2 FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/primeE.png" group-title="Canais | Esportes",Prime Esportes 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/537141
+#EXTINF:-1 tvg-name="Prime Esportes 3 FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/primeE.png" group-title="Canais | Esportes",Prime Esportes 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/537142
+#EXTINF:-1 tvg-name="Prime Esportes 2 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/primeE.png" group-title="Canais | Esportes",Prime Esportes 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/537143
+#EXTINF:-1 tvg-name="Prime Esportes 3 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/primeE.png" group-title="Canais | Esportes",Prime Esportes 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/537144
+#EXTINF:-1 tvg-id="Ufcfightpass.br" tvg-name="UFC Fight Pass 02" tvg-logo="http://beststorage4you.com:80/logoscanais/UFCFIGHTPASS.png" group-title="Canais | Esportes",UFC Fight Pass 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/555764
