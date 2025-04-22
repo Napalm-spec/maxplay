@@ -1,25 +1,77 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BandNews.br" tvg-name="Band News FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/y8ucbm.png" group-title="CANAIS JORNALISMO",Band News FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/989866/923659/1263120
-#EXTINF:-1 tvg-id="BandNews.br" tvg-name="Band News HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/y8ucbm.png" group-title="CANAIS JORNALISMO",Band News HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/989866/923659/1263119
-#EXTINF:-1 tvg-id="BandNews.br" tvg-name="Band News SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/y8ucbm.png" group-title="CANAIS JORNALISMO",Band News SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/989866/923659/1263118
-#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN - Brasil FHD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/TplZPj.png" group-title="CANAIS JORNALISMO",CNN - Brasil FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/989866/923659/1263123
-#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN - Brasil HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/TplZPj.png" group-title="CANAIS JORNALISMO",CNN - Brasil HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/989866/923659/1263122
-#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN - Brasil SD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/TplZPj.png" group-title="CANAIS JORNALISMO",CNN - Brasil SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/989866/923659/1263121
-#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="Globo News FHD" tvg-logo="https://imagizer.imageshack.com/v2/1280x1024q90/921/gIgONl.png" group-title="CANAIS JORNALISMO",Globo News FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/989866/923659/1263126
-#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="Globo News HD" tvg-logo="https://imagizer.imageshack.com/v2/1280x1024q90/921/gIgONl.png" group-title="CANAIS JORNALISMO",Globo News HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/989866/923659/1263125
-#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="Globo News SD" tvg-logo="https://imagizer.imageshack.com/v2/1280x1024q90/921/gIgONl.png" group-title="CANAIS JORNALISMO",Globo News SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/989866/923659/1263124
-#EXTINF:-1 tvg-name="Jovem Pan News FHD" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/HYYaNf.png" group-title="CANAIS JORNALISMO",Jovem Pan News FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/989866/923659/1263129
-#EXTINF:-1 tvg-name="Jovem Pan NEWS HD" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/HYYaNf.png" group-title="CANAIS JORNALISMO",Jovem Pan NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/989866/923659/1263128
-#EXTINF:-1 tvg-name="Jovem Pan News SD" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/HYYaNf.png" group-title="CANAIS JORNALISMO",Jovem Pan News SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/989866/923659/1263127
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="AgroMais FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/AGROMAIS.png" group-title="Canais | Noticias",AgroMais FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/464
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="AgroMais HD" tvg-logo="http://beststorage4you.com:80/logoscanais/AGROMAIS.png" group-title="Canais | Noticias",AgroMais HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/462
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="AgroMais SD" tvg-logo="http://beststorage4you.com:80/logoscanais/AGROMAIS.png" group-title="Canais | Noticias",AgroMais SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/461
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/BANDNEWS.png" group-title="Canais | Noticias",Band News FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/469
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News H265" tvg-logo="http://beststorage4you.com:80/logoscanais/BANDNEWS.png" group-title="Canais | Noticias",Band News H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/118883
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News HD" tvg-logo="http://beststorage4you.com:80/logoscanais/BANDNEWS.png" group-title="Canais | Noticias",Band News HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/467
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News HD²" tvg-logo="http://beststorage4you.com:80/logoscanais/BANDNEWS.png" group-title="Canais | Noticias",Band News HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/468
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News SD" tvg-logo="http://beststorage4you.com:80/logoscanais/BANDNEWS.png" group-title="Canais | Noticias",Band News SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/466
+#EXTINF:-1 tvg-id="Cnn.br" tvg-name="CNN Brasil FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNN Brasil FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/474
+#EXTINF:-1 tvg-id="Cnn.br" tvg-name="CNN Brasil H265" tvg-logo="http://beststorage4you.com:80/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNN Brasil H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/118884
+#EXTINF:-1 tvg-id="Cnn.br" tvg-name="CNN Brasil UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNN Brasil UHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/21353
+#EXTINF:-1 tvg-id="Cnn.br" tvg-name="CNN Brasil H265" tvg-logo="http://beststorage4you.com:80/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNN Brasil H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/380909
+#EXTINF:-1 tvg-id="Cnn.br" tvg-name="CNN Brasil HD" tvg-logo="http://beststorage4you.com:80/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNN Brasil HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/472
+#EXTINF:-1 tvg-id="Cnn.br" tvg-name="CNN Brasil SD" tvg-logo="http://beststorage4you.com:80/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNN Brasil SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/471
+#EXTINF:-1 tvg-id="Cnnint.br" tvg-name="CNN Internacional  HD" tvg-logo="http://beststorage4you.com:80/logoscanais/CNNINTERNATIONAL.png" group-title="Canais | Noticias",CNN Internacional  HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/118886
+#EXTINF:-1 tvg-id="Cnnint.br" tvg-name="CNN Internacional SD" tvg-logo="http://beststorage4you.com:80/logoscanais/CNNINTERNATIONAL.png" group-title="Canais | Noticias",CNN Internacional SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/118887
+#EXTINF:-1 tvg-id="Cnn.br" tvg-name="CNN Money Brasil FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNN Money Brasil FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/527505
+#EXTINF:-1 tvg-id="Cnn.br" tvg-name="CNN Money Brasil HD" tvg-logo="http://beststorage4you.com:80/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNN Money Brasil HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/527506
+#EXTINF:-1 tvg-id="Cnn.br" tvg-name="CNN Money Brasil SD" tvg-logo="http://beststorage4you.com:80/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNN Money Brasil SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/527507
+#EXTINF:-1 tvg-id="Cnn.br" tvg-name="CNBC Brasil HD" tvg-logo="http://beststorage4you.com:80/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNBC Brasil HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/527504
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GloboNews FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBONEWS.png" group-title="Canais | Noticias",GloboNews FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/479
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GloboNews UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBONEWS.png" group-title="Canais | Noticias",GloboNews UHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/21244
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GloboNews HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBONEWS.png" group-title="Canais | Noticias",GloboNews HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/478
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GloboNews H265" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBONEWS.png" group-title="Canais | Noticias",GloboNews H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/380908
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GloboNews SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBONEWS.png" group-title="Canais | Noticias",GloboNews SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/477
+#EXTINF:-1 tvg-id="Jpnews.br" tvg-name="Jovem Pan News FHD" tvg-logo="http://media.jovempan.com.br/uploads/2018/07/JPNews-imagem-pagina-e1530887165749.png" group-title="Canais | Noticias",Jovem Pan News FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/483
+#EXTINF:-1 tvg-id="Jpnews.br" tvg-name="Jovem Pan News UHD" tvg-logo="http://media.jovempan.com.br/uploads/2018/07/JPNews-imagem-pagina-e1530887165749.png" group-title="Canais | Noticias",Jovem Pan News UHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/21221
+#EXTINF:-1 tvg-id="Jpnews.br" tvg-name="Jovem Pan News HD" tvg-logo="http://media.jovempan.com.br/uploads/2018/07/JPNews-imagem-pagina-e1530887165749.png" group-title="Canais | Noticias",Jovem Pan News HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/482
+#EXTINF:-1 tvg-id="Jpnews.br" tvg-name="Jovem Pan News H265" tvg-logo="http://media.jovempan.com.br/uploads/2018/07/JPNews-imagem-pagina-e1530887165749.png" group-title="Canais | Noticias",Jovem Pan News H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/118890
+#EXTINF:-1 tvg-id="Jpnews.br" tvg-name="Jovem Pan News SD" tvg-logo="http://media.jovempan.com.br/uploads/2018/07/JPNews-imagem-pagina-e1530887165749.png" group-title="Canais | Noticias",Jovem Pan News SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/481
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDNEWS.png" group-title="Canais | Noticias",Record News FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/488
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News HD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDNEWS.png" group-title="Canais | Noticias",Record News HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/486
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News HD²" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDNEWS.png" group-title="Canais | Noticias",Record News HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/487
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News SD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDNEWS.png" group-title="Canais | Noticias",Record News SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/485
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="NHK HD" tvg-logo="http://beststorage4you.com:80/logoscanais/NHKWORLDJAPAN.png" group-title="Canais | Noticias",NHK HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/234279
+#EXTINF:-1 tvg-name="TV SENADO" tvg-logo="http://beststorage4you.com:80/logoscanais/TVSENADO.png" group-title="Canais | Noticias",TV SENADO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/368850
+#EXTINF:-1 tvg-name="TV CÂMARA FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/TVCAMARA.png" group-title="Canais | Noticias",TV CÂMARA FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/368851
+#EXTINF:-1 tvg-name="Jornal da Paraiba" tvg-logo="http://beststorage4you.com:80/logoscanais/parnaiba.png" group-title="Canais | Noticias",Jornal da Paraiba
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/537631
