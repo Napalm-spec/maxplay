@@ -63,3 +63,33 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/234274
 #EXTINF:-1 tvg-name="DEPORTE | ESPN 3 HD MX" tvg-logo="http://beststorage4you.com:80/logoscanais/ESPN.png" group-title="Canais | ESPN",DEPORTE | ESPN 3 HD MX
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/234275
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/118881
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV H265" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/52090
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV UHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/21275
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV HD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/547
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV SD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/546
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/554
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV  2 H265" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV  2 H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/118703
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 2 UHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/21273
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/552
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 SD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/551
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/559
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 H265" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 3 H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/118705
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 3 UHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/21274
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/557
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 SD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 3 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/556
