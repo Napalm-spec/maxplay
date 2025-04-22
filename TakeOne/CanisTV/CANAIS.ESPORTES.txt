@@ -161,3 +161,15 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/537144
 #EXTINF:-1 tvg-id="Ufcfightpass.br" tvg-name="UFC Fight Pass 02" tvg-logo="http://beststorage4you.com:80/logoscanais/UFCFIGHTPASS.png" group-title="Canais | Esportes",UFC Fight Pass 02
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/555764
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="IT- EUROSPORT2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTOVpplN3FpfmpZKXA-JCAgTGUSCQWxKhVldTJTvrCvr-GSn531X57GjwINpx5PsmXivw&usqp=CAU" group-title="Canais | Sport World",IT- EUROSPORT2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/18024
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="NL: EUROSPORT 2 H265" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTOVpplN3FpfmpZKXA-JCAgTGUSCQWxKhVldTJTvrCvr-GSn531X57GjwINpx5PsmXivw&usqp=CAU" group-title="Canais | Sport World",NL: EUROSPORT 2 H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/18026
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT:EUROSPORT 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTOVpplN3FpfmpZKXA-JCAgTGUSCQWxKhVldTJTvrCvr-GSn531X57GjwINpx5PsmXivw&usqp=CAU" group-title="Canais | Sport World",PT:EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/324256
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="ES: EUROSPORT 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTOVpplN3FpfmpZKXA-JCAgTGUSCQWxKhVldTJTvrCvr-GSn531X57GjwINpx5PsmXivw&usqp=CAU" group-title="Canais | Sport World",ES: EUROSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/324257
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="ES: EUROSPORT 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTOVpplN3FpfmpZKXA-JCAgTGUSCQWxKhVldTJTvrCvr-GSn531X57GjwINpx5PsmXivw&usqp=CAU" group-title="Canais | Sport World",ES: EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/324258
+#EXTINF:-1 tvg-id="Golf.br" tvg-name="[CA] GOLF CHANNEL HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GOLFCHANNEL.png" group-title="Canais | Sport World",[CA] GOLF CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/237177
