@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="SBT+ Silvio Santos" tvg-logo="http://beststorage4you.com:80/logoscanais/SBT.png" group-title="Canais | SBT",SBT+ Silvio Santos
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/390581
+#EXTINF:-1 tvg-name="SBT+ Novelas " tvg-logo="http://beststorage4you.com:80/logoscanais/SBT.png" group-title="Canais | SBT",SBT+ Novelas 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/390578
+#EXTINF:-1 tvg-name="SBT+ POP " tvg-logo="http://beststorage4you.com:80/logoscanais/SBT.png" group-title="Canais | SBT",SBT+ POP 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/390577
+#EXTINF:-1 tvg-name="SBT+ TVZYN" tvg-logo="http://beststorage4you.com:80/logoscanais/SBT.png" group-title="Canais | SBT",SBT+ TVZYN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/390582
+#EXTINF:-1 tvg-id="Sbtsp.br" tvg-name="SBT SP FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/SBT.png" group-title="Canais | SBT",SBT SP FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/244161
+#EXTINF:-1 tvg-id="Sbtsp.br" tvg-name="SBT SP 4K" tvg-logo="http://beststorage4you.com:80/logoscanais/SBT.png" group-title="Canais | SBT",SBT SP 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/244165
+#EXTINF:-1 tvg-id="Sbtsp.br" tvg-name="SBT SP HD" tvg-logo="http://beststorage4you.com:80/logoscanais/SBT.png" group-title="Canais | SBT",SBT SP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/244167
+#EXTINF:-1 tvg-id="Sbtsp.br" tvg-name="SBT SP SD" tvg-logo="http://beststorage4you.com:80/logoscanais/SBT.png" group-title="Canais | SBT",SBT SP SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/244168
+#EXTINF:-1 tvg-id="Sbtcentral.br" tvg-name="SBT HD" tvg-logo="http://beststorage4you.com:80/logoscanais/SBT.png" group-title="Canais | SBT",SBT HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/244170
+#EXTINF:-1 tvg-id="Sbtdf.br" tvg-name="SBT DF FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/SBT.png" group-title="Canais | SBT",SBT DF FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/244171
+#EXTINF:-1 tvg-id="Sbtdf.br" tvg-name="SBT DF HD" tvg-logo="http://beststorage4you.com:80/logoscanais/SBT.png" group-title="Canais | SBT",SBT DF HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/244172
+#EXTINF:-1 tvg-id="Sbtrj.br" tvg-name="SBT RIO FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/SBT.png" group-title="Canais | SBT",SBT RIO FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/244173
+#EXTINF:-1 tvg-id="Sbtrj.br" tvg-name="SBT RIO HD" tvg-logo="http://beststorage4you.com:80/logoscanais/SBT.png" group-title="Canais | SBT",SBT RIO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/244174
+#EXTINF:-1 tvg-id="Sbtrj.br" tvg-name="SBT RIO SD" tvg-logo="http://beststorage4you.com:80/logoscanais/SBT.png" group-title="Canais | SBT",SBT RIO SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/244175
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="SBT  SC HD" tvg-logo="http://beststorage4you.com:80/logoscanais/SBT.png" group-title="Canais | SBT",SBT  SC HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/244178
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="SBT ITAPOAN FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/SBT.png" group-title="Canais | SBT",SBT ITAPOAN FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/244179
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="SBT ITAPOAN HD" tvg-logo="http://beststorage4you.com:80/logoscanais/SBT.png" group-title="Canais | SBT",SBT ITAPOAN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/244180
+#EXTINF:-1 tvg-id="Sbtrs.br" tvg-name="SBT RS FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/SBT.png" group-title="Canais | SBT",SBT RS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/244181
+#EXTINF:-1 tvg-id="Sbtrs.br" tvg-name="SBT RS HD" tvg-logo="http://beststorage4you.com:80/logoscanais/SBT.png" group-title="Canais | SBT",SBT RS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/244182
+#EXTINF:-1 tvg-id="Sbtrs.br" tvg-name="SBT RS SD" tvg-logo="http://beststorage4you.com:80/logoscanais/SBT.png" group-title="Canais | SBT",SBT RS SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/244187
+#EXTINF:-1 tvg-id="Sbtmg.br" tvg-name="SBT TV ALTEROSA FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/SBT.png" group-title="Canais | SBT",SBT TV ALTEROSA FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/244184
+#EXTINF:-1 tvg-id="Sbtmg.br" tvg-name="SBT TV ALTEROSA HD" tvg-logo="http://beststorage4you.com:80/logoscanais/SBT.png" group-title="Canais | SBT",SBT TV ALTEROSA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/244185
+#EXTINF:-1 tvg-id="Sbtmg.br" tvg-name="SBT TV ALTEROSA SD" tvg-logo="http://beststorage4you.com:80/logoscanais/SBT.png" group-title="Canais | SBT",SBT TV ALTEROSA SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/244186
+#EXTINF:-1 tvg-id="Sbtpr.br" tvg-name="SBT REDE MASSA FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/SBT.png" group-title="Canais | SBT",SBT REDE MASSA FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/366954
+#EXTINF:-1 tvg-id="Sbtpr.br" tvg-name="SBT REDE MASSA HD" tvg-logo="http://beststorage4you.com:80/logoscanais/SBT.png" group-title="Canais | SBT",SBT REDE MASSA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/244188
+#EXTINF:-1 tvg-id="Sbtpr.br" tvg-name="SBT REDE MASSA SD" tvg-logo="http://beststorage4you.com:80/logoscanais/SBT.png" group-title="Canais | SBT",SBT REDE MASSA SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/366953
+#EXTINF:-1 tvg-id="Sbtintsp.br" tvg-name="SBT INTERIOR SP HD" tvg-logo="http://beststorage4you.com:80/logoscanais/SBT.png" group-title="Canais | SBT",SBT INTERIOR SP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/377245
+#EXTINF:-1 tvg-id="Sbtpe.br" tvg-name="SBT TV JORNAL RECIFE HD" tvg-logo="http://beststorage4you.com:80/logoscanais/SBT.png" group-title="Canais | SBT",SBT TV JORNAL RECIFE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/393793
+#EXTINF:-1 tvg-id="Sbtba.br" tvg-name="SBT TV ARATU -BAHIA HD" tvg-logo="http://beststorage4you.com:80/logoscanais/SBT.png" group-title="Canais | SBT",SBT TV ARATU -BAHIA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/377246
+#EXTINF:-1 tvg-id="Sbtce.br" tvg-name="SBT TV JANGADEIRO -CEARA" tvg-logo="http://beststorage4you.com:80/logoscanais/SBT.png" group-title="Canais | SBT",SBT TV JANGADEIRO -CEARA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/377247
+#EXTINF:-1 tvg-id="Sbtsc.br" tvg-name="SCC (SBT)HD" tvg-logo="http://beststorage4you.com:80/logoscanais/SBT.png" group-title="Canais | SBT",SCC (SBT)HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/244197
+#EXTINF:-1 tvg-id="Sbtrn.br" tvg-name="TV PONTA NEGRA | SBT" tvg-logo="http://beststorage4you.com:80/logoscanais/SBT.png" group-title="Canais | SBT",TV PONTA NEGRA | SBT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/316600
