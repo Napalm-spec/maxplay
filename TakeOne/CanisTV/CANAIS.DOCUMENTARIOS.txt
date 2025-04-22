@@ -1,33 +1,77 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Animal Planet FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/922/wYHvP7.png" group-title="CANAIS DOCUMENTÁRIOS",Animal Planet FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262964
-#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Animal Planet HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/922/wYHvP7.png" group-title="CANAIS DOCUMENTÁRIOS",Animal Planet HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262963
-#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Animal Planet SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/922/wYHvP7.png" group-title="CANAIS DOCUMENTÁRIOS",Animal Planet SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262962
-#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/wDEDYg.png" group-title="CANAIS DOCUMENTÁRIOS",Fish TV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262985
-#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/wDEDYg.png" group-title="CANAIS DOCUMENTÁRIOS",Fish TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262984
-#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/wDEDYg.png" group-title="CANAIS DOCUMENTÁRIOS",Fish TV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262983
-#EXTINF:-1 tvg-id="history.2.br" tvg-name="H2 FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/JKU0Ir.png" group-title="CANAIS DOCUMENTÁRIOS",H2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262991
-#EXTINF:-1 tvg-id="history.2.br" tvg-name="H2 HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/JKU0Ir.png" group-title="CANAIS DOCUMENTÁRIOS",H2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262990
-#EXTINF:-1 tvg-id="history.2.br" tvg-name="H2 SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/JKU0Ir.png" group-title="CANAIS DOCUMENTÁRIOS",H2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262989
-#EXTINF:-1 tvg-id="history.br" tvg-name="History Channel FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/5QbC6N.png" group-title="CANAIS DOCUMENTÁRIOS",History Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262988
-#EXTINF:-1 tvg-id="history.br" tvg-name="History Channel HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/5QbC6N.png" group-title="CANAIS DOCUMENTÁRIOS",History Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262987
-#EXTINF:-1 tvg-id="history.br" tvg-name="History Channel SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/5QbC6N.png" group-title="CANAIS DOCUMENTÁRIOS",History Channel SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262986
-#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="National Geographic HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/ZwiPeb.png" group-title="CANAIS DOCUMENTÁRIOS",National Geographic HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262996
-#EXTINF:-1 tvg-id="prime.box.brazil.br" tvg-name="Prime Box Brazil FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/922/llUm4U.png" group-title="CANAIS DOCUMENTÁRIOS",Prime Box Brazil FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1263000
-#EXTINF:-1 tvg-id="prime.box.brazil.br" tvg-name="Prime Box Brazil HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/922/llUm4U.png" group-title="CANAIS DOCUMENTÁRIOS",Prime Box Brazil HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262999
-#EXTINF:-1 tvg-id="prime.box.brazil.br" tvg-name="Prime Box Brazil SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/922/llUm4U.png" group-title="CANAIS DOCUMENTÁRIOS",Prime Box Brazil SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://berinjelafrita.agency:80/007156/fu@sionp2@/1262998
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/ANIMALPLANET.png" group-title="Canais | Documentarios",Animal Planet FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/2602
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet H265" tvg-logo="http://beststorage4you.com:80/logoscanais/ANIMALPLANET.png" group-title="Canais | Documentarios",Animal Planet H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/141261
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/ANIMALPLANET.png" group-title="Canais | Documentarios",Animal Planet UHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/22305
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet HD" tvg-logo="http://beststorage4you.com:80/logoscanais/ANIMALPLANET.png" group-title="Canais | Documentarios",Animal Planet HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/365234
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet H265" tvg-logo="http://beststorage4you.com:80/logoscanais/ANIMALPLANET.png" group-title="Canais | Documentarios",Animal Planet H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/2601
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet SD" tvg-logo="http://beststorage4you.com:80/logoscanais/ANIMALPLANET.png" group-title="Canais | Documentarios",Animal Planet SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/365235
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/ARTE1.png" group-title="Canais | Documentarios",Arte 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/2607
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 H265" tvg-logo="http://beststorage4you.com:80/logoscanais/ARTE1.png" group-title="Canais | Documentarios",Arte 1 H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/141262
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/ARTE1.png" group-title="Canais | Documentarios",Arte 1 UHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/21222
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/ARTE1.png" group-title="Canais | Documentarios",Arte 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/367046
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 H265" tvg-logo="http://beststorage4you.com:80/logoscanais/ARTE1.png" group-title="Canais | Documentarios",Arte 1 H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/2606
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 SD " tvg-logo="http://beststorage4you.com:80/logoscanais/ARTE1.png" group-title="Canais | Documentarios",Arte 1 SD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/367047
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta! FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/CURTA!.jpg" group-title="Canais | Documentarios",Curta! FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/2612
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta! H265" tvg-logo="http://beststorage4you.com:80/logoscanais/CURTA!.jpg" group-title="Canais | Documentarios",Curta! H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/141263
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta! HD" tvg-logo="http://beststorage4you.com:80/logoscanais/CURTA!.jpg" group-title="Canais | Documentarios",Curta! HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/367045
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta! H265" tvg-logo="http://beststorage4you.com:80/logoscanais/CURTA!.jpg" group-title="Canais | Documentarios",Curta! H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/2611
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta! SD" tvg-logo="http://beststorage4you.com:80/logoscanais/CURTA!.jpg" group-title="Canais | Documentarios",Curta! SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/2609
+#EXTINF:-1 tvg-id="Hgtv.br" tvg-name="HGTV FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/HGTV.png" group-title="Canais | Documentarios",HGTV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/2627
+#EXTINF:-1 tvg-id="Hgtv.br" tvg-name="HGTV H265" tvg-logo="http://beststorage4you.com:80/logoscanais/HGTV.png" group-title="Canais | Documentarios",HGTV H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/141266
+#EXTINF:-1 tvg-id="Hgtv.br" tvg-name="HGTV HD" tvg-logo="http://beststorage4you.com:80/logoscanais/HGTV.png" group-title="Canais | Documentarios",HGTV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/2625
+#EXTINF:-1 tvg-id="Hgtv.br" tvg-name="HGTV H265" tvg-logo="http://beststorage4you.com:80/logoscanais/HGTV.png" group-title="Canais | Documentarios",HGTV H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/2626
+#EXTINF:-1 tvg-id="Hgtv.br" tvg-name="HGTV SD" tvg-logo="http://beststorage4you.com:80/logoscanais/HGTV.png" group-title="Canais | Documentarios",HGTV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/2624
+#EXTINF:-1 tvg-id="History.br" tvg-name="History FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/HISTORY.png" group-title="Canais | Documentarios",History FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/2617
+#EXTINF:-1 tvg-id="History.br" tvg-name="History HD" tvg-logo="http://beststorage4you.com:80/logoscanais/HISTORY.png" group-title="Canais | Documentarios",History HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/2615
+#EXTINF:-1 tvg-id="History.br" tvg-name="History H265" tvg-logo="http://beststorage4you.com:80/logoscanais/HISTORY.png" group-title="Canais | Documentarios",History H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/2616
+#EXTINF:-1 tvg-id="History.br" tvg-name="History SD" tvg-logo="http://beststorage4you.com:80/logoscanais/HISTORY.png" group-title="Canais | Documentarios",History SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/2614
+#EXTINF:-1 tvg-id="History2.br" tvg-name="History 2 FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/HISTORY.png" group-title="Canais | Documentarios",History 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/2622
+#EXTINF:-1 tvg-id="History2.br" tvg-name="History 2 UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/HISTORY.png" group-title="Canais | Documentarios",History 2 UHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/21322
+#EXTINF:-1 tvg-id="History2.br" tvg-name="History 2 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/HISTORY.png" group-title="Canais | Documentarios",History 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/2620
+#EXTINF:-1 tvg-id="History2.br" tvg-name="History 2 SD" tvg-logo="http://beststorage4you.com:80/logoscanais/HISTORY.png" group-title="Canais | Documentarios",History 2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/2619
+#EXTINF:-1 tvg-id="Id.br" tvg-name="ID FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/ID.png" group-title="Canais | Documentarios",ID FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/2632
+#EXTINF:-1 tvg-id="Id.br" tvg-name="ID UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/ID.png" group-title="Canais | Documentarios",ID UHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/21323
+#EXTINF:-1 tvg-id="Id.br" tvg-name="ID HD" tvg-logo="http://beststorage4you.com:80/logoscanais/ID.png" group-title="Canais | Documentarios",ID HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/2630
+#EXTINF:-1 tvg-id="Id.br" tvg-name="ID HD²" tvg-logo="http://beststorage4you.com:80/logoscanais/ID.png" group-title="Canais | Documentarios",ID HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/2631
+#EXTINF:-1 tvg-id="Id.br" tvg-name="ID SD" tvg-logo="http://beststorage4you.com:80/logoscanais/ID.png" group-title="Canais | Documentarios",ID SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/2629
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Tru TV FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/TRUTV.png" group-title="Canais | Documentarios",Tru TV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/2642
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Tru TV HD" tvg-logo="http://beststorage4you.com:80/logoscanais/TRUTV.png" group-title="Canais | Documentarios",Tru TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/2640
+#EXTINF:-1 tvg-name="CGTN Documentary (CHINA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/CGTN.png/250px-CGTN.png" group-title="Canais | Documentarios",CGTN Documentary (CHINA)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TV[/COLOR]&url=http://moejojo.zip:80/105367227/f513W6250E/367044
