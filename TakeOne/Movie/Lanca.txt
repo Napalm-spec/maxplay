@@ -1,7 +1,19 @@
 <channels>
 
 
-
+<channel>
+<name>[COLOR blue] [/COLOR] [COLOR orange](2025)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/5Oz39iyRuztiA8XqCNVDBuy2Ut3.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/sQa299yggIkxfwKJFgzYwDdsC9t.jpg</fanart>
+<info>
+[COLOR blue]Gênero:[/COLOR]Terror, Ficção científica, Thriller
+[COLOR red]Duração:[/COLOR]1h 35m
+[COLOR lime]Sinopse:[/COLOR]No misterioso planeta de Ash, Riya acorda e encontra sua tripulação massacrada. Quando um homem chamado Brion chega para resgatá-la, inicia-se uma provação de terror psicológico e físico, enquanto Riya e Brion precisam decidir se podem confiar um no outro para sobreviver.
+</info>
+<date>21/03/2025</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/tt17489650.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[COLOR blue]Alexandre e a Viagem Terrível, Horrível, Espantosa e Horrorosa [/COLOR] [COLOR orange](2025)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/rGBR0j4nbE07HJdpjQikmoWnUZY.jpg</thumbnail>
