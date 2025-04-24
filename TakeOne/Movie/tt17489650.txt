@@ -1,6 +1,6 @@
 <item>
 <title>(Ver Video)[COLOR lime] VERSÃO DUBLADO[/COLOR]</title>
-<link>plugin://plugin.video.resolverurl_player?url=</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/mk8z9px9cle0g7</link>
 <subtitle>LEGENDAS</subtitle>
 <thumbnail>https://image.tmdb.org/t/p/original/5Oz39iyRuztiA8XqCNVDBuy2Ut3.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/sQa299yggIkxfwKJFgzYwDdsC9t.jpg</fanart>
@@ -15,8 +15,8 @@
 +++++++++
 <item>
 <title>(Ver Video)[COLOR lime] VERSÃO LEGENDADO[/COLOR]</title>
-<link>plugin://plugin.video.resolverurl_player?url=</link>
-<subtitle>https://subs.warezcdn.link</subtitle>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/k0peljrwf83x36</link>
+<subtitle>https://subs.warezcdn.link/246643-PTB.srt</subtitle>
 <thumbnail>https://image.tmdb.org/t/p/original/5Oz39iyRuztiA8XqCNVDBuy2Ut3.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/sQa299yggIkxfwKJFgzYwDdsC9t.jpg</fanart>
 <info>
