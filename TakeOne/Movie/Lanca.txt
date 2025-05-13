@@ -1,6 +1,18 @@
 <channels>
 
-
+<channel>
+<name>[COLOR blue]iHostage [/COLOR] [COLOR orange](2025)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/tn3Ckxyc7OWXnhMPkiIBvqLdFC6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/4mM7m9L3XlPLq4vNNy3P8yDSXNM.jpg</fanart>
+<info>
+[COLOR blue]Gênero:[/COLOR]Thriller, Crime, Drama
+[COLOR red]Duração:[/COLOR]1h 40m
+[COLOR lime]Sinopse:[/COLOR]Um homem armado entra em uma Apple Store no centro de Amsterdã, e a polícia enfrenta um desafio muito complexo para resolver a questão.
+</info>
+<date>18/04/2025</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/iHostage.2025.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[COLOR blue]Ash: Planeta Parasita [/COLOR] [COLOR orange](2025)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/5Oz39iyRuztiA8XqCNVDBuy2Ut3.jpg</thumbnail>
