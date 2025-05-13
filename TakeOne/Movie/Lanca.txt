@@ -2,7 +2,7 @@
 
 
 <channel>
-<name>[COLOR blue] [/COLOR] [COLOR orange](2025)[/COLOR]</name>
+<name>[COLOR blue]Ash: Planeta Parasita [/COLOR] [COLOR orange](2025)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/5Oz39iyRuztiA8XqCNVDBuy2Ut3.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/sQa299yggIkxfwKJFgzYwDdsC9t.jpg</fanart>
 <info>
