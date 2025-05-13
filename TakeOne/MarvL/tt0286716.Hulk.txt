@@ -1,6 +1,6 @@
 <item>
 <title>(Ver Video)[COLOR lime] VERSÃO DUBLADO[/COLOR]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/3644pm88um6prw3</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.my/e/7k3031dwidzog</link>
 <subtitle>LEGENDAS</subtitle>
 <thumbnail>https://image.tmdb.org/t/p/original/qnngKqAcqfH2pBxDoKu5lxzSbTo.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/i0MqzkcCsEsZC5WHSY7SACAcJdh.jpg</fanart>
