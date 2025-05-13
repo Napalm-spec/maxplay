@@ -1,5 +1,19 @@
 <channels>
 
+
+<channel>
+<name>[COLOR blue]The Alto Knights: Máfia e Poder [/COLOR] [COLOR orange](2025)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/95KmR0xNuZZ6DNESDwLKWGIBvMg.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/iveeHEGtkq0dBJZtOcoK650sZ6x.jpg</fanart>
+<info>
+[COLOR blue]Gênero:[/COLOR]Crime, Drama, História
+[COLOR red]Duração:[/COLOR]2h 3m
+[COLOR lime]Sinopse:[/COLOR]Dois dos mais notórios chefes do crime organizado, Frank Costello e Vito Genovese, disputam pelo controle das ruas da cidade de Nova Iorque. Outrora melhores amigos, ciúmes mesquinhos e uma série de traições os colocam numa rota de colisão fatal que vai transformar a Máfia (e a América) para sempre.
+</info>
+<date>20/03/2025</date>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Movie/TheAltoKnights.2025.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[COLOR blue]iHostage [/COLOR] [COLOR orange](2025)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/tn3Ckxyc7OWXnhMPkiIBvqLdFC6.jpg</thumbnail>
